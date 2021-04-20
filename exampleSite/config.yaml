@@ -4,7 +4,6 @@ defaultContentLanguage: en
 title: Cupper
 theme: cupper-hugo-theme
 googleAnalytics: 
-MatomoSiteID: 1
 disqusShortname: yourdiscussshortname
 enableGitInfo: true
 
@@ -22,6 +21,7 @@ params:
   homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
+  MatomoSiteID: 1
   dateFormat: Jan 2, 2006
   codePenUser: someUser
   katex: true
