@@ -1,0 +1,17 @@
+{{ if not .Site.IsServer }}
+{{ with .Site.MatomoSiteID }}
+<script type="text/javascript">
+    var _paq = _paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function () {
+        var u = "https://library.whitman.edu/php/plus/js/";
+        _paq.push(['setTrackerUrl', u]);
+        _paq.push(['setSiteId', '{{ . }}']);
+        var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+        g.type = 'text/javascript'; g.async = true; g.defer = true; g.src = u; s.parentNode.insertBefore(g, s);
+    })();
+</script>
+{{ end }}
+{{ end }}
