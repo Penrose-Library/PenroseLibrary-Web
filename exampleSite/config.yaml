@@ -2,7 +2,7 @@ baseURL: https://example.com
 languageCode: en-us
 defaultContentLanguage: en
 title: Cupper
-theme: cupper-hugo-theme
+theme: Penrose-cupper-hugo-theme
 googleAnalytics: 
 disqusShortname: yourdiscussshortname
 enableGitInfo: true
