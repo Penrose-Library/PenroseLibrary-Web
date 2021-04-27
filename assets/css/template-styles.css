@@ -72,7 +72,7 @@ figure p img {
 [data-expands]:focus svg,
 .patterns a:focus .text,
 [for="themer"] :focus + [aria-hidden] {
-    outline: 4px solid #999;
+    outline: 4px solid #333333;
 }
 a {
   outline-offset: 2px;
@@ -142,7 +142,7 @@ kbd {
     padding: 0.1rem 0.33rem;
     border-radius: 0.25rem;
     border: 2px solid;
-    box-shadow: 0.125rem 0.125rem 0 #111;
+    box-shadow: 0.125rem 0.125rem 0 #333333;
     vertical-align: 0.33em;
 }
 pre,
@@ -157,7 +157,7 @@ code {
 }
 .cmd {
     padding: 0.75rem;
-    background: #111;
+    background: #333333;
 }
 .cmd code {
     color: #fefefe;
@@ -213,7 +213,7 @@ button {
     font-size: 1.25rem;
     border-radius: 0.33em;
     font-family: inherit;
-    background: #111;
+    background: #007396;
     color: #fefefe;
     padding: 0.75rem;
     border: 0;
@@ -596,7 +596,7 @@ pre[class*=language-] code * {
     content: counter(annotation);
     font-weight: bold;
     font-size: 0.5rem;
-    background: #111;
+    background: #001F5B;
     color: #fefefe;
     border-radius: 1rem;
     margin-left: 0.25rem;
