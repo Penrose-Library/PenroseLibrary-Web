@@ -1,0 +1,41 @@
+backend:
+  name: github
+  repo: Penrose-Library/PenroseLibrary-Web
+  branch: master # Branch to update (optional; defaults to master)
+  base_url: https://oauthpenrose.dreamhosters.com/
+  #auth_endpoint: api/auth
+#local_backend: true
+# These lines should *not* be indented
+media_folder: "static/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "static/uploads" # The src attribute for uploaded media will begin with /images/uploads
+collections:
+  - label: "Blog"
+    name: "blog"
+    folder: "content/post"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - label: "Pages"
+    name: "pages"
+    folder: "content/pages"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "homepage"
+    label: "homepage"
+    create: true
+    slug: "{{slug}}"
+    files:
+      - file: "content/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Publish Date", name: "date", widget: "datetime"}
+        - {label: "Body", name: "body", widget: "markdown"}
