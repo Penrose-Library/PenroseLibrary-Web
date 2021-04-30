@@ -406,7 +406,7 @@ caption {
 
 /* After */
 .pattern [aria-current] {
-  background-color: #001F5B;
+  background-color: #007396;
   clip-path: polygon(0% 0%, 90% 0%, 100% 50%, 90% 100%, 0% 100%);
   color: #fefefe;
 }
