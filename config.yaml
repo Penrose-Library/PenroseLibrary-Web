@@ -44,15 +44,13 @@ menu:
     - name: Blog
       url: /post/
       weight: 2
-    - name: Tags
-      url: /tags/
+    - name: Secondary Pages
+      url: /pages/
       weight: 3
     - name: About
-      url: /about/
+      url: /pages/about/
       weight: 4
-    - name: RSS
-      url: /index.xml
-      weight: 5
+
 
 markup:
   defaultMarkdownHandler: goldmark
