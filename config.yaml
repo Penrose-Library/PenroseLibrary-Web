@@ -1,7 +1,7 @@
 baseURL: https://neweb.whitmanarchives.org
 languageCode: en-us
 defaultContentLanguage: en
-title: Cupper
+title: Penrose Library
 theme: Penrose-cupper-hugo-theme
 googleAnalytics: 
 disqusShortname: yourdiscussshortname
