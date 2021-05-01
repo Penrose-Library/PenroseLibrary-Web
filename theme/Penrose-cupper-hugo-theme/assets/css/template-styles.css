@@ -49,7 +49,7 @@ p + p {
 a {
     text-decoration: none;
     border-bottom: 1px solid;
-    color:#007396;
+    color:#001F5B;
 }
 abbr {
     text-decoration: none;
@@ -407,7 +407,7 @@ caption {
 
 /* After */
 .pattern [aria-current] {
-  background-color: #007396;
+  background-color: #001F5B;
   clip-path: polygon(0% 0%, 90% 0%, 100% 50%, 90% 100%, 0% 100%);
   color: #fefefe;
 }
