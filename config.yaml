@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://neweb.whitmanarchives.org
 languageCode: en-us
 defaultContentLanguage: en
 title: Cupper
@@ -17,9 +17,9 @@ imaging:
   quality: 99
 
 params:
-  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
-  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
+  description: Penrose Library NxtGen website. Under Deveopment. Do not use.
+  homeMetaContent: Penrose Library NG website. Deveopment. Do not use
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to Cloudflare Page.
   # For more date formats see https://gohugo.io/functions/format/
   MatomoSiteID: 1
   dateFormat: Jan 2, 2006
@@ -27,7 +27,7 @@ params:
   katex: true
   hideHeaderLinks: false
   search: true
-  showThemeSwitcher: true
+  showThemeSwitcher: false
   moveFooterToHeader: false
   customCss:
     - css/custom_01.css
