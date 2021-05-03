@@ -35,6 +35,7 @@ params:
   customJs:
     - js/jquery-3.6.0.min.js
     - js/home-searchbox.js
+    - js/van11y-accessible-simple-tooltip-aria.min.js
 
 menu:
   nav:
