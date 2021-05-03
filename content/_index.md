@@ -1,9 +1,7 @@
 ---
-date: "2017-06-26T18:27:58+01:00"
-title: "Penrose Library"
+date: 2017-06-26T18:27:58+01:00
+title: Penrose Library
 ---
-
-
 <form id="simple" class="formtab1" action="https://sherlock.whitman.edu/primo-explore/search" enctype="application/x-www-form-urlencoded; charset=utf-8" method="get" name="searchForm" onsubmit="searchevent();"><!-- Customizable Parameters -->
 <input name="institution" type="hidden" value="WHITC" />
 <input name="vid" type="hidden" value="WHITC_NEW" />
@@ -25,19 +23,19 @@ title: "Penrose Library"
 <!-- Search Button -->
 <div id="radioscope"><label>
 <input id="penrose" class="with-gap greet" checked="checked" name="search_scope_temp" type="radio" value="whitman" />
-<span class="white-text greet tooltipped" data-position="bottom" data-tooltip="Print and e-books, journals and e-journals, special collections, and audiovisual materials owned by Penrose Library.">Whitman</span>
+<span class="white-text greet" data-position="bottom" data-tooltip="Print and e-books, journals and e-journals, special collections, and audiovisual materials owned by Penrose Library.">Whitman</span>
 </label>
 <label>
 <input id="summit" class="with-gap greet" name="search_scope_temp" type="radio" value="summit" />
-<span class="white-text greet tooltipped" data-tooltip="Books and audiovisual materials held by other academic libraries in the Pacific Northwest (delivery about five days from request)">Summit</span>
+<span class="white-text greet" data-tooltip="Books and audiovisual materials held by other academic libraries in the Pacific Northwest (delivery about five days from request)">Summit</span>
 </label>
 <label>
 <input id="article" class="with-gap greet" name="search_scope_temp" type="radio" value="pci" />
-<span class="white-text greet tooltipped" data-tooltip="Scholarly articles and other content from many of Whitman's databases in all disciplines.">Articles</span>
+<span class="white-text greet" data-tooltip="Scholarly articles and other content from many of Whitman's databases in all disciplines.">Articles</span>
 </label>
 <label>
 <input id="everything" class="with-gap greet" name="search_scope_temp" type="radio" value="everything" />
-<span class="white-text greet tooltipped" data-tooltip="Combine Whitman + Summit + Articles in one blended search.">Everything</span>
+<span class="white-text greet" data-tooltip="Combine Whitman + Summit + Articles in one blended search.">Everything</span>
 </label></div>
 
 </form>
