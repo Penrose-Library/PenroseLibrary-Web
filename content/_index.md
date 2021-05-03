@@ -4,7 +4,7 @@ title: "Penrose Library"
 ---
 
 
-<form id="simple" class="formtab1" action="https://sherlock.whitman.edu/primo-explore/search" enctype="application/x-www-form-urlencoded; charset=utf-8" method="get" name="searchForm" onsubmit="searchevent();"><!-- Customizable Parameters -->
+<form id="simple" class="form-group"action="https://sherlock.whitman.edu/primo-explore/search" enctype="application/x-www-form-urlencoded; charset=utf-8" method="get" name="searchForm" onsubmit="searchevent();"><!-- Customizable Parameters -->
     <input name="institution" type="hidden" value="WHITC" />
     <input name="vid" type="hidden" value="WHITC_NEW" />
     <input id="tab_select" name="tab" type="hidden" />
@@ -18,29 +18,30 @@ title: "Penrose Library"
     <input name="highlight" type="hidden" value="true" />
     <input name="displayField" type="hidden" value="all" />
     <input name="bulkSize" type="hidden" value="40" />
-<div class="searchquery"><span class="material-icons flow-text white-text">search</span>
-    <input id="primoQueryTemp" name="queryTemp" type="text" value="" placeholder="Search Whitman Library" aria-label="Enter Search Query to search Sherlock, the Penrose Library Catalog" />
-    <button id="Search-button">Search</button>
+<div class="searchquery">
+    ![Sherlock Discovery service logo](static/images/sherlock.svg "Sherlock Discovery service logo")
+    <input id="primoQueryTemp" name="queryTemp" type="text" value="" placeholder="Search Whitman Library" aria-label="Enter Search Query to search Sherlock, the Penrose Library Catalog" class="form-control" />
+    <button id="Search-button" class="btn btn-primary mb-2">>Search</button>
 </div>
 <!-- end of searchquery -->
 
 <!-- Search Button -->
 <div id="radioscope" role="radiogroup" aria-label="Search Scope">
 <label>
-    <input id="penrose" checked="checked" name="search_scope_temp" type="radio" value="whitman" aria-describedby="penrose-tooltip" />
-    <span id="penrose-tooltip" class="js-simple-tooltip" data-simpletooltip-text="Print and e-books, journals and e-journals, special collections, and audiovisual materials owned by Penrose Library.">Whitman</span>
+    <input id="penrose" class="form-check-input" checked="checked" name="search_scope_temp" type="radio" value="whitman" aria-describedby="penrose-tooltip" />
+    <span id="penrose-tooltip" class="js-simple-tooltip form-check-label" data-simpletooltip-text="Print and e-books, journals and e-journals, special collections, and audiovisual materials owned by Penrose Library.">Whitman</span>
 </label>
 <label>
-    <input id="summit" name="search_scope_temp" type="radio" value="summit" aria-describedby="summit-tooltip" />
-    <span id="summit-tooltip" class="js-simple-tooltip" data-simpletooltip-text="Books and audiovisual materials held by other academic libraries in the Pacific Northwest (delivery about five days from request)">Summit</span>
+    <input id="summit" class="form-check-input" name="search_scope_temp" type="radio" value="summit" aria-describedby="summit-tooltip" />
+    <span id="summit-tooltip" class="js-simple-tooltip form-check-label" data-simpletooltip-text="Books and audiovisual materials held by other academic libraries in the Pacific Northwest (delivery about five days from request)">Summit</span>
 </label>
 <label>
-    <input id="article"  name="search_scope_temp" type="radio" value="pci" aria-describedby="article-tooltip"  />
-    <span id="article-tooltip" class="js-simple-tooltip" data-simpletooltip-text="Scholarly articles and other content from many of Whitman's databases in all disciplines.">Articles</span>
+    <input id="article" class="form-check-input" name="search_scope_temp" type="radio" value="pci" aria-describedby="article-tooltip"  />
+    <span id="article-tooltip" class="js-simple-tooltip form-check-label" data-simpletooltip-text="Scholarly articles and other content from many of Whitman's databases in all disciplines.">Articles</span>
 </label>
 <label>
-    <input id="everything" name="search_scope_temp" type="radio" value="everything" aria-describedby="everything-tooltip" />
-    <span id="everything-tooltip" class="js-simple-tooltip" data-simpletooltip-text="Combine Whitman + Summit + Articles in one blended search.">Everything</span>
+    <input id="everything" class="form-check-input" name="search_scope_temp" type="radio" value="everything" aria-describedby="everything-tooltip" />
+    <span id="everything-tooltip" class="js-simple-tooltip form-check-label" data-simpletooltip-text="Combine Whitman + Summit + Articles in one blended search.">Everything</span>
 </label></div>
 
 </form>
