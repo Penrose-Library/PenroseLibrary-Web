@@ -62,5 +62,5 @@ $('#search-button').click(function() {
 		searchevent();
 	});
 
-
+  });
 })(jQuery); // end of jQuery name space
