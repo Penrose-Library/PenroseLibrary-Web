@@ -19,14 +19,14 @@ title: "Penrose Library"
     <input name="displayField" type="hidden" value="all" />
     <input name="bulkSize" type="hidden" value="40" />
 <div class="searchquery">
-    ![Sherlock Discovery service logo](static/images/sherlock.svg "Sherlock Discovery service logo")
+    <img src="static/images/sherlock.svg" alt="Sherlock Discovery service logo" />
     <input id="primoQueryTemp" name="queryTemp" type="text" value="" placeholder="Search Whitman Library" aria-label="Enter Search Query to search Sherlock, the Penrose Library Catalog" class="form-control" />
-    <button id="Search-button" class="btn btn-primary mb-2">>Search</button>
+    <button id="Search-button" class="btn btn-primary mb-2">Search</button>
 </div>
 <!-- end of searchquery -->
 
 <!-- Search Button -->
-<div id="radioscope" role="radiogroup" aria-label="Search Scope">
+<div id="radioscope" role="radiogroup" aria-label="Search Scope" style="margin-top:1em" >
 <label>
     <input id="penrose" class="form-check-input" checked="checked" name="search_scope_temp" type="radio" value="whitman" aria-describedby="penrose-tooltip" />
     <span id="penrose-tooltip" class="js-simple-tooltip form-check-label" data-simpletooltip-text="Print and e-books, journals and e-journals, special collections, and audiovisual materials owned by Penrose Library.">Whitman</span>
