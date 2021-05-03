@@ -19,9 +19,9 @@ title: "Penrose Library"
     <input name="displayField" type="hidden" value="all" />
     <input name="bulkSize" type="hidden" value="40" />
 <div class="searchquery">
-    <img src="images/sherlock.svg" alt="Sherlock Discovery service logo" />
-    <input id="primoQueryTemp" name="queryTemp" type="text" value="" placeholder="Search Whitman Library" aria-label="Enter Search Query to search Sherlock, the Penrose Library Catalog" class="form-control" />
-    <button id="Search-button" class="btn btn-primary mb-2">Search</button>
+    <img src="images/sherlock.svg" alt="Sherlock Discovery service logo" style="width:15em;margin:0 0em 0.5em 0em" />
+    <input id="primoQueryTemp" name="queryTemp" type="text" value="" placeholder="Search Whitman Library" aria-label="Enter Search Query to search Sherlock, the Penrose Library Catalog" class="form-control float-left" style="width:80%;" />
+    <button id="Search-button" class="btn btn-primary mb-2 float-right">Search</button>
 </div>
 <!-- end of searchquery -->
 
