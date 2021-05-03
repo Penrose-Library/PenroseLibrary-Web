@@ -30,10 +30,10 @@ params:
   showThemeSwitcher: false
   moveFooterToHeader: false
   customCss:
-    - css/custom_01.css
-    - css/custom_02.css
+    - css/bootstrap.min.css
   customJs:
     - js/jquery-3.6.0.min.js
+    - js/bootstrap.min.js
     - js/home-searchbox.js
     - js/van11y-accessible-simple-tooltip-aria.min.js
 
