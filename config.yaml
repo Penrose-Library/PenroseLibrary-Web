@@ -31,6 +31,7 @@ params:
   moveFooterToHeader: false
   customCss:
     - css/bootstrap.min.css
+    - css/simple-tooltip.css
   customJs:
     - js/jquery-3.6.0.min.js
     - js/bootstrap.min.js
