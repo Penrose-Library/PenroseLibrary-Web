@@ -1,7 +1,12 @@
 {{ define "main" }}
+
+<div class="main-and-footer">
   {{ partial "spotlight"}}
-  <main id="main">
-    <h1>{{ .Title }}</h1>
-    {{ .Content }}
-  </main>
+  <div class="main">
+    <main id="main">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+    </main>
+  </div>
+</div>
 {{ end }}

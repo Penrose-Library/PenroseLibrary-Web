@@ -7,14 +7,10 @@
     {{ partial "svg.html" . }}
     <div class="wrapper">
       {{ partial "header.html" . }}
-      <div class="main-and-footer">
-        <div class="main">
           {{ block "main" . }}{{ end }}
           {{ if ne .Site.Params.moveFooterToHeader true }}
             {{ partial "footer.html" . }}
           {{ end }}
-        </div>
-      </div>
     </div>
     {{ partial "script.html" . }}
     {{ partial "katex.html" . }}

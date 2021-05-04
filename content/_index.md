@@ -1,10 +1,10 @@
 ---
 date: "2017-06-26T18:27:58+01:00"
-title: "Penrose Library"
+title: ""
 ---
 
-<div id="searchbox">
-<form id="simple" class="form-group no-up-margin" action="https://sherlock.whitman.edu/primo-explore/search" enctype="application/x-www-form-urlencoded; charset=utf-8" method="get" name="searchForm" onsubmit="searchevent();"><!-- Customizable Parameters -->
+<div class="searchbox">
+<form id="simple" class="form-group no-up-margin nobackground" action="https://sherlock.whitman.edu/primo-explore/search" enctype="application/x-www-form-urlencoded; charset=utf-8" method="get" name="searchForm" onsubmit="searchevent();"><!-- Customizable Parameters -->
     <input name="institution" type="hidden" value="WHITC" />
     <input name="vid" type="hidden" value="WHITC_NEW" />
     <input id="tab_select" name="tab" type="hidden" />
@@ -19,14 +19,14 @@ title: "Penrose Library"
     <input name="displayField" type="hidden" value="all" />
     <input name="bulkSize" type="hidden" value="40" />
 <div class="searchquery">
-    <img src="images/sherlock.svg" alt="Sherlock Discovery service logo" style="width:15em;margin:0 0em 0.5em 0em" />
-    <input id="primoQueryTemp" name="queryTemp" type="text" value="" placeholder="Search Whitman Library" aria-label="Enter Search Query to search Sherlock, the Penrose Library Catalog" class="form-control no-up-margin" style="width:80%;" />
-    <button id="Search-button" class="btn no-up-margin">Search</button>
+    <img src="images/sherlock.svg" alt="Sherlock Discovery service logo" style="width:15em;margin:0 0em 0.5em 0em" class="nobackground" />
+    <input id="primoQueryTemp" name="queryTemp" type="text" value="" placeholder="Search Whitman Library" aria-label="Enter Search Query to search Sherlock, the Penrose Library Catalog" class="form-control no-up-margin" style="width:80%; float:left; background: #fff" />
+    <button id="Search-button" class="btn no-up-margin" style="float:right">Search</button>
 </div>
 <!-- end of searchquery -->
 
 <!-- Search Button -->
-<div id="radioscope" role="radiogroup" aria-label="Search Scope" style="margin-top:0" >
+<div id="radioscope" role="radiogroup" aria-label="Search Scope" style="margin-top:0" class="nobackground">
 <label style="margin-top:1em">
     <input id="penrose" class="form-check-input" checked="checked" name="search_scope_temp" type="radio" value="whitman" aria-describedby="penrose-tooltip" />
     <span id="penrose-tooltip" class="js-simple-tooltip form-check-label" data-simpletooltip-text="Print and e-books, journals and e-journals, special collections, and audiovisual materials owned by Penrose Library.">Whitman</span>
