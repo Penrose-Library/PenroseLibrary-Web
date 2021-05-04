@@ -3,7 +3,7 @@ date: "2017-06-26T18:27:58+01:00"
 title: "Penrose Library"
 ---
 
-
+<div id="searchbox">
 <form id="simple" class="form-group no-up-margin" action="https://sherlock.whitman.edu/primo-explore/search" enctype="application/x-www-form-urlencoded; charset=utf-8" method="get" name="searchForm" onsubmit="searchevent();"><!-- Customizable Parameters -->
     <input name="institution" type="hidden" value="WHITC" />
     <input name="vid" type="hidden" value="WHITC_NEW" />
@@ -45,3 +45,4 @@ title: "Penrose Library"
 </label></div>
 
 </form>
+</div>
