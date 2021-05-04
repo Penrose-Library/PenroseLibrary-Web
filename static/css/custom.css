@@ -23,3 +23,11 @@
 .no-up-margin{
     margin-top: 0;
 }
+
+.main-and-footer{
+  background-image: url('/images/img_9.png');
+  background-repeat: no-repeat;
+}
+.main {
+  background:none;
+}

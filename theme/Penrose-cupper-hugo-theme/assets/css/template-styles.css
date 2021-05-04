@@ -37,7 +37,7 @@ option,
 [hidden] + *,
 li + li,
 body,
-.main-and-footer {
+.main{
     margin-top: 0;
 }
 p + p {
@@ -214,11 +214,12 @@ button {
     font-size: 1.25rem;
     border-radius: 0.33em;
     font-family: inherit;
-    background: ##001F5;
+    background: #001F5B;
     color: #fefefe;
     padding: 0.75rem;
     border: 0;
 }
+
 [data-launch] {
   font-size: 0.66rem !important;
   padding: 0.5rem !important;
@@ -350,10 +351,10 @@ caption {
     margin-right: auto;
     max-width: 25rem;
 }
-.main-and-footer {
+.main {
     margin-left: 15rem;
 }
-.main-and-footer > div {
+.main {
     max-width: 40rem;
     margin: 0 auto;
     padding: 2.25rem;
@@ -820,7 +821,7 @@ h1 svg {
 }
 
 /* Single page layout */
-.wrapper.print-version .main-and-footer {
+.wrapper.print-version .main {
     margin-left: 0;
 }
 .wrapper.print-version .intro-and-nav {
@@ -910,7 +911,7 @@ h1 svg {
     .intro-and-nav > div {
         padding: 1.5rem;
     }
-    .main-and-footer {
+    .main {
         margin: 0;
     }
     main {
@@ -968,7 +969,7 @@ h1 svg {
     .wrapper:not(.print-version) [role="contentinfo"] {
         display: none;
     }
-    .main-and-footer {
+    .main {
         margin-left: 0;
     }
     a {

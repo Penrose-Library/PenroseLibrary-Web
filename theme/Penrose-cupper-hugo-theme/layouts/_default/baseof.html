@@ -8,7 +8,7 @@
     <div class="wrapper">
       {{ partial "header.html" . }}
       <div class="main-and-footer">
-        <div>
+        <div class="main">
           {{ block "main" . }}{{ end }}
           {{ if ne .Site.Params.moveFooterToHeader true }}
             {{ partial "footer.html" . }}
