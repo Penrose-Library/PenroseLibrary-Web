@@ -27,7 +27,11 @@
 .main-and-footer{
   background-image: url('/images/img_9.png');
   background-repeat: no-repeat;
+  margin-top: 0;
 }
 .main {
   background:none;
+}
+.searchbox{
+  background-color: rgba(255, 255, 255, 0.7); /* Color white with alpha 0.9*/
 }
