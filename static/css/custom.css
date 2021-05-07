@@ -39,3 +39,7 @@
 .nobackground{
   background: none;
 }
+
+#radioscope{
+  border: none;
+}
