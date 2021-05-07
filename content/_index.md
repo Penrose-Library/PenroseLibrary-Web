@@ -26,23 +26,24 @@ title: ""
 <!-- end of searchquery -->
 
 <!-- Search Button -->
-<div id="radioscope" role="radiogroup" aria-label="Search Scope" style="margin-top:0" class="nobackground">
-<label style="margin-top:1em">
-    <input id="penrose" class="form-check-input" checked="checked" name="search_scope_temp" type="radio" value="whitman" aria-describedby="penrose-tooltip" />
-    <span id="penrose-tooltip" class="js-simple-tooltip form-check-label" data-simpletooltip-text="Print and e-books, journals and e-journals, special collections, and audiovisual materials owned by Penrose Library.">Whitman</span>
-</label>
-<label style="margin-top:1em">
-    <input id="summit" class="form-check-input" name="search_scope_temp" type="radio" value="summit" aria-describedby="summit-tooltip" />
-    <span id="summit-tooltip" class="js-simple-tooltip form-check-label" data-simpletooltip-text="Books and audiovisual materials held by other academic libraries in the Pacific Northwest (delivery about five days from request)">Summit</span>
-</label>
-<label style="margin-top:1em">
-    <input id="article" class="form-check-input" name="search_scope_temp" type="radio" value="pci" aria-describedby="article-tooltip"  />
-    <span id="article-tooltip" class="js-simple-tooltip form-check-label" data-simpletooltip-text="Scholarly articles and other content from many of Whitman's databases in all disciplines.">Articles</span>
-</label>
-<label style="margin-top:1em">
-    <input id="everything" class="form-check-input" name="search_scope_temp" type="radio" value="everything" aria-describedby="everything-tooltip" />
-    <span id="everything-tooltip" class="js-simple-tooltip form-check-label" data-simpletooltip-text="Combine Whitman + Summit + Articles in one blended search.">Everything</span>
-</label></div>
+<fieldset id="radioscope" role="radiogroup" aria-label="Search Scope" style="margin-top:0" class="nobackground">
+    <label style="margin-top:1em">
+        <input id="penrose" class="form-check-input" checked="checked" name="search_scope_temp" type="radio" value="whitman" aria-describedby="penrose-tooltip" />
+        <span id="penrose-tooltip" class="js-simple-tooltip form-check-label" data-simpletooltip-text="Print and e-books, journals and e-journals, special collections, and audiovisual materials owned by Penrose Library.">Whitman</span>
+    </label>
+    <label style="margin-top:1em">
+        <input id="summit" class="form-check-input" name="search_scope_temp" type="radio" value="summit" aria-describedby="summit-tooltip" />
+        <span id="summit-tooltip" class="js-simple-tooltip form-check-label" data-simpletooltip-text="Books and audiovisual materials held by other academic libraries in the Pacific Northwest (delivery about five days from request)">Summit</span>
+    </label>
+    <label style="margin-top:1em">
+        <input id="article" class="form-check-input" name="search_scope_temp" type="radio" value="pci" aria-describedby="article-tooltip"  />
+        <span id="article-tooltip" class="js-simple-tooltip form-check-label" data-simpletooltip-text="Scholarly articles and other content from many of Whitman's databases in all disciplines.">Articles</span>
+    </label>
+    <label style="margin-top:1em">
+        <input id="everything" class="form-check-input" name="search_scope_temp" type="radio" value="everything" aria-describedby="everything-tooltip" />
+        <span id="everything-tooltip" class="js-simple-tooltip form-check-label" data-simpletooltip-text="Combine Whitman + Summit + Articles in one blended search.">Everything</span>
+    </label>
+</fieldset>
 
 </form>
 </div>
