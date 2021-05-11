@@ -47,3 +47,11 @@ title: ""
 
 </form>
 </div>
+
+
+<div class="grid-container">
+  <div class="Area-1">Area 1</div>
+  <div class="Area-2">Area 2</div>
+  <div class="Area-3">Area 3</div>
+  <div class="Area-4">Area 4</div>
+</div>
