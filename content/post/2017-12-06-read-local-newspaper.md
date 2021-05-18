@@ -1,0 +1,15 @@
+---
+ID: 1086
+post_title: Read a local newspaper!
+author: Kun Lin
+post_excerpt: 'Full-page newspaper images for The Oregonian (Portland, OR) are now available to Whitman faculty, students, and staff via Access World News.  The full image allows readers to view the paper as it appears in print.  Other local newspapers are also available.'
+layout: post
+permalink: >
+  https://library.whitman.edu/blog/read-local-newspaper/
+published: true
+post_date: 2017-12-06 11:52:55
+---
+[caption id="attachment_1090" align="alignright" width="150"]<img class="wp-image-1090 size-thumbnail" src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2017/12/Old_vending_machine_for_The_Oregonian_broadsheet_format-150x150.jpg" alt="" width="150" height="150" /> By Steve Morgan (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons[/caption]&nbsp;
+
+<p>Access World News is a current Penrose Library database subscription that provides newspaper articles from 6,365 different sources and from 135 different countries. It is a great tool to research local issues across the country and the world. Recently, Access World News began producing full-page images of <a href="https://www.ezproxy.whitman.edu/login?url=http://infoweb.newsbank.com/resources/search/nb?p=WORLDNEWS&amp;t=favorite%3AORGISWHA%21Oregonian%2BCollection%2Bwith%2BHistorical%2BArchives%2Fpubname%3AOPOP-EEDT%21Oregonian%252C%2BThe%2B%2528Portland%252C%2BOR%2529">The Oregonian (Portland, OR)</a> shown in its original arrangement.  This view allows for browsing content and displays the print layout of the paper complete with articles, sections, and advertisements.  Back issues will continue to be available in a text-only version.</p>
+<p>Local newspapers are an important element of the journalism ecosystem. Original reporting on local issues can provide an important check on local governments and informs local communities. Their content frequently feeds into national media outlets for discussions about issues on a bigger scale.  Other local newspapers available through Access World News includes <a href="https://www.ezproxy.whitman.edu/login?url=http://infoweb.newsbank.com/resources/search/nb?p=WORLDNEWS&amp;t=state%3AWA%21USA%2B-%2BWashington%2Fpubname%3ATCHB%21Tri-City%2BHerald%2B%2528Kennewick%252C%2BWA%2529">Tri-City Herald</a>, <a href="https://www.ezproxy.whitman.edu/login?url=http://infoweb.newsbank.com/resources/search/nb?p=WORLDNEWS&amp;t=state%3AWA%21USA%2B-%2BWashington%2Fpubname%3AZMHI%21Walla%2BWalla%2BUnion-Bulletin%2B%2528WA%2529">Walla Walla Union-Bulletin</a>, and <a href="https://www.ezproxy.whitman.edu/login?url=http://infoweb.newsbank.com/resources/search/nb?p=WORLDNEWS&amp;t=state%3AWA%21USA%2B-%2BWashington%2Fpubname%3ASTIW%21Seattle%2BTimes%252C%2BThe%2B%2528WA%2529">Seattle Times</a>.</p>
