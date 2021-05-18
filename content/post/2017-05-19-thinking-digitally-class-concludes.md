@@ -1,6 +1,6 @@
 ---
 ID: 949
-post_title: Thinking Digitally class concludes
+title: Thinking Digitally class concludes
 author: Amy Blau
 post_date: 2017-05-19 13:16:36
 post_excerpt: >

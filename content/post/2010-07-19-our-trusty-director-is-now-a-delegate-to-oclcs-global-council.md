@@ -1,6 +1,6 @@
 ---
 ID: 41
-post_title: >
+title: >
   Penrose Director elected to OCLC Global
   Council
 author: link

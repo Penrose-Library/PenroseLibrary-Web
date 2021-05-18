@@ -1,6 +1,6 @@
 ---
 ID: 748
-post_title: Hispanic Heritage Month 2016
+title: Hispanic Heritage Month 2016
 author: Amy Blau
 post_date: 2016-10-05 11:00:17
 post_excerpt: ""

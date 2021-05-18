@@ -1,6 +1,6 @@
 ---
 ID: 1260
-post_title: >
+title: >
   An Evening of Reflections with Professor
   David Schmitz in Celebration of the
   Digitization of The Pioneer

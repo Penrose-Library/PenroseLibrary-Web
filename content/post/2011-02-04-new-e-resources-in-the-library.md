@@ -1,6 +1,6 @@
 ---
 ID: 105
-post_title: New e-Resources in the Library
+title: New e-Resources in the Library
 author: link
 post_date: 2011-02-04 16:44:02
 post_excerpt: ""

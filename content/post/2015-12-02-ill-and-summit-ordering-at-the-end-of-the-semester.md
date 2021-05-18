@@ -1,6 +1,6 @@
 ---
 ID: 480
-post_title: >
+title: >
   ILL and Summit ordering at the end of
   the semester
 author: Amy Blau

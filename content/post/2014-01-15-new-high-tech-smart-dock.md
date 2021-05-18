@@ -1,6 +1,6 @@
 ---
 ID: 274
-post_title: New High Tech Smart Dock
+title: New High Tech Smart Dock
 author: link
 post_date: 2014-01-15 19:19:47
 post_excerpt: ""

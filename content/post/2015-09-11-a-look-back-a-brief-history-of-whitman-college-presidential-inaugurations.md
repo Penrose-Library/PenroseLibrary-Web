@@ -1,6 +1,6 @@
 ---
 ID: 407
-post_title: 'A Look Back:  A Brief History of Whitman College Presidential Inaugurations'
+title: 'A Look Back:  A Brief History of Whitman College Presidential Inaugurations'
 author: Amy Blau
 post_date: 2015-09-11 13:51:53
 post_excerpt: ""

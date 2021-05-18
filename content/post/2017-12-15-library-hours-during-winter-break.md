@@ -1,6 +1,6 @@
 ---
 ID: 1103
-post_title: Library Hours during Winter Break
+title: Library Hours during Winter Break
 author: Amy Blau
 post_excerpt: ""
 layout: post

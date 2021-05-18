@@ -1,6 +1,6 @@
 ---
 ID: 1432
-post_title: Anti-Racist Reading List
+title: Anti-Racist Reading List
 author: Emily Pearson
 post_excerpt: ""
 layout: post

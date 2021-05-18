@@ -1,6 +1,6 @@
 ---
 ID: 1163
-post_title: Penrose Library Hours
+title: Penrose Library Hours
 author: Julie Carter
 post_excerpt: ""
 layout: post

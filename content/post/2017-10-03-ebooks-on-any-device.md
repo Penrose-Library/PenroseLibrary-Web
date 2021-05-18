@@ -1,6 +1,6 @@
 ---
 ID: 992
-post_title: eBooks on any device!
+title: eBooks on any device!
 author: Julie Carter
 post_excerpt: "Whitman faculty, students, and staff may access 100,000 Digital Rights Management (DRM) free resources on any device that supports PDFs including e-Readers or mobile devices via Penrose Library's new subscriptions to Wiley Online Library, Oxford Scholarship Online and Taylor &amp; Francis eBooks."
 layout: post

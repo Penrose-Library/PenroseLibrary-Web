@@ -1,6 +1,6 @@
 ---
 ID: 1189
-post_title: Banned Books Week
+title: Banned Books Week
 author: Julie Carter
 post_excerpt: >
   Penrose Library encourages you to borrow

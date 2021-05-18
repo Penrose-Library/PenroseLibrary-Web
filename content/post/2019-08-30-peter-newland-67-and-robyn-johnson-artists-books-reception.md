@@ -1,6 +1,6 @@
 ---
 ID: 1367
-post_title: 'Peter Newland &#8217;67 and Robyn Johnson Artists&#8217; Books Reception'
+title: 'Peter Newland &#8217;67 and Robyn Johnson Artists&#8217; Books Reception'
 author: Julie Carter
 post_excerpt: ""
 layout: post

@@ -1,6 +1,6 @@
 ---
 ID: 300
-post_title: 'First-Year Students: Find Your Personal Librarian!'
+title: 'First-Year Students: Find Your Personal Librarian!'
 author: link
 post_date: 2014-08-28 20:23:14
 post_excerpt: ""

@@ -1,6 +1,6 @@
 ---
 ID: 846
-post_title: 'Spring 2017 &#8212; Welcome Back!'
+title: 'Spring 2017 &#8212; Welcome Back!'
 author: Amy Blau
 post_date: 2017-01-13 09:28:31
 post_excerpt: >

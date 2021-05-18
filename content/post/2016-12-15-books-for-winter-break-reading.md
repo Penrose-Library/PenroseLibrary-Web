@@ -1,6 +1,6 @@
 ---
 ID: 831
-post_title: Books for winter break reading!
+title: Books for winter break reading!
 author: Amy Blau
 post_date: 2016-12-15 16:53:48
 post_excerpt: >

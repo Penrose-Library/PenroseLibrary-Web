@@ -1,6 +1,6 @@
 ---
 ID: 1350
-post_title: Welcome back!
+title: Welcome back!
 author: Julie Carter
 post_excerpt: >
   Penrose Library made several changes

@@ -1,6 +1,6 @@
 ---
 ID: 1243
-post_title: Public Domain in 2019
+title: Public Domain in 2019
 author: Emily Pearson
 post_excerpt: ""
 layout: post

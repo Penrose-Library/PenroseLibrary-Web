@@ -1,6 +1,6 @@
 ---
 ID: 1020
-post_title: Open Access Week 2017
+title: Open Access Week 2017
 author: Amy Blau
 post_excerpt: >
   For Open Access Week 2017, read about

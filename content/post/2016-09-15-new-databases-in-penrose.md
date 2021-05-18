@@ -1,6 +1,6 @@
 ---
 ID: 722
-post_title: New Databases in Penrose
+title: New Databases in Penrose
 author: Amy Blau
 post_date: 2016-09-15 13:10:56
 post_excerpt: ""

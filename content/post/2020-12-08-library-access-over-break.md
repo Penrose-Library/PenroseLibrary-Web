@@ -1,6 +1,6 @@
 ---
 ID: 1480
-post_title: Library access over break
+title: Library access over break
 author: Emily Pearson
 post_excerpt: ""
 layout: post

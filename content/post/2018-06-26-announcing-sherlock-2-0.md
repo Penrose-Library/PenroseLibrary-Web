@@ -1,6 +1,6 @@
 ---
 ID: 1171
-post_title: Announcing Sherlock 2.0
+title: Announcing Sherlock 2.0
 author: Kun Lin
 post_excerpt: ""
 layout: post

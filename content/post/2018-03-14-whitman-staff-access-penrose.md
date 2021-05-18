@@ -1,6 +1,6 @@
 ---
 ID: 1140
-post_title: Whitman staff access @ Penrose
+title: Whitman staff access @ Penrose
 author: Emily Pearson
 post_excerpt: ""
 layout: post

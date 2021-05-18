@@ -1,6 +1,6 @@
 ---
 ID: 452
-post_title: 'The Learning Commons &#8212; Peer Tutoring at Penrose Library'
+title: 'The Learning Commons &#8212; Peer Tutoring at Penrose Library'
 author: Amy Blau
 post_date: 2015-10-20 08:59:12
 post_excerpt: ""

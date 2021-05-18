@@ -1,6 +1,6 @@
 ---
 ID: 1488
-post_title: Reserving space in the library
+title: Reserving space in the library
 author: Emily Pearson
 post_excerpt: ""
 layout: post

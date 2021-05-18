@@ -1,6 +1,6 @@
 ---
 ID: 1375
-post_title: Senior thesis help
+title: Senior thesis help
 author: Emily Pearson
 post_excerpt: ""
 layout: post

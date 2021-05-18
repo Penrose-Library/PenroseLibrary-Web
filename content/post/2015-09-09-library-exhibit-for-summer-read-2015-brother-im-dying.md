@@ -1,6 +1,6 @@
 ---
 ID: 399
-post_title: 'Library Exhibit for Summer Read 2015: Brother, I’m Dying'
+title: 'Library Exhibit for Summer Read 2015: Brother, I’m Dying'
 author: Amy Blau
 post_date: 2015-09-09 09:41:37
 post_excerpt: ""

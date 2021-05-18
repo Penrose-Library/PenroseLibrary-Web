@@ -1,6 +1,6 @@
 ---
 ID: 677
-post_title: (Ending) Poverty Exhibit in Penrose
+title: (Ending) Poverty Exhibit in Penrose
 author: Amy Blau
 post_date: 2016-04-08 17:07:24
 post_excerpt: ""

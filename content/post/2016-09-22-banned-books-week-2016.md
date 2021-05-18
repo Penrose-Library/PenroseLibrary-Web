@@ -1,6 +1,6 @@
 ---
 ID: 736
-post_title: Banned Books Week 2016
+title: Banned Books Week 2016
 author: Amy Blau
 post_date: 2016-09-22 17:05:16
 post_excerpt: ""

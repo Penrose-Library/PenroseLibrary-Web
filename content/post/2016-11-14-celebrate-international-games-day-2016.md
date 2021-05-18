@@ -1,6 +1,6 @@
 ---
 ID: 799
-post_title: Celebrate International Games Day 2016
+title: Celebrate International Games Day 2016
 author: Amy Blau
 post_date: 2016-11-14 15:30:26
 post_excerpt: >

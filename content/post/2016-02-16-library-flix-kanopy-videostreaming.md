@@ -1,6 +1,6 @@
 ---
 ID: 553
-post_title: 'Library Flix: Kanopy Videostreaming'
+title: 'Library Flix: Kanopy Videostreaming'
 author: Amy Blau
 post_date: 2016-02-16 08:49:16
 post_excerpt: ""

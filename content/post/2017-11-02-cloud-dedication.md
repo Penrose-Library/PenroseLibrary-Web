@@ -1,6 +1,6 @@
 ---
 ID: 1026
-post_title: >
+title: >
   Dedication of CLOUD, a new installation
   by artist and Whitman professor M Acuff.
 author: Julie Carter

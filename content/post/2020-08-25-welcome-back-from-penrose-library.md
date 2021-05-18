@@ -1,6 +1,6 @@
 ---
 ID: 1453
-post_title: Welcome back from Penrose Library!
+title: Welcome back from Penrose Library!
 author: Emily Pearson
 post_excerpt: ""
 layout: post

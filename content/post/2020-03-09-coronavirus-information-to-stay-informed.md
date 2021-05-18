@@ -1,6 +1,6 @@
 ---
 ID: 1403
-post_title: Coronavirus information to stay informed
+title: Coronavirus information to stay informed
 author: Emily Pearson
 post_excerpt: ""
 layout: post

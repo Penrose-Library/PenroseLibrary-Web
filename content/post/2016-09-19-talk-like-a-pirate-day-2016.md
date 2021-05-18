@@ -1,6 +1,6 @@
 ---
 ID: 728
-post_title: Talk Like a Pirate Day 2016
+title: Talk Like a Pirate Day 2016
 author: Amy Blau
 post_date: 2016-09-19 11:32:13
 post_excerpt: ""

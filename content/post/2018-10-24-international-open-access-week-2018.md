@@ -1,6 +1,6 @@
 ---
 ID: 1215
-post_title: International Open Access Week 2018
+title: International Open Access Week 2018
 author: Julie Carter
 post_excerpt: >
   October 22-28, 2018 celebrates

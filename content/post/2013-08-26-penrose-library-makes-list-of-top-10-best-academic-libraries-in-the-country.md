@@ -1,6 +1,6 @@
 ---
 ID: 264
-post_title: >
+title: >
   Penrose Library makes list of Top 10
   Best Academic Libraries in the Country!
 author: Dalia Corkrum

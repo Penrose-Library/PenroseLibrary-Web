@@ -1,6 +1,6 @@
 ---
 ID: 786
-post_title: Presidential election 1916
+title: Presidential election 1916
 author: Amy Blau
 post_date: 2016-11-03 10:16:29
 post_excerpt: >

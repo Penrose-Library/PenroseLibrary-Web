@@ -1,6 +1,6 @@
 ---
 ID: 718
-post_title: 'Summer Read 2016: The Empathy Exams by Leslie Jamison'
+title: 'Summer Read 2016: The Empathy Exams by Leslie Jamison'
 author: Amy Blau
 post_date: 2016-09-06 11:55:48
 post_excerpt: ""

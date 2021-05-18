@@ -1,6 +1,6 @@
 ---
 ID: 945
-post_title: Exhibit on Creative Nonfiction
+title: Exhibit on Creative Nonfiction
 author: Amy Blau
 post_date: 2017-05-08 09:04:11
 post_excerpt: >

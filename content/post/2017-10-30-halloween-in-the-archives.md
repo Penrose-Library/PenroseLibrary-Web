@@ -1,6 +1,6 @@
 ---
 ID: 1030
-post_title: Halloween in the Archives
+title: Halloween in the Archives
 author: bronsodm
 post_excerpt: ""
 layout: post

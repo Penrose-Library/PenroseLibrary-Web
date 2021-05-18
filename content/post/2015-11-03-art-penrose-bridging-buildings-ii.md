@@ -1,6 +1,6 @@
 ---
 ID: 460
-post_title: 'Art @ Penrose: Bridging Buildings II'
+title: 'Art @ Penrose: Bridging Buildings II'
 author: Amy Blau
 post_date: 2015-11-03 14:14:45
 post_excerpt: ""

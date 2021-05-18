@@ -1,6 +1,6 @@
 ---
 ID: 874
-post_title: 'On exhibit at Penrose: rare books from the McFarlane Collection'
+title: 'On exhibit at Penrose: rare books from the McFarlane Collection'
 author: Amy Blau
 post_date: 2017-01-23 10:20:11
 post_excerpt: >

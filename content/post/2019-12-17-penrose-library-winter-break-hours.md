@@ -1,6 +1,6 @@
 ---
 ID: 1380
-post_title: Penrose Library Winter Break Hours
+title: Penrose Library Winter Break Hours
 author: Julie Carter
 post_excerpt: ""
 layout: post

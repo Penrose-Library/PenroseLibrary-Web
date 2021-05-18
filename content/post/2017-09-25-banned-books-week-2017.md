@@ -1,6 +1,6 @@
 ---
 ID: 982
-post_title: 'Banned Books Week: Celebrating the Freedom to Read, Sept. 24 &#8211; 30.'
+title: 'Banned Books Week: Celebrating the Freedom to Read, Sept. 24 &#8211; 30.'
 author: Julie Carter
 post_excerpt: ""
 layout: post

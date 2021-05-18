@@ -1,6 +1,6 @@
 ---
 ID: 1299
-post_title: Sexual Assault Awareness Month Display
+title: Sexual Assault Awareness Month Display
 author: Julie Carter
 post_excerpt: 'Library materials on display this month call attention to Sexual Assault Awareness Month. Please note: these materials may be re-traumatizing for some people.'
 layout: post

@@ -1,6 +1,6 @@
 ---
 ID: 708
-post_title: Penrose Updates for Fall 2016
+title: Penrose Updates for Fall 2016
 author: Amy Blau
 post_date: 2016-08-29 11:50:07
 post_excerpt: ""

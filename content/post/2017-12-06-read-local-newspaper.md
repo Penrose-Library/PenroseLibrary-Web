@@ -1,6 +1,6 @@
 ---
 ID: 1086
-post_title: Read a local newspaper!
+title: Read a local newspaper!
 author: Kun Lin
 post_excerpt: 'Full-page newspaper images for The Oregonian (Portland, OR) are now available to Whitman faculty, students, and staff via Access World News.  The full image allows readers to view the paper as it appears in print.  Other local newspapers are also available.'
 layout: post

@@ -1,6 +1,6 @@
 ---
 ID: 754
-post_title: Open Access Week 2016
+title: Open Access Week 2016
 author: Amy Blau
 post_date: 2016-10-24 14:17:45
 post_excerpt: ""

@@ -1,6 +1,6 @@
 ---
 ID: 431
-post_title: Seeing Stories @ Penrose Library
+title: Seeing Stories @ Penrose Library
 author: Amy Blau
 post_date: 2015-10-06 09:36:08
 post_excerpt: ""

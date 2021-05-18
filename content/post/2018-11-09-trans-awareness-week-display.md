@@ -1,6 +1,6 @@
 ---
 ID: 1222
-post_title: Trans Awareness Week Display
+title: Trans Awareness Week Display
 author: Julie Carter
 post_excerpt: >
   A selection of materials exploring

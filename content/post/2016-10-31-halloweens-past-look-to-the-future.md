@@ -1,6 +1,6 @@
 ---
 ID: 780
-post_title: Halloweens Past Look to the Future
+title: Halloweens Past Look to the Future
 author: Amy Blau
 post_date: 2016-10-31 13:41:26
 post_excerpt: ""

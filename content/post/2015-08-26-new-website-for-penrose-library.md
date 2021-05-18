@@ -1,6 +1,6 @@
 ---
 ID: 374
-post_title: New website for Penrose Library
+title: New website for Penrose Library
 author: Amy Blau
 post_date: 2015-08-26 17:50:00
 post_excerpt: ""

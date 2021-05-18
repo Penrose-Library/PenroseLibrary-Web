@@ -1,6 +1,6 @@
 ---
 ID: 440
-post_title: 'Tips &amp; Tricks: Sherlock e-Shelf'
+title: 'Tips &amp; Tricks: Sherlock e-Shelf'
 author: Amy Blau
 post_date: 2015-10-14 10:37:38
 post_excerpt: ""

@@ -1,6 +1,6 @@
 ---
 ID: 546
-post_title: The Learning Commons Reopens
+title: The Learning Commons Reopens
 author: Amy Blau
 post_date: 2016-02-08 11:21:01
 post_excerpt: ""

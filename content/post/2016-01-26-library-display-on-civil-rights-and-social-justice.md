@@ -1,6 +1,6 @@
 ---
 ID: 512
-post_title: >
+title: >
   Library Display on Civil Rights and
   Social Justice
 author: Amy Blau

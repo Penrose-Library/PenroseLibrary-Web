@@ -1,6 +1,6 @@
 ---
 ID: 927
-post_title: Libraries Transform
+title: Libraries Transform
 author: Amy Blau
 post_date: 2017-04-10 15:27:35
 post_excerpt: 'April 9-15, 2017 is National Library Week! The theme for 2017 is “Libraries Transform” -- libraries themselves change, and, more importantly, they change lives by offering access to information and technology, providing relevant collections, and facilitating community engagement.'

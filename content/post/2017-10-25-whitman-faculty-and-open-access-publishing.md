@@ -1,6 +1,6 @@
 ---
 ID: 1022
-post_title: >
+title: >
   Whitman faculty and open access
   publishing
 author: Amy Blau

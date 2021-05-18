@@ -1,6 +1,6 @@
 ---
 ID: 685
-post_title: Introducing ARMINDA!
+title: Introducing ARMINDA!
 author: Amy Blau
 post_date: 2016-04-19 14:26:20
 post_excerpt: ""

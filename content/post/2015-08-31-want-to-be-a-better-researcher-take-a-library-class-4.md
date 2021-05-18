@@ -1,6 +1,6 @@
 ---
 ID: 395
-post_title: >
+title: >
   Want to be a better researcher? Take a
   library class!
 author: Amy Blau

@@ -1,6 +1,6 @@
 ---
 ID: 164
-post_title: >
+title: >
   Take a library class to become a better
   researcher!
 author: link

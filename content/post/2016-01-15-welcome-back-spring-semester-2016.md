@@ -1,6 +1,6 @@
 ---
 ID: 507
-post_title: Welcome back! Spring Semester 2016
+title: Welcome back! Spring Semester 2016
 author: Amy Blau
 post_date: 2016-01-15 17:03:00
 post_excerpt: ""

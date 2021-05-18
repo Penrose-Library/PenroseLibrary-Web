@@ -1,6 +1,6 @@
 ---
 ID: 1316
-post_title: End of Semester Hours
+title: End of Semester Hours
 author: Julie Carter
 post_excerpt: |
   Penrose Library will be open:

@@ -1,6 +1,6 @@
 ---
 ID: 1191
-post_title: October Break Library Hours
+title: October Break Library Hours
 author: Julie Carter
 post_excerpt: ""
 layout: post

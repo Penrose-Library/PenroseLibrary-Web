@@ -1,6 +1,6 @@
 ---
 ID: 1131
-post_title: 'The Office of LGBTQIA+ and PRISM&#8217;s Media Guide'
+title: 'The Office of LGBTQIA+ and PRISM&#8217;s Media Guide'
 author: Emily Pearson
 post_excerpt: ""
 layout: post

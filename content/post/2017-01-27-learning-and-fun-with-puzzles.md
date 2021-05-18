@@ -1,6 +1,6 @@
 ---
 ID: 898
-post_title: Learning and Fun with Puzzles
+title: Learning and Fun with Puzzles
 author: Amy Blau
 post_date: 2017-01-27 09:27:21
 post_excerpt: >

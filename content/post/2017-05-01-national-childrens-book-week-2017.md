@@ -1,6 +1,6 @@
 ---
 ID: 942
-post_title: 'National Children&#8217;s Book Week 2017'
+title: 'National Children&#8217;s Book Week 2017'
 author: Amy Blau
 post_date: 2017-05-01 11:23:02
 post_excerpt: "Explore Penrose Library's children's book collection for National Children's Book Week."

@@ -1,6 +1,6 @@
 ---
 ID: 501
-post_title: Finals week message
+title: Finals week message
 author: Amy Blau
 post_date: 2015-12-11 08:50:05
 post_excerpt: ""

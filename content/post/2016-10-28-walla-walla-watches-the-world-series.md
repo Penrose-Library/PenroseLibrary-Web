@@ -1,6 +1,6 @@
 ---
 ID: 771
-post_title: >
+title: >
   Walla Walla “Watches” the World
   Series
 author: Amy Blau

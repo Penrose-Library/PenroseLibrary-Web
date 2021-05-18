@@ -1,6 +1,6 @@
 ---
 ID: 465
-post_title: 'Tips &amp; Tricks: Citation Managers'
+title: 'Tips &amp; Tricks: Citation Managers'
 author: Amy Blau
 post_date: 2015-11-17 09:03:18
 post_excerpt: ""

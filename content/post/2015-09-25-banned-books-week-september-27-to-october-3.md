@@ -1,6 +1,6 @@
 ---
 ID: 424
-post_title: >
+title: >
   Banned Books Week September 27 to
   October 3
 author: Amy Blau

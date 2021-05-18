@@ -1,6 +1,6 @@
 ---
 ID: 1014
-post_title: Lever Press presentation on October 17
+title: Lever Press presentation on October 17
 author: Amy Blau
 post_excerpt: >
   Beth Bouloukos, the Senior Acquisitions

@@ -1,6 +1,6 @@
 ---
 ID: 861
-post_title: Fake news and information literacy
+title: Fake news and information literacy
 author: Amy Blau
 post_date: 2017-01-18 11:21:38
 post_excerpt: >

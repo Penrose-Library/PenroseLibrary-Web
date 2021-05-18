@@ -1,6 +1,6 @@
 ---
 ID: 908
-post_title: Richard Bogle and America Waldo Bogle
+title: Richard Bogle and America Waldo Bogle
 author: Amy Blau
 post_date: 2017-02-21 14:24:36
 post_excerpt: >

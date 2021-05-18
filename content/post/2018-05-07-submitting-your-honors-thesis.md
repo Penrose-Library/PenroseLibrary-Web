@@ -1,6 +1,6 @@
 ---
 ID: 1159
-post_title: Submitting Your Honors Thesis
+title: Submitting Your Honors Thesis
 author: Emily Pearson
 post_excerpt: ""
 layout: post

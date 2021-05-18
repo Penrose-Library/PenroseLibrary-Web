@@ -1,6 +1,6 @@
 ---
 ID: 763
-post_title: 'Open Textbooks: Math'
+title: 'Open Textbooks: Math'
 author: Amy Blau
 post_date: 2016-10-26 10:33:41
 post_excerpt: ""

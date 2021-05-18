@@ -1,6 +1,6 @@
 ---
 ID: 1233
-post_title: Feeling the “winter blues”?
+title: Feeling the “winter blues”?
 author: Julie Carter
 post_excerpt: ""
 layout: post

@@ -1,6 +1,6 @@
 ---
 ID: 1078
-post_title: Come on, get happy!
+title: Come on, get happy!
 author: Julie Carter
 post_excerpt: ""
 layout: post

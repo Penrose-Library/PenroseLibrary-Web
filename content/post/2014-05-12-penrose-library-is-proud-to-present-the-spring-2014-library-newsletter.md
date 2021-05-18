@@ -1,6 +1,6 @@
 ---
 ID: 284
-post_title: >
+title: >
   Penrose Library is proud to present the
   Spring 2014 Library Newsletter
 author: link

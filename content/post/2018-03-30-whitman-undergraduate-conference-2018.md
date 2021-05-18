@@ -1,6 +1,6 @@
 ---
 ID: 1145
-post_title: Whitman Undergraduate Conference 2018
+title: Whitman Undergraduate Conference 2018
 author: Amy Blau
 post_excerpt: >
   Penrose Library and the Whitman College

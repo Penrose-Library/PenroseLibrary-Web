@@ -1,6 +1,6 @@
 ---
 ID: 297
-post_title: >
+title: >
   Resources to help you find, cite, use,
   and manage data for classes and research
 author: link

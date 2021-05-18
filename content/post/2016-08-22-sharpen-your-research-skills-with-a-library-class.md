@@ -1,6 +1,6 @@
 ---
 ID: 706
-post_title: >
+title: >
   Sharpen your research skills with a
   library class!
 author: Amy Blau

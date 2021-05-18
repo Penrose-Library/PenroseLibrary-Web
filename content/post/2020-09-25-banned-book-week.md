@@ -1,6 +1,6 @@
 ---
 ID: 1459
-post_title: Banned Book Week
+title: Banned Book Week
 author: Kun Lin
 post_excerpt: ""
 layout: post

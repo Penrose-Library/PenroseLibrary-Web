@@ -1,6 +1,6 @@
 ---
 ID: 1116
-post_title: Introducing Sherlock 2.0
+title: Introducing Sherlock 2.0
 author: Emily Pearson
 post_excerpt: ""
 layout: post

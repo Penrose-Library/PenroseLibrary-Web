@@ -1,6 +1,6 @@
 ---
 ID: 1156
-post_title: Choose Privacy Week 2018
+title: Choose Privacy Week 2018
 author: Emily Pearson
 post_excerpt: ""
 layout: post

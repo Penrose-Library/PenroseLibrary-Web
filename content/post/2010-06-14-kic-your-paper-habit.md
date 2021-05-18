@@ -1,6 +1,6 @@
 ---
 ID: 38
-post_title: KIC your paper habit
+title: KIC your paper habit
 author: link
 post_date: 2010-06-14 09:50:07
 post_excerpt: ""

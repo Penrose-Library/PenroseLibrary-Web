@@ -1,6 +1,6 @@
 ---
 ID: 703
-post_title: >
+title: >
   Library Use at Orbis Cascade Alliance
   Libraries
 author: Amy Blau

@@ -1,6 +1,6 @@
 ---
 ID: 1286
-post_title: 'Libraries strengthen their communities: celebrate National Library Week April 7-13'
+title: 'Libraries strengthen their communities: celebrate National Library Week April 7-13'
 author: Julie Carter
 post_excerpt: |
   Celebrate National Library Week with the theme of “Libraries = Strong Communities”

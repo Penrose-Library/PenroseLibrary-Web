@@ -1,6 +1,6 @@
 ---
 ID: 916
-post_title: 'How do I &#8230; find the Library FAQ?'
+title: 'How do I &#8230; find the Library FAQ?'
 author: Amy Blau
 post_date: 2017-03-06 10:17:56
 post_excerpt: >

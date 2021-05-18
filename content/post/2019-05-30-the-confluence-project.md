@@ -1,6 +1,6 @@
 ---
 ID: 1327
-post_title: The Confluence Project
+title: The Confluence Project
 author: Julie Carter
 post_excerpt: >
   Find out about Penrose Library’s role

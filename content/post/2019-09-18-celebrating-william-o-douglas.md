@@ -1,6 +1,6 @@
 ---
 ID: 1358
-post_title: Celebrating William O. Douglas
+title: Celebrating William O. Douglas
 author: Emily Pearson
 post_excerpt: ""
 layout: post

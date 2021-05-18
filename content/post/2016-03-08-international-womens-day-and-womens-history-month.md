@@ -1,6 +1,6 @@
 ---
 ID: 575
-post_title: >
+title: >
   International Women’s Day and
   Women’s History Month
 author: Amy Blau

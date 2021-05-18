@@ -1,6 +1,6 @@
 ---
 ID: 556
-post_title: 'Art @ Penrose: Dots Front Misfire'
+title: 'Art @ Penrose: Dots Front Misfire'
 author: Amy Blau
 post_date: 2016-02-22 14:32:17
 post_excerpt: ""

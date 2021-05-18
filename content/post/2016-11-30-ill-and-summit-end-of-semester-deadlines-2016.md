@@ -1,6 +1,6 @@
 ---
 ID: 815
-post_title: >
+title: >
   ILL and Summit end-of-semester deadlines
   2016
 author: Amy Blau
