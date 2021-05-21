@@ -12,6 +12,7 @@ taxonomies:
 
 permalinks:
   post: /:filename/
+  pages: /:filename/
 
 imaging:
   quality: 99
@@ -47,12 +48,9 @@ menu:
     - name: Blog
       url: /post/
       weight: 2
-    - name: Secondary Pages
-      url: /pages/
+    - name: About the Library
+      url: /about/
       weight: 3
-    - name: About
-      url: /pages/about/
-      weight: 4
 
 
 markup:

@@ -1,8 +1,10 @@
 {{ define "main" }}
 <div class="main-and-footer">
   <div class="main">
+        <div class="page-title">
+          <p style="margin:0">{{ .Title }}</p>
+        </div>
     <main id="main">
-      <h1>{{ .Title }}</h1>
       {{ .Content }}
     </main>
   </div>
