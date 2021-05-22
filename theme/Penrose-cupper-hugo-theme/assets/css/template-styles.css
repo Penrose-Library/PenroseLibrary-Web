@@ -367,9 +367,9 @@ caption {
     margin-left: 15rem;
 }
 main {
-   max-width: 60rem;
+   max-width: 95%;
     margin: 0 auto;
-    padding: 2.25rem;
+    padding: 1rem;
 }
 [role="contentinfo"] {
     font-size: 0.85rem;
@@ -424,6 +424,8 @@ main {
   clip-path: polygon(0% 0%, 90% 0%, 100% 50%, 90% 100%, 0% 100%);
   color: #fefefe;
 }
+
+
 
 /* Menu button */
 #menu-button {

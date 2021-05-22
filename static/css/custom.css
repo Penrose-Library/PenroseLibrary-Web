@@ -37,7 +37,7 @@
   padding: 2em;
   max-width: 40rem;
   margin: 0 auto;
-  margin-bottom: 10rem;
+  margin-bottom: 12rem;
 }
 .nobackground{
   background: none;
@@ -52,17 +52,23 @@
   display: grid;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 1fr 1fr 1fr;
-  gap: 0px 0px;
+  gap: 1rem 1rem;
   grid-template-areas:
     "Area-1 Area-2 Area-3"
-    "Area-1 Area-2 Area-3"
+    "Area-4 Area-4 Area-4"
     "Area-4 Area-4 Area-4";
 }
 
-.Area-1 { grid-area: Area-1; }
+.Area-1 { grid-area: Area-1; margin-top: 0;}
 
-.Area-2 { grid-area: Area-2; }
+.Area-2 { grid-area: Area-2; margin-top: 0;}
 
-.Area-3 { grid-area: Area-3; }
+.Area-3 { grid-area: Area-3; margin-top: 0;}
 
-.Area-4 { grid-area: Area-4; }
+.Area-4 { grid-area: Area-4; height: 12rem;}
+
+/* just boxes */
+.box{
+    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 12%), 0 1px 5px 0 rgb(0 0 0 / 20%);
+    padding:1em;
+}
