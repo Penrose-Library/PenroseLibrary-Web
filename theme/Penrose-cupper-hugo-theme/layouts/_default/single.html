@@ -2,13 +2,12 @@
 <div class="main-and-footer">
   <div class="main">
         <div class="page-title">
-          <h1 style="margin:0">{{ .Title }}</h1>
+          <h1>{{ .Title }}</h1>
         </div>
-    
     {{ if ne .Params.toc false }}
     {{ partial "toc" . }}
     {{ end }}
-    <main id="main">
+    <main id="main" class="secondary-main">
       {{ .Content }}
     </main>
   </div>

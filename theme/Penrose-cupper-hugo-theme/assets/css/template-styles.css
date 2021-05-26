@@ -86,8 +86,7 @@ a {
     background-size: cover;
     background-position: center;
     color: #fff;
-    font-size: 2rem;
-    padding: 1rem;
+    padding: 2rem;
     margin-top: -1.5rem;
 }
 
@@ -368,8 +367,7 @@ caption {
 }
 main {
    max-width: 95%;
-    margin: 1rem 3rem;
-    padding: 1rem;
+   padding: 0 2rem 0 4rem;
 }
 [role="contentinfo"] {
     font-size: 0.85rem;
@@ -442,10 +440,9 @@ main {
 .toc {
     font-size: 0.75rem;
     border: none;
-
     position: fixed;
     right: 0;
-    width: 15rem;
+    width: 18%;
     height: 100%;
     overflow:auto;
 }
@@ -463,7 +460,9 @@ main {
 .toc a:hover{
     border-bottom: 1px solid;
 }
-
+.toc + main{
+    max-width: 80%;
+}
 /* Disqus Comments */
 #disqus-container {
   text-align: center;
@@ -988,6 +987,9 @@ h1 svg {
     }
     code {
       word-break: break-all;
+    }
+    .toc{
+        display: none;
     }
 }
 @media print {
