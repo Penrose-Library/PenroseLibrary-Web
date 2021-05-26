@@ -49,7 +49,7 @@ menu:
       url: /post/
       weight: 2
     - name: About the Library
-      url: /about/
+      url: /about_the_library/
       weight: 3
 
 

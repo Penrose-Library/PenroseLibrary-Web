@@ -5,9 +5,9 @@
           <p style="margin:0">{{ .Title }}</p>
         </div>
     <main id="main">
-          {{ if ne .Params.toc false }}
-          {{ partial "toc" . }}
-          {{ end }}
+    {{ if ne .Params.toc false }}
+    {{ partial "toc" . }}
+    {{ end }}
       {{ .Content }}
     </main>
   </div>
