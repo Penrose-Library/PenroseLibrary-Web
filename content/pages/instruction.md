@@ -1,4 +1,8 @@
-Instruction and Tours
+---
+date: "2019-04-09"
+title: "Instruction and Tours"
+---
+
 
 # Class Sessions in the Archives
 

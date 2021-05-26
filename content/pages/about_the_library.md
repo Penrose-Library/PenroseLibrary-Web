@@ -1,3 +1,8 @@
+---
+date: "2019-04-09"
+title: "About the Library"
+---
+
 # Penrose Library: An Educational Partner
 Penrose Library fosters the intellectual engagement and scholarly practice of the Whitman community. We curate and provide access to diverse and unique collections, and teach the skills and concepts needed to navigate complex information environments at Whitman and beyond.
 

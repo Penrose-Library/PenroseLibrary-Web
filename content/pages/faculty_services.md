@@ -1,3 +1,8 @@
+---
+date: "2019-04-09"
+title: "Faculty Services"
+---
+
 In brief, [Top 10 Things for Faculty to know about Penrose
 Library](http://works.whitman.edu/10things_faculty)
 

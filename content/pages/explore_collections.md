@@ -1,5 +1,8 @@
+---
+date: "2019-04-09"
+title: "Explore our Collections"
+---
 
-Explore our Collections
 
 # Collection Areas
 
