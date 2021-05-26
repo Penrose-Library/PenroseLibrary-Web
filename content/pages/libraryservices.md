@@ -1,6 +1,7 @@
 ---
 date: "2019-04-09"
 title: "Library Services"
+toc: true
 ---
 
 [In brief, Top 10 Things for Students to Know about Penrose Library.](http://works.whitman.edu/10things_student)
