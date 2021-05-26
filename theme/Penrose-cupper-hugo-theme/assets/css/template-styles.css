@@ -368,7 +368,7 @@ caption {
 }
 main {
    max-width: 95%;
-    margin: 0 auto;
+    margin: 1rem 3rem;
     padding: 1rem;
 }
 [role="contentinfo"] {
@@ -440,16 +440,28 @@ main {
 
 /* Tables of contents */
 .toc {
-    font-size: 0.85rem;
-    border: 1px solid;
-    padding: 1.5rem;
+    font-size: 0.75rem;
+    border: none;
+
+    position: fixed;
+    right: 0;
+    width: 15rem;
+    height: 100%;
+    overflow:auto;
 }
 .toc h2 {
     font-size: 1rem;
 }
-.toc ol {
+.toc ul {
     margin-left: 0.75rem;
     margin-top: 0.5rem;
+    list-style-type: none;
+}
+.toc a{
+    border-bottom: none;
+}
+.toc a:hover{
+    border-bottom: 1px solid;
 }
 
 /* Disqus Comments */
