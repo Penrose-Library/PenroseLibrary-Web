@@ -12,7 +12,7 @@ Penrose Library has been consistently highly ranked by the Princeton Review. The
 (updated Fall 2018)
 Penrose Library fosters the intellectual engagement and scholarly practice of the Whitman community. We curate and provide access to diverse and unique collections, and teach the skills and concepts needed to navigate complex information environments at Whitman and beyond.
 
-## Penrose Library Vision Statement
+# Penrose Library Vision Statement
 Penrose Library will:
 
 -Cultivate a welcoming and inclusive environment for our patrons built on shared values and transparent policies.
@@ -22,31 +22,33 @@ Penrose Library will:
 -Teach information literacy concepts to ensure that students actively and critically engage with ideas and information at Whitman and beyond.
 -Expand our role as a repository for robust, unique, and local collections that document the diverse history of the Walla Walla Valley.
 
-## Penrose Library Values Statement
-### Respect
+# Penrose Library Values Statement
+
+## Respect
 We act with empathy and kindness to instill mutual trust and we recognize the contributions of all employees. We challenge and engage each other in respectful, thoughtful ways.
 
-### Diversity and Inclusion
+## Diversity and Inclusion
 We affirm that diversity and inclusion make our institution stronger. Individuals with diverse backgrounds, experiences, and perspectives enrich our environment. We seek to champion equity.
 
-### Integrity
+## Integrity
 We strive for authenticity and accountability in our relationships with others. By our actions we demonstrate a shared responsibility and commitment to justice, service, and excellence.
 
-### Privacy and Confidentiality
+## Privacy and Confidentiality
 We protect and advocate for our users’ rights to privacy and confidentiality. We provide a safe environment for the freedom of inquiry.
 
-### Collaboration
+## Collaboration
 We value interpersonal relationships and are committed to building a cooperative, supportive, and open community. We work together to enact policies, provide services, and manage Penrose Library’s physical and digital assets.
 
-### Embracing Challenge and Change
+## Embracing Challenge and Change
 We see change as an opportunity for innovation. We accept challenges, take risks, and seek out new solutions.
 
-### Life-Long Learning
+## Life-Long Learning
 We inspire and enable each other and our patrons to pursue learning and knowledge. We believe that continuing education and professional development are crucial for all members of our community.
 
 Our values are informed by our professional standards, as set forth in the American Library Association’s [Library Bill of Rights](http://www.ala.org/advocacy/intfreedom/librarybill) and [Code of Ethics.](http://www.ala.org/tools/ethics)
 
 # Staff Directory
+
 ## Administration
 
 [Dalia Corkrum](corkrum@whitman.edu), College Librarian — 509-527-5193
@@ -135,9 +137,9 @@ Below are the positions for which students are usually employed at Penrose Libra
 Additional information about student employment can be found on the [Student Employment page](https://www.whitman.edu/student-life/student-employment) on the College’s website.
 
 # Location and Directions
-**Penrose Library
+Penrose Library
 345 Boyer Avenue
-Walla Walla, WA 99362**
+Walla Walla, WA 99362
 
 Penrose Library is located at the heart of the Whitman College campus. On the campus map below, we are building 40, to the left of Ankeny Field. Parking is available, both on street and in the lot off Park Street.
 
