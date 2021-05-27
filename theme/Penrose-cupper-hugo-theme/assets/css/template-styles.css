@@ -369,6 +369,9 @@ main {
    max-width: 95%;
    padding: 0 2rem 0 4rem;
 }
+.primary-main{
+    padding-top: 3rem;
+}
 [role="contentinfo"] {
     font-size: 0.85rem;
     margin-top: 4rem;
