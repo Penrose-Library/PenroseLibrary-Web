@@ -1,9 +1,47 @@
 /* Fonts */
-@font-face {
-    font-family: 'Miriam Libre';
-    src: url('{{ "css/fonts/miriamlibre-bold.woff2" | absURL }}') format('woff2'), url('{{ "css/fonts/miriamlibre-bold.woff" | absURL }}') format('woff');
-    font-weight: bold;
-    font-style: normal;
+@font-face{
+    font-family:"Meta Serif Offc W01 Bold";
+    src:url("https://www.whitman.edu/Fonts/1378044/7e08fa85-157b-49a7-a0b3-4e57ecfc81ae.eot?#iefix");
+    src:url("https://www.whitman.edu/Fonts/1378044/7e08fa85-157b-49a7-a0b3-4e57ecfc81ae.eot?#iefix") format("eot"),url("https://www.whitman.edu/Fonts/1378044/05ebb84f-7132-4bba-a010-01a2fb46795b.woff2") format("woff2"),url("https://www.whitman.edu/Fonts/1378044/38708e4e-3137-4130-adcc-a00a0931bfce.woff") format("woff"),url("https://www.whitman.edu/Fonts/1378044/ea2e8efb-dc49-454e-aec7-8e28be819fd2.ttf") format("truetype");
+}
+@font-face{
+    font-family:"Meta Serif Offc W01 Medium";
+    src:url("https://www.whitman.edu/Fonts/1378092/c5912438-7d11-4e53-aec7-2066db9ef4a1.eot?#iefix");
+    src:url("https://www.whitman.edu/Fonts/1378092/c5912438-7d11-4e53-aec7-2066db9ef4a1.eot?#iefix") format("eot"),url("https://www.whitman.edu/Fonts/1378092/0f21620d-7046-4d9b-8b1a-776b996ba66e.woff2") format("woff2"),url("https://www.whitman.edu/Fonts/1378092/dabb2ce5-a6e5-42bc-a433-6ea8562d099f.woff") format("woff"),url("https://www.whitman.edu/Fonts/1378092/0f5a2e8a-76ae-4d9c-9112-71333b2eacf8.ttf") format("truetype");
+}
+@font-face{
+    font-family:"Meta Serif W01 Book";
+    src:url("https://www.whitman.edu/Fonts/5558757/6d86e7e4-94d5-402e-9568-6b53d8010a3c.eot?#iefix");
+    src:url("https://www.whitman.edu/Fonts/5558757/6d86e7e4-94d5-402e-9568-6b53d8010a3c.eot?#iefix") format("eot"),url("https://www.whitman.edu/Fonts/5558757/13ba7e6e-0a1a-43e6-8e6a-d57e579931ba.woff2") format("woff2"),url("https://www.whitman.edu/Fonts/5558757/ccd8846c-4054-4b27-87bb-3680ad0f0421.woff") format("woff"),url("https://www.whitman.edu/Fonts/5558757/2de1472a-ed93-4b2b-9e52-a9cc1973d152.ttf") format("truetype");
+}
+
+@font-face{
+    font-family:"Vito Light";
+    src:url("https://www.whitman.edu/Fonts/Vito-Light.eot");
+    src:url("https://www.whitman.edu/Fonts/Vito-Light.eot?#iefix") format("embedded-opentype"),
+        url("https://www.whitman.edu/Fonts/Vito-Light.woff") format("woff"),
+        url("https://www.whitman.edu/Fonts/Vito-Light.woff2") format("woff2");
+}
+@font-face{
+    font-family:"Vito Regular";
+    src:url("https://www.whitman.edu/Fonts/Vito-Regular.eot");
+    src:url("https://www.whitman.edu/Fonts/Vito-Regular.eot?#iefix") format("embedded-opentype"),
+        url("https://www.whitman.edu/Fonts/Vito-Regular.woff") format("woff"),
+        url("https://www.whitman.edu/Fonts/Vito-Regular.woff2") format("woff2");
+}
+@font-face{
+    font-family:"Vito Medium";
+    src:url("https://www.whitman.edu/Fonts/Vito-Medium.eot");
+    src:url("https://www.whitman.edu/Fonts/Vito-Medium.eot?#iefix") format("embedded-opentype"),
+        url("https://www.whitman.edu/Fonts/Vito-Medium.woff") format("woff"),
+        url("https://www.whitman.edu/Fonts/Vito-Medium.woff2") format("woff2");
+}
+@font-face{
+    font-family:"Vito Bold";
+    src:url("https://www.whitman.edu/Fonts/Vito-Bold.eot");
+    src:url("https://www.whitman.edu/Fonts/Vito-Bold.eot?#iefix") format("embedded-opentype"),
+        url("https://www.whitman.edu/Fonts/Vito-Bold.woff") format("woff"),
+        url("https://www.whitman.edu/Fonts/Vito-Bold.woff2") format("woff2");
 }
 *,
 *::before,
@@ -129,11 +167,12 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: Miriam Libre, serif;
+    font-family: "Vito Light", sans-serif;
     line-height: 1.125;
 }
 h1 {
     font-size: 2rem;
+    font-family: "Meta Serif Offc W01 Medium", serif;
 }
 h2 {
     font-size: 1.66rem;
@@ -144,7 +183,7 @@ h3 {
 h4,
 h5 {
     font-size: 1rem;
-    font-family: PT Sans, sans-serif;
+    font-family: "Vito Light", sans-serif;
 }
 h5 {
     font-size: 0.85rem;
