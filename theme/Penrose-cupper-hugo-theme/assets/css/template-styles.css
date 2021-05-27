@@ -81,12 +81,14 @@ a {
 
 /* secondary page header image */
 .page-title {
-    background-image: url(/images/title_header.jpg);
+  /*  background-image: url(/images/title_header.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    color: #fff;
-    padding: 2rem;
+    color: #fff;*/
+    padding-top: 2rem;
+    padding-left: 2rem;
+    margin-bottom: 3rem;
     margin-top: -1.5rem;
 }
 
@@ -448,13 +450,14 @@ main {
     width: 18%;
     height: 100%;
     overflow:auto;
+    margin-top: 0;
 }
 .toc h2 {
     font-size: 1rem;
 }
 .toc ul {
     margin-left: 0.75rem;
-    margin-top: 0.5rem;
+    margin-top: 0;
     list-style-type: none;
 }
 .toc a{
