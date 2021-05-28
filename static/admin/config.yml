@@ -2,7 +2,7 @@ backend:
   name: github
   repo: Penrose-Library/PenroseLibrary-Web
   branch: master # Branch to update (optional; defaults to master)
-  base_url: https://oauthpenrose.dreamhosters.com/
+  base_url: http://gitprovider.library.whitman.edu
   #auth_endpoint: api/auth
 #local_backend: true
 # These lines should *not* be indented
