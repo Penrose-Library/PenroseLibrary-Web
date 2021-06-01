@@ -1,7 +1,7 @@
-baseURL: https://neweb.whitmanarchives.org
+baseURL: https://penroselibrary-web.pages.dev/
 languageCode: en-us
 defaultContentLanguage: en
-title: Penrose Library
+title: Penrose Library, Whitman College, Walla Walla, WA
 theme: Penrose-cupper-hugo-theme
 googleAnalytics: 
 disqusShortname: yourdiscussshortname
@@ -48,6 +48,9 @@ menu:
     - name: Library Guides
       url: https://libguides.whitman.edu/?b=s
       weight: 2
+    - name: Journal Finder
+      url: /journal-finder/
+      weight: 2      
     - name: Library Services
       url: /libraryservices/
       weight: 3
