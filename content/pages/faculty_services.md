@@ -246,7 +246,7 @@ whether your grant proposal will require additional components.
 There are links to questionnaires and other tools that can be helpful in preparing a Data Management Plan on the Penrose Library [Data Resources LibGuide](https://library.whitman.edu/guides/?url=http://libguides.whitman.edu/dataresources/dmp).
 Data Services librarian [Amy Blau](mailto:blauar@whitman.edu)(509-527-4905) is available to discuss various aspects of data management. If you are planning to submit an NSF grant, please contact Rachna Sinnott (509-527-5990) or Tana Park (509-527-5926) in the Office of Grants & Foundation Relations at least one month before the due date.They can provide guidance on grant submission procedures and compliance with College and federal requirements, including the Data Management Plan. For more information on Whitman’s policies and procedures regarding grant submission, please visit [the Grants & Foundation Relations](https://www.whitman.edu/giving/grants-and-foundation-relations) website.
 
-## [Copyright @ Whitman](https://libguides.whitman.edu/copyright_ip) {#copyright}
+## Copyright @ Whitman
 
 We’ve put together some [great resources](http://libguides.whitman.edu/copyright_ip) to help you
 navigate copyright in your academic and personal life, including fair use analysis tools and sample copyright request forms. The [Whitman College Copyright Policy](https://libguides.whitman.edu/copyright_ip) and procedures for use of copyrighted materials are also available.
