@@ -42,15 +42,24 @@ params:
 
 menu:
   nav:
-    - name: Home
-      url: /
+    - name: Database A-Z
+      url: https://libguides.whitman.edu/az.php
       weight: 1
+    - name: Lib
+      url: https://libguides.whitman.edu/?b=s
+      weight: 2
     - name: Blog
       url: /post/
-      weight: 2
+      weight: 3
+    - name: Library Services
+      url: /libraryservices/
+      weight: 4
+	- name: Faculty Services
+	  url: /faculty_services/
+	  weight: 5
     - name: About the Library
       url: /about_the_library/
-      weight: 3
+      weight: 6
 
 
 markup:
