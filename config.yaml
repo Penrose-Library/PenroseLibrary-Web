@@ -54,9 +54,9 @@ menu:
     - name: Library Services
       url: /libraryservices/
       weight: 4
-	- name: Faculty Services
-	  url: /faculty_services/
-	  weight: 5
+    - name: Faculty Services
+	    url: /faculty_services/
+	    weight: 5
     - name: About the Library
       url: /about_the_library/
       weight: 6
