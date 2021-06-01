@@ -45,20 +45,20 @@ menu:
     - name: Database A-Z
       url: https://libguides.whitman.edu/az.php
       weight: 1
-    - name: Lib
+    - name: Library Guides
       url: https://libguides.whitman.edu/?b=s
       weight: 2
-    - name: Blog
-      url: /post/
-      weight: 3
     - name: Library Services
       url: /libraryservices/
-      weight: 4
+      weight: 3
     - name: Faculty Services
       url: /faculty_services/
-      weight: 5
+      weight: 4
     - name: About the Library
       url: /about_the_library/
+      weight: 5
+    - name: Blog
+      url: /post/
       weight: 6
 
 
