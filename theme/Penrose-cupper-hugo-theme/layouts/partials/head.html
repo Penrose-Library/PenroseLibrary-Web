@@ -41,6 +41,5 @@
   {{ if .IsHome }}
     {{ $title = .Site.Title }}
   {{ end }}
-  {{ `<!--[if IE]>        <link rel="stylesheet" type="text/css" href="/css/ie-only.css">    <![endif]-->` | safeHTML }}
   <title>{{ $title }}</title>
 </head>
