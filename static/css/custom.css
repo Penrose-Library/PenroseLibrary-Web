@@ -37,7 +37,7 @@
   padding: 2em;
   max-width: 40rem;
   margin: 0 auto;
-  margin-bottom: 12rem;
+  margin-bottom: 1rem;
 }
 .nobackground{
   background: none;
@@ -46,7 +46,20 @@
 #radioscope{
   border: none;
 }
+#announcement{
+  padding: 2rem;
+  max-width: 40rem;
+  margin: 0 auto;
+  margin-bottom: 4rem;
+  min-height: 2rem;
+}
+#announcement p{
+  background: none;
+}
 
+#announcement:not(:empty){
+  background-color: rgba(255, 255, 255, 0.8); /* home page background transpancy */
+}
 /* Grid System for homepage */
 .grid-container {
   display: grid;

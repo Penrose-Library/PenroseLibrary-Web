@@ -36,7 +36,7 @@
   left: auto;
   margin-right: .5em;
 }
-/* used pseudo-element to make arrows */
+/* used pseudo-element to make arrows 
 .simpletooltip::before,
 .minimalist-simpletooltip::before,
 .minimalist-left-simpletooltip::before {
@@ -63,7 +63,7 @@
   border: 10px solid transparent;
   border-left: 10px solid rgba( 0, 0, 0, .9 )
 }
-
+*/
 /* it can be easily adapted in media-queries for tablets/mobile */
 
 /* for this example: mobile */
