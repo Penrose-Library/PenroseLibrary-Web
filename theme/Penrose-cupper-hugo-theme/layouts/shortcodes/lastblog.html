@@ -1,7 +1,11 @@
 {{ range ( where .Site.RegularPages "Type" "post" | first 1 ) }}
-<div><a href="{{ .Permalink }}">{{ .Title }}</a>
-{{ if isset .Params "thumbnail" }} <img src="{{ .Params.thumbnail }}" alt="{{ .Params.thumbnail_alt }}" />{{ end }}
-    <p>{{.Summary | truncate 70 }}</p>
-
+<div class="card medium">
+    <div id="blog-jacket">
+        {{ if isset .Params "thumbnail" }} <img class="responsive-img" src="{{ .Params.thumbnail }}" alt="{{ .Params.thumbnail_alt }}" />{{ end }}
+    </div>
+    <div class="jacket-title">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <p>{{.Summary | truncate 70 }}</p>
+    </div>
 </div>
 {{end}}

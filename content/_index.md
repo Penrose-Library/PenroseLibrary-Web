@@ -88,6 +88,6 @@ toc: false
     </ul>
 </div>
 <div class="Area-4 box">BOX 4 Area</div>
-<div class="Area-5 box">{{< lastblog >}}</div>
+<div class="Area-5 box" style="padding:0">{{< lastblog >}}</div>
 <div class="Area-6 box">BOX 6 Area</div>
 </div>

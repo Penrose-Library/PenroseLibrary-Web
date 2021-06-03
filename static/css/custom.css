@@ -86,6 +86,28 @@
     min-height: 7rem;
 }
 
+.card.small, .card.medium, .card.large {
+    position: relative;
+    height: 18rem;
+}
+.card {
+    position: relative;
+    background-color: #fff;
+    transition: box-shadow .25s;
+    border-radius: 2px;
+}
+.jacket-title{
+  border-radius: 0 0 2px 2px;
+  padding:1rem;
+  width:100%;
+  bottom:0;
+  position:absolute;
+  background:rgba(255,255,255,0.93);
+}
+.jacket-title p{
+    font-size: 11pt;
+}
+
 /* Media queries */
 @media screen and (max-width: 60rem) {
 /* Grid System for homepage */
