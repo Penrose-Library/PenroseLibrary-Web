@@ -1,7 +1,8 @@
 ---
 title: Summer hours and access
 date: 2021-06-03T20:03:17.628Z
-thumbnail: static/uploads/horse_penrose.jpg
+thumbnail: uploads/horse_penrose.jpg
+thumbnail_alt: "Penrose Library image with Whitman Horse"
 ---
 Our Summer hours are 9am-5pm, Monday through Friday.
 
