@@ -1,3 +1,7 @@
  #homepage-main-and-footer{
      background-repeat: repeat-x;
  }
+
+ .box{
+     border: 1px solid;
+ }
