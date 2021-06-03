@@ -1,0 +1,6 @@
+{{ range ( where .Site.RegularPages "Type" "post" | first 1 ) }}
+<div><a href="{{ .Permalink }}">{{ .Title }}</a>
+    <p>{{.Summary | truncate 70 }}</p>
+
+</div>
+{{end}}

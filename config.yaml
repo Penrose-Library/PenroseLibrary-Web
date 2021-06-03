@@ -6,6 +6,7 @@ theme: Penrose-cupper-hugo-theme
 googleAnalytics: 
 disqusShortname: yourdiscussshortname
 enableGitInfo: true
+summaryLength: 25
 
 taxonomies:
   tag: tags
@@ -43,7 +44,7 @@ params:
 menu:
   nav:
     - name: Database A-Z
-      url: https://libguides.whitman.edu/az.php
+      url: /A_Z_list/
       weight: 1
     - name: Library Guides
       url: https://libguides.whitman.edu/?b=s
@@ -86,6 +87,7 @@ markup:
       hardWraps: false
       unsafe: true
       xHTML: false
+
   highlight:
     codeFences: false
     hl_Lines: ""

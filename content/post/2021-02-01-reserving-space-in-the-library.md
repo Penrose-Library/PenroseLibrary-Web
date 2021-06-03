@@ -2,12 +2,11 @@
 ID: 1488
 title: Reserving space in the library
 author: Emily Pearson
-post_excerpt: ""
+post_excerpt: "The library will be open to <strong>faculty, staff, and current students</strong> during the following hours, starting <strong>February 1st</strong>"
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/reserving-space-in-the-library/
 published: true
 post_date: 2021-02-01 11:36:43
+date: 2021-02-01 11:36:43
 ---
 <!-- wp:heading {"level":4} -->
 <h4>The library will be open to <strong>faculty, staff, and current students</strong> during the following hours, starting <strong>February 1st</strong>:</h4>
