@@ -421,7 +421,8 @@ main {
    padding: 0 2rem 0 4rem;
 }
 .primary-main{
-    padding-top: 3rem;
+    padding: 3rem 2rem 0rem 1rem;
+    max-width: 100%;
 }
 [role="contentinfo"] {
     font-size: 0.85rem;
