@@ -25,7 +25,7 @@ toc: false
 
 </div>
 <button id="jformbutton" class="btn" type="botton" value="Search" onclick="searchPrimoJournals()">Search</button>
-<label style="margin-left:1rem">Omit initial articles such as "the," "a," "le"... </label>
+<label>Omit initial articles such as "the," "a," "le"... </label>
 </form>
 
 
