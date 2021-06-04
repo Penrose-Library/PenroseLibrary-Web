@@ -54,10 +54,6 @@
   margin-bottom: 4rem;
   min-height: 2rem;
 }
-#announcement p{
-  background: none;
-}
-
 #announcement:not(:empty){
   background-color: rgba(255, 255, 255, 0.8); /* home page background transpancy */
 }
@@ -84,6 +80,7 @@
     box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 12%), 0 1px 5px 0 rgb(0 0 0 / 20%);
     padding:1em;
     min-height: 7rem;
+    overflow: hidden;
 }
 
 .card.small, .card.medium, .card.large {
@@ -106,6 +103,7 @@
 }
 .jacket-title p{
     font-size: 11pt;
+    margin-top:0.5rem;
 }
 
 /* Media queries */
