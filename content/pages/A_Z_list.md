@@ -1,9 +1,7 @@
-
 ---
-date: "2021-06-02"
-title: "Databases A-Z"
+title: Database A-Z
+date: 2021-06-21T21:58:53.672Z
 ---
-
 
 <script async src="//lgapi-us.libapps.com//web/js/sa.js" ></script><script>springshare_widget_config_1622747636763 = { path: 'assets' };</script>
 <label for="a-z" style="width:100%;">Search for database</label>
