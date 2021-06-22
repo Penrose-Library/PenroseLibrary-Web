@@ -289,7 +289,7 @@ The Library subscribes to the American Library Association’s Library Bill of R
 
 Endorsed by the Library Advisory Committee, 30 January 2020.
 
-### Library Accessibility Statement
+## Library Accessibility Statement
 If you have materials from Penrose that are not accessible, please fill out the [remediation form](https://docs.google.com/forms/d/e/1FAIpQLSfQ2N29D31VdMwPZ6Fex9HvWTbwfNxnb_i-212wlHxr46V_gg/viewform?usp=sf_link) to the best of your ability or contact us at library@whitman.edu. See below for more information.
 
 Penrose Library is committed to providing equitable access to library collections, services, and facilities for all library users as stated in the Penrose Library’s [Mission and Values statement](https://library.whitman.edu/about-the-library/#Penrose) and the Whitman College [Strategic Priorities.](https://www.whitman.edu/newsroom/archive/2017/strategic-priorities) Penrose Library strives to follow universal design principles and create physical and digital environments that address the needs of the broadest range of patrons possible by following the best practices and standards for accessibility. For web pages and systems under our direct control, we will work to update them to adhere to [WCAG 2.0.](https://www.w3.org/WAI/standards-guidelines/wcag/) For materials and systems licensed from third-party vendors, we will communicate issues brought to our attention with the vendors and work with them to address deficiencies. Penrose Library seeks to select and acquire, whenever possible, resources and technologies that are in line with universal design principles.
