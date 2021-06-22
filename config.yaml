@@ -1,4 +1,4 @@
-baseURL: https://penroselibrary-web.pages.dev/
+baseURL: https://penrose.whitman.edu
 languageCode: en-us
 defaultContentLanguage: en
 title: Penrose Library, Whitman College, Walla Walla, WA
@@ -26,18 +26,16 @@ params:
   MatomoSiteID: 1
   dateFormat: Jan 2, 2006
   codePenUser: someUser
-  katex: true
+  katex: false
   hideHeaderLinks: false
   search: true
   showThemeSwitcher: false
   moveFooterToHeader: false
   customCss:
- #   - css/bootstrap.min.css
     - css/simple-tooltip.css
     - css/custom.css
   customJs:
     - js/jquery-3.6.0.min.js
-  #  - js/bootstrap.min.js
     - js/home-searchbox.js
     - js/van11y-accessible-simple-tooltip-aria.min.js
 
