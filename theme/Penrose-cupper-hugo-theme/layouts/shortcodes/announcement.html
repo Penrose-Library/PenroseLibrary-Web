@@ -1,0 +1,4 @@
+{{ $file := .Get "file" | readFile }}
+<div id="announcement">
+    <p>{{ (print $file ) | markdownify }}</p>
+</div>
