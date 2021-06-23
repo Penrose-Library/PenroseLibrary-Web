@@ -405,8 +405,11 @@ caption {
     border: 0;
 }
 .logo img {
-    width: 100%;
-    max-width: 8rem;
+    width: 50%;
+    max-width: 6rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .library-desc {
     margin-top: 0.5rem;
