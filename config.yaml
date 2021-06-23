@@ -47,12 +47,9 @@ menu:
     - name: Library Guides
       url: https://libguides.whitman.edu/?b=s
       weight: 3
-    - name: How do I?
+    - name: Library FAQ
       url: http://asklibrarian.whitman.edu/
       weight: 5
-    - name: Journal Finder
-      url: /journal-finder/
-      weight: 7
     - name: Contact a Librarian
       url: /contact_librarian/
       weight: 9        
@@ -68,9 +65,15 @@ menu:
     - name: ARMINDA
       url: https://arminda.whitman.edu
       weight: 17
-    - name: Blog
-      url: /post/
+    - name: Course Reserves
+      url: /course-reserves
       weight: 19
+    - name: Archives
+      url: /archives
+      weight: 21
+    - name: Thesis
+      url: /thesis
+      weight: 23
 
 
 markup:
