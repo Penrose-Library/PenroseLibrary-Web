@@ -19,7 +19,7 @@ imaging:
   quality: 99
 
 params:
-  description: Penrose Library NxtGen website. Under Deveopment. Do not use.
+  description: 
   homeMetaContent: Penrose Library NG website. Deveopment. Do not use
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to Cloudflare Page.
   # For more date formats see https://gohugo.io/functions/format/
