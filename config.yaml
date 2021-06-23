@@ -71,6 +71,9 @@ menu:
     - name: Thesis
       url: /thesis
       weight: 21
+    - name: Blog
+      url: /blog
+      weight: 27
 
 
 markup:
