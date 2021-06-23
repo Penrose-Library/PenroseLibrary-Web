@@ -49,10 +49,10 @@ menu:
       weight: 3
     - name: Library FAQ
       url: http://asklibrarian.whitman.edu/
-      weight: 5
-    - name: Contact Librarian
+      weight: 7
+    - name: Contact Librarians
       url: /contact_librarian/
-      weight: 9        
+      weight: 6       
     - name: Library Services
       url: /libraryservices/
       weight: 11
@@ -70,7 +70,7 @@ menu:
       weight: 19
     - name: Archives
       url: /archives
-      weight: 6
+      weight: 5
     - name: Thesis
       url: /thesis
       weight: 21
