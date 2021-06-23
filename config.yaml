@@ -50,7 +50,7 @@ menu:
     - name: Library FAQ
       url: http://asklibrarian.whitman.edu/
       weight: 5
-    - name: Contact a Librarian
+    - name: Contact Librarian
       url: /contact_librarian/
       weight: 9        
     - name: Library Services
@@ -61,19 +61,19 @@ menu:
       weight: 13
     - name: About the Library
       url: /about_the_library/
-      weight: 15
+      weight: 25
     - name: ARMINDA
       url: https://arminda.whitman.edu
-      weight: 17
+      weight: 23
     - name: Course Reserves
       url: /course-reserves
       weight: 19
     - name: Archives
       url: /archives
-      weight: 21
+      weight: 6
     - name: Thesis
       url: /thesis
-      weight: 23
+      weight: 21
 
 
 markup:
