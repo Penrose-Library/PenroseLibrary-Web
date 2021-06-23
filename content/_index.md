@@ -48,7 +48,7 @@ toc: false
 
 </form>
 </div>
- {{% code file="announcement.md" %}}
+ {{% includefile file="announcement.md" %}}
 
 <div class="grid-container">
   <div class="Area-1 box">
