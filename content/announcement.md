@@ -1,1 +1,3 @@
-This is announcement
+<div id="announcement">
+    <p>This is announcement</p>
+</div>
