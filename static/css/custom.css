@@ -33,7 +33,7 @@
   background: none;
 }
 .searchbox{
-  background-color: rgba(255, 255, 255, 0.7); /* home page background transpancy */
+  background-color: rgba(255, 255, 255, 0.8); /* home page background transpancy */
   padding: 2em;
   max-width: 40rem;
   margin: 0 auto;
