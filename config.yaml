@@ -47,15 +47,12 @@ menu:
     - name: Library Guides
       url: https://libguides.whitman.edu/?b=s
       weight: 3
-    - name: Library FAQ
-      url: http://asklibrarian.whitman.edu/
+    - name: FAQ & Services
+      url: /libraryservices/
       weight: 7
     - name: Contact Librarians
       url: /contact_librarian/
       weight: 6       
-    - name: Library Services
-      url: /libraryservices/
-      weight: 11
     - name: Faculty Services
       url: /faculty_services/
       weight: 13
