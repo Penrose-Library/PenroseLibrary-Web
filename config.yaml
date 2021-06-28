@@ -35,8 +35,9 @@ params:
     - css/simple-tooltip.css
     - css/custom.css
   customJs:
-    - js/jquery-3.6.0.min.js
+   - js/jquery-3.6.0.min.js
     - js/home-searchbox.js
+    - js/custom.js
     - js/van11y-accessible-simple-tooltip-aria.min.js
 
 menu:
