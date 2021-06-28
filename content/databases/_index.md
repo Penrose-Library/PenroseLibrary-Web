@@ -1,3 +1,0 @@
----
-title: Database A-Z
----
