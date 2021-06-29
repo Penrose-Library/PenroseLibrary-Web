@@ -14,6 +14,7 @@ taxonomies:
 permalinks:
   post: /blog/:filename/
   pages: /:filename/
+  archives: /archives/:filename/
 
 imaging:
   quality: 99
