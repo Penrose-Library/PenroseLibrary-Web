@@ -21,11 +21,12 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --themesDir ./theme
+        run: hugo
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: Public_Web
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: Penrose-Library/PenroseLibrary_Website_Public
+          publish_branch: main
           publish_dir: ./public
