@@ -19,7 +19,7 @@ title: "Course Reserves"
 
 Enter course number, instructor's name, or choose from list below.
 <div class="mdi-action-search black-text icon323"></div>
-<input type="text" placeholder="Search Course Reserves;" value="" id="primoQueryTemp">
+<input type="text" placeholder="Search Course Reserves;" value="" id="primoQueryTemp" class="form-control">
 <button class="btn white-text waves-effect waves-light" id="search-button" style="display:inline">Search</button>
 
 </div>
