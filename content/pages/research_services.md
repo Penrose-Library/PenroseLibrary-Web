@@ -3,8 +3,6 @@ date: "2019-04-09"
 title: "Information for Researchers"
 ---
 
-
-
 # Reading Room Procedures
 
 The Reading Room is open to the public from 9am-4pm, Monday through Friday. Appointments are encouraged, but not required. Appointments can be made by emailing archives@whitman.edu or calling 509-527-5922.
