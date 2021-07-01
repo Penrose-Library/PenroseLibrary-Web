@@ -4,6 +4,11 @@ title: "Library Services"
 toc: true
 ---
 
+## Search Library FAQ
+<script src="https://asklibrarian.whitman.edu/1.0/widgets/14974"></script>
+<div id="s-la-widget-14974"></div>
+
+
 [In brief, Top 10 Things for Students to Know about Penrose Library.](http://works.whitman.edu/10things_student)
  
 
