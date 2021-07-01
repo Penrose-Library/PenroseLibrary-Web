@@ -67,7 +67,6 @@ $(document).ready(function(e) {
 								$('#tbd-course').append(output);
 								}
    							 });
-
 	$("#primoQueryTemp").change(function(){
 			$("#primoQuery").val("any,contains," + $("#primoQueryTemp").val());
 	})
