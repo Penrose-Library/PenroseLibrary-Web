@@ -7,9 +7,6 @@ title: "Contact a Librarian"
 $(document).ready(function(e){$('#s-la-askform-submit-21757').click(function(e){$('div.preloader-wrapper').show();$.ajax({url:"https://api2.libanswers.com/1.0/form/submit",data:$('#s-la-askform-form_21757').serialize(),success:function(d){$('div#result').html('<p>'+d.message+'</p>');$('div.preloader-wrapper').hide();},type:'POST',dataType:'json'}).fail(function(){$('div.preloader-wrapper').hide();$('div#result').html('<p>Error: Please try again</p>');});});});
 </script>
 <div class="section">
-<h5>Contact a Librarian</h5>
-<p id="libchat_776a12eb7834f00b1664afc3f902f086" style="margin-top:1em"></p>
-
 <form id="s-la-askform-form_21757" action="" enctype="multipart/form-data" method="post" name="s-la-askform-form_21757"><input name="instid" type="hidden" value="1367">
 <input name="quid" type="hidden" value="1240">
 <input name="qlog" type="hidden" value="0">
