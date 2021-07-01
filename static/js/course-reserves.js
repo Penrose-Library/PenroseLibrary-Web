@@ -1,6 +1,6 @@
 $(document).ready(function(e) {
 	$.ajax({
-                            url: 'http://library.whitman.edu/php/coursereserve.php',
+                            url: 'https://library.whitman.edu/php/coursereserve.php',
                             type: 'GET',
                             dataType: 'json'
  							}).done(function( msg ) {
