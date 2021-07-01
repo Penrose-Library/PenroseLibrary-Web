@@ -300,3 +300,12 @@ If you have materials from Penrose that are not accessible, please fill out the 
 Penrose Library is committed to providing equitable access to library collections, services, and facilities for all library users as stated in the Penrose Library’s [Mission and Values statement](https://library.whitman.edu/about-the-library/#Penrose) and the Whitman College [Strategic Priorities.](https://www.whitman.edu/newsroom/archive/2017/strategic-priorities) Penrose Library strives to follow universal design principles and create physical and digital environments that address the needs of the broadest range of patrons possible by following the best practices and standards for accessibility. For web pages and systems under our direct control, we will work to update them to adhere to [WCAG 2.0.](https://www.w3.org/WAI/standards-guidelines/wcag/) For materials and systems licensed from third-party vendors, we will communicate issues brought to our attention with the vendors and work with them to address deficiencies. Penrose Library seeks to select and acquire, whenever possible, resources and technologies that are in line with universal design principles.
 
 Penrose Library will provide patrons alternative formats or assistance when resources are not fully accessible. Please fill out the [remediation form](https://docs.google.com/forms/d/e/1FAIpQLSfQ2N29D31VdMwPZ6Fex9HvWTbwfNxnb_i-212wlHxr46V_gg/viewform?usp=sf_link) to the best of your ability or contact us at library@whitman.edu with questions. We will try and fill requests in as timely a manner as possible. This form is sent to Emily Pearson (Instructional and Research Services Librarian), Kun Lin (Systems Librarian), and Antonia Keithahn (Assistant Director of Disability Support Services). We will maintain the data to find patterns in inaccessible material, but will not keep records of who requested materials once we fulfill a request.
+
+## Frequently used Forms
+
+- [General Library Materials Gift Form](http://works.whitman.edu/giftform)
+- [Honors Thesis related Forms](https://libguides.whitman.edu/c.php?g=1023668&p=8099020)
+- [Recording Consent & Copyright Release Form](http://works.whitman.edu/recordingconsentform)
+- [Senior Privileges Form](http://works.whitman.edu/seniorprivileges)
+- [Special Collections Materials Gift Form](http://works.whitman.edu/archivesgiftform)
+- [Suggest a Purchase Form](https://goo.gl/forms/c88IYFI6ZPPZpg8C2)
