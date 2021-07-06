@@ -58,7 +58,6 @@ function load_newitem(){
 	});
 	
 	//library hours
-    /*
 	var today = new Date();
 	var dd = today.getDate();
 	var mm = today.getMonth(); //January is 0!
@@ -87,14 +86,13 @@ function load_newitem(){
 		if(typeof hours[x] !== 'undefined'){
 			if( hours[x].notes !== null ){
 				console.log(hours[x]);
-				refhtml=' <div class="reference-text left col s8">                <span style="font-weight: bold;font-size: 13px; line-height: 16px; color:green">'+hours[x].notes.name+'</span> is available for chat until '+hours[x].dtend+'<br/><a href="mailto:'+hours[x].notes.email+'">'+hours[x].notes.email+'</a><br/>Call: 833PENROSE (833-736-7673) and leave a voicemail.</div>                <div class="reference-picture left col s4 hide-on-med-only">   <img src="'+hours[x].notes.photo+'" class="responsive-img" style="width:80%" alt="'+hours[x].notes.name+'"/></div>';
-				//refhtml=' <div class="reference-text left col s8">                <span style="font-weight: bold;font-size: 13px; line-height: 16px; color:green">'+hours[x].notes.name+'</span> will be in office '+hours[x].notes.office+' until '+hours[x].dtend+'<br/><a href="mailto:'+hours[x].notes.email+'">'+hours[x].notes.email+'</a><br>'+hours[x].notes.phone+'</div>                <div class="reference-picture left col s4 hide-on-med-only">   <img src="'+hours[x].notes.photo+'" class="responsive-img" alt="'+hours[x].notes.name+'"/></div>';
+				refhtml='<div class="reference-text no-up-margin"><span style="color:green">'+hours[x].notes.name+'</span> is available for chat until '+hours[x].dtend+'<br/><a href="mailto:'+hours[x].notes.email+'">'+hours[x].notes.email+'</a>.</div>  <div class="reference-picture no-up-margin">   <img src="'+hours[x].notes.photo+'" class="responsive-img reference-img no-up-margin" style="width:30%" alt="'+hours[x].notes.name+'"/></div>';
+				
 			}//end first if
 			}//end if
 		}//end for
 		$('#reference').html(refhtml);
 		});
-        */
 	//new item function*/
 	$.ajax({
        url: 'https://penroselib-php.herokuapp.com/newitem/newlist_feed.php',

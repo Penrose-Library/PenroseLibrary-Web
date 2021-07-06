@@ -52,15 +52,18 @@ toc: false
 
 <div class="grid-container">
   <div class="Area-1 box">
+   <h3>Hours and Contact</h3>
         <span id="date">&nbsp;</span>
         <p id="today">&nbsp;</p>
         <p class="t">Circulation: 509-527-5192 &nbsp; library@whitman.edu</p>
-        <a href="#">Research Help:</a>
+        <p>Research Help:</p>
         <p id="libchat_776a12eb7834f00b1664afc3f902f086" style="margin-top:1em"></p>
         <a class="waves-effect waves-light btn" href="/contact-a-librarian/" target="_blank" rel="noopener noreferrer">Ask Librarian via Email</a>
+        <div id="reference"></div>
 </div>
 <div class="Area-2 box" style="padding:0">{{< lastblog >}}</div>
 <div class="Area-3 box">
+<h3>Building Info</h3>
     <p>Study Rooms</p>
     <span id="studyroom" class="no-up-margin">&nbsp;</span>
     <p>Bike Shares</p>
