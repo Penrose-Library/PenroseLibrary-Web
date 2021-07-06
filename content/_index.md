@@ -59,26 +59,14 @@ toc: false
         <p id="libchat_776a12eb7834f00b1664afc3f902f086" style="margin-top:1em"></p>
         <a class="waves-effect waves-light btn" href="/contact-a-librarian/" target="_blank" rel="noopener noreferrer">Ask Librarian via Email</a>
 </div>
-<div class="Area-2 box">
-    <table><tbody><tr><th><a href="//v2.libanswers.com/chati.php?hash=776a12eb7834f00b1664afc3f902f086&referer=https%3A%2F%2Flibrary.whitman.edu%2F&referer_title=Penrose%20Library" target="_blank" rel="noopener noreferrer">Chat with Librarians</a></th>
-    <td><img class="px1" src="https://library.whitman.edu/images/green.png" alt="Availability" title="Available">Available</td>
-    </tr><tr><th ><a href="https://library.whitman.edu/archives/">Archives</a></th>
-    <td><img class="px1" src="https://library.whitman.edu/images/yellow.png" alt="Some Availability" title="Some Availability"><a href="mailto:archives@whitman.edu">By Appointment</a></td>
-    </tr><tr><th><a href="https://libguides.whitman.edu/c.php?g=1011506&p=7435757#s-lg-box-wrapper-28743032">Access to Physical Materials</a></th>
-    <td><img class="px1" src="https://library.whitman.edu/images/green.png" alt="Available" title="Available">Pickup or Mail delivery</td>
-    </tr><tr><th><a href="https://libguides.whitman.edu/c.php?g=1011506&p=7435757#s-lg-box-wrapper-29330918">Summit and Interlibrary Loan</a></th>
-    <td><img class="px1" src="https://library.whitman.edu/images/green.png" alt="Available" title="Available">Available</td>
-    </tr><tr><th>Electronic Resources</th>
-    <td><img class="px1" src="https://library.whitman.edu/images/green.png" alt="Available" title="Available">Available</td>
-    </tr><tr><th><a href="https://libguides.whitman.edu/c.php?g=1011506&p=8124009">Building Access</a></th>
-    <td><img class="px1" src="https://library.whitman.edu/images/green.png" alt="Available" title="Available">Current faculty, student & staff</td>
-    </tr></tbody></table>
-</div>
+<div class="Area-2 box" style="padding:0">{{< lastblog >}}</div>
 <div class="Area-3 box">
-    <p style="font-weight: bold; font-size: 12px;">Study Rooms</p>
-    <span id="studyroom">&nbsp;</span>
-    <p style="font-weight: bold; font-size: 12px;">Building Occupancy</p>
-    <span id="buildingoccupancy">&nbsp;</span> 
+    <p>Study Rooms</p>
+    <span id="studyroom" class="no-up-margin">&nbsp;</span>
+    <p>Bike Shares</p>
+    <span id="bikeshare" class="no-up-margin">&nbsp;</span>
+    <p>Building Occupancy</p>
+    <span id="buildingoccupancy" class="no-up-margin">&nbsp;</span> 
     <ul class="underline_li">
         <li><a id="mapclick" href="#mapt">Building Map</a></li>
         <li><a href="https://sherlock.whitman.edu/primo-explore/account?vid=WHITC_NEW&amp;lang=en_US&amp;section=overview">My Library Account</a></li>
@@ -88,6 +76,8 @@ toc: false
     </ul>
 </div>
 <div class="Area-4 box">BOX 4 Area</div>
-<div class="Area-5 box" style="padding:0">{{< lastblog >}}</div>
+<div class="Area-5 box" id="newitem" style="padding:0"></div>
 <div class="Area-6 box">BOX 6 Area</div>
 </div>
+
+<script src="/js/init-home.js"></script>
