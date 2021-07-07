@@ -30,3 +30,4 @@ jobs:
           external_repository: Penrose-Library/PenroseLibrary_Website_Public
           publish_branch: main
           publish_dir: ./public
+          exclude_assets: ./archives
