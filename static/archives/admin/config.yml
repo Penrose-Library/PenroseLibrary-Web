@@ -1,0 +1,30 @@
+backend:
+  name: github
+  repo: Penrose-Library/Archives-Website
+  branch: master # Branch to update (optional; defaults to master)
+  base_url: https://penroseoauthprovider.herokuapp.com/
+  #auth_endpoint: api/auth
+#local_backend: true
+# These lines should *not* be indented
+media_folder: "static/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "archives/uploads" # The src attribute for uploaded media will begin with /images/uploads
+collections:
+  - label: "Pages"
+    name: "pages"
+    folder: "content/pages"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "homepage"
+    label: "homepage"
+    create: false
+    slug: "{{slug}}"
+    files:
+      - file: "content/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+        - {label: "Publish Date", name: "date", widget: "datetime"}
+        - {label: "Body", name: "body", widget: "markdown"}
