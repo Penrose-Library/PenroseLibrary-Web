@@ -17,10 +17,10 @@ goals](https://library.whitman.edu/wp-content/uploads/2020/06/Information-Litera
 
 You may request an instructional session for your class. We work with students to help them develop search strategies, find and evaluate resources, and use resources effectively in coursework. And we will work with you to tailor our instruction to meet your specific course needs. Our program of instruction is developed in collaboration with classroom faculty to build general information literacy skills and is designed to fit into the framework of your course. Instruction provides students with
 
--   information tailored to course projects and assignments
--   exposure to discipline-specific research tools
--   hands-on experience with relevant print and electronic resources
--   experience with research strategies and information literacy skills
+- Information tailored to course projects and assignments
+- Exposure to discipline-specific research tools
+- Hands-on experience with relevant print and electronic resources
+- Experience with research strategies and information literacy skills
 
 Instruction includes presentations and hands-on active learning components, as well as class discussion. You may schedule an instruction session in the Center for Teaching and Learning, college classrooms or college computer labs. Please contact [Lee Keene](mailto:keenelp@whitman.edu) (509-527-5917), Head of Instructional and Research Services, to schedule your session.
 
@@ -122,16 +122,24 @@ Pope](mailto:popeja@whitman.edu). Materials to be scanned, or put on reserve in 
 
 ### What can be put on reserve?
 
-**Library books, videos, CDs, and DVDs** Please gather together the library materials you would like on reserve for your courses.Reference books and periodicals do no circulate outside the library and are not normally placed on reserve.
-**Streaming medias** Portions of or entire media could be put on course reserves if certain conditions are met. Please refer to our [video streaming course reserve
+- **Library books, videos, CDs, and DVDs** Please gather together the library materials you would like on reserve for your courses.Reference books and periodicals do no circulate outside the library and are not normally placed on reserve.
+
+- **Streaming medias** Portions of or entire media can be put on course reserves if certain conditions are met. Please refer to our [video streaming course reserve
 policy](https://works.whitman.edu/streamingmediapolicy) for details.[Video Streaming course reserves request form](https://works.whitman.edu/streamingmediaform) could be filled out online for request processing.
-**Books not owned by the library** The Library will attempt to purchase books needed for reserve use. You may request them by contacting the [Acquisitions Department](mailto:stelkre@whitman.edu). Please be sure to indicate that the item is for reserve, and provide the course number.
-**Personal books, videos, CDs, and DVDs** Personal copies may be placed on reserve if the Library does not own the item. Please mark these with your name. Note: Personal copies must be marked and barcoded for use with our circulation system. The Library cannot assume liability for materials that are worn, torn, mutilated, or stolen.
-**Photocopies** Faculty are responsible for providing clean, single-sided, unstapled photocopies. Photocopies must be accompanied by a Reserve Request Form and a full bibliographic citation. The Library subscribes to a number of databases that allow durable links to journal and newspaper articles. The Library will link to materials through library databases when possible.
-**Required vs. Recommended Reading** Space is limited on reserve shelves, so only those materials that are required reading, viewing, or listening for coursework are put on reserve. Items which are recommended but not required should not be placed on reserve.
-**Summit and ILL materials will not be placed on reserve–no exceptions!**
-**Textbooks** Textbooks will be placed on reserve only when the Bookstore has insufficient copies to meet demand and additional copies are on order.
-**Items may not remain on reserve indefinitely.** All items are removed from reserve at the end of each term.
+
+- **Books not owned by the library** The Library will attempt to purchase books needed for reserve use. You may request them by contacting the [Acquisitions Department](mailto:stelkre@whitman.edu). Please be sure to indicate that the item is for reserve, and provide the course number.
+
+- **Personal books, videos, CDs, and DVDs** Personal copies may be placed on reserve if the Library does not own the item. Please mark these with your name. Note: Personal copies must be marked and barcoded for use with our circulation system. The Library cannot assume liability for materials that are worn, torn, mutilated, or stolen.
+
+- **Photocopies** Faculty are responsible for providing clean, single-sided, unstapled photocopies. Photocopies must be accompanied by a Reserve Request Form and a full bibliographic citation. The Library subscribes to a number of databases that allow durable links to journal and newspaper articles. The Library will link to materials through library databases when possible.
+
+- **Required vs. Recommended Reading** Space is limited on reserve shelves, so only those materials that are required reading, viewing, or listening for coursework are put on reserve. Items which are recommended but not required should not be placed on reserve.
+
+- **Summit and ILL materials will not be placed on reserve–no exceptions!**
+
+- **Textbooks** Textbooks will be placed on reserve only when the Bookstore has insufficient copies to meet demand and additional copies are on order.
+
+- **Items may not remain on reserve indefinitely.** All items are removed from reserve at the end of each term.
 
 ### View a Reserve List
 
@@ -148,7 +156,7 @@ Questions? Please contact [Jen Pope.](mailto:popeja@whitman.edu)
 
 ## Honors Thesis FAQ for Faculty 
 
-Changes have been made to the faculty code in regard to what is required for submission to the library. Starting this year, honors thesis students students are only required to submit a digital copy of the thesis. Students who choose to allow worldwide (open) access to their thesis may elect to also deposit a paper copy of their thesis that will be bound and shelved in the Allen Reading Room and can circulate on campus and through Interlibrary Loan. Students who have completed an honors project are required to deposit a report on that project. For faculty, key points include the following:
+Changes have been made to the faculty code in regard to what is required for submission to the library. Honors thesis students students are only required to submit a digital copy of the thesis. Students who choose to allow worldwide (open) access to their thesis may elect to also deposit a paper copy of their thesis that will be bound and shelved in the Allen Reading Room and can circulate on campus and through Interlibrary Loan. Students who have completed an honors project are required to deposit a report on that project. For faculty, key points include the following:
 
 ### Where can I find thesis submission guidelines?
 
@@ -156,7 +164,7 @@ Complete guidelines on formatting and submission can be found[here](https://libr
 
 ### When is the deadline?
 
-Both digital and (where relevant) print theses are due in the library no later than Reading Day of Spring Semester, May 13, 2020. Signed certificates of approval and non exclusive distribution licenses also must be turned in no later than this date.
+Both digital and (where relevant) print theses are due in the library no later than Reading Day. Signed certificates of approval and non exclusive distribution licenses also must be turned in no later than this date.
 
 ### How do students submit digital copies?
 
