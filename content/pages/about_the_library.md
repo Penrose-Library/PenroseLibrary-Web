@@ -12,94 +12,45 @@ Penrose Library has been consistently highly ranked by the Princeton Review. The
 (updated Fall 2018)
 Penrose Library fosters the intellectual engagement and scholarly practice of the Whitman community. We curate and provide access to diverse and unique collections, and teach the skills and concepts needed to navigate complex information environments at Whitman and beyond.
 
-## Penrose Library Vision Statement
+### Penrose Library Vision Statement
 Penrose Library will:
 
--Cultivate a welcoming and inclusive environment for our patrons built on shared values and transparent policies.
--Provide equitable access to our collections, programs, and services.
--Support the evolving liberal arts curriculum through our collections and our incorporation of emerging technologies into library services, programs, and events.
--Be an innovative campus-wide collaborator and locus of expertise in information ecosystems, data lifecycles, and digital scholarship.
--Teach information literacy concepts to ensure that students actively and critically engage with ideas and information at Whitman and beyond.
--Expand our role as a repository for robust, unique, and local collections that document the diverse history of the Walla Walla Valley.
+- Cultivate a welcoming and inclusive environment for our patrons built on shared values and transparent policies.
 
-## Penrose Library Values Statement
+- Provide equitable access to our collections, programs, and services.
 
-### Respect
+- Support the evolving liberal arts curriculum through our collections and our incorporation of emerging technologies into library services, programs, and events.
+
+- Be an innovative campus-wide collaborator and locus of expertise in information ecosystems, data lifecycles, and digital scholarship.
+
+- Teach information literacy concepts to ensure that students actively and critically engage with ideas and information at Whitman and beyond.
+
+- Expand our role as a repository for robust, unique, and local collections that document the diverse history of the Walla Walla Valley.
+
+### Penrose Library Values Statement
+
+#### Respect
 We act with empathy and kindness to instill mutual trust and we recognize the contributions of all employees. We challenge and engage each other in respectful, thoughtful ways.
 
-### Diversity and Inclusion
+#### Diversity and Inclusion
 We affirm that diversity and inclusion make our institution stronger. Individuals with diverse backgrounds, experiences, and perspectives enrich our environment. We seek to champion equity.
 
-### Integrity
+#### Integrity
 We strive for authenticity and accountability in our relationships with others. By our actions we demonstrate a shared responsibility and commitment to justice, service, and excellence.
 
-### Privacy and Confidentiality
+#### Privacy and Confidentiality
 We protect and advocate for our users’ rights to privacy and confidentiality. We provide a safe environment for the freedom of inquiry.
 
-### Collaboration
+#### Collaboration
 We value interpersonal relationships and are committed to building a cooperative, supportive, and open community. We work together to enact policies, provide services, and manage Penrose Library’s physical and digital assets.
 
-### Embracing Challenge and Change
+#### Embracing Challenge and Change
 We see change as an opportunity for innovation. We accept challenges, take risks, and seek out new solutions.
 
-### Life-Long Learning
+#### Life-Long Learning
 We inspire and enable each other and our patrons to pursue learning and knowledge. We believe that continuing education and professional development are crucial for all members of our community.
 
 Our values are informed by our professional standards, as set forth in the American Library Association’s [Library Bill of Rights](http://www.ala.org/advocacy/intfreedom/librarybill) and [Code of Ethics.](http://www.ala.org/tools/ethics)
-
-## Staff Directory
-
-### Administration
-
-[Dalia Corkrum](corkrum@whitman.edu), College Librarian — 509-527-5193
-
-[Kathleen Hutchison](hutchiks@whitman.edu), Administrative Assistant — 509-527-5191
-
-### Archives and Special Collections
-
-[Ben Murphy](murphybp@whitman.edu), Archivist and Special Collections Librarian — 509-526-4731
-
-[Dana Bronson](bronsodm@whitman.edu), Associate Archivist — 509-526-4703
-
-[Joel Gaytan](gaytanj@whitman.edu), Archive Assistant – 509-527-5922
-
-### Collection Management
-
-[Roger Stelk](stelkre@whitman.edu), Head of Collection Management — 509-527-5909
-
-[Rich Pengra](pengrars@whitman.edu), Library Assistant, Collection Development — 509-527-5912
-
-[Paige Morfitt](morfitpb@whitman.edu), Digital Assets and Metadata Librarian — 509-527-5920
-
-[Rika Groff](groffrm@whitman.edu), Library Assistant, Cataloging — 509-527-5919
-
-### Instructional, Research, and Access Services
-
-[Lee Keene](keenelp@whitman.edu), Head of Research, Instruction, and Assessment — 509-527-5917
-
-[Julie Carter](carterja@whitman.edu), Head of User Services — 509-527-5915
-
-[Amy Blau](blauar@whitman.edu), Scholarly Communications Librarian — 509-527-4905
-
-[Emily Pearson](pearsome@whitman.edu), Instructional & Research Services Librarian — 509-527-5918
-
-[Jen Pope](popeja@whitman.edu), Access Services Manager — 509-527-5914
-
-[Christel Holce](holceci@whitman.edu), Circulation Supervisor (Weekday Evenings) — 509-527-5192
-
-
-
-### Systems
-
-[Kun Lin](link@whitman.edu), Systems and Applications Librarian — 509-527-5916
-
-## Library Hours
-Library hours can be found on the home page and reflect our most up-to-date information.
-
-Opening hours for Archives is posted on [Whitman College and Northwest Archives](https://library.whitman.edu/archives) website.
-
-## Library Dashboard
-For most recent statistics of Penrose Library, please head to [Library Dashboard.](http://libguides.whitman.edu/dashboard)
 
 ## Library Newsletter
 Past issues of [Library](https://arminda.whitman.edu/collections/penrose-library-newsletter) and [Archives](https://arminda.whitman.edu/collections/whitman-college-and-northwest-archives-newsletter) newsletters can be found in [ARMINDA](http://arminda.whitman.edu/), the institutional repository.
@@ -138,17 +89,17 @@ Generally, gifts for which the donor places restrictions on access are not accep
 Donated items that Whitman College’s Penrose Library retains are cataloged and listed in the Library’s catalog. Access to other materials will be governed by established library policies. Materials added to the general collections are interfiled with like books on the same subject. Separately named collections are not maintained.
 
 #### Financial Support
-Monetary gifts, especially those that would enable the purchase of new materials, the delivery of innovative services, additional furnishings, technology enhancements, or the support of special program areas are actively encouraged. Please contact Dalia Corkrum, Library Director (509-527-5193 or [corkrum@whitman.edu](corkrum@whitman.edu)) or John Bogley, Vice President for Development and College Relations (509-527-5979 or [bogleyjw@whitman.edu](bogleyjw@whitman.edu)) for more information.
+Monetary gifts, especially those that would enable the purchase of new materials, the delivery of innovative services, additional furnishings, technology enhancements, or the support of special program areas are actively encouraged. Please contact Dalia Corkrum, Library Director (509-527-5193 or [corkrum@whitman.edu](corkrum@whitman.edu)) or Steve Setchell, Vice President for Development and Alumni Relations (509-527-5979 or [setchesj@whitman.edu](setchesj@whitman.edu)) for more information.
 
 Please contact Dalia Corkrum, Library Director (509-527-5193 or [corkrum@whitman.edu](corkrum@whitman.edu)) if you have any questions or wish to discuss a specific donation.
 
 ## Student Employment
 Below are the positions for which students are usually employed at Penrose Library. Jobs will be posted on [Handshake](https://www.whitman.edu/student-life/student-engagement-center/handshake) before the beginning of the semester as they become available. Please apply directly through the [Handshake website](https://whitman.joinhandshake.com/login) and refer to the specific postings for more information.
 
--Archives Assistant
--Cataloging / Serials Assistant
--Circulation Assistant
--Library Office Assistant
+- Archives Assistant
+- Cataloging / Serials Assistant
+- Circulation Assistant
+- Library Office Assistant
 
 Additional information about student employment can be found on the [Student Employment page](https://www.whitman.edu/student-life/student-employment) on the College’s website.
 

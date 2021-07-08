@@ -64,13 +64,13 @@ toc: false
 <div class="Area-2 box" style="padding:0">{{< lastblog >}}</div>
 <div class="Area-3 box">
 <h3>Building Info</h3>
-    <p>Study Rooms</p>
-    <span id="studyroom" class="no-up-margin">&nbsp;</span>
-    <p>Bike Shares</p>
-    <span id="bikeshare" class="no-up-margin">&nbsp;</span>
-    <p>Building Occupancy</p>
-    <span id="buildingoccupancy" class="no-up-margin">&nbsp;</span> 
-    <ul class="underline_li">
+    <p class="no-up-margin">Study Rooms<br/>
+    <span id="studyroom" class="no-up-margin">&nbsp;</span><br/>
+    Bike Shares<br/>
+    <span id="bikeshare" class="no-up-margin">&nbsp;</span><br/>
+    Building Occupancy<br/>
+    <span id="buildingoccupancy" class="no-up-margin">&nbsp;</span> </p>
+    <ul class="no-up-margin">
         <li><a id="mapclick" href="#mapt">Building Map</a></li>
         <li><a href="https://sherlock.whitman.edu/primo-explore/account?vid=WHITC_NEW&amp;lang=en_US&amp;section=overview">My Library Account</a></li>
         <li><a href="https://whitman.illiad.oclc.org/illiad/logon.html">InterLibrary Loan</a></li>
