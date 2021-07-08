@@ -78,9 +78,6 @@ toc: false
         <li><a title="Our Librarians are available to assist you with research topics, projects, and papers Monday through Friday from 8am to 5pm. Drop-in visits are welcome too!" href="/appointments/">Schedule a Research Appointment</a></li>
     </ul>
 </div>
-<div class="Area-4 box">BOX 4 Area</div>
-<div class="Area-5 box" id="newitem" style="padding:0"></div>
-<div class="Area-6 box">BOX 6 Area</div>
 </div>
 
 <script src="/js/init-home.js"></script>

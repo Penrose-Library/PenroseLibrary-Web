@@ -1,8 +1,4 @@
 
-
-function load_newitem(){
-}
-
 (function($){
 
   $(function(){   
@@ -93,20 +89,6 @@ function load_newitem(){
 		}//end for
 		$('#reference').html(refhtml);
 		});
-	//new item function*/
-	$.ajax({
-       url: 'https://penroselib-php.herokuapp.com/newitem/newlist_feed.php',
-            dataType: 'json',
-			cache:true
- 			}).done(function(bibarray) {
-			bibliographicNumber=bibarray.id;
-			isbn=bibarray.isbn;
-			title_author=bibarray.title+bibarray.author;	
-			$('#newitem').html('<div class="card medium"><div id="text-book-jacket"> <img src="https://images.btol.com/ContentCafe/Jacket.aspx?UserID=WHTM43002&Password=CC69392&Return=T&Type=M&Value='+isbn+'" style="width:100%;height:auto" alt="image for book cover" /></div><div class="jacket-title"><a href="http://sherlock.whitman.edu/primo_library/libweb/action/dlSearch.do?institution=WHITC&vid=WHITC&tab=default_tab&mode=Basic&group=GUEST&onCampus=true&displayMode=full&displayField=all&search_scope=whitc_alma&query=any,contains,' + bibliographicNumber + '">' + title_author + '</a></div>');	
-    });
-    
-
-
   }); // end of document ready
 })(jQuery); // end of jQuery name space
 
