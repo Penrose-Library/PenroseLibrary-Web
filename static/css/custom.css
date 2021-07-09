@@ -76,7 +76,6 @@
 }
 /* Grid System for homepage */
 .grid-container {
-  font-size: 1rem;
   display: grid;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 1fr;
@@ -94,22 +93,16 @@
 .Area-6 { grid-area: Area-6; }
 
 /* just boxes */
-.box{
-    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 12%), 0 1px 5px 0 rgb(0 0 0 / 20%);
-    padding:1em;
-    min-height: 7rem;
-    overflow: hidden;
-}
 
-.card.small, .card.medium, .card.large {
-    position: relative;
-    height: 18rem;
-}
 .card {
     position: relative;
     background-color: #fff;
     transition: box-shadow .25s;
     border-radius: 2px;
+    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 12%), 0 1px 5px 0 rgb(0 0 0 / 20%);
+    padding:1em;
+    min-height: 7rem;
+    overflow: hidden;
 }
 .jacket-title{
   border-radius: 0 0 2px 2px;
@@ -120,7 +113,6 @@
   background:rgba(255,255,255,0.93);
 }
 .jacket-title p{
-    font-size: 11pt;
     margin-top:0.5rem;
 }
 

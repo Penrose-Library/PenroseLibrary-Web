@@ -51,7 +51,7 @@ toc: false
 <div id="announcement">{{% announcement file="announcement.md" %}}</div>
 
 <div class="grid-container">
-  <div class="Area-1 box">
+  <div class="Area-1 card">
    <h3>Hours and Contact</h3>
         <span id="date">&nbsp;</span>
         <p id="today">&nbsp;</p>
@@ -60,8 +60,8 @@ toc: false
         <a class="waves-effect waves-light btn" href="/contact-a-librarian/" target="_blank" rel="noopener noreferrer">Ask Librarian via Email</a>
         <div id="reference"></div>
 </div>
-<div class="Area-2 box" style="padding:0">{{< lastblog >}}</div>
-<div class="Area-3 box">
+<div class="Area-2 card" style="padding:0">{{< lastblog >}}</div>
+<div class="Area-3 card">
 <h3>Building Info</h3>
     <p class="no-up-margin">Study Rooms: 
     <span id="studyroom" class="no-up-margin">&nbsp;</span><br/>

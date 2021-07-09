@@ -1,5 +1,4 @@
 {{ range ( where .Site.RegularPages "Type" "post" | first 1 ) }}
-<div class="card medium">
     <div id="blog-jacket">
         {{ if isset .Params "thumbnail" }} <img class="responsive-img" src="{{ .Params.thumbnail }}" alt="{{ .Params.thumbnail_alt }}" />{{ end }}
     </div>
@@ -7,5 +6,4 @@
         <a href="{{ .Permalink }}">{{ .Title }}</a>
         <p>{{.Summary }}</p>
     </div>
-</div>
 {{end}}
