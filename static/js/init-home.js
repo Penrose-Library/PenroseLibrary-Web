@@ -28,7 +28,7 @@
            dataType: 'json',
 	       cache:false,
  	}).done(function( msg ) {
-		var output=" There are "+(msg.Total-msg.CheckedOut)+" available bikes.";
+		var output=(msg.Total-msg.CheckedOut)+" available";
 		$('#bikeshare').html(output);
 	 });
 
@@ -39,7 +39,7 @@
            dataType: 'json',
 		   cache:true
  	}).done(function( msg ) {
-	var output=" There are "+(msg.Total-msg.CheckedOut) + ' available study rooms.';
+	var output=(msg.Total-msg.CheckedOut) + ' available.';
 	$('#studyroom').html(output);
 	});
 	
@@ -49,7 +49,7 @@
            type: 'GET',
 		   dataType: 'text'
  	}).done(function( msg ) {
-	var output=" There are "+(msg) + ' people currently in the building.';
+	var output= (msg) + ' people';
 	$('#buildingoccupancy').html(output);
 	});
 	

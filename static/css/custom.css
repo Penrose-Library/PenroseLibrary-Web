@@ -66,10 +66,17 @@
   width: 2rem;
   float: right;
 }
-
+.pull-left{
+  width:50%;
+  float: left;
+}
+.pull-right{
+  width: 50%;
+  float: right;
+}
 /* Grid System for homepage */
 .grid-container {
-  font-size: 0.75rem;
+  font-size: 1rem;
   display: grid;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 1fr;

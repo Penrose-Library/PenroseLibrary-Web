@@ -57,26 +57,28 @@ toc: false
         <p id="today">&nbsp;</p>
         <p class="t">Circulation: 509-527-5192 &nbsp; library@whitman.edu</p>
         <p>Research Help:</p>
-        <p id="libchat_776a12eb7834f00b1664afc3f902f086" style="margin-top:1em"></p>
         <a class="waves-effect waves-light btn" href="/contact-a-librarian/" target="_blank" rel="noopener noreferrer">Ask Librarian via Email</a>
         <div id="reference"></div>
 </div>
 <div class="Area-2 box" style="padding:0">{{< lastblog >}}</div>
 <div class="Area-3 box">
 <h3>Building Info</h3>
-    <p class="no-up-margin">Study Rooms<br/>
+    <p class="no-up-margin">Study Rooms: 
     <span id="studyroom" class="no-up-margin">&nbsp;</span><br/>
-    Bike Shares<br/>
+    Bike Shares: 
     <span id="bikeshare" class="no-up-margin">&nbsp;</span><br/>
-    Building Occupancy<br/>
+    Building Occupancy: 
     <span id="buildingoccupancy" class="no-up-margin">&nbsp;</span> </p>
-    <ul class="no-up-margin">
-        <li><a id="mapclick" href="#mapt">Building Map</a></li>
-        <li><a href="https://sherlock.whitman.edu/primo-explore/account?vid=WHITC_NEW&amp;lang=en_US&amp;section=overview">My Library Account</a></li>
-        <li><a href="https://whitman.illiad.oclc.org/illiad/logon.html">InterLibrary Loan</a></li>
-        <li><a href="/faculty-services/#reserve">Request course reserves</a></li>
-        <li><a title="Our Librarians are available to assist you with research topics, projects, and papers Monday through Friday from 8am to 5pm. Drop-in visits are welcome too!" href="/appointments/">Schedule a Research Appointment</a></li>
-    </ul>
+    <hr/>
+    <div class="pull-left">
+       <p><a id="mapclick" href="#mapt">Building Map</a>
+        <p><a href="https://sherlock.whitman.edu/primo-explore/account?vid=WHITC_NEW&amp;lang=en_US&amp;section=overview">My Library Account</a></p>
+        <p><a href="https://whitman.illiad.oclc.org/illiad/logon.html">InterLibrary Loan</a></p>
+    </div>
+    <div class="pull-right">
+        <p><a href="faculty_services/#course-reserves">Request course reserves</a></p>
+        <p><a title="Our Librarians are available to assist you with research topics, projects, and papers Monday through Friday from 8am to 5pm. Drop-in visits are welcome too!" href="/appointments/">Schedule a Research Appointment</a></p>
+    </div>
 </div>
 </div>
 
