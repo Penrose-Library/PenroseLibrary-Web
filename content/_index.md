@@ -78,6 +78,7 @@ toc: false
     <div class="pull-right">
         <p><a href="faculty_services/#course-reserves">Request course reserves</a></p>
         <p><a title="Our Librarians are available to assist you with research topics, projects, and papers Monday through Friday from 8am to 5pm. Drop-in visits are welcome too!" href="/appointments/">Schedule a Research Appointment</a></p>
+        <p><a href="newbook/">Recently acquired books</a></p>
     </div>
 </div>
 </div>
