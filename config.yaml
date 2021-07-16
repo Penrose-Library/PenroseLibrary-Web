@@ -47,9 +47,6 @@ menu:
     - name: Library Guides
       url: /guides/
       weight: 3
-    - name: Library Guides(v2)
-      url: /guides2/
-      weight: 3
     - name: FAQ & Services
       url: /libraryservices/
       weight: 7
