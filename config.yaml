@@ -6,7 +6,7 @@ theme: Penrose-cupper-hugo-theme
 googleAnalytics: 
 disqusShortname: 
 enableGitInfo: true
-summaryLength: 30
+summaryLength: 25
 
 taxonomies:
   tag: tags

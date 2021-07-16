@@ -74,6 +74,14 @@
   width: 50%;
   float: right;
 }
+#blog-jacket{
+  height: 100%;
+}
+
+#blog-jacket img{
+  max-width: none;
+  height: 100%;
+}
 /* Grid System for homepage */
 .grid-container {
   display: grid;
