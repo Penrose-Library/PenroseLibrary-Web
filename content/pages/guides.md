@@ -14,7 +14,8 @@ toc: false
 <script>springshare_widget_config_1625005740371 = { path: 'guides' };</script><div id="s-lg-widget-1625005740371"></div><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://lgapi-us.libapps.com/widgets.php?site_id=689&widget_type=1&search_terms=&search_match=2&sort_by=name&list_format=1&drop_text=Select+a+Guide...&output_format=1&load_type=2&enable_description=0&enable_group_search_limit=0&enable_subject_search_limit=0&guide_types%5B0%5D=2&widget_title=Guide+List&widget_height=250&widget_width=100%25&widget_link_color=2954d1&widget_embed_type=1&num_results=0&enable_more_results=1&window_target=2&config_id=1625005740371";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","s-lg-widget-script-1625005740371");</script>
 {{< /expandable >}}
 
-## General Guides
+{{< expandable label="General Guides" level="2" open="true">}}
+
 [Copyright & IP @ Whitman](https://libguides.whitman.edu/copyright_ip)
 A starting point for research on topics concerning intellectual property rights and responsibilities.
 
@@ -45,3 +46,4 @@ Resources at Penrose and beyond to help with local history and genealogy needs
 
 [Resources for Alumni](https://libguides.whitman.edu/alumni)
 How to gain access to some of Penrose’s materials as an alum.
+{{< /expandable >}}
