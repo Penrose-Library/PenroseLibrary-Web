@@ -19,18 +19,18 @@ toc: false
 [Copyright & IP @ Whitman](https://libguides.whitman.edu/copyright_ip)
 A starting point for research on topics concerning intellectual property rights and responsibilities.
 
-[Data Resources](https://libguides.whitman.edu/dataresources)
-Information on finding, using, citing, and managing data
-
 [Citation Styles and Tools](https://libguides.whitman.edu/citations)
 Information and examples for every major citation style used at Whitman.
  - [EndNote](https://libguides.whitman.edu/endnote)
  - [Zotero](https://libguides.whitman.edu/zotero)
 
-[How to Find Books on the Shelves](https://libguides.whitman.edu/findbooks)
-An explainer on how Library of Congress Classification works and where you will find specific call numbers in Penrose
+[Data Resources](https://libguides.whitman.edu/dataresources)
+Information on finding, using, citing, and managing data
 
 [Finding and Using Images](https://libguides.whitman.edu/images)
+
+[How to Find Books on the Shelves](https://libguides.whitman.edu/findbooks)
+An explainer on how Library of Congress Classification works and where you will find specific call numbers in Penrose
 
 [Open Access](https://libguides.whitman.edu/openaccess)
 Information and resources for scholarly communication, open education resources, and open data
@@ -38,12 +38,13 @@ Information and resources for scholarly communication, open education resources,
 [Primary Sources](https://libguides.whitman.edu/primarysources)
 Newspapers, magazines, digitized archival collections, and other primary sources.
 
+[Resources for Alumni](https://libguides.whitman.edu/alumni)
+How to gain access to some of Penrose’s materials as an alum.
+
 [US Government Documents](https://libguides.whitman.edu/govdocs)
 How to access government documents and navigate our own stacks.
 
 [Walla Walla and Local History Guide](https://libguides.whitman.edu/wallawalla)
 Resources at Penrose and beyond to help with local history and genealogy needs
 
-[Resources for Alumni](https://libguides.whitman.edu/alumni)
-How to gain access to some of Penrose’s materials as an alum.
 {{< /expandable >}}
