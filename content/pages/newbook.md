@@ -12,6 +12,7 @@ date: 2021-07-16T21:58:53.672Z
      .jacket-title{
          padding:0;
          bottom:auto;
+         position:relative;
      }
      .col-4{
          margin-top:0.5rem;         
