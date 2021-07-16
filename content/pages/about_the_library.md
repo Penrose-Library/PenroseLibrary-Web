@@ -16,15 +16,10 @@ Penrose Library fosters the intellectual engagement and scholarly practice of th
 Penrose Library will:
 
 - Cultivate a welcoming and inclusive environment for our patrons built on shared values and transparent policies.
-
 - Provide equitable access to our collections, programs, and services.
-
 - Support the evolving liberal arts curriculum through our collections and our incorporation of emerging technologies into library services, programs, and events.
-
 - Be an innovative campus-wide collaborator and locus of expertise in information ecosystems, data lifecycles, and digital scholarship.
-
 - Teach information literacy concepts to ensure that students actively and critically engage with ideas and information at Whitman and beyond.
-
 - Expand our role as a repository for robust, unique, and local collections that document the diverse history of the Walla Walla Valley.
 
 ### Penrose Library Values Statement
@@ -102,6 +97,105 @@ Below are the positions for which students are usually employed at Penrose Libra
 - Library Office Assistant
 
 Additional information about student employment can be found on the [Student Employment page](https://www.whitman.edu/student-life/student-employment) on the College’s website.
+
+
+## Library Use Policy
+Penrose Library is committed to maintaining collections that exist as common resources to be shared, preserved, and respected in a manner guaranteeing protection for future users. The ethical use of library materials involves acceptance of this principle and appropriate conduct regarding library collections. We are committed to providing a space for the Whitman community to study, collaborate, and research.
+
+- Food and beverages must be covered and kept in spill-proof containers.
+- Smoking or the use of tobacco is not permitted in Penrose Library.
+- The Allen Reading Room is designated as a quiet study area in the library. Please be courteous of other library visitors who prefer to work in a quiet area.
+
+### Circulation and Access Policies
+Please see our [Borrow & Request](https://library.whitman.edu/library-services) section for information how to borrow materials, loan periods, fines, and other borrowing policies.
+
+### Inappropriate Use of Library Materials
+Inappropriate use includes, but is not limited to:
+
+- Writing upon, defacing, tearing, cutting, mutilating, or destroying books or other library property
+- The willful concealment of a book or other library property on one’s person or among one’s belongings while attempting to leave, or leaving the premises of the Library without formal borrowing through the Circulation Desk
+- The willful concealment of a book or other Library property within the Library
+- The willful removal of a book or other Library property in contravention to Library regulations
+- The intentional alteration or destruction of library ownership records
+
+Engaging in inappropriate use of materials will jeopardize library borrowing privileges.
+
+### Materials Challenge Policy
+Censorship of the library’s collections will not be tolerated. As a college library, we cultivate a collection of resources and develop displays that are appropriate for the curriculum at Whitman College and an adult audience. Our collection represents various viewpoints that stimulate intellectual inquiry and foster spirited debate. That said, legitimate complaints about library materials or displays will be reviewed based upon the guidelines endorsed by the American Library Association and their [Intellectual Freedom Manual, 9th ed.](https://sherlock.whitman.edu/permalink/f/19gob7d/CP71230442910001451)
+
+Complaints about materials, not including those held in the Whitman College and Northwest Archives or those externally licensed by the library, will be handled on a case-by-case basis and can only be made by current Whitman students, faculty, and staff. Penrose Library has delegated the responsibility for the selection and evaluation of materials to its librarians. Should a member of the Whitman community think that certain material is unsuitable for the library’s collection or display, the first step is to discuss their concerns with the Head of Collection Management (Roger Stelk, stelkre@whitman.edu) and/or the Library Director (Dalia Corkrum, corkrum@whitman.edu).
+
+If the issue is not resolved following an informal discussion about the mission of the library and how the material or display supports learning within the higher education environment, the library has established a formal reconsideration procedure to address concerns about those resources. The process includes:
+
+- Completion of the Request for Reconsideration of Library Resources form by the person bringing the complaint;
+- Based upon the [Penrose Library Collection Development Policy](http://works.whitman.edu/collectiondevelopmentpolicy), the Request for Reconsideration will be reviewed by the Library’s Collection Management Team. The Team will develop a recommendation for the Library Advisory Committee;
+- Review of the Request for Reconsideration and the Collection Management Team’s recommendation by the Library Advisory Committee. This may include an interview with the requestor;
+- Determination of the status of the material by the Committee that is conveyed to the requestor in a timely manner.
+
+Penrose Library is committed to providing resources that support the work of our students, faculty, and staff. All requests for reconsideration are taken seriously and will be evaluated in a fair and thorough manner.
+
+### Penrose Library Exhibits and Display Policy
+#### Purpose
+Library exhibits are an opportunity for outreach and a way to convey our interest in encouraging intellectual curiosity and learning. By showcasing library collections and engaging with other campus communities, Penrose’s exhibits are intended to share narratives about ideas, places, and movements. Exhibits illustrate complex questions and help us to understand our place in the world, challenge us to think broadly, and start conversations across boundaries.
+
+#### Content
+Including materials from library collections and archives in the exhibition is strongly encouraged. In principle, exhibitions should be relevant to Penrose Library, its collection or services. Proposals will be considered on broad appeal, educational content, and appropriateness of subject, technique, and style for the intended location and audience. Penrose Library reserves the right to deny proposals it deems do not fit with the library’s mission.
+
+#### Approval and Requesting
+Any member of the Whitman community may submit an [Exhibit Proposal form](http://works.whitman.edu/exhibitproposal) for exhibits or displays and the Library can help when developing a proposal. Displays are temporary in nature and will last according to the approved dates on the proposal form.
+
+Exhibit and display space is managed by the Penrose Library User Services and Outreach Team, which will respond to proposals. Proposals should be submitted at least two weeks (two months for archival exhibits) in advance of the exhibit opening date, and proposals will be responded to within one week. Penrose Library will not exert editorial control over the exhibition but may provide feedback according to standard best practices. Curators are solely responsible for content creation. The Library has final approval for the layout of the exhibit, exhibit duration, and placement of exhibit. Exhibits by library staff need not be approved, but staff should still fill out an [Exhibit Proposal form](http://works.whitman.edu/exhibitproposal) for the purposes of scheduling.
+
+The Library reserves the right to remove or shut down an exhibit that is not in compliance with safety or ADA guidelines, or endangers patrons in any way. The Library will follow a process for reconsideration when concerns are raised about exhibit content.
+
+#### Guidelines
+Once an exhibit has been approved, the curator will be contacted by an assigned exhibit supervisor. The supervisor will coordinate including materials from library and archival collections for display and guide installation and removal of the exhibit but the curator is responsible for installation and take down of exhibits.
+
+Library reference service is available to curators, as to all other library users, for guidance in the location of relevant library materials, assistance in preparation of exhibit-related bibliographies, and consultation on exhibit technique.
+
+Written components must be readable. The individual, organization, or group sponsoring and curating the exhibit must be visibly and prominently shown in the exhibit. Library materials must be displayed in an archival correct manner, i.e., they must suffer no damage nor be altered in any way by being placed on exhibit. Proper handling and display of archival material must be approved by Archives staff. If damage does occur to library materials, the Library may seek monetary damages and may affect a person’s or group’s future ability to create exhibits at Penrose.
+
+Exhibits are often located in high traffic areas whose visibility reduces the likelihood of damage or theft of materials; however, the Library takes no responsibility for the security or welfare of non-library materials used in exhibits at any time, including during transport, installation, or dismantling.
+
+#### Supplies/Equipment
+
+Supplies
+
+- Limited supplies are available (tacks, stands, cradles, support for materials, mylar). Any other costs incurred for the exhibits are to be the sole responsibility of the curator.
+
+Exhibit Areas/Cases Available
+
+- 2nd floor short stacks, next to the circulation desk. Open display area, no cases or locks.
+- Vitrine (2): 61” Length x 36” Height x 24.5” Depth
+Movable. Can only be on the main floor. Library staff will position them for curators in designated areas.
+- Stairwell cases (2): 29” L x 55” H x 16” D
+- 1st floor case at bottom of stairwell (1): 45” L x 56” H x 21” D
+- 2nd and 3rd floor large cases (2): 163” L x 56” H x 20.5” D
+- 2nd floor has power. No audio available.
+
+The built-in cases have slots for glass shelves. More shelves and brackets available. 2nd floor case has slots for shelves behind felt.
+
+Note: the Maxey Museum has priority for the use of the large 3rd floor case.
+
+#### Request for Reconsideration
+
+As a college library, we cultivate a collection of resources and develop displays that are appropriate for the curriculum at Whitman College and an adult audience.
+
+The Library subscribes to the American Library Association’s Library Bill of Rights as it applies to exhibit spaces, specifically:
+
+- The library should not censor or remove an exhibit because some members of the community may disagree with its content. Those who object to the content of any exhibit held at the library should be able to submit their complaint and/or their own exhibit proposal to be judged according to the policies established by the library.
+-Challenges of an exhibit can only be made by current Whitman students, faculty, and staff. Should a member of the Whitman community wish to make a complaint, the first step is to discuss their concerns with the College Librarian. If the complaint is regarding disagreement of exhibit content the College Librarian may decide to inform the exhibit curator of the complaint and facilitate a discussion between the parties. If the complaint concerns library materials, the library will follow the Materials Challenge Policy.
+- If the issue is not resolved following an informal discussion about the mission of the library and how the material or exhibit supports learning within the higher education environment, the library invites requesters to submit a proposal for their own exhibit.
+- Library staff involved in organizing, curating, and/or installing exhibits or displays are deemed to be acting within the course of official duties and under the authority of Penrose Library. Disputes over content, material use, or preservation of staff-led exhibits will be handled internally and not through the reconsideration process.
+
+Endorsed by the Library Advisory Committee, 30 January 2020.
+
+## Library Accessibility Statement
+If you have materials from Penrose that are not accessible, please fill out the [remediation form](https://docs.google.com/forms/d/e/1FAIpQLSfQ2N29D31VdMwPZ6Fex9HvWTbwfNxnb_i-212wlHxr46V_gg/viewform?usp=sf_link) to the best of your ability or contact us at library@whitman.edu. See below for more information.
+
+Penrose Library is committed to providing equitable access to library collections, services, and facilities for all library users as stated in the Penrose Library’s [Mission and Values statement](https://library.whitman.edu/about-the-library/#Penrose) and the Whitman College [Strategic Priorities.](https://www.whitman.edu/newsroom/archive/2017/strategic-priorities) Penrose Library strives to follow universal design principles and create physical and digital environments that address the needs of the broadest range of patrons possible by following the best practices and standards for accessibility. For web pages and systems under our direct control, we will work to update them to adhere to [WCAG 2.0.](https://www.w3.org/WAI/standards-guidelines/wcag/) For materials and systems licensed from third-party vendors, we will communicate issues brought to our attention with the vendors and work with them to address deficiencies. Penrose Library seeks to select and acquire, whenever possible, resources and technologies that are in line with universal design principles.
+
+Penrose Library will provide patrons alternative formats or assistance when resources are not fully accessible. Please fill out the [remediation form](https://docs.google.com/forms/d/e/1FAIpQLSfQ2N29D31VdMwPZ6Fex9HvWTbwfNxnb_i-212wlHxr46V_gg/viewform?usp=sf_link) to the best of your ability or contact us at library@whitman.edu with questions. We will try and fill requests in as timely a manner as possible. This form is sent to Emily Pearson (Instructional and Research Services Librarian), Kun Lin (Systems Librarian), and Antonia Keithahn (Assistant Director of Disability Support Services). We will maintain the data to find patterns in inaccessible material, but will not keep records of who requested materials once we fulfill a request.
 
 ## Location and Directions
 Penrose Library
