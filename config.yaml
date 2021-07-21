@@ -65,7 +65,7 @@ menu:
     - name: Course Reserves
       url: /course-reserves
       weight: 19
-    - name: Whitman College and <br/> Northwest Archives
+    - name: Archives
       url: /archives/
       weight: 5
     - name: Thesis
