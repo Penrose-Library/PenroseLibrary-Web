@@ -1,56 +1,56 @@
 /* Fonts */
 @font-face{
     font-family:"Meta Serif Offc W01 Bold";
-    src:url("fonts/7e08fa85-157b-49a7-a0b3-4e57ecfc81ae.eot?#iefix");
-    src:url("fonts/7e08fa85-157b-49a7-a0b3-4e57ecfc81ae.eot?#iefix") format("eot"),
-    url("fonts/05ebb84f-7132-4bba-a010-01a2fb46795b.woff2") format("woff2"),
-    url("fonts/38708e4e-3137-4130-adcc-a00a0931bfce.woff") format("woff"),
-    url("fonts/ea2e8efb-dc49-454e-aec7-8e28be819fd2.ttf") format("truetype");
+    src:url("/css/fonts/7e08fa85-157b-49a7-a0b3-4e57ecfc81ae.eot?#iefix");
+    src:url("/css/fonts/7e08fa85-157b-49a7-a0b3-4e57ecfc81ae.eot?#iefix") format("eot"),
+    url("/css/fonts/05ebb84f-7132-4bba-a010-01a2fb46795b.woff2") format("woff2"),
+    url("/css/fonts/38708e4e-3137-4130-adcc-a00a0931bfce.woff") format("woff"),
+    url("/css/fonts/ea2e8efb-dc49-454e-aec7-8e28be819fd2.ttf") format("truetype");
 }
 @font-face{
     font-family:"Meta Serif Offc W01 Medium";
-    src:url("fonts/c5912438-7d11-4e53-aec7-2066db9ef4a1.eot?#iefix");
-    src:url("fonts/c5912438-7d11-4e53-aec7-2066db9ef4a1.eot?#iefix") format("eot"),
-    url("fonts/0f21620d-7046-4d9b-8b1a-776b996ba66e.woff2") format("woff2"),
-    url("fonts/dabb2ce5-a6e5-42bc-a433-6ea8562d099f.woff") format("woff"),
-    url("fonts/0f5a2e8a-76ae-4d9c-9112-71333b2eacf8.ttf") format("truetype");
+    src:url("/css/fonts/c5912438-7d11-4e53-aec7-2066db9ef4a1.eot?#iefix");
+    src:url("/css/fonts/c5912438-7d11-4e53-aec7-2066db9ef4a1.eot?#iefix") format("eot"),
+    url("/css/fonts/0f21620d-7046-4d9b-8b1a-776b996ba66e.woff2") format("woff2"),
+    url("/css/fonts/dabb2ce5-a6e5-42bc-a433-6ea8562d099f.woff") format("woff"),
+    url("/css/fonts/0f5a2e8a-76ae-4d9c-9112-71333b2eacf8.ttf") format("truetype");
 }
 @font-face{
     font-family:"Meta Serif W01 Book";
-    src:url("fonts/6d86e7e4-94d5-402e-9568-6b53d8010a3c.eot?#iefix");
-    src:url("fonts/6d86e7e4-94d5-402e-9568-6b53d8010a3c.eot?#iefix") format("eot"),
-    url("fonts/13ba7e6e-0a1a-43e6-8e6a-d57e579931ba.woff2") format("woff2"),
-    url("fonts/ccd8846c-4054-4b27-87bb-3680ad0f0421.woff") format("woff"),
-    url("fonts/2de1472a-ed93-4b2b-9e52-a9cc1973d152.ttf") format("truetype");
+    src:url("/css/fonts/6d86e7e4-94d5-402e-9568-6b53d8010a3c.eot?#iefix");
+    src:url("/css/fonts/6d86e7e4-94d5-402e-9568-6b53d8010a3c.eot?#iefix") format("eot"),
+    url("/css/fonts/13ba7e6e-0a1a-43e6-8e6a-d57e579931ba.woff2") format("woff2"),
+    url("/css/fonts/ccd8846c-4054-4b27-87bb-3680ad0f0421.woff") format("woff"),
+    url("/css/fonts/2de1472a-ed93-4b2b-9e52-a9cc1973d152.ttf") format("truetype");
 }
 
 @font-face{
     font-family:"Vito Light";
-    src:url("fonts/Vito-Light.eot");
-    src:url("fonts/Vito-Light.eot?#iefix") format("embedded-opentype"),
-        url("fonts/Vito-Light.woff") format("woff"),
-        url("fonts/Vito-Light.woff2") format("woff2");
+    src:url("/css/fonts/Vito-Light.eot");
+    src:url("/css/fonts/Vito-Light.eot?#iefix") format("embedded-opentype"),
+        url("/css/fonts/Vito-Light.woff") format("woff"),
+        url("/css/fonts/Vito-Light.woff2") format("woff2");
 }
 @font-face{
     font-family:"Vito Regular";
-    src:url("fonts/Vito-Regular.eot");
-    src:url("fonts/Vito-Regular.eot?#iefix") format("embedded-opentype"),
-        url("fonts/Vito-Regular.woff") format("woff"),
-        url("fonts/Vito-Regular.woff2") format("woff2");
+    src:url("/css/fonts/Vito-Regular.eot");
+    src:url("/css/fonts/Vito-Regular.eot?#iefix") format("embedded-opentype"),
+        url("/css/fonts/Vito-Regular.woff") format("woff"),
+        url("/css/fonts/Vito-Regular.woff2") format("woff2");
 }
 @font-face{
     font-family:"Vito Medium";
-    src:url("fonts/Vito-Medium.eot");
-    src:url("fonts/Vito-Medium.eot?#iefix") format("embedded-opentype"),
-        url("fonts/Vito-Medium.woff") format("woff"),
-        url("fonts/Vito-Medium.woff2") format("woff2");
+    src:url("/css/fonts/Vito-Medium.eot");
+    src:url("/css/fonts/Vito-Medium.eot?#iefix") format("embedded-opentype"),
+        url("/css/fonts/Vito-Medium.woff") format("woff"),
+        url("/css/fonts/Vito-Medium.woff2") format("woff2");
 }
 @font-face{
     font-family:"Vito Bold";
-    src:url("fonts/Vito-Bold.eot");
-    src:url("fonts/Vito-Bold.eot?#iefix") format("embedded-opentype"),
-        url("fonts/Vito-Bold.woff") format("woff"),
-        url("fonts/Vito-Bold.woff2") format("woff2");
+    src:url("https://www.whitman.Vito-Bold.eotedu/Fonts/");
+    src:url("/css/fonts/Vito-Bold.eot?#iefix") format("embedded-opentype"),
+        url("/css/fonts/Vito-Bold.woff") format("woff"),
+        url("/css/fonts/Vito-Bold.woff2") format("woff2");
 }
 *,
 *::before,
@@ -418,7 +418,17 @@ caption {
     margin-right: auto;
     max-width: 25rem;
 }
-
+.main{
+    margin-left: 15rem;
+}
+main {
+   max-width: 95%;
+   padding: 0 2rem 0 4rem;
+}
+.primary-main{
+    padding: 3rem 2rem 0rem 1rem;
+    max-width: 100%;
+}
 [role="contentinfo"] {
     font-size: 0.85rem;
     margin-top: 4rem;
@@ -626,8 +636,6 @@ main {
     display: block;
     counter-reset: fig;
     min-height: 100vh;
-    max-width: 95%;
-    padding: 0 2rem 0 4rem;
 }
 figcaption::before {
     counter-increment: fig;
