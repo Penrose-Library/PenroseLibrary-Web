@@ -21,7 +21,7 @@ imaging:
 params:
   description: 
   homeMetaContent: Penrose Library NG website. Deveopment. Do not use
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to Cloudflare Page. <img src="https://api.thegreenwebfoundation.org/greencheckimage/http://penrose.whitman.edu?nocache=true" alt="This website is hosted Green - checked by thegreenwebfoundation.org">
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to Cloudflare Page. <img src="https://api.thegreenwebfoundation.org/greencheckimage/penrose.whitman.edu?nocache=true" alt="This website is hosted Green - checked by thegreenwebfoundation.org">
   # For more date formats see https://gohugo.io/functions/format/
   MatomoSiteID: 1
   dateFormat: Jan 2, 2006
