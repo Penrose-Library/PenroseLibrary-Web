@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: Penrose-Library/PenroseLibrary-Web
-  branch: master # Branch to update (optional; defaults to master)
+  branch: main # Branch to update (optional; defaults to master)
   base_url: https://penroseoauthprovider.herokuapp.com/
   #auth_endpoint: api/auth
 #local_backend: true
