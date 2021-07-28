@@ -39,7 +39,7 @@ toc: false
 
 
 
-##cLibrary Policies
+## Library Policies
 
 [About Library](/about_the_library/)
 
