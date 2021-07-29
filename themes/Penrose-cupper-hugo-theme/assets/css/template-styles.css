@@ -58,23 +58,20 @@
     font-family: inherit;
     /*background-color: inherit;*/
     color: inherit;
-    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 html {
     font-size: calc(1em + 0.33vw);
     font-family: "Vito Regular", sans-serif;
-    line-height: 1.5;
+    line-height: 1.3;
     color: #111;
     background-color: #fefefe;
 }
 template {
   display: none !important;
 }
-* + * {
-    margin-top: 1.25rem;
-}
+
 br,
 dt,
 dd,
@@ -178,6 +175,8 @@ h3,
 h4 {
     font-family: "Vito Light", sans-serif;
     line-height: 1.125;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 h1 {
     font-size: 2rem;
@@ -197,6 +196,8 @@ h5 {
 h5 {
     font-size: 0.85rem;
     text-transform: uppercase;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 kbd {
     line-height: 1;
@@ -418,11 +419,10 @@ caption {
     margin-right: auto;
     max-width: 25rem;
 }
-.main{
-    margin-left: 15rem;
+.main-and-footer{
+    margin-left: 14rem;
 }
 main {
-   max-width: 95%;
    padding: 0 2rem 0 4rem;
 }
 .primary-main{
@@ -431,11 +431,15 @@ main {
 }
 [role="contentinfo"] {
     font-size: 0.85rem;
-    margin-top: 4rem;
-    text-align: center;
+    padding:2rem;
     clear:both;
+    margin-left: 15rem;
+    background: #0b2a58;
+    color: #ddd;
 }
-
+[role="contentinfo"] > a{
+ color:#ddd;
+}
 /* Patterns navigation */
 .patterns {
     overflow: auto;
@@ -984,24 +988,15 @@ img.responsive-img, video.responsive-video {
     height: auto;
 }
 
-/* Grid */
-.col-1 {width: 8.33%;}
-.col-2 {width: 16.66%;}
-.col-3 {width: 25%;}
-.col-4 {width: 33.33%;}
-.col-5 {width: 41.66%;}
-.col-6 {width: 50%;}
-.col-7 {width: 58.33%;}
-.col-8 {width: 66.66%;}
-.col-9 {width: 75%;}
-.col-10 {width: 83.33%;}
-.col-11 {width: 91.66%;}
-.col-12 {width: 100%;}
+
 
 /* Media queries */
 @media screen and (max-width: 60rem) {
     body a {
       hyphens: auto;
+    }
+    [role="contentinfo"]{
+        margin-left: auto;
     }
     [role="banner"] {
         position: static;
@@ -1017,11 +1012,12 @@ img.responsive-img, video.responsive-video {
     .intro-and-nav > div {
         padding: 1.5rem;
     }
-    .main {
+    .main-and-footer{
         margin: 0;
     }
     main {
       min-height: auto;
+      padding: 0 0.5rem 0 1rem;
     }
     #patterns-list {
       margin-top: 0.5rem;

@@ -50,36 +50,44 @@ toc: false
 </div>
 <div id="announcement">{{% announcement file="announcement.md" %}}</div>
 
-<div class="grid-container">
-  <div class="Area-1 card">
-   <h3>Hours and Contact</h3>
+<div class="bootstrap-wrapper">
+<div class="container-fluid">
+<div class="row">
+    <div class="col-sm-4 col-xs-12">
+      <div class="card">
+        <h3>Hours and Contact</h3>
         <span id="date">&nbsp;</span>
         <p id="today">&nbsp;</p>
         <p class="t">Circulation: 509-527-5192 &nbsp; library@whitman.edu</p>
         <p>Research Help:</p>
         <a class="waves-effect waves-light btn" href="/contact-a-librarian/" target="_blank" rel="noopener noreferrer">Ask Librarian via Email</a>
         <div id="reference"></div>
+      </div>
+    </div>
+    <div class="col-sm-4 col-xs-12"><div class="card" style="padding:0">{{< lastblog >}}</div></div>
+    <div class="col-sm-4 col-xs-12">
+        <div class="card">
+            <h3>Building Info</h3>
+            <p class="no-up-margin">Study Rooms: 
+            <span id="studyroom" class="no-up-margin">&nbsp;</span><br/>
+            Bike Shares: 
+            <span id="bikeshare" class="no-up-margin">&nbsp;</span><br/>
+            Building Occupancy: 
+            <span id="buildingoccupancy" class="no-up-margin">&nbsp;</span> </p>
+            <hr/>
+            <div class="pull-left">
+            <p><a id="mapclick" href="#mapt">Building Map</a>
+                <p><a href="https://sherlock.whitman.edu/primo-explore/account?vid=WHITC_NEW&amp;lang=en_US&amp;section=overview">My Library Account</a></p>
+                <p><a href="https://whitman.illiad.oclc.org/illiad/logon.html">InterLibrary Loan</a></p>
+            </div>
+            <div class="pull-right">
+                <p><a href="faculty_services/#course-reserves">Request course reserves</a></p>
+                <p><a title="Our Librarians are available to assist you with research topics, projects, and papers Monday through Friday from 8am to 5pm. Drop-in visits are welcome too!" href="/appointments/">Schedule a Research Appointment</a></p>
+                <p><a href="newbook/">Recently acquired books</a></p>
+            </div>
+        </div>
+    </div>
 </div>
-<div class="Area-2 card" style="padding:0">{{< lastblog >}}</div>
-<div class="Area-3 card">
-<h3>Building Info</h3>
-    <p class="no-up-margin">Study Rooms: 
-    <span id="studyroom" class="no-up-margin">&nbsp;</span><br/>
-    Bike Shares: 
-    <span id="bikeshare" class="no-up-margin">&nbsp;</span><br/>
-    Building Occupancy: 
-    <span id="buildingoccupancy" class="no-up-margin">&nbsp;</span> </p>
-    <hr/>
-    <div class="pull-left">
-       <p><a id="mapclick" href="#mapt">Building Map</a>
-        <p><a href="https://sherlock.whitman.edu/primo-explore/account?vid=WHITC_NEW&amp;lang=en_US&amp;section=overview">My Library Account</a></p>
-        <p><a href="https://whitman.illiad.oclc.org/illiad/logon.html">InterLibrary Loan</a></p>
-    </div>
-    <div class="pull-right">
-        <p><a href="faculty_services/#course-reserves">Request course reserves</a></p>
-        <p><a title="Our Librarians are available to assist you with research topics, projects, and papers Monday through Friday from 8am to 5pm. Drop-in visits are welcome too!" href="/appointments/">Schedule a Research Appointment</a></p>
-        <p><a href="newbook/">Recently acquired books</a></p>
-    </div>
 </div>
 </div>
 
