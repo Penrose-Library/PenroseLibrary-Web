@@ -34,6 +34,7 @@ params:
   customCss:
     - css/simple-tooltip.css
     - css/custom.css
+    - css/bootstrap-grid.min.css
   customJs:
     - js/home-searchbox.js
     - js/custom.js
