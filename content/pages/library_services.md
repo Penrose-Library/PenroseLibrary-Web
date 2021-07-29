@@ -26,7 +26,7 @@ toc: false
 * [General Information](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=General%20Information)
 * [Interlibrary Loans(Borrow items from other libraries)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=ILL)
 * [Research](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Research)
-* [Sherlock(Our Discovery tool)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Sherlock)
+* [Sherlock(Discovery tool)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Sherlock)
 
 ## Frequently Used Forms
 
