@@ -3,7 +3,7 @@ date: "2017-06-26T18:27:58+01:00"
 title: ""
 toc: false
 ---
-
+<div class="top-section-main">
 <div class="searchbox">
 <form id="simple" class="form-group no-up-margin nobackground" action="https://sherlock.whitman.edu/primo-explore/search" enctype="application/x-www-form-urlencoded; charset=utf-8" method="get" name="searchForm" onsubmit="searchevent();"><!-- Customizable Parameters -->
     <input name="institution" type="hidden" value="WHITC" />
@@ -49,7 +49,8 @@ toc: false
 </form>
 </div>
 <div id="announcement">{{% announcement file="announcement.md" %}}</div>
-
+</div>
+<div class="second-section-main">
 <div class="bootstrap-wrapper">
 <div class="container-fluid">
 <div class="row">
@@ -90,5 +91,5 @@ toc: false
 </div>
 </div>
 </div>
-
+</div>
 <script src="/js/init-home.js"></script>

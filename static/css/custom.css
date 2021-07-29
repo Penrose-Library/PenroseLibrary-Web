@@ -27,17 +27,19 @@
 #homepage-main-and-footer{
   background-image: url('/images/img_9.png');
   background-repeat: repeat-x;
-  margin-top: 0;
 }
-.main {
-  background: none;
+.top-section-main{
+  height: 55vh;
 }
 .searchbox{
   background-color: rgba(255, 255, 255, 0.8); /* home page background transpancy */
-  padding: 2em;
+  padding: 1rem 2rem;
   max-width: 40rem;
-  margin: 0 auto;
-  margin-bottom: 1rem;
+  margin: 2rem auto 1rem auto;
+}
+.second-section-main{
+  background-color: #fff;
+  padding: 1rem 0.5rem 1rem 1rem;
 }
 .nobackground{
   background: none;
@@ -48,10 +50,9 @@
   width:100%;
 }
 #announcement{
-  padding: 2rem;
+  padding: 1rem 2rem;
   max-width: 40rem;
   margin: 0 auto;
-  margin-bottom: 4rem;
   min-height: 2rem;
 }
 #announcement:not(:empty){
