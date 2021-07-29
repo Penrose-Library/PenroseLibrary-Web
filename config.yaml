@@ -48,7 +48,7 @@ menu:
       url: /guides/
       weight: 3
     - name: Library Services & FAQ
-      url: /libraryservices/
+      url: /library_services/
       weight: 7
     - name: Contact Librarians
       url: /contact_librarian/
