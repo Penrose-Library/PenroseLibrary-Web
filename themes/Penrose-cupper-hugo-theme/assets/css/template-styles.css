@@ -71,7 +71,9 @@ html {
 template {
   display: none !important;
 }
-
+body{
+    margin-bottom: 0;
+}
 br,
 dt,
 dd,
@@ -132,7 +134,7 @@ a {
     color: #fff;*/
     padding-top: 2rem;
     padding-left: 2rem;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
     margin-top: -1.5rem;
 }
 
@@ -421,13 +423,12 @@ caption {
 }
 .main-and-footer{
     margin-left: 14rem;
+    padding-top: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
-main {
-   padding: 0 2rem 0 4rem;
-}
-.primary-main{
-    padding: 3rem 0rem 1rem 2rem;
-}
+
 [role="contentinfo"] {
     font-size: 0.85rem;
     padding:2rem;
@@ -641,6 +642,10 @@ main {
     counter-reset: fig;
     min-height: 100vh;
 }
+.secondary-main{
+    padding: 0 1rem 1rem 3rem;
+}
+
 figcaption::before {
     counter-increment: fig;
     content: 'Figure ' counter(fig) ':\0020';
@@ -1073,7 +1078,7 @@ img.responsive-img, video.responsive-video {
     .wrapper:not(.print-version) [role="contentinfo"] {
         display: none;
     }
-    .main {
+    main {
         margin-left: 0;
     }
     a {
