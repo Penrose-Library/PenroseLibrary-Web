@@ -426,8 +426,7 @@ main {
    padding: 0 2rem 0 4rem;
 }
 .primary-main{
-    padding: 3rem 2rem 0rem 1rem;
-    max-width: 100%;
+    padding: 3rem 0rem 1rem 2rem;
 }
 [role="contentinfo"] {
     font-size: 0.85rem;
@@ -991,7 +990,7 @@ img.responsive-img, video.responsive-video {
 
 
 /* Media queries */
-@media screen and (max-width: 60rem) {
+@media screen and (max-width: 80rem) {
     body a {
       hyphens: auto;
     }

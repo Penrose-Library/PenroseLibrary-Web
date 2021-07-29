@@ -53,7 +53,7 @@ toc: false
 <div class="bootstrap-wrapper">
 <div class="container-fluid">
 <div class="row">
-    <div class="col-sm-4 col-xs-12">
+    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
       <div class="card">
         <h3>Hours and Contact</h3>
         <span id="date">&nbsp;</span>
@@ -64,8 +64,8 @@ toc: false
         <div id="reference"></div>
       </div>
     </div>
-    <div class="col-sm-4 col-xs-12"><div class="card" style="padding:0">{{< lastblog >}}</div></div>
-    <div class="col-sm-4 col-xs-12">
+    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12"><div class="card" style="padding:0">{{< lastblog >}}</div></div>
+    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
         <div class="card">
             <h3>Building Info</h3>
             <p class="no-up-margin">Study Rooms: 
