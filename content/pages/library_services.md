@@ -9,7 +9,9 @@ toc: false
 
 <div id="s-la-widget-14974"></div>
 
+<div style="display:block; clear:both">
 
+<div id="q1" class="pull-left">
 
 ## I have a question about…
 
@@ -28,6 +30,10 @@ toc: false
 * [Research](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Research)
 * [Sherlock(Discovery tool)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Sherlock)
 
+</div>
+
+<div id="q2" class="pull-right">
+
 ## Frequently Used Forms
 
 * [General Library Materials Gift Form](http://works.whitman.edu/giftform)
@@ -36,6 +42,7 @@ toc: false
 * [Senior Privileges Form](http://works.whitman.edu/seniorprivileges)
 * [Special Collections Materials Gift Form](http://works.whitman.edu/archivesgiftform)
 * [Suggest a Purchase Form](https://goo.gl/forms/c88IYFI6ZPPZpg8C2)
+
 
 ## Library Policies
 
@@ -50,11 +57,5 @@ toc: false
 * [Library Newsletter](https://penrose.whitman.edu/about_the_library/#library-newsletter)
 * [Location and Directions](https://penrose.whitman.edu/about_the_library/#location-and-directions)
 
-## Frequently used Forms
-
-* [General Library Materials Gift Form](http://works.whitman.edu/giftform)
-* [Honors Thesis related Forms](https://libguides.whitman.edu/c.php?g=1023668&p=8099020)
-* [Recording Consent & Copyright Release Form](http://works.whitman.edu/recordingconsentform)
-* [Senior Privileges Form](http://works.whitman.edu/seniorprivileges)
-* [Special Collections Materials Gift Form](http://works.whitman.edu/archivesgiftform)
-* [Suggest a Purchase Form](https://goo.gl/forms/c88IYFI6ZPPZpg8C2)
+</div>
+</div>
