@@ -1,5 +1,5 @@
 ---
-title: Library Services
+title: Library Services & FAQ
 date: 2019-04-09
 toc: false
 ---
@@ -17,16 +17,16 @@ toc: false
 * [Archives & Special Collections](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Archives%20%26%20Special%20Collections)
 * [Articles](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Articles)
 * [Books](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Books)
-* [Circulation](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Circulation)
+* [Circulation / Borrowing items](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Circulation)
 * [Citations](http://asklibrarian.whitman.edu/search/?topics=Citations)
 * [Copyright Guidance](http://libguides.whitman.edu/copyright_ip)
 * [Computers & Printing](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Computers%20%26%20Printing)
-* [Databases](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Databases)
+* [Using Databases](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Databases)
 * [Faculty Services](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Faculty%20Services)
 * [General Information](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=General%20Information)
-* [ILL](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=ILL)
+* [Interlibrary Loans(Borrow items from other libraries)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=ILL)
 * [Research](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Research)
-* [Sherlock](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Sherlock)
+* [Sherlock(Our Discovery tool)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Sherlock)
 
 ## Frequently Used Forms
 
@@ -37,12 +37,9 @@ toc: false
 * [Special Collections Materials Gift Form](http://works.whitman.edu/archivesgiftform)
 * [Suggest a Purchase Form](https://goo.gl/forms/c88IYFI6ZPPZpg8C2)
 
-
-
 ## Library Policies
 
 [About Library](/about_the_library/)
-
 
 * [Penrose Library: An Educational Partner](https://penrose.whitman.edu/about_the_library/#penrose-library-an-educational-partner)
 * [Penrose Mission and Values Statement](https://penrose.whitman.edu/about_the_library/#penrose-mission-and-values-statement)
