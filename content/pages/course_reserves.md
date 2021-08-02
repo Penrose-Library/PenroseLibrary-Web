@@ -47,6 +47,14 @@ Enter course number, instructor's name, or choose from list below.
 </div>
 </div>
 <script>
+const Strings = {};
+Strings.orEmpty = function( x ) {
+	if (x === undefined && typeof x == 'undefined'){
+        return "";
+	}else{
+		return x;
+	}
+};
 $(document).ready(function(e) {
 	$.ajax({
                             url: 'https://penroselib-php.herokuapp.com/coursereserve.php',
@@ -58,10 +66,10 @@ $(document).ready(function(e) {
 								var arr = $.map(msg[prop].instructor, function(el) { return el; });
 								sname=' ';						
 								if(arr.length==1){
-									sname=arr[0].first_name+' '+arr[0].last_name;
+									sname= Strings.orEmpty(arr[0].first_name)+' '+ Strings.orEmpty(arr[0].last_name);
 								}
 								if(arr.length>=2){
-									sname=arr[0].first_name+' '+arr[0].last_name+'/'+arr[1].first_name+' '+arr[1].last_name;	
+									sname= Strings.orEmpty(arr[0].first_name)+' '+ Strings.orEmpty(arr[0].last_name)+'/'+ Strings.orEmpty(arr[1].first_name)+' '+ Strings.orEmpty(arr[1].last_name);	
 								}
 								 var output='<tr><td><a href="http://sherlock.whitman.edu/primo_library/libweb/action/dlSearch.do?institution=WHITC&vid=WHITC_NEW&tab=default_tab&mode=Basic&group=GUEST&onCampus=true&displayMode=full&displayField=all&search_scope=whitc_cr&query=any,contains,'+msg[prop].code+'">'+msg[prop].code+'</a></td><td>'+sname+'</td></tr>';
 								$('#tbd-course').append(output);

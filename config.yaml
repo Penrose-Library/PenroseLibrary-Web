@@ -62,7 +62,7 @@ menu:
       url: https://arminda.whitman.edu
       weight: 23
     - name: Course Reserves
-      url: /course-reserves
+      url: /course_reserves
       weight: 19
     - name: Archives
       url: /archives/
