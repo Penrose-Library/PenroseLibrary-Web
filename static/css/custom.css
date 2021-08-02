@@ -83,23 +83,6 @@
   max-width: none;
   height: 100%;
 }
-/* Grid System for homepage */
-.grid-container {
-  display: grid;
-  grid-template-columns: 33% 33% 33%;
-  grid-template-rows: 1fr;
-  gap: 1rem;
-  grid-template-areas:
-    "Area-1 Area-2 Area-3"
-    "Area-4 Area-5 Area-6";
-}
-
-.Area-1 { grid-area: Area-1; margin-top: 0;}
-.Area-2 { grid-area: Area-2; margin-top: 0;}
-.Area-3 { grid-area: Area-3; margin-top: 0;}
-.Area-4 { grid-area: Area-4; }
-.Area-5 { grid-area: Area-5; }
-.Area-6 { grid-area: Area-6; }
 
 /* just boxes */
 
@@ -126,68 +109,29 @@
     margin-top:0.5rem;
 }
 
-/* Media queries */
-@media screen and (max-width: 60rem) {
-/* Grid System for homepage */
-.grid-container {
-  display: grid;
-  grid-template-columns: 80%;
-  grid-template-rows: 1fr;
-  gap: 1rem 1rem;
-  grid-template-areas:
-    "Area-1"
-    "Area-2"
-    "Area-3"
-    "Area-4"
-    "Area-5"
-    "Area-6";
-  }
+table {
+  width: 100%;
+  display: table;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+table, th, td {
+  border: none;
+}
+table.striped>tbody>tr:nth-child(odd) {
+  background-color: #ddd;
+}
+table.striped tr {
+  border-bottom: none;
+}
+tr {
+  border-bottom: 1px solid rgba(0,0,0,.12);
 }
 
-/* Grid for IE 10/11 not responsive */
-@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
-    .grid-container{
-      display: -ms-grid;
-      display: grid;
-      -ms-grid-columns: 33% 33% 33%;
-      grid-template-columns: 1fr 1fr;
-    }
-    .Area-1 {
-      -ms-grid-column: 1;
-      grid-column: 1;
-      -ms-grid-row: 1;
-      grid-row: 1;
-    }
-    .Area-2 {
-      -ms-grid-column: 2;
-      grid-column: 2;
-      -ms-grid-row: 1;
-      grid-row: 1;
-    }
-    .Area-3 {
-      -ms-grid-column: 3;
-      grid-column: 3;
-      -ms-grid-row: 1;
-      grid-row: 1;
-    }
-    .Area-4 {
-      -ms-grid-column: 1;
-      grid-column: 1;
-      -ms-grid-row: 2;
-      grid-row: 2;
-    }
-    .Area-5 {
-      -ms-grid-column: 2;
-      grid-column: 2;
-      -ms-grid-row: 2;
-      grid-row: 2;
-    }
-    .Area-6 {
-      -ms-grid-column: 3;
-      grid-column: 3;
-      -ms-grid-row: 2;
-      grid-row: 2;
-    }    
+/* Media queries */
+@media screen and (max-width: 60rem) {
+
+  
     .box{
       border: 1px solid;
       clear:right;
