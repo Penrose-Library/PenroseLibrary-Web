@@ -995,7 +995,7 @@ img.responsive-img, video.responsive-video {
 
 
 /* Media queries */
-@media screen and (max-width: 80rem) {
+@media screen and (max-width: 79rem) {
     body a {
       hyphens: auto;
     }
