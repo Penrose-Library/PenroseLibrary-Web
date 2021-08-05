@@ -760,7 +760,6 @@ pre[class*=language-] code * {
 }
 [id^="js-expandable-"] {
     margin: 0;
-    padding: 1.5rem 0 0.75rem;
 }
 @media screen {
     .expandable-section + .expandable-section {
