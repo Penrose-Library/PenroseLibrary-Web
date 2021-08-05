@@ -82,7 +82,7 @@
 		if(typeof hours[x] !== 'undefined'){
 			if( hours[x].notes !== null ){
 				console.log(hours[x]);
-				refhtml='<div class="reference-text no-up-margin"><span style="color:green">'+hours[x].notes.name+'</span> is available for research help until '+hours[x].dtend+'<br/><a href="mailto:'+hours[x].notes.email+'">'+hours[x].notes.email+'</a>.</div>  <div class="reference-picture no-up-margin">   <img src="'+hours[x].notes.photo+'" class="responsive-img reference-img no-up-margin" style="width:30%" alt="'+hours[x].notes.name+'"/></div>';
+				refhtml='<div class="reference-text pull-left"><span style="color:green">'+hours[x].notes.name+'</span> is available for research help until '+hours[x].dtend+'. <a href="mailto:'+hours[x].notes.email+'">'+hours[x].notes.email+'</a></div>  <div class="reference-picture pull-right">   <img src="'+hours[x].notes.photo+'" class="responsive-img reference-img no-up-margin" alt="'+hours[x].notes.name+'"/></div>';
 				
 			}//end first if
 			}//end if
