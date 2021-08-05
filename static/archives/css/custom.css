@@ -101,7 +101,9 @@
 
 /* Media queries */
 @media screen and (min-width: 80rem) and (max-width: 90rem) {
-   
+  .card {
+    height: 27rem;
+  }
   .top-section-main {
         height: 60vh;
   }
