@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://penrose.whitman.edu/archives/instruction-and-tours/</loc>
-    <lastmod>2021-08-05T15:56:00-07:00</lastmod>
+    <loc>https://penrose.whitman.edu/archives/digital-projects/</loc>
+    <lastmod>2021-08-05T16:00:22-07:00</lastmod>
   </url><url>
     <loc>https://penrose.whitman.edu/archives/pages/</loc>
+    <lastmod>2021-08-05T16:00:22-07:00</lastmod>
+  </url><url>
+    <loc>https://penrose.whitman.edu/archives/instruction-and-tours/</loc>
     <lastmod>2021-08-05T15:56:00-07:00</lastmod>
   </url><url>
     <loc>https://penrose.whitman.edu/archives/research-services/</loc>
