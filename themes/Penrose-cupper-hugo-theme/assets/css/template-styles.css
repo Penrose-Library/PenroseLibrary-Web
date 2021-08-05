@@ -554,8 +554,6 @@ caption {
     line-height: 1.6;
 }
 .patterns-list li + li {
-    margin-top: 1rem;
-    padding-top: 1rem;
     border-top: 2px solid;
 }
 .patterns-list a {
@@ -759,7 +757,6 @@ pre[class*=language-] code * {
 .expandable-section {
     border-top: 1px solid;
     border-bottom: 1px solid;
-    padding: 0.75rem 0;
 }
 [id^="js-expandable-"] {
     margin: 0;
