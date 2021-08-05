@@ -75,9 +75,11 @@
   clear: both;
   padding-top: 1rem;
   display: block;
+  border: none;
 }
-.reference-img {
-  width: 5rem;
+.reference-picture > img{
+  height: 6rem;
+  width: auto;
   float: right;
 }
 .pull-left{
@@ -162,10 +164,7 @@ tr {
   padding-left: 0;
   padding-right: 0;
 }
-.reference-img {
-  width: 4rem;
-  float: right;
-}
+
 p{
    margin-top: 0;
  }
