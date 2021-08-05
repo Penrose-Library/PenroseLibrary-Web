@@ -9,7 +9,7 @@
       {{ if ne .Params.toc false }}
       {{ partial "toc" . }}
       {{ end }}
-  <main id="main">
+  <main id="main" class="secondary-main">
     <div class="date">
       {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
       {{ $publishDate := .PublishDate }}

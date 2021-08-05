@@ -87,7 +87,10 @@ body,
     margin-top: 0;
 }
 p + p {
-    margin-top: 0.75rem;
+   margin-top: 0.75rem;
+}
+p{
+    margin-top: 0;
 }
 .priority {
   margin-top: 0;
@@ -1073,6 +1076,16 @@ img.responsive-img, video.responsive-video {
         display: none;
     }
 }
+
+
+/* Media queries */
+@media screen and (min-width: 80rem) and (max-width: 90rem) {
+   
+ 
+
+   
+}
+
 @media print {
     .wrapper:not(.print-version) .intro-and-nav,
     .wrapper:not(.print-version) [role="contentinfo"] {
@@ -1119,6 +1132,9 @@ img.responsive-img, video.responsive-video {
         background: none;
     }
 }
+
+
+
 @media (-ms-high-contrast: active) {
   img[src*=".svg"] {
     background: #fefefe;
