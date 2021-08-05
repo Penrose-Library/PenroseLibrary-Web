@@ -53,7 +53,14 @@
   text-align: center;
 }
 
-
+.pull-left{
+  width:50%;
+  float: left;
+}
+.pull-right{
+  width: 50%;
+  float: right;
+}
 .nobackground{
   background: none;
 }
