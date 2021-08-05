@@ -29,7 +29,7 @@
   background-repeat: repeat-x;
 }
 .top-section-main{
-  height: 55vh;
+  height: 50vh;
 }
 .searchbox{
   background-color: rgba(255, 255, 255, 0.8); /* home page background transpancy */
@@ -172,5 +172,8 @@ p{
    width: 100%;
    margin-left: 0.5rem;
  }
+ .searchbox{
+  margin: 2rem auto 0.5rem auto;
+}
 }
 
