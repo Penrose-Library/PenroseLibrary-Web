@@ -108,7 +108,7 @@ The purpose of placing materials on reserve is to make common readings readily a
 
 ### How to place an item on reserve
 
-Please complete a [Reserve Request Form ](https://docs.google.com/a/whitman.edu/forms/d/e/1FAIpQLSfZ37LXVdmh8dE4wzcfkPQSMnDj2YyHBTGlL1NEV6bcqzIhmQ/viewform)or [Video Streaming Request
+Please complete a [Reserve Request Form ](https://docs.google.com/a/whitman.edu/forms/d/e/1FAIpQLSfZ37LXVdmh8dE4wzcfkPQSMnDj2YyHBTGlL1NEV6bcqzIhmQ/viewform) or [Video Streaming Request
 Form](https://works.whitman.edu/streamingmediaform) online, listing all items you will be placing on reserve. You can choose to place items on reserve for the following loan periods:
 
 -   3 hours (library use only)
@@ -125,7 +125,7 @@ Pope](mailto:popeja@whitman.edu). Materials to be scanned, or put on reserve in 
 - **Library books, videos, CDs, and DVDs** Please gather together the library materials you would like on reserve for your courses.Reference books and periodicals do no circulate outside the library and are not normally placed on reserve.
 
 - **Streaming medias** Portions of or entire media can be put on course reserves if certain conditions are met. Please refer to our [video streaming course reserve
-policy](https://works.whitman.edu/streamingmediapolicy) for details.[Video Streaming course reserves request form](https://works.whitman.edu/streamingmediaform) could be filled out online for request processing.
+policy](https://works.whitman.edu/streamingmediapolicy) for details. [Video Streaming course reserves request form](https://works.whitman.edu/streamingmediaform) could be filled out online for request processing.
 
 - **Books not owned by the library** The Library will attempt to purchase books needed for reserve use. You may request them by contacting the [Acquisitions Department](mailto:stelkre@whitman.edu). Please be sure to indicate that the item is for reserve, and provide the course number.
 
@@ -160,7 +160,7 @@ Changes have been made to the faculty code in regard to what is required for sub
 
 ### Where can I find thesis submission guidelines?
 
-Complete guidelines on formatting and submission can be found[here](https://library.whitman.edu/thesis).
+Here you could find [Complete guidelines on formatting and submission](https://library.whitman.edu/thesis).
 
 ### When is the deadline?
 
@@ -189,11 +189,11 @@ The library will offering a workshop for students on these submission guidelines
 
 ### Who do I contact with questions?
 
-[Ben Murphy](mailto:murphybp@whitman.edu), Archivist and Special Collections Librarian (509-526-4731)
-
 [Amy Blau](mailto:blauar@whitman.edu), Scholarly Communications Librarian (509-527-5905)
 
 [Emily Pearson](mailto:pearsome@whitman.edu), Instructional & Research Services Librarian (509-527-5918)
+
+[Ben Murphy](mailto:murphybp@whitman.edu), Archivist and Special Collections Librarian (509-526-4731)
 
 ## Collection Development
 
@@ -210,7 +210,7 @@ to recommend for purchase. Once you have chosen all of the titles that you want 
 interested in establishing a profile for the GOBI Notification service, please contact Roger Stelk, Collection Management librarian, at [stelkre@whitman.edu](mailto:stelkre@whitman.edu), or by phone at 509-527-5909.
 
 ![gobi
-notification](./Faculty%20Services%20–%20Penrose%20Library_files/gobiimage.jpg)
+notification](images/gobiimage.jpg)
 
 ## Data Management 
 
@@ -229,7 +229,7 @@ cost and within a reasonable time, the primary data, samples, physical collectio
 
 ### What should the Data Management Plan include?
 
-The NSF lays out the requirements for the DMP in their[Grant Proposal Guide](https://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/gpg_index.jsp). The DMP should include information explaining:
+The NSF lays out the requirements for the DMP in their [Grant Proposal Guide](https://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/gpg_index.jsp). The DMP should include information explaining:
 
 1.The types of data, samples, physical collections, software, curriculum materials, and other materials to be produced in the course of the project.
 2.The standards to be used for data and metadata format and content.
@@ -237,7 +237,7 @@ The NSF lays out the requirements for the DMP in their[Grant Proposal Guide](htt
 4.Policies and provisions for re-use, re-distribution, and the production of derivatives.
 5.Plans for archiving data, samples, and other research products, and for preservation of and access to them.
 
-Some Directorates, Offices, Divisions, and Programs have specific requirements beyond those outlined above. Please check the[NSF website](https://www.nsf.gov/bfa/dias/policy/dmp.jsp) to find out
+Some Directorates, Offices, Divisions, and Programs have specific requirements beyond those outlined above. Please check the [NSF website](https://www.nsf.gov/bfa/dias/policy/dmp.jsp) to find out
 whether your grant proposal will require additional components.
 
 ### Some questions to consider
