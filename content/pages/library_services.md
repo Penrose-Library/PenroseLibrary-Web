@@ -26,9 +26,9 @@ toc: false
 * [Using Databases](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Databases)
 * [Faculty Services](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Faculty%20Services)
 * [General Information](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=General%20Information)
-* [Interlibrary Loans(Borrow items from other libraries)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=ILL)
+* [Interlibrary Loans (Borrow items from other libraries)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=ILL)
 * [Research](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Research)
-* [Sherlock(Discovery tool)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Sherlock)
+* [Sherlock (Discovery tool)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Sherlock)
 
 </div>
 
