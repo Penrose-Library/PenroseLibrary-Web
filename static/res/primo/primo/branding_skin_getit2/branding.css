@@ -1,0 +1,25 @@
+/*css file for getit2 branding */
+body{
+	background-color: #fff !important;
+}
+form[name="uResolverViewItForm"] ul:before {
+   content:'Resource is available through following database(s):';
+}
+form[name="uResolverViewItForm"] ul {
+	   margin-top:30px !important;	   
+	   font-size:14px;
+   }
+div.clearfix:nth-child(19) > ul:nth-child(1){
+	position:relative !important;
+	top:auto !important;
+}
+div.clearfix:nth-child(23) > ul:nth-child(1){
+	top:auto !important;
+
+}
+}
+.submit {
+	background:#295587 !important;
+	background-color:#295587 !important;
+	
+}

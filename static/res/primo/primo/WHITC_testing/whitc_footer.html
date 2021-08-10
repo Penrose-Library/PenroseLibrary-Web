@@ -1,0 +1,71 @@
+<!--begin footer-->
+  <div class="EXLFooterLinksContainer">
+    <ul class="EXLFooterLinksList1">
+      <li class="EXLFooterFirstLink"><a href="https://library.whitman.edu">Penrose Library</a></li>
+      <li><a href="https://library.whitman.edu/contact-a-librarian/">Ask Us</a></li>
+  
+      <li><a href="#"></a></li>
+      <li><a href="#"></a></li>
+      <li class="EXLFooterLastLink"><a href="#"></a></li>
+    </ul>
+    <ul class="EXLFooterLinksList2">
+      <li class="EXLFooterFirstLink"><a href="#"></a></li>
+      <li><a href="#"></a></li>
+
+      <li class="EXLFooterLastLink"><a href="#"></a></li>
+    </ul>
+  </div>
+<script src="https://library.whitman.edu/res/primo/primo/jq.primo.js" type="text/javascript" ></script>
+<script src="https://library.whitman.edu/res/primo/primo/include/jquery.magnific-popup.min.js"></script>
+<script src="https://library.whitman.edu/res/primo/primo/include/notify.js"></script>
+<script src="https://library.whitman.edu/res/primo/primo/include/jquery.cookie.js"></script>
+<script src="https://library.whitman.edu/res/primo/primo/include/feedback.js"></script>
+<script src="https://library.whitman.edu/res/primo/primo/include/primo_additional.js"></script>
+<script>
+console.log('Testing View');
+function loginscreen(){
+
+	$.magnificPopup.open({
+		items: {
+		  src: '<div class="white-popup"><div class="logostage"><img src="//www.whitman.edu/penrose/library/images/PenroseLibraryLogo.png" alt="library logo" style="width:50%" /></div><div class="contentstage"><p><a href="//'+window.location.hostname+'/primo_library/libweb/action/login.do?loginFn=signin&vid=WHITC_testing&targetURL='+document.location+'&afterPDS=true&vid=WHITC_testing&dscnt=1&isIframeSSO=false">Whitman College students, faculty, and staff</a><br/><span class="popup-description">Log in for expanded access to electronic materials and Summit/ILL request options.</span></p><p><a href="https://alliance-primo.hosted.exlibrisgroup.com/pds?func=load-login&amp;calling_system=primo&amp;institute=01ALLIANCE_WHITC&amp;PDS_HANDLE=&amp;url='+window.location.protocol+'//'+window.location.hostname+'/primo_library/libweb/action/login.do?targetURL='+document.location+'">Other registered patrons</a><br/><span class="popup-description">Including retired faculty/staff, alumni, and community borrowers</span></p><p><a href="#" onclick="$.magnificPopup.close()">Continue as guest</a></p><p><span class="popup-description">For assistance, contact the Penrose Library Circulation Desk (509-527-5192). &nbsp; </span></p></div>',
+		  type: 'inline',
+		  closeBtnInside: true
+		},
+		callbacks: {
+			close: function() {
+				$('#exlidMainMenuTile').notify("Login to access more content.",{ elementPosition:"bottom right" , autoHide:false, arrowShow: false});
+				$.cookie(jQuery.PRIMO.session.user.id, 'ignored' , { expires:1 });
+		}
+	  }//callback
+	});
+	
+}
+//login
+
+$(document).ready(function() {
+	$('a.EXLMainMenuITEMchange_color').click(function(){
+		console.log("#FFFEF2");
+		$('body').css( "background-color", "#FFFEF2" );
+		$('EXLResultsTile').css( "background","#FFFEF2");
+		$('.EXLFooter').css( "background","#FFFEF2" );
+		$('#exlidHeaderContainer').css( "background","#FFFEF2" );
+		
+		
+	});
+if($.PRIMO.session.user.isLoggedIn()==false&&$.cookie(jQuery.PRIMO.session.user.id)!='ignored'){
+		loginscreen();
+}//if
+		
+if(jQuery.PRIMO.session.user.isLoggedIn()==false&&$.cookie(jQuery.PRIMO.session.user.id)=='ignored'){
+		$('#exlidMainMenuTile').notify("Login to access more content.",{ elementPosition:"bottom right" , autoHide:false, arrowShow: false});
+}
+//overrite login buttons
+$('#exlidSignIn').html('<a href=\'#\' onclick="loginscreen();">Sign in</a>');
+$( document ).ajaxComplete(function() {
+	$('em.EXLTabHeaderContentAdditionalDataLineSignIn').html('<a  href=\'#\' onclick="loginscreen();">Sign-in for more options</a>');
+	});
+});
+
+</script>
+<!--end footer-->
+

@@ -1,0 +1,324 @@
+.nav_select{
+    clear: both;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 15px 0 17px 10px;
+    padding: 0 0 1px;	
+}
+.nav_select li{
+	border-bottom: 1px dotted;
+	padding: 1px 0 0;
+}
+.nav_select a{
+  color: #003d7d;
+    display: block;
+    padding: 6px 5px 6px 0;
+}
+
+
+#Topbar {
+    color: #003d7d;
+	width:100%;
+    float: left;
+    margin-bottom: 19px;
+	border-collapse:collapse;
+}
+	
+.subject {
+    float: left;
+    height: 29px;
+    margin: -2px 0 0;
+    padding: 0;
+    width: 380px;
+}
+#top1_buttonbar {
+    float: right;
+    margin-right: 20px;
+    margin-top: 0;
+}
+#top4_menubar {
+    border-top: 1px solid #c9c9c9;
+	border-bottom:none !important;
+    float: right;
+    height: 5px;
+	margin-top:-1px;
+    padding: 5px 0 9px;
+    width: 100%;
+}
+#clear_list {
+    color: #003d7d;
+    cursor: pointer;
+    float: right;
+    margin: 3px 10px 0 0;
+}
+#email_list {
+    color: #003d7d;
+    cursor: pointer;
+    float: right;
+    margin: 0 16px 0 7px;
+    padding-top: 2px;
+}
+.list_page {
+    color: #003d7d;
+    font-size: 10pt;
+    text-decoration: none;
+}
+#numSelectedItems {
+    float: right;
+    margin-right: 21px;
+    margin-top: 2px;
+    text-align: left;
+}
+#my_list {
+    color: #003d7d;
+    cursor: pointer;
+    float: right;
+    margin-right: 3px;
+    padding-top: 2px;
+}
+.list_icon {
+    float: right;
+    padding: 3px 5px 0 0;
+}
+.list_icon_wide {
+    padding: 1px 0 0;
+}
+#top2_messagebar {
+    float: left;
+    height: 36px;
+    width: 100%;
+}
+#prompt {
+    margin-top: 5px;
+}
+#top3_dateRangeTabsbar {
+    box-sizing: border-box;
+    float: left;
+    height: 30px;
+    margin-bottom: 10px;
+    padding-right: 25px;
+    width: 100%;
+}
+#date {
+    color: #003d7d;
+    float: left;
+    font-weight: bold;
+    margin-top: 5px;
+    text-decoration: none;
+    width: 200px;
+}
+#displayRange {
+    color: #003d7d;
+    float: left;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+#search_tab.active {
+    background: -moz-linear-gradient(center top , #ffffff 20%, #ffffff 70%) repeat scroll 0 0 transparent;
+    border-bottom: 1px solid #ffffff;
+}
+#browse_tab.active {
+    background: -moz-linear-gradient(center top , #ffffff 20%, #ffffff 70%) repeat scroll 0 0 transparent;
+    border-bottom: 1px solid #ffffff;
+}
+.background_tab {
+    background: -moz-linear-gradient(center top , #e6e6e6 20%, #d4d4d4 70%) repeat scroll 0 0 transparent;
+    border: 1px solid #aaaaaa;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    color: #212121;
+    cursor: pointer;
+    float: right;
+    font-size: 1.1em;
+    font-weight: bold;
+    height: 26px;
+    line-height: 28px;
+    margin: -4px 3px 0 0;
+    padding: 0 0 7px 35px;
+    position: relative;
+    text-decoration: none;
+    width: 90px;
+}
+#browse_tab:hover, #search_tab:hover {
+    text-decoration: none;
+}
+
+#displayType {
+    float: left;
+    margin-bottom: 0;
+    margin-top: 1px;
+    position: relative;
+    width: 250px;
+}
+.format_checkboxes {
+    float: left;
+    margin-top: 4px;
+    width: 12px;
+}
+.format_items {
+    float: left;
+    margin-left: 1px;
+    padding-top: 3px;
+    width: 55px;
+}
+.format_items_long {
+    width: 60px;
+}
+#format_search {
+    display: none;
+    margin-bottom: 0;
+    position: relative;
+    width: 560px;
+}
+#format_email {
+    display: none;
+    float: left;
+    margin-bottom: 0;
+    position: relative;
+    width: 300px;
+}
+.flat_button_sm {
+    background-color: #efefef;
+    border: 1px solid #acacac;
+    color: #002266;
+    cursor: pointer;
+    float: right;
+    font-weight: bold;
+    padding: 1px 10px;
+}
+.flat_button {
+    background-color: #efefef;
+    border: 1px solid #acacac;
+    color: #002266;
+    cursor: pointer;
+   
+    font-size: 10pt;
+    font-weight: bold;
+    height: 18px;
+   
+    text-align: center;
+    text-decoration: none;
+}
+.hide {
+    display: none;
+}
+#main_panel {
+    float: left;
+    margin-bottom: 25px;
+    min-height: 200px;
+
+}
+.bookContainer {
+    /*border-bottom: 1px solid #dadada;*/
+    float: left;
+    padding: 10px 15px 12px 10px;
+    width: 323px;
+	height:150px;
+}
+.book_jacket {
+    float: left;
+    margin-left: 5px;
+    min-height: 115px;
+    overflow: hidden;
+    width: 90px;
+}
+.book_content ul li {
+    font-size: 10pt;
+    margin-left: 0;
+    margin-top: -3px;
+    min-height: 22px;
+    position: relative;
+    width: 226px;
+	list-style-type: none !important;
+}
+.title {
+    font-weight: bold;
+    margin-bottom: 2px;
+    max-height: 55px;
+    overflow: hidden;
+    text-decoration: none;
+}
+#title_checkbox {
+    float: right;
+}
+.entry_title {
+    color: #0066cc;
+    overflow: hidden;
+}
+.bibliographicnumber {
+    display: none;
+}
+.item_label {
+    color: #929292;
+    font-weight: bold;
+}
+.subjectclass {
+    display: inline;
+    max-height: 21px;
+    overflow: hidden;
+}
+.statusclass {
+    display: inline;
+    max-height: 21px;
+    overflow: hidden;
+}
+dd {
+    background-color: #ffffff;
+    border-bottom: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+    border-right: 1px solid #ffffff;
+    margin: 6px 0 0 -11px;
+    padding-left: 104px;
+    position: absolute;
+    width: 245px;
+    z-index: 1;
+}
+.accordion {
+    margin: 0;
+    position: relative;
+}
+#displayMoreRecordsButton {
+    float: left;
+    font-size: 11pt;
+    font-weight: bold;
+    width: 100px;
+}
+#displayMoreRecordsLink {
+    color: #003d7d;
+}
+#loading_text {
+    float: right;
+    width: 175px;
+}
+.loading_spinner {
+    display: none;
+    float: left;
+    margin: 0 0 0 40px;
+    width: 200px;
+}
+#searchexplain {
+    border: 1px dotted #acacac;
+    float: left;
+    padding: 20px;
+}
+#side_bar li {
+    color: #003d7d;
+    cursor: pointer;
+    padding: 6px 5px 6px 0;
+    text-decoration: none;
+}
+#side_bar li.active {
+    color: #000000;
+    text-decoration: none;
+}
+#side_bar li.active:hover {
+    text-decoration: none;
+}
+#book_subjects {
+    display: block;
+}
+
+#content ul, #content ol {
+    margin: 0;
+	list-style-type: none;
+}

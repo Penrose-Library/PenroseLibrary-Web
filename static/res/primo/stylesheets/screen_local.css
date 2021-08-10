@@ -1,0 +1,2155 @@
+
+
+body {
+    background: none repeat scroll 0 0 #0B2A58;
+    color: #000000;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    min-width: 960px;
+}
+h1, h2, h3, h4 {
+    font-family: Georgia,"Times New Roman",Times,serif;
+    font-weight: normal;
+}
+h1 {
+    color: #003D7D;
+    font-size: 28px;
+    line-height: 32px;
+    margin: 0 0 28px;
+}
+h2 {
+    color: #003D7D;
+    font-size: 24px;
+    margin: 0 0 23px;
+}
+h2.border {
+    border-bottom: 1px solid #003D7D;
+    padding: 0 0 10px;
+}
+h3 {
+    color: #003D7D;
+    font-size: 20px;
+    margin: 0 0 18px;
+}
+h4 {
+    font-size: 16px;
+    margin: 0 0 10px;
+}
+sup {
+    font-size: 0.55em;
+    margin-top: -10px;
+    vertical-align: top;
+}
+sub {
+    font-size: 0.85em;
+}
+em {
+    font-style: italic;
+}
+strong {
+    font-weight: bold;
+}
+a {
+    color: #295587;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+#content p {
+    font-size: 1em;
+    margin-bottom: 19px;
+}
+#content .intro {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 19px;
+}
+#content ul, #content ol {
+    margin: 0;
+}
+#content ul.plain, #content ol.plain {
+    margin: 0 0 10px;
+}
+#content ul li {
+    list-style: none outside none;
+}
+#content ol li {
+    list-style: decimal outside none;
+}
+#content ul.plain li, #content ol.plain li, ul.plain li, ol.plain li {
+    list-style: none outside none;
+}
+#content ul.inline li, ul.inline li, #header ul li, #menu ul li, #footer ul li {
+    float: left;
+}
+.container {
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    width: 960px;
+}
+.right {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+.right.absolute {
+    float: none;
+    margin: 0;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.left {
+    float: left;
+    margin: 0 10px 10px 0;
+}
+.left.last {
+    margin-right: 0;
+}
+.center {
+    text-align: center;
+}
+.small {
+    font-size: 0.9em;
+}
+.underline {
+    text-decoration: underline;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.overflow {
+    overflow: auto;
+}
+.clear {
+    clear: both;
+}
+.borderTop {
+    border-top: 1px solid #CCCCCC;
+    padding-top: 15px;
+}
+.borderBottom {
+    border-bottom: 1px solid #CCCCCC;
+    padding-bottom: 15px;
+}
+.paddingTop {
+    padding-top: 10px;
+}
+.paddingBottom {
+    padding-bottom: 10px;
+}
+.marginBottom {
+    margin-bottom: 10px;
+}
+.marginTop {
+    margin-top: 10px;
+}
+.two, .three, .four, .five {
+    overflow: hidden;
+}
+.two div {
+    float: left;
+    margin-right: 20px;
+    width: 300px;
+}
+.three div {
+    float: left;
+    margin-right: 20px;
+    width: 220px;
+}
+.four div {
+    float: left;
+    margin-right: 10px;
+    width: 21.8%;
+}
+.five div {
+    float: left;
+    margin-right: 10px;
+    width: 19%;
+}
+.two .last, .three .last, .four .last, .five .last, .section.two .last {
+    margin-right: 0;
+}
+.section.two div {
+    margin-right: 28px;
+    width: 332px;
+}
+.forms-two div {
+    width: 379px;
+}
+.forms-two div.last {
+    width: 250px;
+}
+#header {
+    background: url("https://www.whitman.edu/web2012/images/bg-header.gif") repeat-x scroll 0 0 #F5F2EF;
+}
+#header .container {
+    margin: 0 auto 9px;
+}
+#header .header-holder {
+    color: #888888;
+    float: right;
+    font-size: 14px;
+    padding: 14px 0 0;
+}
+#header .hold {
+    border-bottom: 2px solid #888888;
+    height: 1%;
+    margin: 0 0 7px;
+    overflow: hidden;
+    padding: 0 0 8px;
+}
+#header #logo {
+    background: url("https://www.whitman.edu/web2012/images/logo.png") no-repeat scroll 0 0 transparent;
+    float: left;
+    height: 78px;
+    margin: 5px 0 0;
+    overflow: hidden;
+    width: 458px;
+}
+#header #topMenu {
+    float: left;
+}
+#header #topMenu2 {
+    height: 1%;
+    overflow: hidden;
+}
+#header .header-holder ul li {
+    background: url("https://www.whitman.edu/web2012/images/separator.gif") no-repeat scroll 0 4px transparent;
+    padding: 0 9px;
+}
+#header .header-holder ul li:first-child {
+    background: none repeat scroll 0 0 transparent;
+    padding: 0 9px 0 0;
+}
+#header .header-holder a {
+    color: #0B2A58;
+}
+#header #search {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #888888;
+    float: left;
+}
+#search input[type="text"] {
+    border: medium none;
+    float: left;
+    margin: 0;
+    outline: medium none;
+    padding: 0 0 1px;
+    width: 89px;
+}
+#search input[type="submit"] {
+    background: url("https://www.whitman.edu/web2012/images/btn-search.gif") no-repeat scroll 0 0 transparent;
+    border: medium none;
+    cursor: pointer;
+    float: left;
+    font-size: 0;
+    height: 16px;
+    line-height: 0;
+    margin: 1px 0 0;
+    padding: 0;
+    text-indent: -9999px;
+    width: 19px;
+}
+#menu {
+    font-size: 14px;
+}
+#menu .container {
+    background: url("https://www.whitman.edu/web2012/images/bg-nav.gif") repeat-x scroll 0 0 transparent;
+    margin: 0 auto;
+}
+#menu ul {
+    height: 1%;
+    overflow: hidden;
+}
+#menu li {
+    padding: 3px 10px 5px 9px;
+}
+#menu a {
+    color: #FFFFFF;
+}
+#gallery {
+    height: 1%;
+    overflow: hidden;
+    position: relative;
+}
+#gallery .container, #top-image .container {
+    margin: 0 auto;
+}
+#gallery #slideshow {
+    height: 330px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+#gallery #slideshow div.inner-slideshow {
+    height: 330px;
+    position: relative;
+    width: 960px;
+}
+#gallery #slideshow div.inner-slideshow.science {
+    background: url("http://placehold.it/960x330/e1e1e1/888/") no-repeat scroll 0 0 transparent;
+}
+#gallery #slideshow div.inner-slideshow.library {
+    background: url("http://placehold.it/960x330/888/e1e1e1/") no-repeat scroll 0 0 transparent;
+}
+#gallery .prev, #gallery .next {
+    background: url("https://www.whitman.edu/web2012/images/prev-next.gif") no-repeat scroll 0 0 transparent;
+    height: 52px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -9999px;
+    top: 128px;
+    width: 42px;
+    z-index: 100;
+}
+#gallery .next {
+    background: url("https://www.whitman.edu/web2012/images/prev-next.gif") no-repeat scroll 0 -52px transparent;
+    left: 918px;
+}
+#gallery blockquote {
+    background: url("https://www.whitman.edu/web2012/images/bg-trans.png") repeat scroll 0 0 transparent;
+    bottom: 0;
+    color: #F5F2EF;
+    left: 0;
+    margin: 0;
+    overflow: hidden;
+    padding: 10px 68px 10px 188px;
+    position: absolute;
+    top: auto !important;
+    width: 704px;
+}
+#gallery strong {
+    display: block;
+    font: 16px/18px Georgia,"Times New Roman",Times,serif;
+    left: 68px;
+    margin: 0 14px 0 0;
+    position: absolute;
+    top: 10px;
+}
+#gallery blockquote {
+    font: 16px/18px Georgia,"Times New Roman",Times,serif;
+}
+#gallery .more {
+    color: #F5F2EF;
+    font: italic 14px Georgia,"Times New Roman",Times,serif;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+    content: "";
+    margin: 0;
+}
+blockquote, q {
+    display: block;
+    margin: 0 0 6px;
+    quotes: "" "";
+}
+#content {
+    background: url("https://www.whitman.edu/web2012/images/bg-content.gif") repeat-x scroll 0 0 #E5DED1;
+}
+#content .container {
+    background: none repeat scroll 0 0 #FFFFFF;
+}
+#content #wrapper {
+    float: left;
+    padding: 28px 0 22px;
+    width: 700px;
+}
+#content #wrapper2 {
+    float: left;
+    padding: 28px 0 22px;
+    width: 700px;
+}
+.home #content #wrapper {
+    padding: 12px 0 0 10px;
+    width: 620px;
+}
+#content #wrapper.half {
+    padding: 15px 0 0;
+    width: 460px;
+    height: 433px;
+}
+#content #wrapper.half2 {
+    float: none;
+    width: auto;
+}
+#content #wrapper.full {
+    padding: 28px 10px 22px 20px;
+    width: 930px;
+}
+#content #wrapper #wrapper.half {
+    padding: 10px 0 0;
+}
+#content #wrapper.left-side {
+    padding: 28px 0 22px 19px;
+}
+#content #breadcrumbs {
+    color: #003D7D;
+    margin: -12px 0 23px;
+}
+#content #breadcrumbs a {
+    color: #003D7D;
+}
+#content .sidebar.left, #content .sidebar.right {
+    float: left;
+  /*  margin: 15px 0 30px; */
+    margin: 15px 0 0px;
+    width: 230px;
+}
+.home #content .sidebar.left, .home #content .sidebar.right {
+    width: 300px;
+}
+#content .sidebar.right {
+    float: right;
+}
+.home #content .sidebar.right {
+    margin: 11px 10px 0 0;
+}
+#content .sidebar.left {
+    margin: 15px 19px 0 0;
+    padding: 0 0 30px;
+    padding: 0;
+}
+#content .sidebar {
+    float: left;
+    width: 230px;
+}
+#content .sidebar2 {
+    font-size: 14px;
+    padding: 28px 51px 22px 9px;
+    width: 170px;
+}
+.sidebar img {
+    display: block;
+    margin: 0 0 3px;
+}
+.subtitle {
+    color: #295587;
+    display: block;
+    font-size: 14px;
+}
+#content .sidebar p {
+   margin: 0px 0 9px;
+}
+.sidebar p a.request {
+    text-decoration: underline;
+}
+.sidebar p a.request {
+    text-decoration: underline;
+}
+.sidebar p a.request:hover {
+    text-decoration: none;
+}
+#footer {
+    background: url("https://www.whitman.edu/web2012/images/bg-footer.gif") repeat-x scroll 0 0 #0B2A58;
+    color: #FFFFFF;
+    font: 11px Georgia,"Times New Roman",Times,serif;
+}
+#footer .container {
+    padding: 19px 0 43px;
+}
+#footer a {
+    color: #FFFFFF;
+}
+#footer .box {
+    float: left;
+    margin: 0 257px 0 -1px;
+}
+#footer img {
+    margin: 0 0 1px;
+    vertical-align: top;
+}
+#footer address {
+    font-style: normal;
+    line-height: 18px;
+    padding: 0 0 0 11px;
+}
+#footer .links {
+    float: left;
+}
+#footer .links li {
+    float: none;
+    padding: 5px 0;
+}
+#footer .box2 {
+    float: right;
+    margin: 5px -8px 0 0;
+}
+#footer .box2 p {
+    color: #6A8BB4;
+    margin: 22px 0 0;
+}
+.social-networks {
+    height: 1%;
+    overflow: hidden;
+    padding: 4px 0;
+}
+.social-networks li {
+    margin: 0 10px 0 0;
+}
+
+.social-networks a {
+	width:33px;
+	height:32px;
+	text-indent:-9999px;
+	overflow:hidden;
+	display:block;
+	 background: url(http://www.whitman.edu/assets/prebuilt/images/social-networks.gif) no-repeat scroll 0 0 transparent;
+}
+.social-networks a.youtube {
+	background-position:-33px 0;
+}
+.social-networks a.flickr {
+	background-position:-66px 0;
+}
+.social-networks a.google {
+	background-position:-99px 0;
+}
+
+
+/*
+.tabs {
+    font-size: 14px;
+    margin: 0 0 10px;
+}
+.tabset {
+    height: 1%;
+    overflow: hidden;
+}
+.tabset li {
+    float: left;
+    margin: 0 3px 0 0;
+}
+.tabset a {
+    background: url("https://www.whitman.edu/web2012/images/bg-tabset.gif") repeat-x scroll 0 0 transparent;
+    color: #000000;
+    display: block;
+    padding: 6px 15px 4px;
+}
+.tabset a:hover, .tabset .active {
+    background: url("https://www.whitman.edu/web2012/images/bg-tabset-hover.gif") repeat-x scroll 0 0 transparent;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.tab-content {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #295587 #AAAAAA #AAAAAA;
+    border-image: none;
+    border-right: 2px solid #AAAAAA;
+    border-style: solid;
+    border-width: 2px;
+    min-height: 254px;
+    overflow: hidden;
+    padding: 9px 8px 0;
+}
+.tab-content .img-holder {
+    float: left;
+    margin: 0 20px 0 0;
+    width: 210px;
+}
+.tab-content img {
+    margin: 0 0 5px;
+    vertical-align: top;
+}
+.tab-content .btn, .two .btn {
+    background: url("https://www.whitman.edu/web2012/images/bg-btn.gif") repeat-x scroll 0 0 transparent;
+    color: #FFFFFF;
+    float: right;
+    font-size: 14px;
+    padding: 6px 43px 10px 7px;
+}
+#wrapper .btn-holder {
+    clear: both;
+    margin: 0 0 40px;
+    text-align: center;
+}
+#wrapper .btn {
+    background: url("https://www.whitman.edu/web2012/images/bg-btn.gif") repeat-x scroll 0 0 transparent;
+    color: #FFFFFF;
+    font-size: 14px;
+    margin: 0 0 20px;
+    padding: 6px 25px 10px;
+}
+.news {
+    float: left;
+    width: 360px;
+}
+.news li {
+    height: 1%;
+    overflow: hidden;
+}
+.tabs .promo {
+    overflow: hidden;
+    padding: 10px 0 0 10px;
+    width: 100%;
+}
+.tabs .promo li {
+    float: left;
+    margin: 0 10px 0 0;
+}
+.tabs .promo img {
+    vertical-align: top;
+}
+.tabs strong {
+    display: block;
+    line-height: 27px;
+    margin: 0 0 10px;
+}
+.tabs .tabs-hold {
+    overflow: hidden;
+    width: 100%;
+}
+
+*/
+.heading {
+    background: url("https://www.whitman.edu/web2012/images/bg-heading7.gif") repeat-y scroll 0 0 transparent;
+    color: #FFFFFF;
+    margin: 0 !important;
+    padding: 2px 5px 4px 9px;
+}
+.heading2 {
+    margin: 0 0 10px !important;
+}
+.heading.blue {
+    background: url("https://www.whitman.edu/web2012/images/bg-heading6.gif") repeat-y scroll 0 0 transparent;
+    background-color:#123e71;
+}
+.heading.blue2 {
+    background: url("https://www.whitman.edu/web2012/images/bg-heading2.gif") repeat-y scroll 0 0 transparent;
+}
+.heading.green {
+    background: url("https://www.whitman.edu/web2012/images/bg-heading3.gif") repeat-y scroll 0 0 transparent;
+}
+.heading.red {
+    background: url("https://www.whitman.edu/web2012/images/bg-heading4.gif") repeat-y scroll 0 0 transparent;
+}
+.heading.orange {
+    background: url("https://www.whitman.edu/web2012/images/bg-heading.gif") repeat-y scroll 0 0 transparent;
+}
+.heading h3 {
+    color: #FFFFFF;
+    font: bold 18px/17px Arial,Helvetica,sans-serif;
+    margin: 0;
+}
+.heading em {
+    font: italic 12px Georgia,"Times New Roman",Times,serif;
+}
+.slides {
+    overflow: hidden;
+    position: relative;
+    width: 300px;
+}
+.slides ul {
+    height: 348px;
+    overflow: hidden;
+    position: relative;
+    width: 300px;
+}
+.slides li {
+    height: 348px;
+    position: absolute;
+    width: 300px;
+}
+.slides .prev, .slides .next {
+    background: url("https://www.whitman.edu/web2012/images/prev-next2.gif") no-repeat scroll 0 0 transparent;
+    height: 19px;
+    left: 5px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -9999px;
+    top: 9px;
+    width: 12px;
+}
+.slides .next {
+    background-position: -12px 0;
+    left: 283px;
+}
+.slides .heading {
+    padding: 0 5px 4px 22px;
+    width: 273px !important;
+}
+.two .blue-box {
+    background: none repeat scroll 0 0 #537EB6;
+    color: #FFFFFF;
+    margin: 0 !important;
+    padding: 5px 0 4px 10px;
+    width: 290px;
+}
+.blue-box .left {
+    margin: 1px 8px 7px 0;
+}
+.blue-box .btn {
+    float: left;
+    margin: 7px 10px 0 0;
+    padding: 6px 10px 10px 7px;
+}
+.blue-box .btn2 {
+    background: url("https://www.whitman.edu/web2012/images/bg-btn2.gif") repeat-x scroll 0 0 transparent;
+}
+.blue-box .title {
+    float: left;
+    font: 18px/24px Georgia,"Times New Roman",Times,serif;
+    text-align: center;
+}
+.blue-box .box-holder {
+    margin: 0 !important;
+    overflow: hidden;
+    width: 290px;
+}
+.blue-box .title2 {
+    float: left;
+    font: italic 13px Georgia,"Times New Roman",Times,serif;
+    margin: 10px 8px 0 11px;
+    text-align: center;
+}
+.blue-box .title2 a {
+    color: #FFFFFF;
+    display: block;
+    font-size: 16px;
+    margin: -2px 0 0;
+}
+#content .blue-box p {
+    font: 14px/17px Georgia,"Times New Roman",Times,serif;
+    margin: 0 0 13px;
+    text-align: center;
+}
+#top-image {
+    position: relative;
+}
+#top-image img {
+    vertical-align: top;
+}
+#top-image h1 {
+    bottom: 4px;
+    color: #FFFFFF;
+    left: 8px;
+    margin: 0;
+    position: absolute;
+    text-shadow: 2px 2px 5px #000000;
+}
+#content .section-nav {
+    border-top: 3px solid #295587;
+    clear: both;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 15px 0 18px 10px;
+    padding: 0 0 1px;
+}
+.section-nav li {
+    border-bottom: 1px dotted;
+    padding: 1px 0 0;
+}
+.section-nav a {
+    color: #003D7D;
+    display: block;
+    padding: 5px 5px 5px 0;
+}
+.section-nav a:hover {
+    background: none repeat scroll 0 0 #F1EEE8;
+    text-decoration: none;
+}
+.section-nav li.selected {
+    padding: 6px 5px 6px 0;
+}
+.section-nav li.selected a {
+    padding: 0;
+}
+.section-nav ul li, .section-nav ul a:hover {
+    background: none repeat scroll 0 0 transparent;
+}
+.section-nav ul a:hover {
+    text-decoration: underline;
+}
+.section-nav ul {
+    padding: 0 0 0 9px;
+}
+.section-nav ul a {
+    padding: 5px 0;
+}
+.section-nav ul ul a {
+    color: #444444;
+    padding: 6px 5px 1px 0;
+}
+.section-nav ul ul ul a {
+    color: #003D7D;
+    padding: 6px 5px 3px 2px;
+}
+.section-nav ul ul ul ul a {
+    color: #444444;
+    font-size: 13px;
+    font-style: italic;
+    padding: 2px 5px 2px 3px;
+}
+.section-nav ul ul ul ul ul a {
+    color: #003D7D;
+    padding: 5px 5px 4px 4px;
+}
+.section-nav ul ul ul ul ul ul a {
+    color: #444444;
+    font-weight: normal;
+    padding: 1px 5px 8px 4px;
+}
+#content .list {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 14px 0 12px 9px;
+}
+.list li {
+    margin: 0 0 8px;
+}
+.list a {
+    color: #003D7D;
+}
+.sidebar-box {
+    height: 1%;
+    overflow: hidden;
+    padding: 14px 10px 0;
+    background-color: #ECE9D8;
+    margin-bottom: 18px;
+}
+.sidebar-box img {
+    float: left;
+    margin: 0 10px 0 0;
+}
+.sidebar-box .text {
+    height: 1%;
+    overflow: hidden;
+}
+.sidebar-box strong {
+    color: #003D7D;
+    display: block;
+    font-size: 14px;
+}
+.content-img {
+    width: 100%;
+}
+#content .caption {
+    display: block;
+    font-size: 12px;
+    line-height: 14px;
+    margin: 0 0 23px;
+}
+.caption strong {
+    color: #FF0000;
+}
+.info-box {
+    background: none repeat scroll 0 0 #8B8579;
+    color: #FFFFFF;
+    margin: 0 0 22px;
+    padding: 10px 10px 12px;
+}
+.info-box h5 {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 0 7px;
+}
+.info-box a {
+    color: #FFFFFF;
+}
+.info-box a:hover {
+    color: #FFFFC8;
+    text-decoration: none;
+}
+#content .date-list {
+    background: none repeat scroll 0 0 #ECE9D8;
+    color: #000000;
+    font-size: 14px;
+    margin: 0 0 20px;
+    padding: 14px 10px 1px;
+}
+.date-list li {
+    margin: 0 0 11px;
+}
+#content .date-list2 {
+    background: none repeat scroll 0 0 transparent;
+}
+#content .date-list3 {
+    font-size: 13px;
+}
+.items li {
+    height: 1%;
+    margin: 0 0 10px;
+    overflow: hidden;
+}
+.items img {
+    float: left;
+    margin: 4px 0 0;
+}
+.items img.right {
+    float: right;
+    margin: 4px 0 0 20px;
+}
+.items .text {
+    float: right;
+    width: 621px;
+}
+.items h5 {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 0 4px;
+}
+.items2 h5 {
+    font-size: 16px;
+    font-weight: normal;
+}
+.items2 h5 strong {
+    font-weight: bold;
+}
+.items2 h5 a {
+    text-decoration: underline;
+}
+.items2 h5 a:hover {
+    text-decoration: none;
+}
+.items2 .text {
+    line-height: 16px;
+    width: 631px;
+}
+.items2 {
+    padding: 0 0 70px;
+}
+.items2 li {
+    margin: 0 0 -5px;
+}
+.items3 {
+    padding: 0 30px 0 0;
+}
+.items3 li {
+    margin: 0 0 27px;
+}
+.items3 h5 {
+    border-bottom: 1px solid #003D7D;
+    font-size: 14px;
+    height: 1%;
+    margin: 0 0 7px;
+    overflow: hidden;
+    padding: 0 0 2px;
+}
+.items3 h5 .see {
+    float: right;
+    font-size: 13px;
+    font-weight: normal;
+}
+.items3 .phone {
+    float: right;
+}
+.items3 .text {
+    width: 591px;
+}
+#content .items3 p {
+    margin: 0;
+}
+.paging {
+    margin: 0 0 0 -35px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+.paging .p1 {
+    float: left;
+    left: 50%;
+    position: relative;
+}
+.paging ul {
+    color: #000000;
+    float: left;
+    font-size: 16px;
+    left: -50%;
+    position: relative;
+}
+.paging li {
+    float: left;
+    font-weight: bold;
+    margin: 0 5px;
+}
+.paging a {
+    font-weight: normal;
+    text-decoration: underline;
+}
+.paging a:hover {
+    text-decoration: none;
+}
+.share-icons {
+    bottom: 13px;
+    left: 6px;
+    position: relative;
+}
+.share-icons li {
+    float: left;
+    margin: 0 5px 0 0;
+}
+#content h1 {
+    height: 1%;
+    overflow: hidden;
+}
+#content h1 a {
+    float: right;
+    font: 14px Arial,Helvetica,sans-serif;
+    margin: 10px 0 0;
+}
+.download {
+    display: block;
+    margin: 0 0 5px;
+    text-align: right;
+}
+.download a {
+    background: url("https://www.whitman.edu/web2012/images/ico-pdf.gif") no-repeat scroll 100% 0 transparent;
+    color: #003D7D;
+    padding: 19px 38px 0 0;
+}
+.map {
+    display: block;
+    margin: 0 0 10px;
+}
+.search-map {
+    padding: 0 0 0 10px;
+}
+.search-map select {
+    width: 100%;
+}
+.search-map .selectArea {
+    font-size: 14px;
+}
+.block {
+    border-top: 2px solid #003D7D;
+    height: 1%;
+    margin: -12px 8px 0 0;
+    overflow: hidden;
+    padding: 9px 0 18px;
+}
+.block .add-box {
+    background: none repeat scroll 0 0 #ECE9D8;
+    float: right;
+    font-size: 14px;
+    margin: 3px 0 0;
+    min-height: 100px;
+    padding: 13px 10px 8px;
+    width: 321px;
+}
+.section {
+    height: 1%;
+    margin: 0 0 15px;
+    overflow: hidden;
+}
+.section h3 {
+    border-bottom: 2px solid #003D7D;
+    margin: 0 0 5px;
+    padding: 0 0 6px;
+}
+.items-list {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0 0 10px 9px;
+}
+.items-list li {
+    margin: 0 0 6px;
+}
+.section .items-list {
+    font-size: 13px;
+    padding: 0 0 0 10px;
+}
+.section .items-list li {
+    margin: 0 0 3px;
+}
+.info-area {
+    font-size: 14px;
+    height: 1%;
+    line-height: 14px;
+    margin: 10px 0 60px;
+    overflow: hidden;
+}
+.info-area .date {
+    background: url("https://www.whitman.edu/web2012/images/bg-date.gif") no-repeat scroll 0 0 transparent;
+    color: #FFFFFF;
+    float: left;
+    font-size: 23px;
+    line-height: 23px;
+    margin: 0 9px 0 0;
+    padding: 4px 7px 6px 11px;
+}
+.info-area .date strong {
+    display: block;
+    font-size: 47px;
+    line-height: 37px;
+}
+.info-area .deg {
+    display: block;
+    font-size: 32px;
+    line-height: 35px;
+    margin: -6px 0 -6px -5px;
+}
+.info-area .deg span {
+    font-size: 15px;
+}
+.panel {
+    height: 1%;
+    margin: -11px 0 32px 22px !important;
+    overflow: hidden;
+    text-transform: uppercase;
+}
+.panel li {
+    background: url("https://www.whitman.edu/web2012/images/separator2.gif") no-repeat scroll 0 3px transparent;
+    float: left;
+    padding: 0 8px 0 9px;
+}
+.panel li:first-child {
+    background: none repeat scroll 0 0 transparent;
+}
+.panel a {
+    text-decoration: underline;
+}
+.panel a:hover {
+    text-decoration: none;
+}
+.content-list {
+    padding: 0 0 29px 11px;
+}
+.content-list a {
+    text-decoration: underline;
+}
+.content-list a:hover {
+    text-decoration: none;
+}
+.address-box {
+    height: 1%;
+    margin: 0 0 19px;
+    overflow: hidden;
+}
+.address-box address {
+    float: left;
+    padding: 0 53px 0 0;
+}
+.address-box address a {
+    text-decoration: underline;
+}
+.address-box address a:hover {
+    text-decoration: none;
+}
+.search-results {
+    margin: -48px 0 10px;
+}
+#content .search-results .results {
+    margin: 0 0 3px;
+    text-align: right;
+}
+.search-results .wrap {
+    border-top: 1px solid #003D7D;
+    height: 1%;
+    overflow: hidden;
+    padding: 2px 0 0;
+}
+.search-results form {
+    float: left;
+    margin: 5px 0 0;
+}
+.search-results input[type="text"] {
+    float: left;
+    margin: 0 3px 0 0;
+    padding: 0;
+    width: 222px;
+}
+.search-results input[type="submit"] {
+    cursor: pointer;
+    float: left;
+    font-size: 12px;
+    height: 20px;
+    padding: 0;
+    width: 54px;
+}
+.search-results ul {
+    float: right;
+}
+.search-results ul li {
+    float: left;
+    margin: 0 0 0 4px;
+}
+.search-results a {
+    text-decoration: underline;
+}
+.profile-info {
+    margin: -23px 11px 19px 0;
+}
+.profile-info h5 {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 0 6px;
+}
+#content p.red {
+    color: #FF0000;
+}
+.form-types {
+    margin: 0 0 19px;
+}
+.form-types select {
+    width: 211px;
+}
+.ticket-form {
+    margin: -15px 0 0 46px;
+    width: 560px;
+}
+.ticket-form .row {
+    height: 1%;
+    overflow: hidden;
+}
+.ticket-form .row-last {
+    margin: 0 0 15px;
+}
+.ticket-form .row-hold {
+    float: right;
+    padding: 0 39px 0 0;
+}
+.ticket-form label {
+    float: left;
+    margin: 0 5px 0 0;
+    width: 110px;
+}
+.ticket-form label.radio-label {
+    margin: 0 8px 0 0;
+    width: auto;
+}
+.ticket-form label.label2 {
+    width: 97px;
+}
+.ticket-form input[type="text"] {
+    background: url("https://www.whitman.edu/web2012/images/bg-text.gif") no-repeat scroll 0 0 transparent;
+    border: medium none;
+    float: left;
+    font-size: 11px;
+    margin: 2px 19px 0 0;
+    padding: 0 4px;
+    width: 132px;
+}
+.ticket-form input.big-text {
+    background: url("https://www.whitman.edu/web2012/images/bg-text2.gif") no-repeat scroll 0 0 transparent;
+    width: 392px;
+}
+.ticket-form select {
+    width: 141px;
+}
+.ticket-form .selectArea {
+    float: left;
+    margin: 0 19px 0 0;
+}
+.ticket-form input[type="submit"] {
+    float: left;
+    font-size: 11px;
+    margin: 14px 0 0 172px;
+}
+.ticket-form input.submit2 {
+    margin: 14px 0 0 30px;
+}
+.row-hold .selectArea {
+    margin: 0 6px 0 0;
+}
+.info {
+    font-size: 14px;
+    margin: -17px 0 10px;
+}
+.info strong {
+    display: block;
+}
+.info a {
+    text-decoration: underline;
+}
+.info a:hover {
+    text-decoration: none;
+}
+.side-list {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 11px 0 0;
+}
+.side-list li {
+    margin: 0 0 7px;
+}
+.events-list li {
+    height: 1%;
+    margin: 0 0 15px;
+    overflow: hidden;
+}
+.events-list .list-box {
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 12px 0 0;
+    width: 300px;
+}
+.events-list strong {
+    display: block;
+}
+.events-list .number {
+    background: url("https://www.whitman.edu/web2012/images/bg-number.gif") no-repeat scroll 0 0 transparent;
+    color: #FFFFFF;
+    float: left;
+    font-size: 18px;
+    height: 26px;
+    margin: 3px 8px 0 0;
+    padding: 4px 0 0;
+    text-align: center;
+    width: 30px;
+}
+.events-list .holder {
+    border-left: 1px solid #000000;
+    height: 1%;
+    overflow: hidden;
+    padding: 0 0 0 9px;
+}
+#content .events-list p {
+    margin: 0;
+}
+.events-holder {
+    float: left;
+    margin: 0 0 20px;
+    position: relative;
+    width: 455px;
+}
+#content .sidebar-datepicker.right {
+    margin: -40px -10px 0 0;
+}
+.add-links {
+    position: absolute;
+    right: -1px;
+    top: -37px;
+}
+.add-links li {
+    float: left;
+    margin: 0 0 0 5px;
+}
+.add-links a {
+    font-weight: bold;
+}
+.events-list2 .list-box {
+    width: 218px;
+}
+.events-list2 p {
+    font-weight: normal;
+}
+.event-title {
+    border-bottom: 1px solid #003D7D;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 0 8px;
+    padding: 0 0 2px;
+}
+.three h5 {
+    font-size: 14px;
+    font-weight: bold;
+}
+.three p a {
+    text-decoration: underline;
+}
+.three p a:hover {
+    text-decoration: none;
+}
+#datepicker {
+    margin: 0 0 10px;
+    width: 230px;
+}
+.ui-datepicker {
+    width: 230px !important;
+}
+.ui-datepicker-calendar {
+    width: 100%;
+}
+.ui-datepicker-prev, .ui-datepicker-next {
+    background: url("https://www.whitman.edu/web2012/images/arrows.gif") no-repeat scroll 0 0 transparent;
+    cursor: pointer;
+    float: left;
+    height: 12px;
+    left: 8px;
+    margin: 0 19px 0 0;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -9999px;
+    top: 4px;
+    width: 7px;
+}
+.ui-datepicker-next {
+    background-position: -7px 0;
+    left: auto;
+    margin: 0;
+    right: 21px;
+}
+.ui-datepicker-header {
+    background: url("https://www.whitman.edu/web2012/images/bg-heading5.gif") repeat-y scroll 0 0 transparent;
+    height: 1%;
+    margin: 0 0 5px;
+    padding: 4px 21px 1px 8px;
+    position: relative;
+}
+.ui-datepicker-title {
+    margin: -3px 0 0;
+    text-align: center;
+    width: 201px;
+}
+.ui-datepicker-title span {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 18px;
+    margin: 0 10px 0 0;
+}
+.ui-datepicker-calendar th {
+    color: #888888;
+    font-size: 10px;
+    padding: 0 0 4px;
+    text-transform: uppercase;
+}
+.ui-datepicker-calendar td {
+    text-align: center;
+}
+.ui-datepicker-calendar a {
+    color: #000000;
+    display: block;
+    padding: 3px 0;
+}
+.ui-state-disabled {
+    background: none repeat scroll 0 0 #EDEDED;
+}
+.ui-datepicker-calendar .ui-state-active, .ui-datepicker-calendar .ui-state-hover {
+    background: url("https://www.whitman.edu/web2012/images/bg-datapicker.gif") repeat-x scroll 0 0 transparent;
+    text-decoration: none;
+}
+.news-list {
+    padding: 0 0 10px;
+}
+.news-list li {
+    height: 1%;
+    margin: 0 0 17px;
+    overflow: hidden;
+}
+.news-list img {
+    float: left;
+    margin: 0 20px 0 0;
+}
+.news-list .text-holder {
+    height: 1%;
+    overflow: hidden;
+}
+.news-list h3 {
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+.news-list p a {
+    text-decoration: underline;
+}
+.news-list p a:hover {
+    text-decoration: none;
+}
+.blog-list li {
+    height: 1%;
+    margin: 0 0 10px;
+    overflow: hidden;
+}
+.blog-list img {
+    float: left;
+    margin: 0 10px 0 0;
+}
+.blog-list .text-holder {
+    height: 1%;
+    overflow: hidden;
+}
+.blog-list h5 {
+    color: #003D7D;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 0 5px;
+}
+.blog-list strong.author {
+    display: block;
+    font-size: 14px;
+}
+.blog-list p a {
+    text-decoration: underline;
+}
+.blog-list p a:hover {
+    text-decoration: none;
+}
+.events-title {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 14px 0 8px 6px;
+}
+.events li {
+    height: 1%;
+    overflow: hidden;
+    padding: 0 5px 5px;
+}
+.events img {
+    float: left;
+    margin: 3px 10px 0 0;
+}
+.events .text {
+    height: 1%;
+    overflow: hidden;
+}
+.events .text strong {
+    display: block;
+}
+.image-content {
+    width: 220px;
+}
+.related-news {
+    padding: 11px 10px 10px;
+}
+.related-news li {
+    font-size: 14px;
+    margin: 0 0 9px;
+}
+.related-news span {
+    display: block;
+}
+.aligncenter {
+    display: block;
+    font-size: 14px;
+    margin: 0 0 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+.aligncenter:hover {
+    text-decoration: none;
+}
+.socials {
+    padding: 10px 0 20px 10px;
+}
+.socials li {
+    height: 1%;
+    margin: 0 0 10px;
+    overflow: hidden;
+}
+.socials img {
+    float: left;
+    margin: 0 10px 0 0;
+}
+.socials div {
+    height: 1%;
+    overflow: hidden;
+}
+#content .socials p {
+    margin: 0;
+}
+.categories-select select {
+    width: 100%;
+}
+.filter-box {
+    background: none repeat scroll 0 0 #E5EBF2;
+    border: 1px solid #003D7D;
+    font-size: 14px;
+    height: 1%;
+    margin: 0 21px 22px 17px;
+    overflow: hidden;
+    padding: 11px 10px 7px 18px;
+}
+.filter-box label {
+    float: left;
+    margin: 1px 13px 0 0;
+}
+.filter-box .selectArea {
+    float: left;
+    font-size: 14px;
+    margin: 0 10px 0 0;
+}
+.filter-box select {
+    width: 142px;
+}
+.filter-box .select-small {
+    width: 75px;
+}
+.filter-box .select-small2 {
+    width: 65px;
+}
+.filter-box input[type="text"] {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-color: #9B9C9D;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px 0 1px 1px;
+    float: left;
+    padding: 2px;
+    width: 104px;
+}
+.filter-box input[type="submit"] {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: url("https://www.whitman.edu/web2012/images/btn-search2.gif") no-repeat scroll 0 100% #FFFFFF;
+    border-color: #9B9C9D;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px 1px 1px 0;
+    cursor: pointer;
+    float: left;
+    font-size: 0;
+    height: 22px;
+    line-height: 0;
+    margin: 0;
+    padding: 0;
+    text-indent: -9999px;
+    width: 25px;
+}
+.search-box {
+    margin: 0 0 0 12px;
+    padding: 6px 20px 14px 9px;
+    width: 600px;
+}
+.search-box .row {
+    float: left;
+    margin: 0 38px 0 0;
+}
+.search-box label {
+    display: block;
+    float: none;
+    font-size: 13px;
+    margin: 0 0 2px 4px;
+}
+.search-box select {
+    width: 180px;
+}
+.search-box .login {
+    float: right;
+    font-size: 14px;
+    margin: 25px 0 0 -8px;
+}
+.search-box input[type="text"] {
+    border-color: #003D7D;
+    border-width: 1px;
+    padding: 2px 2px 1px;
+    width: 176px;
+}
+.post-box {
+    border-top: 1px solid #003D7D;
+    padding: 10px 0 0;
+}
+.post-box ul {
+    padding: 0 0 0 10px;
+}
+.post-box h5 {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 0 3px 23px;
+}
+.post-box form {
+    background: none repeat scroll 0 0 #E5EBF2;
+    border: 1px solid #003D7D;
+    margin: 0 16px 0 22px;
+    padding: 5px 10px 7px 4px;
+}
+.post-box input[type="text"] {
+    border: 1px solid #003D7D;
+    display: block;
+    margin: 0 0 8px;
+    padding: 1px 5px 2px 4px;
+    width: 125px;
+}
+.post-box textarea {
+    border: 1px solid #003D7D;
+    font: 13px Arial,Helvetica,sans-serif;
+    height: 47px !important;
+    margin: 0 0 4px;
+    overflow: auto;
+    padding: 1px 5px 2px 4px;
+    width: 636px !important;
+}
+* + html .post-box textarea {
+    width: 613px !important;
+}
+.post-box input[type="submit"] {
+    display: block;
+    margin: 0 auto;
+}
+.blog-box {
+    height: 1%;
+    margin: 0 0 31px;
+    overflow: hidden;
+}
+.post {
+    border-bottom: 1px solid #003D7D;
+    margin: 0 0 19px;
+    padding: 0 0 2px;
+}
+.post h2 {
+    font-size: 22px;
+    margin: 0 0 8px;
+}
+.post strong.date {
+    display: block;
+    font-size: 14px;
+    margin: 0 0 1px;
+}
+.post p a {
+    text-decoration: underline;
+}
+.post p a:hover {
+    text-decoration: none;
+}
+.post-list li {
+    height: 1%;
+    margin: 0 0 21px;
+    overflow: hidden;
+}
+.post-list img {
+    float: left;
+    margin: 1px 20px 0 0;
+}
+.post-list .box {
+    float: left;
+    margin: 0 18px 0 0;
+    width: 240px;
+}
+.post-list .box strong {
+    display: block;
+    font-size: 14px;
+}
+.post-list h3 {
+    margin: 0 0 5px;
+}
+#content .post-list ul {
+    float: left;
+    margin: -3px 0 0;
+    width: 355px;
+}
+.post-list ul li {
+    background: url("https://www.whitman.edu/web2012/images/bullet.gif") no-repeat scroll 0 5px #FFFFFF;
+    margin: 0;
+    padding: 0 0 0 10px;
+}
+.sidebar2 .sub-title {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 0 16px;
+}
+.sidebar dl {
+    margin: 0 0 10px;
+}
+.sidebar dd {
+     margin: -2px 0 0 29px;
+}
+.result-box {
+    margin: 0 0 48px;
+}
+.result-box h3 {
+    margin: 0 0 6px;
+}
+.result-box strong {
+    display: block;
+    font-size: 14px;
+    margin: 0 0 5px;
+}
+.result-box dl {
+    font-size: 14px;
+    height: 1%;
+    margin: 0;
+    overflow: hidden;
+}
+.result-box dt {
+    float: left;
+    margin: 0 12px 0 0;
+    text-align: right;
+    width: 110px;
+}
+.result-box dd {
+    font-weight: bold;
+    margin: 0;
+}
+.result-box dl a {
+    text-decoration: underline;
+}
+.result-box dl a:hover {
+    text-decoration: none;
+}
+#content .items-news {
+    margin: -13px 0 100px;
+}
+.items-news li {
+    margin: 0;
+}
+.items-news .text {
+    width: 380px;
+}
+#content .items-news p {
+    margin: 0 0 13px;
+}
+.items-news h5 {
+    margin: 0 0 -1px;
+}
+.items-news .text p a, .info-items p a, .profile-address a, .post-block p a {
+    text-decoration: underline;
+}
+.items-news .text p a:hover, .info-items p a:hover, .profile-address a:hover, .post-block p a:hover {
+    text-decoration: none;
+}
+.info-items {
+    padding: 10px 0 25px 10px;
+}
+#content .info-items p {
+    margin: 0 0 5px;
+}
+.sidebar .profile-img {
+    display: block;
+    margin: 22px 0 15px;
+}
+.profile-info {
+    font-size: 14px;
+    margin: 0;
+    overflow: hidden;
+    width: 100%;
+}
+.profile-info dt {
+    float: left;
+    padding: 0 5px 0 0;
+}
+.profile-info dd {
+    margin: 0 0 12px;
+}
+.table {
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    font-size: 14px;
+    margin: 0;
+    width: 692px;
+}
+.table table {
+    border: 2px solid #FFFFFF;
+    border-collapse: collapse;
+    margin: 0;
+    width: 684px;
+}
+.table th {
+    background: none repeat scroll 0 0 #123E71;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 5px 8px;
+    text-align: left;
+}
+.table .number {
+    width: 8px;
+}
+.table .name {
+    width: 125px;
+}
+.table .height {
+    width: 51px;
+}
+.table td.height {
+    text-align: center;
+}
+.table .position {
+    width: 54px;
+}
+.table .class {
+    width: 59px;
+}
+.table .major {
+    width: 129px;
+}
+.table .hometpwn {
+    width: 143px;
+}
+.table .date {
+    width: 68px;
+}
+.table .opponent {
+    width: 160px;
+}
+.table .location {
+    width: 100px;
+}
+.table .time {
+    text-align: center;
+    width: 128px;
+}
+.table .coverage {
+    text-align: center;
+    width: 114px;
+}
+.table .details {
+    width: 114px;
+}
+.table td.details {
+    padding: 4px 6px 3px 15px;
+    width: 105px;
+}
+.table td {
+    padding: 6px 7px;
+}
+.table2 td {
+    padding: 4px 6px 3px;
+}
+.table td.rows {
+    padding: 3px 2px 20px;
+}
+.table .bg td {
+    background: none repeat scroll 0 0 #ECE9D8;
+}
+.table a {
+    text-decoration: underline;
+}
+.table a:hover {
+    text-decoration: none;
+}
+.table img {
+    vertical-align: top;
+}
+.boxes {
+    margin: 0 0 10px;
+}
+.boxes .heading {
+    float: none;
+}
+.boxes ul {
+    padding: 7px;
+}
+.slide-box {
+    height: 1%;
+    overflow: hidden;
+    padding: 3px 0 27px 9px;
+}
+.slide-box .prev, .slide-box .next {
+    background: url("https://www.whitman.edu/web2012/images/prev-next3.gif") no-repeat scroll 0 0 transparent;
+    float: left;
+    height: 46px;
+    margin: 13px 3px 0 0;
+    overflow: hidden;
+    text-indent: -9999px;
+    width: 7px;
+}
+.slide-box .next {
+    background-position: -7px 0;
+    margin: 13px 0 0 3px;
+}
+.slide-box .holder {
+    float: left;
+    overflow: hidden;
+    width: 200px;
+}
+.slide-box ul {
+    float: left;
+    width: 9999px;
+}
+.slide-box li {
+    float: left;
+    margin: 0 9px 0 0;
+}
+.slide-box img {
+    display: block;
+}
+.post-block {
+    height: 1%;
+    overflow: hidden;
+    padding: 0 0 20px 10px;
+}
+.post-block img {
+    float: left;
+    margin: 0 5px 0 0;
+}
+.post-block strong {
+    display: block;
+    font-size: 14px;
+    margin: 0 0 5px;
+}
+.post-block2 {
+    background: none repeat scroll 0 0 #ECE9D8;
+    margin: 0 0 20px;
+    padding: 10px;
+}
+.content-block {
+    background: url("https://www.whitman.edu/web2012/images/bg-container.gif") repeat-y scroll 0 0 transparent;
+    margin: 0 0 17px 1px;
+    overflow: hidden;
+    padding: 8px 11px 8px 8px;
+    width: 691px;
+}
+.headline {
+    background: none repeat scroll 0 0 #123E71;
+    color: #FFF3C0;
+    display: block;
+    margin: -8px 0 10px;
+    padding: 0 2px;
+    width: 700px;
+}
+.img-box {
+    float: left;
+    position: relative;
+    width: 450px;
+}
+.img-box img {
+    vertical-align: top;
+}
+.img-box .img-caption {
+    background: url("https://www.whitman.edu/web2012/images/bg-caption.png") repeat scroll 0 0 transparent;
+    bottom: 0;
+    color: #FFFFFF;
+    font-weight: normal;
+    left: 0;
+    padding: 0 10px 6px;
+    position: absolute;
+    width: 430px;
+}
+.events-box {
+    background: none repeat scroll 0 0 #FFFFFF;
+    float: right;
+    width: 220px;
+}
+.events-box ul {
+    padding: 10px 7px 0 10px;
+}
+.events-box li {
+    height: 1%;
+    overflow: hidden;
+}
+#content .events-box p {
+    margin: 0 0 13px;
+}
+.events-box .text {
+    float: left;
+    width: 145px;
+}
+.events-box .l-video, .events-box .l-scores {
+    background: url("https://www.whitman.edu/web2012/images/ico-video2.gif") no-repeat scroll 50% 0 transparent;
+    float: right;
+    font-size: 10px;
+    margin: 5px 0 0;
+    padding: 33px 0 0;
+    text-align: center;
+}
+.events-box .l-scores {
+    background: url("https://www.whitman.edu/web2012/images/ico-scores.gif") no-repeat scroll 50% 0 transparent;
+}
+.three img {
+    vertical-align: top;
+}
+.content-block .text-box {
+    color: #FFFFFF;
+    float: right;
+    font-size: 14px;
+    width: 220px;
+}
+.text-box img {
+    margin: 0 0 10px;
+    vertical-align: top;
+}
+.ui-datepicker-calendar a {
+    font-weight: bold;
+}
+.heading.wide-heading.blue {
+    background: url("https://www.whitman.edu/web2012/images/bg-heading2.gif") repeat-y scroll 0 0 transparent;
+}
+.bodycopy h2, .bodycopy h3, .bodycopy h4 {
+  /*  line-height: 1.25em !important;   */
+}
+.bodycopy ul, ol {
+    display: block !important;
+    margin: 1em 0 !important;
+    padding: 0 0 0 40px !important;
+}
+.bodycopy ul {
+    list-style-type: disc !important;
+}
+.bodycopy ul li {
+    list-style-type: disc !important;
+}
+.bodycopy ol {
+}
+.bodycopy ol li {
+}
+.bodycopy ul li, ol li {
+    display: list-item !important;
+}
+.bodycopy ul li ul, ul li ol, ol li ul, ol li ol {
+    margin: 0 !important;
+}
+.bodycopy blockquote {
+    margin-left: 40px !important;
+}
+.bodycopy th, td {
+    padding: 0.2em !important;
+}
+.bodycopy th {
+    font-weight: bold;
+    text-align: left !important;
+}
+table.nice {
+    border: 2px solid #CCCCCC;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+table.nice th {
+    background: none repeat scroll 0 0 #EEEEEE;
+    color: #555555;
+}
+table.nice td, table.nice th {
+    border: 1px solid #DDDDDD;
+}
+table.nice tr.alt td {
+    background: none repeat scroll 0 0 #F5F5F5;
+}
+.pullquote {
+    border-left: 1px solid #CCCCCC;
+    color: #003D7D;
+    float: right;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 10px 0 10px 10px;
+    padding: 5px 0 5px 10px;
+    text-align: left;
+    width: 175px;
+}
+#header .container {
+    margin: 0 auto;
+    overflow: visible;
+    z-index: 0;
+}
+#header #logo {
+    margin: 5px 0 9px;
+}
+#menu, #gallery, #content {
+    position: relative;
+    z-index: 9;
+}
+#qlinks {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-top: 1px solid #295587;
+    display: none;
+    position: absolute;
+    right: 53px;
+    top: 38px;
+    width: 150px;
+}
+#qlinks li {
+    display: block;
+    float: none;
+    width: 150px;
+}
+#qlinks a {
+    border-bottom: 1px solid #295587;
+    border-left: 1px solid #295587;
+    border-right: 1px solid #295587;
+    color: #295587;
+    display: block;
+    line-height: 16px;
+    padding: 3px 10px;
+}
+#qlinks a:hover, #qlinks a:focus {
+    background: none repeat scroll 0 0 #295587;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+#content .sidebar .feature {
+    margin: 10px 0;
+    overflow: hidden;
+}
+#content .sidebar .feature img {
+    float: left;
+    margin: 0 10px;
+}
