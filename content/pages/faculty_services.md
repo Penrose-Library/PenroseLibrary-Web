@@ -117,8 +117,7 @@ Form](https://works.whitman.edu/streamingmediaform) online, listing all items y
 -   Electronic Reserves (articles/video digitized or linked)
 
 To guarantee that your materials are available for the beginning of the semester, **submit them no later than two weeks before the first day of classes.** Once the semester has begun, allow at least four days for processing. Materials to be placed on e-reserve that are already in
-electronic format may be emailed to [Jen
-Pope](mailto:popeja@whitman.edu). Materials to be scanned, or put on reserve in their original format, should be accompanied by a Reserve Request Form, brought to the circulation desk and given to the Circulation Supervisor on duty.
+electronic format may be emailed to [Access Services](mailto:ill@whitman.edu). Materials to be scanned, or put on reserve in their original format, should be accompanied by a Reserve Request Form, brought to the circulation desk and given to the Circulation Supervisor on duty.
 
 ### What can be put on reserve?
 
@@ -152,7 +151,7 @@ Note that putting copies of articles or chapters on reserve may violate U.S. cop
 -   The copyrighted material placed on Reserve is being used for more than one semester.
 -   If you wish to put more than a brief amount of copyrighted material on reserve.
 
-Questions? Please contact [Jen Pope.](mailto:popeja@whitman.edu)
+Questions? Please contact [Access Services.](mailto:ill@whitman.edu)
 
 ## Honors Thesis FAQ for Faculty 
 
