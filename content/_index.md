@@ -77,7 +77,7 @@ toc: false
             <span id="buildingoccupancy" class="no-up-margin">&nbsp;</span> </p>
             <hr/>
             <div class="pull-left home-link">
-            <p><a id="mapclick" href="#mapt">Building Map</a>
+            <p><a href="/map">Building Map</a>
                 <p><a href="https://sherlock.whitman.edu/primo-explore/account?vid=WHITC_NEW&amp;lang=en_US&amp;section=overview">My Library Account</a></p>
                 <p><a href="https://whitman.illiad.oclc.org/illiad/logon.html">InterLibrary Loan</a></p>
             </div>
