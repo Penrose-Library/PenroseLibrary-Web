@@ -61,8 +61,8 @@ toc: false
         <p id="today">&nbsp;</p>
         <p class="t">Circulation: 509-527-5192</p>
         <p>Research Help:</p>
-        <div id="libchat_776a12eb7834f00b1664afc3f902f086"></div>
-        <a href="/contact_librarian/" target="_blank" rel="noopener noreferrer"><button class="waves-effect waves-light btn">Ask Librarian via Email</button></a>
+        <div id="libchat_776a12eb7834f00b1664afc3f902f086">
+        <a href="/contact_librarian/" target="_blank" rel="noopener noreferrer"><button class="waves-effect waves-light btn">Ask Librarian via Email</button></a></div>
         <div id="reference"></div>
       </div>
     </div>
