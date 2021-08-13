@@ -61,6 +61,7 @@ toc: false
         <p id="today">&nbsp;</p>
         <p class="t">Circulation: 509-527-5192 &nbsp; library@whitman.edu</p>
         <p>Research Help:</p>
+        <div id="libchat_776a12eb7834f00b1664afc3f902f086"></div>
         <a class="waves-effect waves-light btn" href="/contact-a-librarian/" target="_blank" rel="noopener noreferrer">Ask Librarian via Email</a>
         <div id="reference"></div>
       </div>
@@ -93,3 +94,4 @@ toc: false
 </div>
 </div>
 <script src="/js/init-home.js"></script>
+<script src="https://asklibrarian.whitman.edu/load_chat.php?hash=776a12eb7834f00b1664afc3f902f086"></script>
