@@ -9,9 +9,9 @@ Library](http://works.whitman.edu/10things_faculty)
 ## Library Instruction {#instruction .scrollspy}
 
 As detailed in the [Penrose Library Mission and Guiding
-Principles](https://library.whitman.edu/about-the-library/#Penrose) and our [teaching
-philosophy](https://library.whitman.edu/wp-content/uploads/2019/08/TeachingStatementF19.pdf) and [learning
-goals](https://library.whitman.edu/wp-content/uploads/2020/06/Information-Literacy-Scaffold.pdf), the Instructional and Research Services department guides students through the research process, helping them develop critical thinking skills to conduct research, synthesize information, and communicate the results of intellectual inquiry.
+Principles](/about_the_library/#penrose-mission-and-values-statement) and our [teaching
+philosophy](/wp-content/uploads/2019/08/TeachingStatementF19.pdf) and [learning
+goals](/wp-content/uploads/2020/06/Information-Literacy-Scaffold.pdf), the Instructional and Research Services department guides students through the research process, helping them develop critical thinking skills to conduct research, synthesize information, and communicate the results of intellectual inquiry.
 
 ### Scheduling an Instructional Session
 
@@ -108,7 +108,7 @@ The purpose of placing materials on reserve is to make common readings readily a
 
 ### How to place an item on reserve
 
-Please complete a [Reserve Request Form](https://docs.google.com/a/whitman.edu/forms/d/e/1FAIpQLSfZ37LXVdmh8dE4wzcfkPQSMnDj2YyHBTGlL1NEV6bcqzIhmQ/viewform) or [Video Streaming Request
+Please complete a [Reserve Request Form](https://works.whitman.edu/reservesrequest) or [Video Streaming Request
 Form](https://works.whitman.edu/streamingmediaform) online, listing all items you will be placing on reserve. You can choose to place items on reserve for the following loan periods:
 
 -   3 hours (library use only)
@@ -158,7 +158,7 @@ Changes have been made to the faculty code in regard to what is required for sub
 
 ### Where can I find thesis submission guidelines?
 
-Here you could find [Complete guidelines on formatting and submission](https://library.whitman.edu/thesis).
+Here you could find [Complete guidelines on formatting and submission](https://libguides.whitman.edu/thesis).
 
 ### When is the deadline?
 
@@ -195,7 +195,7 @@ The library will offering a workshop for students on these submission guidelines
 
 ## Collection Development
 
-[Suggest a Purchase](https://goo.gl/forms/c88IYFI6ZPPZpg8C2)
+[Suggest a Purchase](https://works.whitman.edu/purchasesuggestion)
 
 Tell us if there’s something we should have in our collection. We have access to [Choice Reviews Online](https://www.ezproxy.whitman.edu/login?url=http://choicereviews.org/) to help you keep up with what’s being published in your field. Or sign up for GOBI Notifications and find out when new books in your field are published. [Library Collection Development Policy
 (PDF)](http://works.whitman.edu/collectiondevelopmentpolicy)  [Collection

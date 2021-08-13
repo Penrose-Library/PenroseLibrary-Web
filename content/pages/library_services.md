@@ -1,6 +1,6 @@
 ---
 title: Library Services & FAQ
-date: 2019-04-09
+date: 2021-08-09
 toc: false
 ---
 ## Search Library FAQ
@@ -41,20 +41,20 @@ toc: false
 * [Recording Consent & Copyright Release Form](http://works.whitman.edu/recordingconsentform)
 * [Senior Privileges Form](http://works.whitman.edu/seniorprivileges)
 * [Special Collections Materials Gift Form](http://works.whitman.edu/archivesgiftform)
-* [Suggest a Purchase Form](https://goo.gl/forms/c88IYFI6ZPPZpg8C2)
+* [Suggest a Purchase Form](https://works.whitman.edu/purchasesuggestion)
 
 
 ## Library Policies
 
 * [About the Library](/about_the_library/)
-* [Penrose Library: An Educational Partner](https://penrose.whitman.edu/about_the_library/#penrose-library-an-educational-partner)
-* [Penrose Mission and Values Statement](https://penrose.whitman.edu/about_the_library/#penrose-mission-and-values-statement)
-* [Library Use Policy](https://penrose.whitman.edu/about_the_library/#library-use-policy)
-* [Gifts to Penrose Library](https://penrose.whitman.edu/about_the_library/#gifts-to-penrose-library)
-* [Student Employment](https://penrose.whitman.edu/about_the_library/#student-employment)
-* [Library Accessibility Statement](https://penrose.whitman.edu/about_the_library/#library-accessibility-statement)
-* [Library Newsletter](https://penrose.whitman.edu/about_the_library/#library-newsletter)
-* [Location and Directions](https://penrose.whitman.edu/about_the_library/#location-and-directions)
+* [Penrose Library: An Educational Partner](/about_the_library/#penrose-library-an-educational-partner)
+* [Penrose Mission and Values Statement](/about_the_library/#penrose-mission-and-values-statement)
+* [Library Use Policy](/about_the_library/#library-use-policy)
+* [Gifts to Penrose Library](/about_the_library/#gifts-to-penrose-library)
+* [Student Employment](/about_the_library/#student-employment)
+* [Library Accessibility Statement](/about_the_library/#library-accessibility-statement)
+* [Library Newsletter](/about_the_library/#library-newsletter)
+* [Location and Directions](/about_the_library/#location-and-directions)
 
 </div>
 </div>

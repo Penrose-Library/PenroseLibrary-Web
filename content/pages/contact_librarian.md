@@ -48,7 +48,9 @@ $(document).ready(function(e) {
 <button id="s-la-askform-submit-21757" class="btn" type="button">Submit</button>
 </form></div>
 
-<table class="striped" style="border:none">
+## Staff Directory
+
+<table class="striped" style="border:none;">
 <tbody>
 <tr>
 <td>&nbsp;</td>
