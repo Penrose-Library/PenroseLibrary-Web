@@ -57,7 +57,7 @@ Strings.orEmpty = function( x ) {
 };
 $(document).ready(function(e) {
 	$.ajax({
-                            url: 'https://penroselib-php.herokuapp.com/coursereserve.php',
+                            url: 'https://penrose.whitman.edu/php/coursereserve.php',
                             type: 'GET',
                             dataType: 'json'
  							}).done(function( msg ) {
