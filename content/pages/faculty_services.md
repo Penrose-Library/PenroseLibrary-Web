@@ -142,7 +142,7 @@ policy](https://works.whitman.edu/streamingmediapolicy) for details. [Video Stre
 
 ### View a Reserve List
 
-You can view or search for your reserve lists on the [Course Reserves page](https://library.whitman.edu/course-reserves/). As soon as items are placed on reserve, they will be available for check-out. It may take up to 48 hours before they appear in Sherlock.
+You can view or search for your reserve lists on the [Course Reserves page](/course_reserves/). As soon as items are placed on reserve, they will be available for check-out. It may take up to 48 hours before they appear in Sherlock.
 
 ### Reserves and Copyright
 
@@ -199,7 +199,7 @@ The library will offering a workshop for students on these submission guidelines
 [Suggest a Purchase](https://goo.gl/forms/c88IYFI6ZPPZpg8C2)
 
 Tell us if there’s something we should have in our collection. We have access to [Choice Reviews Online](https://www.ezproxy.whitman.edu/login?url=http://choicereviews.org/) to help you keep up with what’s being published in your field. Or sign up for GOBI Notifications and find out when new books in your field are published. [Library Collection Development Policy
-(PDF)](http://works.whitman.edu/collectiondevelopmentpolicy)[Collection
+(PDF)](http://works.whitman.edu/collectiondevelopmentpolicy)  [Collection
 Development Process (PDF)](http://works.whitman.edu/colldev-process)
 
 ### How to sign-up for GOBI notification:
@@ -255,6 +255,6 @@ Data Services librarian [Amy Blau](mailto:blauar@whitman.edu)(509-527-4905) is a
 
 ## Copyright @ Whitman
 
-We’ve put together some [great resources](http://libguides.whitman.edu/copyright_ip) to help you
+We’ve put together a [guide on copyright](http://libguides.whitman.edu/copyright_ip) to help you
 navigate copyright in your academic and personal life, including fair use analysis tools and sample copyright request forms. The [Whitman College Copyright Policy](https://libguides.whitman.edu/copyright_ip) and procedures for use of copyrighted materials are also available.
 

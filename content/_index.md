@@ -83,7 +83,7 @@ toc: false
             </div>
             <div class="pull-right home-link">
                 <p><a href="faculty_services/#course-reserves">Request course reserves</a></p>
-                <p><a title="Our Librarians are available to assist you with research topics, projects, and papers Monday through Friday from 8am to 5pm. Drop-in visits are welcome too!" href="https://whitman.libcal.com/appointments">Schedule a Research Appointment</a></p>
+                <p><a title="Our Librarians are available to assist you with research topics, projects, and papers Monday through Friday from 9am to 5pm. Drop-in visits are welcome too!" href="https://whitman.libcal.com/appointments">Schedule a Research Appointment</a></p>
                 <p><a href="newbook/">Recently acquired books</a></p>
             </div>
         </div>

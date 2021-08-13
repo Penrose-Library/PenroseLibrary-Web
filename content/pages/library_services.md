@@ -28,7 +28,7 @@ toc: false
 * [General Information](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=General%20Information)
 * [Interlibrary Loans (Borrow items from other libraries)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=ILL)
 * [Research](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Research)
-* [Sherlock (Discovery tool)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Sherlock)
+* [Sherlock (Library Catalog)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Sherlock)
 
 </div>
 
@@ -46,8 +46,7 @@ toc: false
 
 ## Library Policies
 
-[About Library](/about_the_library/)
-
+* [About the Library](/about_the_library/)
 * [Penrose Library: An Educational Partner](https://penrose.whitman.edu/about_the_library/#penrose-library-an-educational-partner)
 * [Penrose Mission and Values Statement](https://penrose.whitman.edu/about_the_library/#penrose-mission-and-values-statement)
 * [Library Use Policy](https://penrose.whitman.edu/about_the_library/#library-use-policy)
