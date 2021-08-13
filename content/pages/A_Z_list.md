@@ -10,7 +10,7 @@ date: 2021-06-21T21:58:53.672Z
 <button id="azbutton" class="btn no-up-margin" type="submit" value="Search">Search</button>
 
 <select id="s-lg-sel-subjects" name="subjects" class="form-control" aria-label="Select a Subject Area to narrow down list of databases" data-placeholder="All Subjects" onchange="this.form.submit()">
-<option value="" selected="">All Subjects</option>
+<option value selected>All Subjects</option>
 <option value="17555">Anthropology </option>
 <option value="17587">Archives </option>
 <option value="17557">Art </option>
@@ -67,9 +67,13 @@ var subjectid = getParameterByName('subjects');
 console.log(query);
 var lgwidget = document.getElementById('s-lg-widget-script-1622747636763');
 if (query||subjectid){
+    $('#a-z_term').val(query);
+    if(subjectid!=""){
    document.getElementById('s-lg-widget-script-1622747636763').setAttribute('src', 'https://lgapi-us.libapps.com/widgets.php?site_id=689&widget_type=2&search_match=2&subject_ids%5B0%5D='+subjectid+'&sort_by=name&list_format=1&drop_text=Select+a+Database...&output_format=1&load_type=2&enable_description=1&widget_title=A-Z+Database+List&widget_height=250&widget_width=100%25&widget_link_color=2954d1&widget_embed_type=1&num_results=0&enable_more_results=0&window_target=2&config_id=1622747636763&search_terms=' +query);
    $('#s-lg-sel-subjects option[value="'+subjectid+'"]').attr("selected","selected");
-
+    }else{
+           document.getElementById('s-lg-widget-script-1622747636763').setAttribute('src', 'https://lgapi-us.libapps.com/widgets.php?site_id=689&widget_type=2&search_match=2&sort_by=name&list_format=1&drop_text=Select+a+Database...&output_format=1&load_type=2&enable_description=1&widget_title=A-Z+Database+List&widget_height=250&widget_width=100%25&widget_link_color=2954d1&widget_embed_type=1&num_results=0&enable_more_results=0&window_target=2&config_id=1622747636763&search_terms=' +query);
+    }
 }else{
     document.getElementById('s-lg-widget-script-1622747636763').setAttribute('src', 'https://lgapi-us.libapps.com/widgets.php?site_id=689&widget_type=2&search_match=2&subject_ids=&sort_by=name&list_format=1&drop_text=Select+a+Database...&output_format=1&load_type=2&enable_description=1&widget_title=A-Z+Database+List&widget_height=250&widget_width=100%25&widget_link_color=2954d1&widget_embed_type=1&num_results=0&enable_more_results=0&window_target=2&config_id=1622747636763&search_terms=');
 }
