@@ -1,0 +1,83 @@
+	<!--begin footer-->
+  <div class="EXLFooterLinksContainer">
+    <ul class="EXLFooterLinksList1">
+      <li class="EXLFooterFirstLink"><a href="http://library.whitman.edu/">Penrose Library</a></li>
+      <li><a href="//library.whitman.edu/page/contact.html">Ask Us</a></li>
+
+      <li><a href="#"></a></li>
+      <li><a href="#"></a></li>
+      <li class="EXLFooterLastLink"><a href="#"></a></li>
+    </ul>
+    <ul class="EXLFooterLinksList2">
+      <li class="EXLFooterFirstLink"><a href="#"></a></li>
+      <li><a href="#"></a></li>
+
+      <li class="EXLFooterLastLink"><a href="#"></a></li>
+    </ul>
+  </div>
+
+<style>
+.center {
+    margin-left: auto;
+	margin-right: auto;
+	position:relative;
+ }
+
+</style>
+<script src="//library.whitman.edu/res/primo/primo/include/jq.primo2.js" type="text/javascript" ></script>
+<script src="//library.whitman.edu/res/primo/primo/include/jquery.magnific-popup.min.js"></script>
+<script src="//library.whitman.edu/res/primo/primo/include/notify.js"></script>
+<script src="//library.whitman.edu/res/primo/primo/include/jquery.cookie.js"></script>
+<script src="//library.whitman.edu/res/primo/primo/include/feedback.js"></script>
+<script>
+function loginscreen(){
+	$.magnificPopup.open({
+		items: {
+		  src: '<div class="white-popup"><div class="logostage"><img src="https://www.whitman.edu/penrose/library/images/PenroseLibraryLogo.png" alt="library logo" style="width:50%" /></div><div class="contentstage"><p><a href="http://'+window.location.hostname+'/primo_library/libweb/action/login.do?loginFn=signin&vid=WHITC_testing&targetURL='+document.location+'&fromLogin=true">Whitman College students, faculty, and staff</a><br/><span class="popup-description">Log in for expanded access to electronic materials and Summit/ILL request options.</span></p><p><a href="https://alliance-primo.hosted.exlibrisgroup.com/pds?func=load-login&amp;calling_system=primo&amp;institute=01ALLIANCE_WHITC&amp;PDS_HANDLE=&amp;url=http://'+window.location.hostname+'/primo_library/libweb/action/login.do?targetURL='+document.location+'">Other registered patrons</a><br/><span class="popup-description">Including retired faculty/staff, alumni, and community borrowers</span></p><p><a href="#" onclick="$.magnificPopup.close()">Continue as guest</a></p><p><span class="popup-description">For assistance, contact the Penrose Library Circulation Desk (509-527-5192). &nbsp; </span></p></div>',
+		  type: 'inline',
+		  closeBtnInside: true
+		},
+		callbacks: {
+			close: function() {
+				$('#exlidMainMenuTile').notify("Login to access more content.",{ elementPosition:"bottom right" , autoHide:false, arrowShow: false});
+				$.cookie(jQuery.PRIMO.session.user.id, 'ignored' , { expires:1 });
+		}
+	  }//callback
+	});
+	
+}
+
+function worldcat() {
+	window.location="https://whitman.on.worldcat.org/search?databaseList=&queryString="+$('#search_field').val();
+}
+
+//login
+
+$(document).ready(function() {
+
+if($.PRIMO.session.user.isLoggedIn()==false&&$.cookie(jQuery.PRIMO.session.user.id)!='ignored'){
+		loginscreen();
+}//if
+		
+if(jQuery.PRIMO.session.user.isLoggedIn()==false&&$.cookie(jQuery.PRIMO.session.user.id)=='ignored'){
+		$('#exlidMainMenuTile').notify("Login to access more content.",{ elementPosition:"bottom right" , autoHide:false, arrowShow: false});
+}
+//overrite login buttons
+$('#exlidSignIn').html('<a href=\'#\' onclick="loginscreen();">Sign in</a>');
+$( document ).ajaxComplete(function() {
+	$('em.EXLTabHeaderContentAdditionalDataLineSignIn').html('<a  href=\'#\' onclick="loginscreen();">Sign-in for more options</a>');
+});
+
+//user setting
+
+$('.EXLSearchFieldRibbonAdvancedSearchLink').before('<div style="display:table; padding:5px; height:1rem;width:8%;float:right;  ">	<p class="center" style="padding-left:2px"> <a href="#" onclick="worldcat()" ><img src="http://alliance-primo.hosted.exlibrisgroup.com/primo_library/libweb/uploaded_files/LCC_TEST/worldcat-logo.png" alt="Worldcat Search"/></a> </p><p class="center">	 <a href="#" onclick="worldcat()" class="center">Search Worldcat </a> </p> </div>');
+     	
+
+
+
+
+});
+
+</script>
+<!--end footer-->
+

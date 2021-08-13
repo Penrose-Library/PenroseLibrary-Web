@@ -9,8 +9,10 @@ Penrose Library fosters the intellectual engagement and scholarly practice of th
 Penrose Library has been consistently highly ranked by the Princeton Review. The library’s digital environment, with more than 85,000 unique journal titles, 210 databases, 376,000 eBooks and 45,000 streaming videos, complements its more than 500,000-volume print collection. Penrose Library has generous open hours, often available 24 hours a day to the Whitman Community, and the facility itself was built to facilitate inquiry, study, and learning. Whitman College and Northwest Archives include 4,800 linear feet of archival and manuscript material and over 5,000 rare books. And Whitman College is a member of the Orbis Cascade Alliance, which combines the assets of academic libraries throughout the Northwest to provide free access and courier delivery of millions of volumes.
 
 ## Penrose Mission and Values Statement
-(updated Fall 2018)
+
 Penrose Library fosters the intellectual engagement and scholarly practice of the Whitman community. We curate and provide access to diverse and unique collections, and teach the skills and concepts needed to navigate complex information environments at Whitman and beyond.
+
+(updated Fall 2018)
 
 ### Penrose Library Vision Statement
 Penrose Library will:
@@ -53,7 +55,7 @@ Past issues of [Library](https://arminda.whitman.edu/collections/penrose-library
 ## Gifts to Penrose Library
 Gifts to Penrose Library are very welcomed and valued. Through the generous support of friends and alumni, donations to the Library have helped build outstanding collections. Gifts, often those that memorialize or honor loved ones, continue to help foster the traditions of scholarship, critical thinking, and lifelong learning that are hallmarks of a Whitman education. Modest gifts are very much appreciated, as are bequests, endowments and larger contributions.
 
-The collections at Penrose are carefully selected to provide balanced, vibrant and timely materials that serve to support the curricular and research needs of our faculty and students. In order to safeguard quality, consistency, and relevance to the needs of the College, donated materials are reviewed using these same [criteria](http://works.whitman.edu/collectiondevelopmentpolicy). Moreover, due to space, staffing, and resource limitations, we are unable to accept all gifts of materials.
+The collections at Penrose are carefully selected to provide balanced, vibrant and timely materials that serve to support the curricular and research needs of our faculty and students. In order to safeguard quality, consistency, and relevance to the needs of the College, donated materials are reviewed using these same [criteria in our collection development policy](http://works.whitman.edu/collectiondevelopmentpolicy). Moreover, due to space, staffing, and resource limitations, we are unable to accept all gifts of materials.
 
 ### General Policy
 Gifts-in-kind, especially library materials, are accepted with the understanding that they become the property of Whitman College. Penrose Library retains the right to decline, retain, or dispose of the materials at its discretion. Only the Library Director, Collection Management Librarian, or Archivist/Special Collections Librarian may accept in-kind donations on behalf of the Library. A signed Gift of Property statement must accompany all such donations.
@@ -107,7 +109,7 @@ Penrose Library is committed to maintaining collections that exist as common res
 - The Allen Reading Room is designated as a quiet study area in the library. Please be courteous of other library visitors who prefer to work in a quiet area.
 
 ### Circulation and Access Policies
-Please see our [Borrow & Request](https://library.whitman.edu/library-services) section for information how to borrow materials, loan periods, fines, and other borrowing policies.
+Please see our [Circulation FAQ Page](https://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Circulation) for information how to borrow materials, loan periods, fines, and other borrowing policies.
 
 ### Inappropriate Use of Library Materials
 Inappropriate use includes, but is not limited to:
@@ -193,7 +195,7 @@ Endorsed by the Library Advisory Committee, 30 January 2020.
 ## Library Accessibility Statement
 If you have materials from Penrose that are not accessible, please fill out the [remediation form](https://docs.google.com/forms/d/e/1FAIpQLSfQ2N29D31VdMwPZ6Fex9HvWTbwfNxnb_i-212wlHxr46V_gg/viewform?usp=sf_link) to the best of your ability or contact us at library@whitman.edu. See below for more information.
 
-Penrose Library is committed to providing equitable access to library collections, services, and facilities for all library users as stated in the Penrose Library’s [Mission and Values statement](https://library.whitman.edu/about-the-library/#Penrose) and the Whitman College [Strategic Priorities.](https://www.whitman.edu/newsroom/archive/2017/strategic-priorities) Penrose Library strives to follow universal design principles and create physical and digital environments that address the needs of the broadest range of patrons possible by following the best practices and standards for accessibility. For web pages and systems under our direct control, we will work to update them to adhere to [WCAG 2.0.](https://www.w3.org/WAI/standards-guidelines/wcag/) For materials and systems licensed from third-party vendors, we will communicate issues brought to our attention with the vendors and work with them to address deficiencies. Penrose Library seeks to select and acquire, whenever possible, resources and technologies that are in line with universal design principles.
+Penrose Library is committed to providing equitable access to library collections, services, and facilities for all library users as stated in the Penrose Library’s [Mission and Values statement](#penrose-mission-and-values-statement) and the Whitman College [Strategic Priorities.](https://www.whitman.edu/newsroom/archive/2017/strategic-priorities) Penrose Library strives to follow universal design principles and create physical and digital environments that address the needs of the broadest range of patrons possible by following the best practices and standards for accessibility. For web pages and systems under our direct control, we will work to update them to adhere to [WCAG 2.0.](https://www.w3.org/WAI/standards-guidelines/wcag/) For materials and systems licensed from third-party vendors, we will communicate issues brought to our attention with the vendors and work with them to address deficiencies. Penrose Library seeks to select and acquire, whenever possible, resources and technologies that are in line with universal design principles.
 
 Penrose Library will provide patrons alternative formats or assistance when resources are not fully accessible. Please fill out the [remediation form](https://docs.google.com/forms/d/e/1FAIpQLSfQ2N29D31VdMwPZ6Fex9HvWTbwfNxnb_i-212wlHxr46V_gg/viewform?usp=sf_link) to the best of your ability or contact us at library@whitman.edu with questions. We will try and fill requests in as timely a manner as possible. This form is sent to Emily Pearson (Instructional and Research Services Librarian), Kun Lin (Systems Librarian), and Antonia Keithahn (Assistant Director of Disability Support Services). We will maintain the data to find patterns in inaccessible material, but will not keep records of who requested materials once we fulfill a request.
 

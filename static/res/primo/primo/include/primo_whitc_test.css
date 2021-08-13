@@ -1,0 +1,1268 @@
+    .libanswerbox {
+
+        box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+		border: 1px solid #ccc;
+		border-radius: 3px;
+		box-shadow: 0 1px 2px rgba(0, 0, 0, 0.18) inset;
+		transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+		height: 30px;
+		padding-left: 0.6em;
+		padding-top: 0.2em;
+		width: 99%;
+		display:block;
+    }
+	.pdetails_21757{
+		height:10%;	
+	}
+	.input-field{
+		margin:5px;
+	}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("//library.whitman.edu/font/Roboto/Roboto-Thin.woff2") format("woff2"), url("//library.whitman.edu/font/Roboto/Roboto-Thin.woff") format("woff"), url("//library.whitman.edu/font/Roboto/Roboto-Thin.ttf") format("truetype");
+  font-weight: 200; }
+@font-face {
+  font-family: "Roboto";
+  src: url("//library.whitman.edu/font/Roboto/Roboto-Light.woff2") format("woff2"), url("//library.whitman.edu/font/Roboto/Roboto-Light.woff") format("woff"), url("//library.whitman.edu/font/Roboto/Roboto-Light.ttf") format("truetype");
+  font-weight: 300; }
+@font-face {
+  font-family: "Roboto";
+  src: url("//library.whitman.edu/font/Roboto/Roboto-Regular.woff2") format("woff2"), url("//library.whitman.edu/font/Roboto/Roboto-Regular.woff") format("woff"), url("//library.whitman.edu/font/Roboto/Roboto-Regular.ttf") format("truetype");
+  font-weight: 400; }
+@font-face {
+  font-family: "Roboto";
+  src: url("//library.whitman.edu/font/Roboto/Roboto-Medium.woff2") format("woff2"), url("//library.whitman.edu/font/Roboto/Roboto-Medium.woff") format("woff"), url("//library.whitman.edu/font/Roboto/Roboto-Medium.ttf") format("truetype");
+  font-weight: 500; }
+@font-face {
+  font-family: "Roboto";
+  src: url("//library.whitman.edu/font/Roboto/Roboto-Bold.woff2") format("woff2"), url("//library.whitman.edu/font/Roboto/Roboto-Bold.woff") format("woff"), url("//library.whitman.edu/font/Roboto/Roboto-Bold.ttf") format("truetype");
+  font-weight: 700; }
+@font-face {
+  font-family: "Noto-Serif";
+  src: url("//library.whitman.edu/font/noto-serif/NotoSerif-Bold.ttf") format("truetype");
+  font-weight: 300; }
+ @font-face {
+  font-family: "NotoSans";
+  src: url("//library.whitman.edu/font/NotoSans/NotoSans-Regular.ttf") format("truetype");
+  font-weight: 300; }
+/* Original Ends*/
+/* Original Ends*/
+
+body,.EXLFacetContainer{
+	font-family: "NotoSans", "Roboto", sans-serif;
+	min-width:inherit !important;
+}
+h2{
+	font-size:1.2em !important;
+}
+h3{
+	font-size:1.1em !important;
+}
+.EXLSummary{
+	line-height:1.6em !important;
+}
+/*submit 3*/
+
+/* For the "More" link's list of institutional availability, make the
+ * institution names just be text and not hotlinks.  */ 
+em.EXLInstititutionSelectionInstName, em.EXLInstititutionSelectionInstName a{
+	pointer-events: none;
+	cursor: default;
+	color: black;
+}
+.EXLMyAccountTabsRibbon {
+	border-bottom:2px solid #295587 !important;
+}
+
+.EXLMyAccountTabsRibbon div li.EXLMyAccountSelectedTab{
+		background:#295587 !important;
+}
+
+.EXLMyAccountSelectedTab{
+	background:#295587 !important;
+	border-color:#295587 !important;
+}
+.buttonGo a{
+	background-color:transparent !important;
+}
+.EXLMyAccountMainMenuContainer ol li span.EXLMyAccountMainMenuBulletSelected{
+	background-image:url("//www.whitman.edu/penrose/library/images/bullet_myAccount_menu_blue.png") !important;
+}
+input.submit{
+	background:#295587 !important;
+}
+
+
+.white-popup {
+  position: relative;
+  background: #FFF;
+  padding: 20px;
+  width:auto;
+  max-width: 500px;
+  margin: 20px auto;
+}
+.contentstage{
+	margin:25px 10px 5px 10px;
+	line-height:2em;
+}
+.EXLAvailabilityCallNumber:before{
+	content:" Call Number: ";
+}
+.EXLAvailabilityCallNumber{
+	font-weight:bold !important;
+}
+#exlidSearchTabs{
+	margin-bottom:3px;
+}
+.popup-description{
+	font-size:12px;
+}
+.notifyjs-bootstrap-error{
+	height:1.1em;	
+}
+.notifyjs-bootstrap-base{
+		padding:4px 10px 8px 25px !important;
+}
+.notifyjs-arrow{
+	top: 18px;
+	left:auto !important;
+	right: -280px;
+	
+	border-left: 10px solid transparent !important; 
+	border-right:10px solid transparent !important;
+}
+@-moz-document url-prefix() { 
+  .notifyjs-arrow {
+     right: 30px;
+  }
+}
+
+#exlidMainMenuRibbon #exlidMainMenuItem6 span { border-right:0px solid #E2E2E2; color:#555555; padding-left:0.5em; padding-right:0.5em; }
+
+    		/* Language drop-down removal allignement fix */ #exlidMainMenuTile div.EXLMainMenuContainer { float: right } /* Locations tab must be disabled for Primo-Alma integrations */ .EXLTabsRibbon div li.EXLLocationsTab { display: none } /* Removing Reviews and Tags */ .EXLTabsRibbon div li.EXLReviewsTab { display: none }
+
+/*---Changing width of Advanced Search button---*/
+#exlidAdvancedSearchRibbon div.EXLSearchFieldRibbonFormSubmitSearch {width: 8.5em;}
+
+/* REMOVE RSS IMAGE FROM SEARCH TILE */
+#exlidSearchBanner {display:none;}
+
+/*Add numbers to Primo brief results - added 10/15*/
+.EXLResultsList td.EXLResultNumber {vertical-align: middle; display:block; width:1%;}
+html:not([ie8andbelow]) .EXLResultsList td.EXLResultNumber {vertical-align: middle; display:table-cell;}
+
+/* CHANGE Basic Search SUBMIT BUTTON COLOR TO ##### - added 10/15*/
+#exlidSearchRibbon  input.submit { background-color:#00730D; background-image:url(//sherlock.whitman.edu/primo_library/libweb/images/bg_strip_btn_dkgold.png);
+background-repeat:repeat-x;margin:0em; width:100%; color:#FFFFFF; font-weight: normal;height:26px; cursor: pointer; 
+padding-bottom:0.3em;padding-right:0.6em;padding-left:0.6em;}
+
+/* CHANGE Basic Search SUBMIT BUTTON COLOR TO ##### added 10/15*/
+#exlidSearchRibbon  input.submit { background-color:#295587; background-image:url(//sherlock.whitman.edu/primo_library/libweb/images/bg_strip_btn_dkgold.png);
+background-repeat:repeat-x;margin:0em; width:100%; color:#FFFFFF; font-weight: normal;height:26px; cursor: pointer; 
+padding-bottom:0.3em;padding-right:0.6em;padding-left:0.6em;}
+
+/* CHANGE ADVANCED SEARCH SUBMIT BUTTON COLOR TO ###### added 10/15*/
+#exlidAdvancedSearchRibbon input.submit  { border:1px solid #ffffff;  padding:0em; display:block; background-color:#295587; 
+background-image:url(bg_strip_btn_dkgold.png); background-repeat:repeat-x;margin:0em; width:8.5em;  color:#FFFFFF; 
+font-weight: normal;height:24px; cursor: pointer;}
+#exlidSearchTile {border-bottom:0px;}
+
+
+/*BORROWED from WWU with alterations - style for featured.html 10/21 */
+#exlidHomeContainer h1 {
+font-size: 18pt;
+color: #295587;
+}
+
+#exlidHomeContainer h2 {
+font-size: 16pt;
+color: #295587;
+}
+/* used to be 191919 - 12/10 */
+#exlidHomeContainer h3 {
+font-size: 12pt;
+color: #295587;
+}
+
+/* h4 test 12/10 */
+#exlidHomeContainer h4 {
+font-size: 12pt;
+color: #333838;
+}
+
+/* Change the width of EXLContentBlock1 to full screen 10/24 */
+
+#exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 p a {
+ color: #295587; !important;
+ display: inline; !important;
+ line-height: normal; !important;
+}
+
+
+#exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 p {
+width: 100%;
+color: black;
+}
+
+#exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 {
+width: 100%;
+float: left;
+padding-left: 0.5em;
+}
+
+/* Remove pipe | after last entry in main menu 12/3 */
+#exlidMainMenuRibbon #exlidMainMenuItem6 span {
+border-right:0px solid #E2E2E2;
+color:#555555;
+padding-left:0.5em;
+padding-right:0.5em;
+}
+/* do not show ask us in print */
+@media print {
+.freshwidget-button, .freshwidget-theme {
+    display:none;
+  }
+}
+/*Responsive Modification */
+@media all and (max-width: 700px) {
+body {
+        overflow-x: hidden;
+        -webkit-text-size-adjust: none;
+        -webkit-user-select: none;
+		font-family: 'Roboto', sans-serif;
+   }
+
+.notifyjs-wrapper{
+	display:none !important;
+}
+
+.EXLFacetTile {
+        display: none;
+}
+
+
+    .EXLResultsContainer {
+        width: auto;
+        height: auto;
+        padding-left: 0em;
+        padding-right: 0em;
+        padding-top: 1em;
+        margin-top: auto;
+        overflow: hidden;
+        margin-bottom: 1em;
+    }
+	  .EXLResultsContainer div.EXLResultsTile {
+        width: 100%;
+        float: none;
+        border: none;
+        padding: 0em;
+        background-color: #FFFFFF;
+        margin: 0em;
+        margin-bottom: 2em;
+    }
+
+    #exlidHeaderSystemFeedback {
+        display: none;
+    }
+	#exlidHeaderSearchLimits {
+        display: none;
+    }
+	.EXLSearchFieldRibbonAdvancedSearchLink {
+
+        display: none;
+    }
+
+    .EXLSearchFieldRibbonBrowseSearchLink {
+        display: none;
+    }
+	
+	  #exlidHeaderContainer div.EXLSkipToContent {
+        display: none;
+    }
+
+    #exlidHeaderContainer div.EXLSkipToSystemFeedback {
+        display: none;
+    }
+
+    #exlidSearchBanner {
+        display: none;
+    }
+    #exlidSearchForm div.EXLSearchTabsContainer {
+        display: none;
+    }
+
+    #exlidHeaderTile {
+        width: 20%;
+        float: left;
+        padding-left: 0.4em;
+        padding-top: 0.5em;
+        padding-bottom: 0em;
+    }
+
+    #exlidSearchTile {
+        clear: left;
+        border: none;
+        background-image: none;
+        background-repeat: repeat-x;
+        height: 40px;
+        font-size: 80%;
+        width: auto;
+        padding-bottom: 0.5em;
+    }
+	
+	  #exlidSearchRibbon {
+        float: none;
+        margin-top: 0em;
+        width: 100%;
+        padding-left: 0em;
+    }
+
+    #exlidSearchRibbon div.EXLSearchFieldRibbon {
+        background-color: transparent;
+        height: 26px;
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        float: none;
+        display: inline-block;
+    }
+
+    .EXLSearchFieldRibbonFormFields {
+        float: left;
+        height: 26px;
+        width: 75%;
+    }
+
+    .EXLSearchFieldRibbonFormSearchFor {
+        float: left;
+        width: 91%;
+        padding-left: 0.8em;
+        height: 100%;
+    }
+	.EXLSearchFieldRibbonFormSearchForMaximized .EXLSearchFieldRibbonFormSearchFor {
+        width: 100%;
+    }
+	   #exlidSearchRibbon fieldset {
+        float: none;
+        width: 100%;
+    }
+
+    #exlidSearchRibbon legend {
+        display: none;
+    }
+
+    #exlidSearchRibbon input {
+        width: 100%;
+        height: 30px;
+        padding-top: 0.2em;
+        padding-left: 0em;
+        text-align: left;
+        font-size: 16px;
+        font-weight: normal;
+        box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        background-color: #ffffff;
+    }
+
+    #exlidSearchRibbon input.EXLSearchFieldMaximized {
+        width: 95%;
+    }
+  #exlidSearchRibbon input.submit {
+        background-color: #f37329;
+        background-image: url(//sherlock.whitman.edu/primo_library/libweb/images/bg_strip_btn_orange.png);
+        background-repeat: repeat-x;
+        margin: 0em;
+        width: auto;
+        color: #FFFFFF;
+        font-weight: normal;
+        height: 35px;
+        cursor: pointer;
+        cursor: pointer;
+        padding: 0 0.5em;
+        font-size: 14px;
+        font-weight: bold;
+        font-family: Helvetica;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border: none;
+        text-align: center;
+    }
+
+    .EXLSearchFieldRibbonFormSubmitSearch {
+        float: none;
+        width: 20%;
+    }
+
+    #exlidSearchBanner {
+        display: none;
+    }
+
+    #exlidSearchRibbon div.EXLSearchTabsContainer {
+        display: block;
+    }
+
+    #exlidSearchTabs {
+        display: none;
+    }
+
+  .EXLResultsHeader h1 {
+        padding: 0em 0em 0em 1em;
+        float: left;
+        width: 100%;
+    }
+
+    .EXLResultsHeader div.EXLResultsNumbers {
+        float: none;
+        width: 100%;
+        height: 18px;
+    }
+
+    .EXLResultsHeader div.EXLResultsNavigation {
+        clear: left;
+        font-size: 80%;
+        margin: 0px;
+        float: none;
+        width: auto;
+        text-align: left;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+        font-weight: bold;
+    }
+
+    .EXLResultsList em.EXLResultStatusAvailable {
+        color: #32322f;
+    }
+
+    .EXLResultsList em.EXLResultStatusNotAvailable {
+        color: #32322f;
+    }
+
+    .EXLResultsList em.EXLResultStatusMaybeAvailable {
+    }
+
+    .EXLResultsList em span {
+        color: #32322f;
+        font-weight: normal;
+    }
+
+    #exlidTopLevelFacetsTile {
+        display: none;
+    }
+
+    body.EXLFullView {
+        height: 100%;
+    }
+
+    body.EXLFullView div.EXLResultsContainer {
+        height: 100%;
+        width: auto;
+        clear: right;
+    }
+
+    body.EXLFullView div.EXLResultsContainer div.EXLResultsTile {
+        width: 100%;
+        border-left: none;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        padding-left: 0em;
+        background-color: #FFFFFF;
+    }
+
+    body.EXLFullView div.EXLSummaryFields {
+        padding-left: 1em;
+    }
+
+    body.EXLFullView div.EXLResultsContainer {
+        width: 100%;
+        height: auto;
+        padding-left: 0;
+        padding-right: 0em;
+        padding-top: 0em;
+        margin-top: auto;
+        clear: right;
+    }
+
+    body.EXLFullView div.EXLLocationsTabContent {
+        overflow: visible;
+        overflow-x: hidden;
+        border: none;
+        height: 100%;
+    }
+
+    body.EXLFullView div.EXLTabsRibbon {
+        height: 2em;
+        padding: 0px;
+        padding-top: 1em;
+        margin: 0em 0em 0em 0em;
+        clear: left;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        margin-left: 0em;
+        border-bottom: 2px solid #adadad;
+    }
+
+    body.EXLFullView div.EXLTabsRibbon div {
+        margin-left: 1em;
+        margin-bottom: 0em;
+        width: 100%;
+    }
+
+    body.EXLFullView div.EXLTabsRibbon div ul {
+        margin-left: auto;
+        margin-bottom: 0em;
+    }
+
+    body.EXLFullView div.EXLTabsRibbon div li {
+        line-height: 2em;
+        font-size: 110%;
+        display: inline;
+    }
+
+    body.EXLFullView div.EXLTabsRibbon div li.EXLResultTab {
+        -webkit-border-radius: 4px;
+        border-bottom-style: none;
+        height: 27px;
+        cursor: pointer;
+        float: left;
+        color: #9B9B9B;
+    }
+    .EXLTabsRibbon div li.EXLResultSelectedTab {
+        border: 0px solid #e1e1e1;
+        border-bottom: none;
+        background-color: #e1e1e1;
+        height: 15px;
+        background-image: none;
+        background-image: url(//sherlock.whitman.edu/primo_library/libweb/images/bg_strip_btn_grey.png);
+        background-position: bottom;
+        background-color: #bebebe;
+        background-repeat: repeat-x;
+        text-align: center;
+        font-weight: bold;
+        vertical-align: middle;
+        float: left;
+        font-weight: bold;
+        text-decoration: none;
+        margin-right: 0px;
+        color: #555555;
+        margin-left: 0.5em;
+    }
+
+    .EXLTabsRibbon div li.EXLResultFirstTab {
+        padding-left: 0em;
+        margin-left: 0em;
+    }
+
+    .EXLTabsRibbon div li.EXLFirstSelectedTab {
+        padding-left: 0em;
+        padding-right: 0.5em;
+    }
+
+    .EXLTabsRibbon div li.EXLFirstSelectedTab a {
+        padding-left: 0.5em;
+        color: #fffffff;
+    }
+
+    body.EXLFullView div.EXLTabsRibbon div li.EXLResultSelectedTab a {
+        color: #ffffff;
+    }
+
+    body.EXLFullView div.EXLTabsRibbon div li.EXLReviewsTab {
+        display: none;
+    }
+
+    body.EXLFullView div.EXLTabsRibbon div li.EXLRecommendTab {
+        display: none;
+    }
+
+    body.EXLFullView div.EXLTabsRibbon div li.EXLMoreTab {
+        display: none;
+    }
+
+    body.EXLFullView div.EXLResultTabContainer {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    body.EXLFullView div.EXLResultTabContainer div.EXLTabHeader {
+        background-image: url(//sherlock.whitman.edu/primo_library/libweb/images/bg_strip_brief_tabs_header.png);
+        background-repeat: repeat-x;
+        border-bottom: 0px solid #e1e1e1;
+        height: 27px;
+        border-left: none;
+        border-right: none;
+    }
+
+    body.EXLFullView div.EXLTabContent {
+        height: 100%;
+        border-bottom: 0px;
+    }
+
+    body.EXLFullView div.EXLTabContent {
+        min-height: 17em;
+        height: auto;
+        border: none;
+        margin-bottom: 1em;
+        padding-right: 2em;
+        padding-left: 0em;
+    }
+
+    body.EXLFullView div.EXLTabHeader div.EXLTabHeaderButtons {
+        padding: 0em;
+        width: 16.5em;
+        float: left;
+        text-align: left;
+        height: 18px;
+        line-height: 200%;
+        display: none;
+    }
+
+    body.EXLFullView div.EXLTabHeader div.EXLTabHeaderButtons ul {
+        float: left;
+        margin-bottom: 9px;
+        margin-left: 1.2em;
+        padding-top: 1px;
+    }
+
+    body.EXLFullView div.EXLTabHeader div.EXLTabHeaderButtons li {
+        list-style: none;
+        float: left;
+        height: 18px;
+        background-image: none;
+        border: none;
+    }
+
+    body.EXLFullView div.EXLTabHeader div.EXLTabHeaderButtons li span {
+        display: none;
+    }
+
+    body.EXLFullView div.EXLTabHeader div.EXLTabHeaderButtons li a {
+        padding: 0.2em 0.4em 0.2em 0.4em;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtonSendTo {
+        padding-right: 0em;
+        text-align: left;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtonSendTo img {
+        padding-left: 0em;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList {
+        width: auto;
+        background-color: transparent;
+        border: none;
+        z-index: 100;
+        clear: left;
+        display: inline-block;
+        float: none;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li {
+        float: left;
+        background-image: none;
+        display: inline;
+        border: none;
+        z-index: 100;
+        width: auto;
+        white-space: nowrap;
+        border: none;
+        background-color: transparent;
+        clear: right;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons li.EXLTabHeaderButtonSendTo img {
+        display: none;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons li.EXLTabHeaderButtonSendTo a {
+        text-decoration: none;
+        cursor: auto;
+
+        color: #000000;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li {
+        margin-right: 0.5em;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span {
+        background-image: none;
+        display: inline;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToLabel {
+        float: left;
+        padding-right: 0em;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons li.EXLTabHeaderButtonSendTo li a {
+        color: #0075b0;
+        cursor: pointer;
+        text-decoration: underline;
+        display: inline;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons li.EXLTabHeaderButtonSendTo li a:hover {
+        text-decoration: underline;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIcon {
+        background-image: none;
+        width: 16px;
+        display: inline;
+        float: right;
+        background-position: bottom;
+        padding-top: 2px;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li.EXLButtonSendToMyShelf {
+        display: none;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li.EXLButtonSendToPrint {
+        display: none;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li.EXLButtonSendToDelicious {
+        display: none;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li.EXLButtonSendToConnotea {
+        display: none;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li.EXLButtonSendToRefworks {
+        display: none;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li.EXLButtonSendToendnote {
+        display: none;
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconMail {
+        background-image: url(//sherlock.whitman.edu/primo_library/libweb/images/icon_sendTo_mail.png);
+    }
+
+    body.EXLFullView div.EXLTabHeaderButtons ol.EXLTabHeaderButtonSendToList li span.EXLButtonSendToIconSMS {
+        background-image: url(//sherlock.whitman.edu/primo_library/libweb/images/icon_sendTo_sms.png);
+    }
+
+    body.EXLFullView div.EXLResultsList {
+        height: 100%;
+        border-top: none;
+    }
+
+    body.EXLFullView #exlidHeaderSystemFeedback {
+        display: none;
+    }
+
+    body.EXLFullView div.EXLResultsFooter {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    body.EXLFullView div.EXLBackToResults {
+        font-size: 100%;
+        float: left;
+        width: 100%;
+        margin-left: 1em;
+        margin-bottom: 0.5em;
+        font-weight: bold;
+    }
+
+    body.EXLFullView div.EXLResultsHeader div.EXLResultsNavigation {
+        clear: left;
+        font-size: 100%;
+        margin: 0px;
+        padding: 0.5em 0em 1em 1em;
+        float: none;
+        display: block;
+        width: 100%;
+        text-align: left;
+    }
+
+    body.EXLFullView #exlidHeaderSystemFeedback {
+        display: none;
+    }
+
+    body.EXLFullView div.EXLDetailsTabContent div.EXLDetailsContent {
+        float: left;
+        width: 100%;
+        height: 100%;
+        margin: 1.5em 1em 0em 1em;
+        display: block;
+        padding-bottom: 1em;
+    }
+
+    body.EXLFullView div.EXLDetailsTabContent div.EXLDetailsContent ul {
+        list-style: none;
+    }
+
+    body.EXLFullView div.EXLDetailsTabContent div.EXLDetailsContent li {
+        margin-bottom: 0.3em;
+    }
+
+    body.EXLFullView div.EXLDetailsTabContent div.EXLDetailsContent li strong {
+        margin-right: 0.5em;
+    }
+
+    body.EXLFullView div.EXLDetailsTabContent div.EXLDetailsLinks {
+        float: left;
+        display: block;
+        width: 100%;
+        border: none;
+        margin: 1em 1em 1em 0em;
+        background-image: none;
+        height: auto;
+        padding: 0.5em;
+        padding-bottom: 2em;
+    }
+
+    body.EXLFullView div.EXLDetailsTabContent iframe {
+        width: 110%;
+        padding: 0em;
+        overflow-x: scroll;
+        overflow-y: hidden;
+    }
+  #exlidHomeContainer {
+        width: auto;
+        height: auto;
+        margin: 0em;
+        padding-top: 1.5em;
+        clear: right;
+        font-size: 80%;
+        color: #777676;
+    }
+
+    #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 {
+        width: auto;
+        float: none;
+        padding-left: 1em;
+    }
+
+    #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 p {
+        width: auto;
+    }
+
+    #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 div.EXLHomeListsContainer {
+    }
+
+    #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 div.EXLHomeListsContainer {
+        margin-top: 1em;
+        background-image: none;
+        background-position: 0% 0%;
+        background-repeat: no-repeat;
+        width: auto;
+        float: left;
+        padding-top: 1em;
+        padding-left: 0em;
+    }
+
+    #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 div.EXLHomeTopicsContainer {
+        display: none;
+    }
+
+    #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 div.EXLHomeQuickLinksContainer {
+        float: none;
+        margin: 0em;
+        width: auto;
+    }
+	 #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock1 div.EXLHomeQuickLinksContainer ul {
+        width: auto;
+    }
+
+    #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock2 {
+        display: none;
+    }
+
+    #exlidHomeContainer div.EXLHomeBlockContainer1 div.EXLContentBlock2 div.EXLHomeServicesContainer {
+        display: none;
+    }
+
+    #exlidHomeContainer div.EXLContentBlock3 div.EXLHomeBannersContainer {
+        display: none;
+    }
+
+    #exlidHomeContainer div.EXLContentBlock4 div.EXLHomeBannersContainer {
+        display: none;
+    }
+  .EXLLocationTableHeaderColumn1, .EXLLocationTableHeaderColumn2, .EXLLocationTableHeaderColumn4, .EXLLocationTableHeaderColumn5, .EXLLocationTableColumn1, .EXLLocationTableColumn2, .EXLLocationTableColumn4, .EXLLocationTableColumn5 {
+        display: none;
+    }
+
+    .EXLLocationTableActions {
+        width: auto;
+    }
+
+    .EXLLocationList {
+        width: 105%;
+    }
+
+    .EXLLocationsTabContent div.EXLLocationList table.EXLLocationTable .EXLLocationTableMargin {
+        padding-left: 1.4em;
+    }
+
+    .EXLLocationsTitle span.EXLLocationsTitleContainer {
+        width: 75%;
+    }
+
+    .EXLLocationsTitle a.EXLLocationsIcon {
+        width: 18px;
+    }
+
+    .EXLLocationsTitle {
+        width: 20%;
+    }
+
+    .EXLLocationInfo {
+        width: 76%;
+    }
+
+    .EXLLocationInfo strong {
+        width: 17%;
+    }
+
+    .EXLLocationInfo cite {
+        width: 50%;
+    }
+
+    .EXLResultsList em.EXLResultStatusAvailable {
+        width: 20%;
+    }
+
+    .folders_new, .draggable, .EXLMyAccountTabsRibbon div li.EXLMyAccountTab, .EXLMyAccountTableAuthor, .EXLMyAccountTableDueHour, .EXLMyAccountTableFine, .Location, .EXLMyAccountMainHeaderTitle div.EXLMyAccountMainHeaderContent span , .EXLMyAccountTableCounter, .EXLMyAccountMainContainer table tr td:first-child, .EXLMyAccountMainContainer div.EXLMyAccountTips, .folder_details .newManage_buts, a.eShelf_print, .author, .added, .note, .MyAccount_Loans_2, .MyAccount_Loans_4, .MyAccount_Loans_5, .MyAccount_Loans_6, .MyAccount_Loans_0, .MyAccount_Requests_0, .MyAccount_Requests_3, .MyAccount_Requests_4, .MyAccount_Requests_5, .MyAccount_Requests_6, .MyAccount_FineAndFees_0, .MyAccount_FineAndFees_2, .MyAccount_FineAndFees_4, .MyAccount_FineAndFees_5, .MyAccount_FineAndFees_6, #exlidUserAreaRibbon li.EXLMyShelf {
+        display: none;
+    }
+
+    .EXLMyAccountTabsRibbon div li.EXLMyAccountLastTab, .EXLMyAccountTabsRibbon div li.EXLMyAccountFirstTab {
+        display: inline;
+    }
+
+    .folder_details {
+        padding-left: 0;
+    }
+
+    .EXLMyAccountContainer {
+        padding-left: 0.5%;
+        width: 99%;
+        min-height: 10em;
+        padding-top: 0.3em;
+    }
+
+    .EXLMyAccountContainer table {
+        width: 99.5%;
+    }
+
+    .EXLMyAccountMainMenuTile {
+        width: 100%;
+        float: left;
+    }
+
+    .EXLMyAccountMainMenuContainer ol {
+        margin: 0 0.1em;
+        padding: 0.3em 0;
+        height: auto;
+    }
+
+    .EXLMyAccountMainContainer {
+        margin-left: 2px;
+        float: left;
+        margin-top: 0.3em;
+        width: 98.7%;
+    }
+
+    .EXLMyAccountMainContainer table.EXLMyAccountForm th {
+        white-space: nowrap;
+        margin: 0 1em 0 0;
+        text-align: right;
+    }
+
+    .EXLMyAccountMainContainer div.EXLMyPersonalSettings {
+        width: 100%;
+    }
+
+    .EXLMyAccountMainContainer table.EXLMyAccountForm {
+        margin-left: 0;
+    }
+
+    .EXLMyAccountMainMenuContainer ol li span.EXLMyAccountMainMenuBulletSelected {
+        left: -3px;
+        margin: 4px 0 0;
+    }
+
+    .EXLMyAccountMainMenuContainer ol li {
+        line-height: 150%;
+    }
+
+    .EXLMyAccountLinksLinkContainer {
+        display: inline-block;
+    }
+
+    .EXLMyAccountLinksContainer span.EXLMyAccountMainHeaderContentSeparator {
+        display: none;
+    }
+
+    .folder_details .itemsListTH th.title {
+        width: 80% !important;
+    }
+
+    .folder_details .itemsListTH th.type, .folder_details .itemsListTable td.type {
+        width: 15% !important;
+        padding-left: 2px;
+    }
+
+    .buttonGo {
+        border: none;
+    }
+
+    .buttonGo a {
+        color: #fff;
+        display: inline-block;
+        height: 15px;
+        line-height: 14px;
+    }
+
+    .folder_details table.folderName {
+        width: 100%;
+    }
+
+    .folder_details .itemsList {
+        height: auto;
+    }
+
+    .folder_details .title {
+        width: 72% !important;
+    }
+
+    #exlidUserAreaRibbon li {
+        border-right: 1px solid #dadada;
+        font-size: 75%;
+        height: 18px;
+    }
+
+    #exlidMainMenuTile div.EXLMainMenuContainer {
+        display: none;
+    }
+
+    #exlidMainMenuTile div.EXLLanguagesContainer {
+        margin-top: -2em;
+        right: -7px;
+    } 
+	.EXLResultsHeader div.EXLResultsNumbers div.EXLResultsSortBy {
+        z-index: 99;
+        height: 25px;
+        line-height: 26px;
+        width: 11em;
+    }
+ .EXLResultsHeader div.EXLResultsNumbers div.EXLResultsSortBy span.EXLResultsSortBySelected a {
+        margin-left: 0;
+    }
+
+    #exlidMainMenuTile div.EXLLanguagesContainer li img {
+        margin-left: 3px;
+    }
+
+    #exlidUserAreaRibbon li.EXLUserName {
+        padding: 0 0.3em 0 0;
+    }
+
+    #exlidUserAreaRibbon li.EXLMyAccount, #exlidUserAreaRibbon li.EXLLastItem {
+        padding: 0 0.3em 0 0.3em;
+    }
+/*small logo?*/
+    #exlidHeaderTile img {
+        width: 110px;
+    }
+ #exlidUserAreaRibbon li span.EXLUserAreaStart {
+        width: 0;
+    }
+
+    #exlidUserAreaTile ul {
+        border-left: 1px solid #dadada;
+        float: right;
+    }
+
+    #exlidHeaderContainer {
+        width: 21em;
+    }
+
+    #exliWhiteContent {
+        top: 0;
+        left: 0;
+        width: 100%;
+        position: inherit;
+    }
+	/*search box*/
+  .EXLLightbox div.EXLLightboxFormContainer {
+        padding: 0;
+    }
+
+    .EXLLightbox div.EXLLightboxFormContainer fieldset.EXLLightboxFormDisciplineSelection {
+        width: 100%;
+        margin: 0;
+    }
+
+    .EXLLightbox div.EXLLightboxFormContainer fieldset.EXLLightboxFormDisciplineSelection ul {
+        width: 100%;
+    }  #exlidHeaderContainer {
+        width: 100%;
+    }
+
+    .EXLLanguagesContainer {
+        display: none !important;
+    }
+
+    #exlidUserAreaTile {
+        clear: both;
+    }
+
+    #exlidUserAreaTile ul {
+        float: right;
+        border-left-width: 0px;
+        margin-top: 2px;
+    }
+
+    #exlidUserAreaRibbon {
+        height: auto;
+    }
+
+  #exlidUserAreaRibbon li {
+        padding: 8px !important;
+        background-image: none;
+    }
+
+    #exlidUserAreaRibbon li * {
+        font-size: 13px !important;
+    }
+
+    #exlidUserAreaRibbon select {
+        background-color: transparent;
+    }
+
+    #exlidUserAreaRibbon li:last-child {
+        border-right-width: 0px;
+    }
+
+    #exlidSearchRibbon div.EXLSearchFieldRibbon {
+        position: relative;
+        height: auto;
+    }
+
+    #exlidSearchTile {
+        clear: both;
+        height: auto;
+    }
+	  .EXLSearchFieldRibbonFormSearchFor {
+        padding-left: 0.2em;
+    }
+
+    .EXLSearchFieldRibbonFormFields {
+        width: 80% !important;
+        float: none;
+        height: 100%;
+    }
+	 .EXLSearchFieldRibbonFormSubmitSearch {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        margin-top: 0px !important;
+    }
+
+    #exlidSearchRibbon input {
+        outline: none;
+    }
+
+    #exlidSearchRibbon input.submit {
+        height: 36px;
+        width: 100%;
+    }
+
+    .EXLSearchFieldRibbonFormSearchClear {
+        height: 35px;
+        width: 7%;
+    }
+	.EXLClearSimpleSearchBoxButtonClose {
+        height: 100%;
+    }
+
+    #EXLFacetsMobile {
+        margin-left: 0.2em;
+        margin-top: 5px;
+    }
+
+    #EXLFacetsMobile select {
+        width: 100%;
+        height: 30px;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border: 1px solid #dadada;
+    }
+  .EXLTabContent {
+        height: auto;
+    }
+
+    .EXLResultsSortBySelected, .EXLResultsSortByMenu {
+        display: none;
+    }
+
+    .EXLResultsHeader div.EXLResultsNumbers div.EXLResultsSortBy {
+        width: auto;
+    }
+
+    .EXLSortMobile select {
+        line-height: 26px;
+        height: 26px;
+        background-color: transparent;
+    }
+
+    .EXLResultsHeader {
+        margin-bottom: 30px;
+    }
+
+    .EXLMyAccountMainContainer div.EXLMyAccountRanking {
+        float: left;
+        width: 70%;
+    }
+
+    .EXLAdditionalBar {
+        display: none;
+    };
+.notifyjs-bootstrap-error{
+	display:none !important;
+}
+.EXLMainMenu{
+	display:none;	
+}	
+
+#scopesList,.EXLSearchFieldRibbonFormSelectedCollection {
+	float:left;	
+	clear:both;
+	width:100% !important;
+	border-top:1px solid #8fb9d0;
+}
+.EXLSearchFieldRibbonFormCollectionsList{
+	border:none;
+	background:none;
+	left:inherit !important;
+	float:none !important;
+}
+#exlidSearchTile{
+	background:none !important;
+	border-bottom:none !important;
+	
+}
+
+
+}
+/* temporary disable virtual browser */
+.EXLTabsRibbon div li.EXLBrowseshelfTab {
+    display: none;
+}

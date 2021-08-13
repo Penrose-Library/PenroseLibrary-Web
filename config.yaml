@@ -68,7 +68,7 @@ menu:
       url: /archives/
       weight: 5
     - name: Thesis
-      url: /thesis
+      url: https://libguides.whitman.edu/thesis
       weight: 21
     - name: Blog
       url: /post/

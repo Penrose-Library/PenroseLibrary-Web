@@ -3,27 +3,9 @@
 
   $(function(){   
 	var $availcomp=0;
-
-	 //building map
-	$('#mapclick').click(function(){
-	    $('#mapt').show();
-	})
-
-  	$('#map1st').click(function(){
-	    $('#floormap').attr('src','./wp-content/themes/whitman/additional/res/map/library-map-v4-5_FirstFloor.svg');
-	})
-	$('#map2nd').click(function(){
-	    $('#floormap').attr('src','./wp-content/themes/whitman/additional/res/map/library-map-v2019-01_SecondFloor.svg');
-	})
-	$('#map3rd').click(function(){
-	    $('#floormap').attr('src','./wp-content/themes/whitman/additional/res/map/library-map-v4-5_ThirdFloor.svg');
-	})
-	$('#map4th').click(function(){
-	    $('#floormap').attr('src','./wp-content/themes/whitman/additional/res/map/library-map-v4-5_FourthFloor.svg');
-	})
 	//bike
 	$.ajax({
-           url: 'https://penroselib-php.herokuapp.com/bike.php',
+           url: 'https://penrose.whitman.edu/php/bike.php',
            type: 'GET',
            dataType: 'json',
 	       cache:false,
@@ -34,7 +16,7 @@
 
 	//study room
 	 $.ajax({
-           url: 'https://penroselib-php.herokuapp.com/studyroom.php',
+           url: 'https://penrose.whitman.edu/php/studyroom.php',
            type: 'GET',
            dataType: 'json',
 		   cache:true
@@ -65,7 +47,7 @@
 	today = monthname[mm]+' '+dd+' , '+yyyy;
 	$('#date').html(today);
 	$.ajax({
-		url: "https://penroselib-php.herokuapp.com/calendar/libraryhour.php",
+		url: "https://penrose.whitman.edu/php/calendar/libraryhour.php",
 		cache: true,
 		dataType: 'json'
 	})
@@ -74,7 +56,7 @@
 	});
 	//reference calendar
 	$.ajax({
-			url: "https://penroselib-php.herokuapp.com/calendar/reference.php",
+			url: "https://penrose.whitman.edu/php/calendar/reference.php",
 			dataType: 'json'
 	}).done(function( hours ) {
 		refhtml='<p>If you need help, please send us an email using the link above.</p>';

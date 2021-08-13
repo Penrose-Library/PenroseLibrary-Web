@@ -1,0 +1,148 @@
+.selectArea  {
+	height:34px;
+	font-size:12px;
+	line-height:34px;
+	color:#000;
+	position:relative;
+	text-decoration:none;
+	overflow:hidden;
+	display:block;
+	outline:none;
+}
+.ticket-form .selectArea{
+	height:15px;
+	line-height:15px;
+}
+.filter-box .selectArea{
+	height:22px;
+	line-height:22px;
+}
+.selectArea-c {
+	background: url(../images/select-c.gif) repeat-x;
+	display:block;
+	padding:0 35px 0 10px;
+	height:100%;
+}
+.ticket-form .selectArea-c{
+	background: url(../images/select2-c.gif) repeat-x;
+}
+.filter-box .selectArea-c{
+	background: url(../images/select3-c.gif) repeat-x;
+}
+.selectArea-l,
+.selectArea-r {
+	position:absolute;
+	top:0;
+	height:100%;
+}
+.selectArea-l {
+	background:url(../images/select-lt.gif) no-repeat;
+	width:5px;
+	left:0;
+}
+.ticket-form .selectArea-l{
+	width:4px;
+	background: url(../images/select2-lt.gif) no-repeat;
+}
+.filter-box .selectArea-l{
+	width:3px;
+	background: url(../images/select3-lt.gif) no-repeat;
+}
+.selectArea-r {
+	background: url(../images/select-rt.gif) no-repeat;
+	width:35px;
+	right:0;
+}
+.ticket-form .selectArea-r{
+	width:22px;
+	background: url(../images/select2-rt.gif) no-repeat;
+}
+.filter-box .selectArea-r{
+	width:22px;
+	background: url(../images/select3-rt.gif) no-repeat;
+}
+.optionsDiv {
+	position:absolute;
+	z-index:30;
+	overflow:hidden;
+	font-size:11px;
+	line-height:14px;
+}
+.optionsDiv .select-c {
+	height:1%;
+	padding:2px;
+	overflow:hidden;
+	background-color:#e5e5e5;
+	border:1px solid #C9C9C9;
+}
+.optionsDiv ul {
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	list-style:none;
+}
+.optionsDiv ul li {
+	overflow: hidden;
+	vertical-align: top;
+}
+.optionsDiv ul li a {
+	color:#000;
+	font-size:11px;
+	line-height:14px;
+	overflow:hidden;
+	text-decoration:none;
+	display:block;
+	padding:2px 4px;
+}
+.optionsDiv a:hover,
+.optionsDiv ul li.activeOption a {
+	text-decoration:none;
+}
+.checkboxArea {
+	display:block;
+	outline:none;
+	font-size:0;
+	line-height:0;
+	width:13px;
+	height:13px;
+	background: url(../images/bg-checkbox.gif) no-repeat;
+}
+.checkboxAreaChecked {
+	background-position:0 -26px !important;
+}
+.radioArea {
+	float:left;
+	outline:none;
+	font-size:0;
+	line-height:0;
+	width:17px;
+	height:17px;
+	margin:0 5px 0 0;
+	background: url(../images/bg-radio.gif) no-repeat;
+}
+.radioAreaChecked {
+	background-position:0 -17px !important;
+}
+.optionsList div {
+	padding:0 0 0 10px;
+}
+.selectAreaMultiple {
+	display:block;
+	height:100px;
+	overflow:hidden;
+	border:1px solid red;
+	cursor:default;
+}
+.selectAreaMultiple span,
+.selectAreaMultiple em,
+.selectAreaMultiple strong {
+	display:block;
+	font-style:normal;
+	font-weight:normal;
+}
+.optionsListMultiple em {
+	
+}
+.selectAreaMultiple .activeOption {
+	background:red;
+}

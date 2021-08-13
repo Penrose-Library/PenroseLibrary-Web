@@ -59,9 +59,10 @@ toc: false
         <h3>Hours and Contact</h3>
         <span id="date">&nbsp;</span>
         <p id="today">&nbsp;</p>
-        <p class="t">Circulation: 509-527-5192 &nbsp; library@whitman.edu</p>
-        <p>Research Help:</p>
-        <a class="waves-effect waves-light btn" href="/contact-a-librarian/" target="_blank" rel="noopener noreferrer">Ask Librarian via Email</a>
+        <p class="t">Circulation: 509-527-5192</p>
+        <p style="margin:0.2rem">Research Help:</p>
+        <div id="libchat_776a12eb7834f00b1664afc3f902f086">
+        <a href="/contact_librarian/" target="_blank" rel="noopener noreferrer"><button class="libchat_online" style="margin-bottom:0.2rem">Ask Librarian via Email</button></a></div>
         <div id="reference"></div>
       </div>
     </div>
@@ -77,13 +78,13 @@ toc: false
             <span id="buildingoccupancy" class="no-up-margin">&nbsp;</span> </p>
             <hr/>
             <div class="pull-left home-link">
-            <p><a id="mapclick" href="#mapt">Building Map</a>
+            <p><a href="/map">Building Map</a>
                 <p><a href="https://sherlock.whitman.edu/primo-explore/account?vid=WHITC_NEW&amp;lang=en_US&amp;section=overview">My Library Account</a></p>
                 <p><a href="https://whitman.illiad.oclc.org/illiad/logon.html">InterLibrary Loan</a></p>
             </div>
             <div class="pull-right home-link">
                 <p><a href="faculty_services/#course-reserves">Request course reserves</a></p>
-                <p><a title="Our Librarians are available to assist you with research topics, projects, and papers Monday through Friday from 8am to 5pm. Drop-in visits are welcome too!" href="https://whitman.libcal.com/appointments">Schedule a Research Appointment</a></p>
+                <p><a title="Our Librarians are available to assist you with research topics, projects, and papers Monday through Friday from 9am to 5pm. Drop-in visits are welcome too!" href="https://whitman.libcal.com/appointments">Schedule a Research Appointment</a></p>
                 <p><a href="newbook/">Recently acquired books</a></p>
             </div>
         </div>
@@ -93,3 +94,4 @@ toc: false
 </div>
 </div>
 <script src="/js/init-home.js"></script>
+<script src="https://asklibrarian.whitman.edu/load_chat.php?hash=776a12eb7834f00b1664afc3f902f086"></script>

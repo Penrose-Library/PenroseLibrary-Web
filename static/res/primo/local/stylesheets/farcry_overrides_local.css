@@ -1,0 +1,25 @@
+.sidebar .heading a {
+	color:white;
+	text-decoration:none;
+}
+
+#loggedIn {
+	padding: 9px;
+	background: #eee;
+}
+
+#whitmanSideBar {
+	padding: 9px;
+}
+
+#whitmanSideBar p {
+	margin: 0 !important; padding: 0 !important;
+}
+
+#content div.bodycopy ol, #content div.bodycopy ul {
+	margin: 1em 2em; padding: 1em;
+}
+	
+	#content div.bodycopy ul li {
+		list-style: disc;
+	}	

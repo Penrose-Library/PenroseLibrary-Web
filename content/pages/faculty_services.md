@@ -9,9 +9,9 @@ Library](http://works.whitman.edu/10things_faculty)
 ## Library Instruction {#instruction .scrollspy}
 
 As detailed in the [Penrose Library Mission and Guiding
-Principles](https://library.whitman.edu/about-the-library/#Penrose) and our [teaching
-philosophy](https://library.whitman.edu/wp-content/uploads/2019/08/TeachingStatementF19.pdf) and [learning
-goals](https://library.whitman.edu/wp-content/uploads/2020/06/Information-Literacy-Scaffold.pdf), the Instructional and Research Services department guides students through the research process, helping them develop critical thinking skills to conduct research, synthesize information, and communicate the results of intellectual inquiry.
+Principles](/about_the_library/#penrose-mission-and-values-statement) and our [teaching
+philosophy](/wp-content/uploads/2019/08/TeachingStatementF19.pdf) and [learning
+goals](/wp-content/uploads/2020/06/Information-Literacy-Scaffold.pdf), the Instructional and Research Services department guides students through the research process, helping them develop critical thinking skills to conduct research, synthesize information, and communicate the results of intellectual inquiry.
 
 ### Scheduling an Instructional Session
 
@@ -108,7 +108,7 @@ The purpose of placing materials on reserve is to make common readings readily a
 
 ### How to place an item on reserve
 
-Please complete a [Reserve Request Form ](https://docs.google.com/a/whitman.edu/forms/d/e/1FAIpQLSfZ37LXVdmh8dE4wzcfkPQSMnDj2YyHBTGlL1NEV6bcqzIhmQ/viewform)or [Video Streaming Request
+Please complete a [Reserve Request Form](https://works.whitman.edu/reservesrequest) or [Video Streaming Request
 Form](https://works.whitman.edu/streamingmediaform) online, listing all items you will be placing on reserve. You can choose to place items on reserve for the following loan periods:
 
 -   3 hours (library use only)
@@ -116,16 +116,14 @@ Form](https://works.whitman.edu/streamingmediaform) online, listing all items y
 -   6 days
 -   Electronic Reserves (articles/video digitized or linked)
 
-To guarantee that your materials are available for the beginning of the semester, **submit them no later than two weeks before the first day of classes.** Once the semester has begun, allow at least four days for processing. Materials to be placed on e-reserve that are already in
-electronic format may be emailed to [Jen
-Pope](mailto:popeja@whitman.edu). Materials to be scanned, or put on reserve in their original format, should be accompanied by a Reserve Request Form, brought to the circulation desk and given to the Circulation Supervisor on duty.
+To guarantee that your materials are available for the beginning of the semester, **submit them no later than two weeks before the first day of classes.** Once the semester has begun, allow at least four days for processing. Materials to be placed on e-reserve that are already in electronic format may be emailed to [Access Services](mailto:ill@whitman.edu). Materials to be scanned, or put on reserve in their original format, should be accompanied by a Reserve Request Form, brought to the circulation desk and given to the Circulation Supervisor on duty.
 
 ### What can be put on reserve?
 
 - **Library books, videos, CDs, and DVDs** Please gather together the library materials you would like on reserve for your courses.Reference books and periodicals do no circulate outside the library and are not normally placed on reserve.
 
 - **Streaming medias** Portions of or entire media can be put on course reserves if certain conditions are met. Please refer to our [video streaming course reserve
-policy](https://works.whitman.edu/streamingmediapolicy) for details.[Video Streaming course reserves request form](https://works.whitman.edu/streamingmediaform) could be filled out online for request processing.
+policy](https://works.whitman.edu/streamingmediapolicy) for details. [Video Streaming course reserves request form](https://works.whitman.edu/streamingmediaform) could be filled out online for request processing.
 
 - **Books not owned by the library** The Library will attempt to purchase books needed for reserve use. You may request them by contacting the [Acquisitions Department](mailto:stelkre@whitman.edu). Please be sure to indicate that the item is for reserve, and provide the course number.
 
@@ -143,7 +141,7 @@ policy](https://works.whitman.edu/streamingmediapolicy) for details.[Video Strea
 
 ### View a Reserve List
 
-You can view or search for your reserve lists on the [Course Reserves page](https://library.whitman.edu/course-reserves/). As soon as items are placed on reserve, they will be available for check-out. It may take up to 48 hours before they appear in Sherlock.
+You can view or search for your reserve lists on the [Course Reserves page](/course_reserves/). As soon as items are placed on reserve, they will be available for check-out. It may take up to 48 hours before they appear in Sherlock.
 
 ### Reserves and Copyright
 
@@ -152,7 +150,7 @@ Note that putting copies of articles or chapters on reserve may violate U.S. cop
 -   The copyrighted material placed on Reserve is being used for more than one semester.
 -   If you wish to put more than a brief amount of copyrighted material on reserve.
 
-Questions? Please contact [Jen Pope.](mailto:popeja@whitman.edu)
+Questions? Please contact [Access Services.](mailto:ill@whitman.edu)
 
 ## Honors Thesis FAQ for Faculty 
 
@@ -160,7 +158,7 @@ Changes have been made to the faculty code in regard to what is required for sub
 
 ### Where can I find thesis submission guidelines?
 
-Complete guidelines on formatting and submission can be found[here](https://library.whitman.edu/thesis).
+Here you could find [Complete guidelines on formatting and submission](https://libguides.whitman.edu/thesis).
 
 ### When is the deadline?
 
@@ -189,38 +187,31 @@ The library will offering a workshop for students on these submission guidelines
 
 ### Who do I contact with questions?
 
-[Ben Murphy](mailto:murphybp@whitman.edu), Archivist and Special Collections Librarian (509-526-4731)
-
 [Amy Blau](mailto:blauar@whitman.edu), Scholarly Communications Librarian (509-527-5905)
 
 [Emily Pearson](mailto:pearsome@whitman.edu), Instructional & Research Services Librarian (509-527-5918)
 
+[Ben Murphy](mailto:murphybp@whitman.edu), Archivist and Special Collections Librarian (509-526-4731)
+
 ## Collection Development
 
-[Suggest a Purchase](https://goo.gl/forms/c88IYFI6ZPPZpg8C2)
+[Suggest a Purchase](https://works.whitman.edu/purchasesuggestion)
 
 Tell us if there’s something we should have in our collection. We have access to [Choice Reviews Online](https://www.ezproxy.whitman.edu/login?url=http://choicereviews.org/) to help you keep up with what’s being published in your field. Or sign up for GOBI Notifications and find out when new books in your field are published. [Library Collection Development Policy
-(PDF)](http://works.whitman.edu/collectiondevelopmentpolicy)[Collection
+(PDF)](http://works.whitman.edu/collectiondevelopmentpolicy)  [Collection
 Development Process (PDF)](http://works.whitman.edu/colldev-process)
 
 ### How to sign-up for GOBI notification:
 
-The library’s primary book vendor is YBP (Yankee Book Peddler). As books are published, they are added to YBP’s online database, GOBI (Global Online Bibliographic Information). In some instances, books are sent automatically to the library “on approval” while others are designated for notification. The GOBI system allows faculty the option of reviewing notification slips of recently published material. A profile detailing the faculty member’s specific areas of interest serves as the basis for this service. The alerts are generated by YBP every Saturday morning and appear in your email inbox. Just click on the link embedded in the email to access the list of new titles. Then select the titles that you want
-to recommend for purchase. Once you have chosen all of the titles that you want to select, click Recommend to send the selections to the Collection Management librarian. Orders for the titles are generated and the material arrives at the library in a few weeks. If you are
-interested in establishing a profile for the GOBI Notification service, please contact Roger Stelk, Collection Management librarian, at [stelkre@whitman.edu](mailto:stelkre@whitman.edu), or by phone at 509-527-5909.
+The library’s primary book vendor is YBP (Yankee Book Peddler). As books are published, they are added to YBP’s online database, GOBI (Global Online Bibliographic Information). In some instances, books are sent automatically to the library “on approval” while others are designated for notification. The GOBI system allows faculty the option of reviewing notification slips of recently published material. A profile detailing the faculty member’s specific areas of interest serves as the basis for this service. The alerts are generated by YBP every Saturday morning and appear in your email inbox. Just click on the link embedded in the email to access the list of new titles. Then select the titles that you want to recommend for purchase. Once you have chosen all of the titles that you want to select, click Recommend to send the selections to the Collection Management librarian. Orders for the titles are generated and the material arrives at the library in a few weeks. If you are interested in establishing a profile for the GOBI Notification service, please contact Roger Stelk, Collection Management librarian, at [stelkre@whitman.edu](mailto:stelkre@whitman.edu), or by phone at 509-527-5909.
 
-![gobi
-notification](./Faculty%20Services%20–%20Penrose%20Library_files/gobiimage.jpg)
+![gobi notification](/images/gobiimage.jpg)
 
 ## Data Management 
 
 ### What is a Data Management Plan?
 
-Since 2011, researchers applying for NSF grants have been required to
-submit a supplementary Data Management Plan (DMP) of no more than two
-pages with their grant applications. The Data Management Plan outlines
-how data will be gathered, preserved, and shared, in accordance with NSF
-policies.
+Since 2011, researchers applying for NSF grants have been required to submit a supplementary Data Management Plan (DMP) of no more than two pages with their grant applications. The Data Management Plan outlines how data will be gathered, preserved, and shared, in accordance with NSF policies.
 
 ### What is the [NSF data sharing policy?](https://www.nsf.gov/bfa/dias/policy/dmp.jsp)
 
@@ -229,33 +220,42 @@ cost and within a reasonable time, the primary data, samples, physical collectio
 
 ### What should the Data Management Plan include?
 
-The NSF lays out the requirements for the DMP in their[Grant Proposal Guide](https://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/gpg_index.jsp). The DMP should include information explaining:
+The NSF lays out the requirements for the DMP in their [Grant Proposal Guide](https://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/gpg_index.jsp). The DMP should include information explaining:
 
-1.The types of data, samples, physical collections, software, curriculum materials, and other materials to be produced in the course of the project.
-2.The standards to be used for data and metadata format and content.
-3.Policies for access and sharing, including provisions for appropriate protection of privacy, confidentiality, security, intellectual property, and other rights or requirements.
-4.Policies and provisions for re-use, re-distribution, and the production of derivatives.
-5.Plans for archiving data, samples, and other research products, and for preservation of and access to them.
+1. The types of data, samples, physical collections, software, curriculum materials, and other materials to be produced in the course of the project.
 
-Some Directorates, Offices, Divisions, and Programs have specific requirements beyond those outlined above. Please check the[NSF website](https://www.nsf.gov/bfa/dias/policy/dmp.jsp) to find out
+2. The standards to be used for data and metadata format and content.
+
+3. Policies for access and sharing, including provisions for appropriate protection of privacy, confidentiality, security, intellectual property, and other rights or requirements.
+
+4. Policies and provisions for re-use, re-distribution, and the production of derivatives.
+
+5. Plans for archiving data, samples, and other research products, and for preservation of and access to them.
+
+Some Directorates, Offices, Divisions, and Programs have specific requirements beyond those outlined above. Please check the [NSF website](https://www.nsf.gov/bfa/dias/policy/dmp.jsp) to find out
 whether your grant proposal will require additional components.
 
 ### Some questions to consider
 
-1.What types of data will be produced? How much data, and how often will it be changed or updated? Will versions need to be tracked?
-2.What identifiers will be used for the data? What file formats will be produced, and will special software or tools be required to create or view the data? What metadata standards will be used to organize the data?
-3.Who is responsible for managing and controlling the data? Who owns the data? If private and confidential data is being collected, what provisions are in place to protect that information?
-4.Where will the data be stored? How secure is the data, and what back up procedures exist?
-5.For whom is the data intended? How long must it be retained?
-6.How will you make the necessary data publicly accessible? How do you intend to publish or distribute the data?
+1. What types of data will be produced? How much data, and how often will it be changed or updated? Will versions need to be tracked?
+
+2. What identifiers will be used for the data? What file formats will be produced, and will special software or tools be required to create or view the data? What metadata standards will be used to organize the data?
+
+3. Who is responsible for managing and controlling the data? Who owns the data? If private and confidential data is being collected, what provisions are in place to protect that information?
+
+4. Where will the data be stored? How secure is the data, and what back up procedures exist?
+
+5. For whom is the data intended? How long must it be retained?
+
+6. How will you make the necessary data publicly accessible? How do you intend to publish or distribute the data?
 
 ### What resources are available to help write a Data Management Plan, and to make data publicly available?
 
-There are links to questionnaires and other tools that can be helpful in preparing a Data Management Plan on the Penrose Library [Data Resources LibGuide](https://library.whitman.edu/guides/?url=http://libguides.whitman.edu/dataresources/dmp).
-Data Services librarian [Amy Blau](mailto:blauar@whitman.edu)(509-527-4905) is available to discuss various aspects of data management. If you are planning to submit an NSF grant, please contact Rachna Sinnott (509-527-5990) or Tana Park (509-527-5926) in the Office of Grants & Foundation Relations at least one month before the due date.They can provide guidance on grant submission procedures and compliance with College and federal requirements, including the Data Management Plan. For more information on Whitman’s policies and procedures regarding grant submission, please visit [the Grants & Foundation Relations](https://www.whitman.edu/giving/grants-and-foundation-relations) website.
+There are links to questionnaires and other tools that can be helpful in preparing a Data Management Plan on the Penrose Library [Data Resources LibGuide](http://libguides.whitman.edu/dataresources/dmp).
+Data Services librarian [Amy Blau](mailto:blauar@whitman.edu) (509-527-4905) is available to discuss various aspects of data management. If you are planning to submit an NSF grant, please contact Rachna Sinnott (509-527-5990) or Tana Park (509-527-5926) in the Office of Grants & Foundation Relations at least one month before the due date.They can provide guidance on grant submission procedures and compliance with College and federal requirements, including the Data Management Plan. For more information on Whitman’s policies and procedures regarding grant submission, please visit [the Grants & Foundation Relations](https://www.whitman.edu/giving/grants-and-foundation-relations) website.
 
 ## Copyright @ Whitman
 
-We’ve put together some [great resources](http://libguides.whitman.edu/copyright_ip) to help you
+We’ve put together a [guide on copyright](http://libguides.whitman.edu/copyright_ip) to help you
 navigate copyright in your academic and personal life, including fair use analysis tools and sample copyright request forms. The [Whitman College Copyright Policy](https://libguides.whitman.edu/copyright_ip) and procedures for use of copyrighted materials are also available.
 

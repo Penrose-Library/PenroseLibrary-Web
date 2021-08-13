@@ -1,0 +1,43 @@
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://library.whitman.edu/res/primo/primo/include/primo_whitc.css"/>
+<link rel="icon" type="image/ico" href="https://www.whitman.edu/penrose/favicon.ico"/>
+<style>
+.EXLResultsContainer div.EXLResultsTile{
+	float:left !important;	
+	width:100% !important;
+}
+.EXLResultsHeader div.EXLResultsNumbers{
+	width:100% !important;
+}
+body{
+	min-width:0 !important;	
+}
+
+</style>
+<script type="text/javascript">
+
+//login
+
+$(document).ready(function() {
+ 	const regex = /^.*(https:\/\/.*)/g;
+	$('tr.EXLResult').each(function(index, element) {
+   console.log(index);
+    var surl = $('#getit1request_'+index).val();
+	 if(typeof surl !== 'undefined'){
+		while ((m = regex.exec(surl)) !== null) {
+			surl=m[1];
+			 console.log(m[1]);
+		};
+	    nurl=surl.replace('WHITC_summit_request_form','Branding_Skin_Test')
+		
+	 	$('#getit1request_'+index).val(nurl);
+		$('#exlidResult'+index+'-RequestTab>a').attr('href',nurl);
+		$('#exlidResult'+index+'-RequestTab>a').attr('target','_blank');
+		
+	
+	  }
+    });
+});
+</script>
+
+<a href="https://www.whitman.edu/penrose/" title="Whitman College Library Home"><img src="../uploaded_files/WHITC/whitc_logo.png" alt="Whitman College Library"/></a>
