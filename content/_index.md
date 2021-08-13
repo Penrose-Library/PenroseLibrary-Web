@@ -59,7 +59,7 @@ toc: false
         <h3>Hours and Contact</h3>
         <span id="date">&nbsp;</span>
         <p id="today">&nbsp;</p>
-        <p class="t">Circulation: 509-527-5192 &nbsp; library@whitman.edu</p>
+        <p class="t">Circulation: 509-527-5192</p>
         <p>Research Help:</p>
         <div id="libchat_776a12eb7834f00b1664afc3f902f086"></div>
         <a href="/contact-a-librarian/" target="_blank" rel="noopener noreferrer"><button class="waves-effect waves-light btn">Ask Librarian via Email</button></a>
