@@ -62,7 +62,7 @@ toc: false
         <p class="t">Circulation: 509-527-5192</p>
         <p style="margin:0.2rem">Research Help:</p>
         <div id="libchat_776a12eb7834f00b1664afc3f902f086">
-        <a href="/contact_librarian/" target="_blank" rel="noopener noreferrer"><button class="libchat_online btn" style="margin-bottom:0.2rem">Ask Librarian via Email</button></a></div>
+        <a href="/contact_librarian/" target="_blank" rel="noopener noreferrer"><button class="libchat_online" style="margin-bottom:0.2rem">Ask Librarian via Email</button></a></div>
         <div id="reference"></div>
       </div>
     </div>
