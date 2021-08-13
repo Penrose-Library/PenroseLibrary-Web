@@ -15,6 +15,9 @@
   border-radius: 0.25rem;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
+.libchat_offline{
+  display: none !important;
+}
 
 .btn, .searchquery{
     margin-top: 1em;
