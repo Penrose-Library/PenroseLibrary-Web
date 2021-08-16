@@ -25,8 +25,12 @@
 .archive_staff td:first-child {
   max-width: 4rem;
 }
-
-
+.intro-and-nav {
+  width: 16rem;
+}
+.main-and-footer {
+  margin-left: 16rem;  
+}
 
 .btn, .searchquery{
     margin-top: 1em;
