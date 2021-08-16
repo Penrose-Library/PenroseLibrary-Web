@@ -49,7 +49,7 @@ menu:
     - name: Library Services & FAQ
       url: /library_services/
       weight: 7
-    - name: Contact Librarians
+    - name: Contact Librarians & Staff
       url: /contact_librarian/
       weight: 6       
     - name: Faculty Services
