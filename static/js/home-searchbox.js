@@ -32,7 +32,7 @@ function searchevent() {
 	$("#primoQueryTemp").change(function(){
 		$("#primoQuery").val("any,contains," + $("#primoQueryTemp").val());
 	});
-	$('.greet').click(function() {
+	$('input:radio[name=search_scope_temp]').click(function() {
 		 
 				switch($('input:radio[name=search_scope_temp]:checked').val())
 				{
