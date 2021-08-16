@@ -426,7 +426,7 @@ caption {
     max-width: 25rem;
 }
 .main-and-footer{
-    margin-left: 14rem;
+    margin-left: 15rem;
     padding-top: 0;
     display: flex;
     flex-direction: column;
@@ -437,7 +437,7 @@ caption {
     font-size: 0.85rem;
     padding:2rem;
     clear:both;
-    margin-left: 14rem;
+    margin-left: 15rem;
     background: #0b2a58;
     color: #ddd;
 }
@@ -445,13 +445,6 @@ caption {
  color:#ddd;
 }
 
-main{
-  margin-left: 1rem;  
-}
-.page-title{
-  margin-left: 1rem;
-
-}
 
 /* Patterns navigation */
 .patterns {
