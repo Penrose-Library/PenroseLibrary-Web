@@ -506,7 +506,7 @@ caption {
 
 /* Tables of contents */
 .toc {
-    font-size: 0.75rem;
+    font-size: 1rem;
     border: none;
     position: fixed;
     right: 0;
@@ -519,7 +519,7 @@ caption {
     font-size: 1rem;
 }
 .toc ul {
-    margin-left: 0.75rem;
+    margin-left: 1rem;
     margin-top: 0;
     list-style-type: none;
 }
