@@ -1,4 +1,4 @@
-baseURL: https://library.whitman.edu
+baseURL: https://penrose.whitman.edu
 languageCode: en-us
 defaultContentLanguage: en
 title: Penrose Library, Whitman College, Walla Walla, WA
@@ -20,7 +20,7 @@ imaging:
 
 params:
   description: 
-  homeMetaContent: Penrose Library NG website. Deveopment. Do not use
+  homeMetaContent: Penrose Library, Whitman College
   # For more date formats see https://gohugo.io/functions/format/
   MatomoSiteID: 1
   dateFormat: Jan 2, 2006
