@@ -1,5 +1,5 @@
 ---
-date: "2019-04-09"
+date: "2021-08-16"
 title: "About the Library"
 ---
 
@@ -186,7 +186,7 @@ As a college library, we cultivate a collection of resources and develop display
 The Library subscribes to the American Library Association’s Library Bill of Rights as it applies to exhibit spaces, specifically:
 
 - The library should not censor or remove an exhibit because some members of the community may disagree with its content. Those who object to the content of any exhibit held at the library should be able to submit their complaint and/or their own exhibit proposal to be judged according to the policies established by the library.
--Challenges of an exhibit can only be made by current Whitman students, faculty, and staff. Should a member of the Whitman community wish to make a complaint, the first step is to discuss their concerns with the College Librarian. If the complaint is regarding disagreement of exhibit content the College Librarian may decide to inform the exhibit curator of the complaint and facilitate a discussion between the parties. If the complaint concerns library materials, the library will follow the Materials Challenge Policy.
+- Challenges of an exhibit can only be made by current Whitman students, faculty, and staff. Should a member of the Whitman community wish to make a complaint, the first step is to discuss their concerns with the College Librarian. If the complaint is regarding disagreement of exhibit content the College Librarian may decide to inform the exhibit curator of the complaint and facilitate a discussion between the parties. If the complaint concerns library materials, the library will follow the Materials Challenge Policy.
 - If the issue is not resolved following an informal discussion about the mission of the library and how the material or exhibit supports learning within the higher education environment, the library invites requesters to submit a proposal for their own exhibit.
 - Library staff involved in organizing, curating, and/or installing exhibits or displays are deemed to be acting within the course of official duties and under the authority of Penrose Library. Disputes over content, material use, or preservation of staff-led exhibits will be handled internally and not through the reconsideration process.
 

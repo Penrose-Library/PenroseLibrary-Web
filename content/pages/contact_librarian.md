@@ -202,9 +202,7 @@ $(document).ready(function(e) {
 <td>
 <ul>
 <li>Circulation policies</li>
-<li>Providing classroom instruction&nbsp;</li>
-<li>&amp; personal consultation</li>
-<li>&nbsp;</li>
+<li>Providing classroom instruction&nbsp;&amp; personal consultation</li>
 <li>Answering research questions</li>
 <li>Liaison for:
 <ul class="normal-list">

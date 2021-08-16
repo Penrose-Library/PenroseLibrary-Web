@@ -6,7 +6,7 @@ title: "Faculty Services"
 In brief, [Top 10 Things for Faculty to know about Penrose
 Library](http://works.whitman.edu/10things_faculty)
 
-## Library Instruction {#instruction .scrollspy}
+## Library Instruction
 
 As detailed in the [Penrose Library Mission and Guiding
 Principles](/about_the_library/#penrose-mission-and-values-statement) and our [teaching
@@ -120,10 +120,10 @@ To guarantee that your materials are available for the beginning of the semester
 
 ### What can be put on reserve?
 
-- **Library books, videos, CDs, and DVDs** Please gather together the library materials you would like on reserve for your courses.Reference books and periodicals do no circulate outside the library and are not normally placed on reserve.
+- **Library books, videos, CDs, and DVDs** Please gather together the library materials you would like on reserve for your courses. Reference books and periodicals do no circulate outside the library and are not normally placed on reserve.
 
 - **Streaming medias** Portions of or entire media can be put on course reserves if certain conditions are met. Please refer to our [video streaming course reserve
-policy](https://works.whitman.edu/streamingmediapolicy) for details. [Video Streaming course reserves request form](https://works.whitman.edu/streamingmediaform) could be filled out online for request processing.
+policy](https://works.whitman.edu/streamingmediapolicy) for details. [Video Streaming course reserves request form](https://works.whitman.edu/streamingmediaform) can be filled out online for request processing.
 
 - **Books not owned by the library** The Library will attempt to purchase books needed for reserve use. You may request them by contacting the [Acquisitions Department](mailto:stelkre@whitman.edu). Please be sure to indicate that the item is for reserve, and provide the course number.
 
@@ -137,7 +137,9 @@ policy](https://works.whitman.edu/streamingmediapolicy) for details. [Video Stre
 
 - **Textbooks** Textbooks will be placed on reserve only when the Bookstore has insufficient copies to meet demand and additional copies are on order.
 
-- **Items may not remain on reserve indefinitely.** All items are removed from reserve at the end of each term.
+- **Items may not remain on reserve indefinitely.**
+
+- All items are removed from reserve at the end of each term.
 
 ### View a Reserve List
 
@@ -154,7 +156,7 @@ Questions? Please contact [Access Services.](mailto:ill@whitman.edu)
 
 ## Honors Thesis FAQ for Faculty 
 
-Changes have been made to the faculty code in regard to what is required for submission to the library. Honors thesis students students are only required to submit a digital copy of the thesis. Students who choose to allow worldwide (open) access to their thesis may elect to also deposit a paper copy of their thesis that will be bound and shelved in the Allen Reading Room and can circulate on campus and through Interlibrary Loan. Students who have completed an honors project are required to deposit a report on that project. For faculty, key points include the following:
+Changes have been made to the faculty code in regard to what is required for submission to the library. Honors thesis students are only required to submit a digital copy of the thesis. Students who choose to allow worldwide (open) access to their thesis may elect to also deposit a paper copy of their thesis that will be bound and shelved in the Allen Reading Room and can circulate on campus and through Interlibrary Loan. Students who have completed an honors project are required to deposit a report on that project. For faculty, key points include the following:
 
 ### Where can I find thesis submission guidelines?
 
@@ -177,7 +179,7 @@ For those students who choose to make their digital theses available worldwide a
 Faculty advisors must sign the [certificate of approval form](http://works.whitman.edu/thesis_certificateofapproval) for the print copies of the thesis.
 In addition to submitting their PDF/A thesis, honors thesis students and faculty advisors must sign a [Non-Exclusive Distribution License](http://works.whitman.edu/DistributionLicenseStudent). On this form, students and faculty must indicate whether they would like the thesis to be accessible via the Internet and Interlibrary Loan to users unaffiliated with Whitman, or to limit access to Whitman affiliated patrons (students, faculty and staff). This form also allows a hold (or embargo period) to be placed on access to the thesis if the author(s) or advisors plan to publish or seek a patent based on work in the thesis. Students will be responsible for bringing this form to faculty to sign, but it is a good idea to begin conversations about the level of access that will be assigned to the thesis.
 
-### Do student retain their copyright?
+### Do students retain their copyright?
 
 Granting the College (and the Library) the right to provide electronic access to the thesis does not transfer copyright; the student author(s) retain the rights to their work.
 
@@ -197,9 +199,11 @@ The library will offering a workshop for students on these submission guidelines
 
 [Suggest a Purchase](https://works.whitman.edu/purchasesuggestion)
 
-Tell us if there’s something we should have in our collection. We have access to [Choice Reviews Online](https://www.ezproxy.whitman.edu/login?url=http://choicereviews.org/) to help you keep up with what’s being published in your field. Or sign up for GOBI Notifications and find out when new books in your field are published. [Library Collection Development Policy
-(PDF)](http://works.whitman.edu/collectiondevelopmentpolicy)  [Collection
-Development Process (PDF)](http://works.whitman.edu/colldev-process)
+Tell us if there’s something we should have in our collection. We have access to [Choice Reviews Online](https://www.ezproxy.whitman.edu/login?url=http://choicereviews.org/) to help you keep up with what’s being published in your field. Or sign up for GOBI Notifications and find out when new books in your field are published.
+
+- [Library Collection Development Policy(PDF)](http://works.whitman.edu/collectiondevelopmentpolicy) 
+
+- [Collection Development Process (PDF)](http://works.whitman.edu/colldev-process)
 
 ### How to sign-up for GOBI notification:
 
