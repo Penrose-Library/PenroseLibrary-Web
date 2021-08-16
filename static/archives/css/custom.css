@@ -16,6 +16,18 @@
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
+.archive_staff table{
+  table-layout: auto;
+}
+.archive_staff td{
+  border: none;
+}
+.archive_staff td:first-child {
+  max-width: 4rem;
+}
+
+
+
 .btn, .searchquery{
     margin-top: 1em;
     font-size: 1rem;
