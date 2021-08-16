@@ -2,11 +2,10 @@
 ID: 748
 title: Hispanic Heritage Month 2016
 author: Amy Blau
-post_date: 2016-10-05 11:00:17
+date: 2016-10-05 11:00:17
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/hispanic-heritage-month-2016/
+url: /blog/hispanic-heritage-month-2016/
 published: true
 instant_articles_submission_id:
   - "1819529198284291"

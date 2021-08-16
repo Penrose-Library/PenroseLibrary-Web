@@ -4,11 +4,10 @@ title: >
   International Women’s Day and
   Women’s History Month
 author: Amy Blau
-post_date: 2016-03-08 11:07:53
+date: 2016-03-08 11:07:53
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/international-womens-day-and-womens-history-month/
+url: /blog/international-womens-day-and-womens-history-month/
 published: true
 ---
 For International Women’s Day on March 8, library video streaming service Kanopy has created a collection of films that document <a href="http://ezproxy.whitman.edu:2048/login?url=https://whitman.kanopystreaming.com/category/tags/international-womens-day">women and women’s achievements and challenges</a> in a variety of contexts. <a href="http://ezproxy.whitman.edu:2048/login?url=http://digital.films.com/portalplaylists.aspx?cid=1637&amp;aid=7745">Films on Demand</a> has curated video from its collection for Women’s History Month. And you may have already noticed that <a href="http://www.google.com/doodles/international-womens-day-2016">Google's International Women's Day doodle</a> has interesting video footage of women from around the world.

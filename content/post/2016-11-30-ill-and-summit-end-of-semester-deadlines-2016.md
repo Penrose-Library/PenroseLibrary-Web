@@ -4,7 +4,7 @@ title: >
   ILL and Summit end-of-semester deadlines
   2016
 author: Amy Blau
-post_date: 2016-11-30 14:39:39
+date: 2016-11-30 14:39:39
 post_excerpt: >
   As the end of the semester approaches,
   bringing due dates for papers and
@@ -15,8 +15,7 @@ post_excerpt: >
   specific end-of-semester deadlines for
   students.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/ill-and-summit-end-of-semester-deadlines-2016/
+url: /blog/ill-and-summit-end-of-semester-deadlines-2016/
 published: true
 instant_articles_submission_id:
   - "1825346691067498"

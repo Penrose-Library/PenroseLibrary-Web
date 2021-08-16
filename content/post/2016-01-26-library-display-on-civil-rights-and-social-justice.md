@@ -4,11 +4,10 @@ title: >
   Library Display on Civil Rights and
   Social Justice
 author: Amy Blau
-post_date: 2016-01-26 13:49:09
+date: 2016-01-26 13:49:09
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/library-display-on-civil-rights-and-social-justice/
+url: /blog/library-display-on-civil-rights-and-social-justice/
 published: true
 instant_articles_submission_id:
   - "1584806055160656"

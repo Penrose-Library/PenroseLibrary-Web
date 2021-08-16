@@ -2,11 +2,10 @@
 ID: 560
 title: 'Leap year: ladies’ choice'
 author: Amy Blau
-post_date: 2016-02-29 13:29:42
+date: 2016-02-29 13:29:42
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/leap-year-ladies-choice/
+url: /blog/leap-year-ladies-choice/
 published: true
 ---
 The English term “leap year” refers to the <i>bissextile year</i>, which has 366 days rather than the usual 365 in order to reconcile the tropical year (cycle of the seasons) with the calendar year. (For more history and the rest of the rules that determine a leap year, see this <a href="http://aa.usno.navy.mil/faq/docs/leap_years.php">explanation from the US Naval Observatory</a>). The best-known custom associated with leap year in Great Britain, Ireland, and the United States was that during a leap year, women were allowed to propose to men. The origins of this tradition are murky. One newspaper article from 1956 attributed it to a misinterpretation of the Latin term “bissextile” as having to do with the sexes (rather than indicating when in the Roman calendar the extra day was added in the leap year). [1] However, this explanation is not widely given in discussions of leap year traditions, and it too may be based on a false etymological interpretation.

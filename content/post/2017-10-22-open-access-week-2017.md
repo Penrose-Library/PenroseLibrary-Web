@@ -7,10 +7,9 @@ post_excerpt: >
   open access models for scholarly journal
   publishing.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/open-access-week-2017/
+url: /blog/open-access-week-2017/
 published: true
-post_date: 2017-10-22 11:40:35
+date: 2017-10-22 11:40:35
 ---
 <img class="alignnone size-full wp-image-756" src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2016/10/500px-Open_Access_PLoS.svg_.png" alt="" width="500" height="200" />This week is International Open Access Week, which takes place annually in the last full week of October. The underlying principles of open access (OA) scholarship are to make scholarly research available in digital forms online, free of charge and free of many copyright and licensing restrictions. This year’s Open Access Week theme is “Open in order to…” This open-ended (pun intended) slogan is designed to prompt researchers to consider all the ways in which they and their potential readers can benefit from scholarship that can be freely accessed and used. In a <a href="http://openaccessweek.org/profiles/blogs/2017-open-access-week-theme">blog post</a>, Nick Shockey of <a href="https://sparcopen.org/">SPARC*</a> gives several examples: “Open in order to increase the impact of my scholarship. Open in order to enable more equitable participation in research. Open in order to improve public health.”
 

@@ -4,10 +4,9 @@ title: Coronavirus information to stay informed
 author: Emily Pearson
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/coronavirus-information-to-stay-informed/
+url: /blog/coronavirus-information-to-stay-informed/
 published: true
-post_date: 2020-03-09 15:00:12
+date: 2020-03-09 15:00:12
 ---
 <!-- wp:list -->
 <ul><li><a href="https://www.co.walla-walla.wa.us/government/health_department/index.php">Walla Walla Health Department updates</a> </li><li><a href="https://www.whitman.edu/health-center/coronavirus-information">Whitman College updates and information</a> </li></ul>

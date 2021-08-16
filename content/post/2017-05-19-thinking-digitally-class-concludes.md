@@ -2,14 +2,13 @@
 ID: 949
 title: Thinking Digitally class concludes
 author: Amy Blau
-post_date: 2017-05-19 13:16:36
+date: 2017-05-19 13:16:36
 post_excerpt: >
   The team-taught Thinking Digitally class
   wraps up the semester with a final
   project fair.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/thinking-digitally-class-concludes/
+url: /blog/thinking-digitally-class-concludes/
 published: true
 ---
 Three librarians -- Melissa Salrin, Ben Murphy, and Amy Blau -- were part of the instructional staff for a new team-taught course, <i>Interdisciplinary Studies 230: Thinking Digitally.</i> The instruction team included faculty from the humanities, arts, and social sciences, and staff from technology services and the library, and was led by Emily Jones (German Studies &amp; Environmental Humanities), Sharon Alker (English), and David Sprunger (Instructional &amp; Learning Technology). The course, offered in the spring of 2017, had broad-reaching goals: to use digital tools and theories of the digital to explore research questions related to the Whitman campus and the Walla Walla community. Specific approaches that structured the class were text manipulation, data visualization, and digital storytelling.

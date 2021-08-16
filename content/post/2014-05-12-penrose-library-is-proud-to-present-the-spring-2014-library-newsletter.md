@@ -4,11 +4,10 @@ title: >
   Penrose Library is proud to present the
   Spring 2014 Library Newsletter
 author: link
-post_date: 2014-05-12 23:25:30
+date: 2014-05-12 23:25:30
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/penrose-library-is-proud-to-present-the-spring-2014-library-newsletter/
+url: /blog/penrose-library-is-proud-to-present-the-spring-2014-library-newsletter/
 published: true
 ---
 <div style="width: 95%;float: left;margin-top: 5px;margin-bottom: 1px"></div>

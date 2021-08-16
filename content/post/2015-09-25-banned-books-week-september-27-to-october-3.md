@@ -4,11 +4,10 @@ title: >
   Banned Books Week September 27 to
   October 3
 author: Amy Blau
-post_date: 2015-09-25 10:44:17
+date: 2015-09-25 10:44:17
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/banned-books-week-september-27-to-october-3/
+url: /blog/banned-books-week-september-27-to-october-3/
 published: true
 ---
 The Catcher in the Rye . . . The Bluest Eye . . . Harry Potter . . .

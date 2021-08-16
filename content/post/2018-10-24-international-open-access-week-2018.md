@@ -11,10 +11,9 @@ post_excerpt: >
   primarily by the Oberlin Group of
   Academic Libraries.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/international-open-access-week-2018/
+url: /blog/international-open-access-week-2018/
 published: true
-post_date: 2018-10-24 14:50:24
+date: 2018-10-24 14:50:24
 ---
 <span style="font-weight: 400">October 22-28, 2018 celebrates International Open Access Week!  Open Access Week highlights the potential benefits of Open Access (OA) to make scholarly research available in digital forms online, free of charge and free of many copyright and licensing restrictions.  This year’s Open Access Week theme is “Designing Equitable Foundations for Open Knowledge” emphasizing the importance of open systems being inclusive and equitable as OA becomes more prevalent to share research. </span>
 

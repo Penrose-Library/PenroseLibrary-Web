@@ -4,10 +4,9 @@ title: Penrose Library Hours
 author: Julie Carter
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/penrose-library-hours/
+url: /blog/penrose-library-hours/
 published: true
-post_date: 2018-05-15 11:43:55
+date: 2018-05-15 11:43:55
 ---
 Please be aware that Penrose Library's hours have changed to reflect the end of the semester:
 5/15: Closed at 10:00 pm

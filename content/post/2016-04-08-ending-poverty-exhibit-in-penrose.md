@@ -2,11 +2,10 @@
 ID: 677
 title: (Ending) Poverty Exhibit in Penrose
 author: Amy Blau
-post_date: 2016-04-08 17:07:24
+date: 2016-04-08 17:07:24
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/ending-poverty-exhibit-in-penrose/
+url: /blog/ending-poverty-exhibit-in-penrose/
 published: true
 ---
 <img class="alignnone wp-image-678 size-medium" src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2016/04/endingpoverty-227x300.jpg" alt="endingpoverty" width="227" height="300" />

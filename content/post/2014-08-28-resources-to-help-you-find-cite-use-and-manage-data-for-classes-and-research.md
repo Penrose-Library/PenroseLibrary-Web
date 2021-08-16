@@ -4,11 +4,10 @@ title: >
   Resources to help you find, cite, use,
   and manage data for classes and research
 author: link
-post_date: 2014-08-28 20:24:49
+date: 2014-08-28 20:24:49
 post_excerpt: Check out our new Data Resources Guide !
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/resources-to-help-you-find-cite-use-and-manage-data-for-classes-and-research/
+url: /blog/resources-to-help-you-find-cite-use-and-manage-data-for-classes-and-research/
 published: true
 hometitle:
   - >

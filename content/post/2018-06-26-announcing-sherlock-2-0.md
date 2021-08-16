@@ -4,10 +4,9 @@ title: Announcing Sherlock 2.0
 author: Kun Lin
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/announcing-sherlock-2-0/
+url: /blog/announcing-sherlock-2-0/
 published: true
-post_date: 2018-06-26 16:05:42
+date: 2018-06-26 16:05:42
 ---
 Beginning July 2, 2018, Sherlock 2.0 will become our default interface for library searching and discovery. This Orbis Cascade Alliance-wide effort strives to improve your experience in discovery and access of our library collections. You may already be familiar with this interface; it has been available for preview since January 2018. Sherlock 2.0 has some new and updated features, including:
 <ol>

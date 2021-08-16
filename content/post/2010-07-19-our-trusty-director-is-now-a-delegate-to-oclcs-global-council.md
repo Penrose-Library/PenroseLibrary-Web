@@ -4,11 +4,10 @@ title: >
   Penrose Director elected to OCLC Global
   Council
 author: link
-post_date: 2010-07-19 10:18:18
+date: 2010-07-19 10:18:18
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/our-trusty-director-is-now-a-delegate-to-oclcs-global-council/
+url: /blog/our-trusty-director-is-now-a-delegate-to-oclcs-global-council/
 published: true
 ---
 Dalia Corkrum, the Director of Penrose Library, was elected as an Americas Regional Council (ARC) Delegate to the Global Council of the Online Computer Library Center (OCLC).

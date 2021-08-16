@@ -9,10 +9,9 @@ post_excerpt: >
   experiences in publishing with open
   access journals.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/whitman-faculty-and-open-access-publishing/
+url: /blog/whitman-faculty-and-open-access-publishing/
 published: true
-post_date: 2017-10-25 09:16:46
+date: 2017-10-25 09:16:46
 ---
 <a href="https://library.whitman.edu/blog/open-access-week-2016/">Last year</a> for Open Access Week, we <a href="https://library.whitman.edu/blog/open-textbooks-math/">profiled</a> a few Whitman professors who are writing and using Open Educational Resources in their classes. This year we’re talking with professors who have published works of scholarship in Open Access journals. We asked them about their reasons for choosing an open access journal and their experiences of the publishing process, as well as what they see as the larger significance of open access publishing. Three Biology professors -- Dan Vernon, Ginger Withers, and Tim Parker -- shared their thoughts, as did Sharon Alker (English) and Frank Dunnivant (Chemistry). For an overview of Open Access models for journal publishing, see the <a href="https://library.whitman.edu/blog/open-access-week-2017/">previous blog post</a>.
 

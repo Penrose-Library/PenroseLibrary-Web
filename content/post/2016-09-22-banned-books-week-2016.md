@@ -2,11 +2,10 @@
 ID: 736
 title: Banned Books Week 2016
 author: Amy Blau
-post_date: 2016-09-22 17:05:16
+date: 2016-09-22 17:05:16
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/banned-books-week-2016/
+url: /blog/banned-books-week-2016/
 published: true
 instant_articles_submission_id:
   - "1578169829157335"

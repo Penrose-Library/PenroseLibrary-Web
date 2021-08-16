@@ -4,10 +4,9 @@ title: 'The Office of LGBTQIA+ and PRISM&#8217;s Media Guide'
 author: Emily Pearson
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/the-office-of-lgbtqia-and-prisms-media-guide/
+url: /blog/the-office-of-lgbtqia-and-prisms-media-guide/
 published: true
-post_date: 2018-02-08 10:02:39
+date: 2018-02-08 10:02:39
 ---
 <img class="size-medium wp-image-1132 alignleft" src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2018/02/LGBTQ-library-thing-300x169.png" alt="" width="300" height="169" />
 

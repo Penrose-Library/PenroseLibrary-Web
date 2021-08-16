@@ -4,10 +4,9 @@ title: Introducing Sherlock 2.0
 author: Emily Pearson
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/introducing-sherlock-2-0/
+url: /blog/introducing-sherlock-2-0/
 published: true
-post_date: 2018-01-12 16:51:39
+date: 2018-01-12 16:51:39
 ---
 [gallery size="large" link="file" ids="1121,1122,1120"]
 

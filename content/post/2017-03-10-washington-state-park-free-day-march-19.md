@@ -2,7 +2,7 @@
 ID: 922
 title: Washington State Park Free Day, March 19
 author: Amy Blau
-post_date: 2017-03-10 13:21:48
+date: 2017-03-10 13:21:48
 post_excerpt: >
   If your spring break plans include
   outdoor recreation, know that on Sunday
@@ -12,8 +12,7 @@ post_excerpt: >
   of the 104th birthday of the State
   Parks.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/washington-state-park-free-day-march-19/
+url: /blog/washington-state-park-free-day-march-19/
 published: true
 instant_articles_submission_id:
   - "347123589016432"

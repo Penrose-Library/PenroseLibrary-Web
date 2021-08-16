@@ -2,11 +2,10 @@
 ID: 722
 title: New Databases in Penrose
 author: Amy Blau
-post_date: 2016-09-15 13:10:56
+date: 2016-09-15 13:10:56
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/new-databases-in-penrose/
+url: /blog/new-databases-in-penrose/
 published: true
 instant_articles_submission_id:
   - "656323794523858"

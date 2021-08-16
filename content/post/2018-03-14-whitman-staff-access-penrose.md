@@ -4,10 +4,9 @@ title: Whitman staff access @ Penrose
 author: Emily Pearson
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/whitman-staff-access-penrose/
+url: /blog/whitman-staff-access-penrose/
 published: true
-post_date: 2018-03-14 15:50:37
+date: 2018-03-14 15:50:37
 ---
 All Whitman College staff have access to Penrose Library and the <a href="https://library.whitman.edu/archives/">Whitman College and Northwest Archives</a> throughout the year. Use <a href="https://sherlock.whitman.edu/primo_library/libweb/action/search.do?menuitem=0&amp;fromTop=true&amp;fromPreferences=false&amp;fromEshelf=false&amp;vid=WHITC"><b>Sherlock</b></a><b>,</b> our interface to Penrose Library collections, as well as items held in Summit libraries and many online articles in our subscription databases, to discover interesting and exciting materials!
 <p style="text-align: left;padding-left: 30px">o   The <b>Whitman scope</b> lets you search in the half a million or so items in Penrose Library – mainly books, DVDs, and a few print journals.</p>

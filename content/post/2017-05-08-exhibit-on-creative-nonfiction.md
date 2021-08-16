@@ -2,15 +2,14 @@
 ID: 945
 title: Exhibit on Creative Nonfiction
 author: Amy Blau
-post_date: 2017-05-08 09:04:11
+date: 2017-05-08 09:04:11
 post_excerpt: >
   What is Creative Nonfiction? Explore the
   possibilities in student responses to
   works of creative nonfiction, on display
   at Penrose Library.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/exhibit-on-creative-nonfiction/
+url: /blog/exhibit-on-creative-nonfiction/
 published: true
 ---
 What is Creative Nonfiction? Students in Professor Kisha Schlegel’s course English 176: Introduction to Creative Nonfiction have each answered this question in their responses to creative nonfiction texts from Penrose Library. The texts they chose include memoirs and journalism in the form of alternative comics, essays and essay anthologies, life writing, collections of poetry and prose pieces, and literary journalism. Student responses have echoed this range of possibilities within the genre of creative nonfiction, and include poems, recipes, and drawings, together with critical analysis. Stop by the exhibit in the front of Penrose Library to read their analyses and check out the books they read, on display through May 19.

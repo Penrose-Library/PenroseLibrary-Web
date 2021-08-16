@@ -2,14 +2,13 @@
 ID: 861
 title: Fake news and information literacy
 author: Amy Blau
-post_date: 2017-01-18 11:21:38
+date: 2017-01-18 11:21:38
 post_excerpt: >
   Find resources to help evaluate
   information online and avoid "fake
   news."
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/fake-news-and-information-literacy/
+url: /blog/fake-news-and-information-literacy/
 published: true
 instant_articles_submission_id:
   - "403312043346513"

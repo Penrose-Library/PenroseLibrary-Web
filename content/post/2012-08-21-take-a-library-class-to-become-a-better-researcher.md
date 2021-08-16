@@ -4,11 +4,10 @@ title: >
   Take a library class to become a better
   researcher!
 author: link
-post_date: 2012-08-21 23:38:24
+date: 2012-08-21 23:38:24
 post_excerpt: "Do you want to learn how to navigate the Library's databases with ease?"
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/take-a-library-class-to-become-a-better-researcher/
+url: /blog/take-a-library-class-to-become-a-better-researcher/
 published: true
 ---
 Do you want to know how to find the best resources for your papers and assignments? Would you like to navigate the Library’s resources with ease? Take a library class!

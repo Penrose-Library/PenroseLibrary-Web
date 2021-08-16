@@ -2,11 +2,10 @@
 ID: 685
 title: Introducing ARMINDA!
 author: Amy Blau
-post_date: 2016-04-19 14:26:20
+date: 2016-04-19 14:26:20
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/introducing-arminda/
+url: /blog/introducing-arminda/
 published: true
 ---
 <img class="alignnone size-full wp-image-686" src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2016/04/ARMINDA.png" alt="ARMINDA" width="736" height="183" />In the summer of 2015, Penrose Library joined a network of hundreds of academic institutions who use the Digital Commons software service to host their institutional repository. Institutional repositories typically host scholarly and creative material produced by faculty, students, and staff of an institution, as well as other publications and digital archival collections created there. Whitman’s Institutional Repository is named ARMINDA in honor of Arminda Fix (Whitman College class of 1899), the first professional librarian at Whitman College. The “backronym” stands for Accessible Research Materials in Digital Archives.

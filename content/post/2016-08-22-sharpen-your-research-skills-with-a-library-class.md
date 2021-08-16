@@ -4,11 +4,10 @@ title: >
   Sharpen your research skills with a
   library class!
 author: Amy Blau
-post_date: 2016-08-22 16:27:52
+date: 2016-08-22 16:27:52
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/sharpen-your-research-skills-with-a-library-class/
+url: /blog/sharpen-your-research-skills-with-a-library-class/
 published: true
 instant_articles_submission_id:
   - "1606349142996081"

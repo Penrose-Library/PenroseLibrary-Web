@@ -4,10 +4,9 @@ title: Sexual Assault Awareness Month Display
 author: Julie Carter
 post_excerpt: 'Library materials on display this month call attention to Sexual Assault Awareness Month. Please note: these materials may be re-traumatizing for some people.'
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/sexual-assault-awareness-month-display/
+url: /blog/sexual-assault-awareness-month-display/
 published: true
-post_date: 2019-04-19 16:18:25
+date: 2019-04-19 16:18:25
 ---
 <!-- wp:paragraph -->
 <p>April is Sexual Assault Awareness Month, a campaign to raise public awareness about sexual violence and educate communities on how to prevent it. On the books stacks by the library entrance you can find a range of materials relating to this topic. Please note: these materials may be re-traumatizing for some people.</p>

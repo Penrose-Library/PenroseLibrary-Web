@@ -2,11 +2,10 @@
 ID: 728
 title: Talk Like a Pirate Day 2016
 author: Amy Blau
-post_date: 2016-09-19 11:32:13
+date: 2016-09-19 11:32:13
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/talk-like-a-pirate-day-2016/
+url: /blog/talk-like-a-pirate-day-2016/
 published: true
 instant_articles_submission_id:
   - "546822855520890"

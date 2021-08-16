@@ -4,11 +4,10 @@ title: >
   ILL and Summit ordering at the end of
   the semester
 author: Amy Blau
-post_date: 2015-12-02 15:45:28
+date: 2015-12-02 15:45:28
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/ill-and-summit-ordering-at-the-end-of-the-semester/
+url: /blog/ill-and-summit-ordering-at-the-end-of-the-semester/
 published: true
 ---
 As the end of the semester approaches, bringing due dates for papers and projects, Penrose Library staff want to help you find and access sources that you need for your research. Please be aware of some general policies and specific end-of-semester deadlines.

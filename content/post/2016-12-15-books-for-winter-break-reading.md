@@ -2,15 +2,14 @@
 ID: 831
 title: Books for winter break reading!
 author: Amy Blau
-post_date: 2016-12-15 16:53:48
+date: 2016-12-15 16:53:48
 post_excerpt: >
   If all of the snow and wintry weather
   make you want to curl up with a good
   book, Penrose Library staff have some
   recommendations.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/books-for-winter-break-reading/
+url: /blog/books-for-winter-break-reading/
 published: true
 instant_articles_submission_id:
   - "262502267499503"

@@ -4,10 +4,9 @@ title: Anti-Racist Reading List
 author: Emily Pearson
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/anti-racist-reading-list/
+url: /blog/anti-racist-reading-list/
 published: true
-post_date: 2020-06-04 20:34:28
+date: 2020-06-04 20:34:28
 ---
 <!-- wp:paragraph -->
 <p>

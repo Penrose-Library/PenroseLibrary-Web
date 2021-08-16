@@ -2,7 +2,7 @@
 ID: 908
 title: Richard Bogle and America Waldo Bogle
 author: Amy Blau
-post_date: 2017-02-21 14:24:36
+date: 2017-02-21 14:24:36
 post_excerpt: >
   Richard Bogle was the first black
   businessman in Walla Walla; he owned a
@@ -14,8 +14,7 @@ post_excerpt: >
   until their deaths, hers in 1903, his in
   1904.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/richard-bogle-and-america-waldo-bogle/
+url: /blog/richard-bogle-and-america-waldo-bogle/
 published: true
 instant_articles_submission_id:
   - "2857698924255510"

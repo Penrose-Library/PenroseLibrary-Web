@@ -2,13 +2,12 @@
 ID: 312
 title: Welcome to Sherlock!
 author: Amy Blau
-post_date: 2015-01-26 16:08:33
+date: 2015-01-26 16:08:33
 post_excerpt: >
   Penrose Library switched to its new
   catalog system, Sherlock, on January 8.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/welcome-to-sherlock/
+url: /blog/welcome-to-sherlock/
 published: true
 hometitle:
   - Welcome to Sherlock!

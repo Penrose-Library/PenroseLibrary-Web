@@ -2,13 +2,12 @@
 ID: 846
 title: 'Spring 2017 &#8212; Welcome Back!'
 author: Amy Blau
-post_date: 2017-01-13 09:28:31
+date: 2017-01-13 09:28:31
 post_excerpt: >
   Welcome back to campus! Enjoy the snow,
   and visit the library!
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/spring-2017-welcome-back/
+url: /blog/spring-2017-welcome-back/
 published: true
 instant_articles_submission_id:
   - "694531084062432"

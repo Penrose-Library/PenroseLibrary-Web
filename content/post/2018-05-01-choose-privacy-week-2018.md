@@ -4,10 +4,9 @@ title: Choose Privacy Week 2018
 author: Emily Pearson
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/choose-privacy-week-2018/
+url: /blog/choose-privacy-week-2018/
 published: true
-post_date: 2018-05-01 16:20:40
+date: 2018-05-01 16:20:40
 ---
 May 1-7 marks <a href="https://chooseprivacyweek.org/">Choose Privacy Week</a> annually, but this year it might feel more pressing than in years past, though the privacy issues are not new. The week was started by the American Library Association (ALA). As spaces devoted to providing access to information, libraries have been concerned with privacy since becoming a part of public life in the 19th century, committed to protecting what our patrons access and providing vetted information on privacy to our patrons.
 

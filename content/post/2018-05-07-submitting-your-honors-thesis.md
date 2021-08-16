@@ -4,10 +4,9 @@ title: Submitting Your Honors Thesis
 author: Emily Pearson
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/submitting-your-honors-thesis/
+url: /blog/submitting-your-honors-thesis/
 published: true
-post_date: 2018-05-07 15:30:49
+date: 2018-05-07 15:30:49
 ---
 As we reach the finishing line for honors theses, the library wants to remind you of a few tips and tricks to ensure an easy submission:
 

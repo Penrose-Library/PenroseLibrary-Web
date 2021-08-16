@@ -4,10 +4,9 @@ title: Senior thesis help
 author: Emily Pearson
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/senior-thesis-help/
+url: /blog/senior-thesis-help/
 published: true
-post_date: 2019-10-31 10:54:42
+date: 2019-10-31 10:54:42
 ---
 <!-- wp:paragraph -->
 <p>Are you writing a thesis?  Librarians are here to help! Want to make a research plan? Unsure about the difference between an annotated bibliography and a literature review? Feel like you're having a hard time figuring out sources? Need a citation management tool? We can help with all of these, and more! </p>

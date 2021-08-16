@@ -4,10 +4,9 @@ title: eBooks on any device!
 author: Julie Carter
 post_excerpt: "Whitman faculty, students, and staff may access 100,000 Digital Rights Management (DRM) free resources on any device that supports PDFs including e-Readers or mobile devices via Penrose Library's new subscriptions to Wiley Online Library, Oxford Scholarship Online and Taylor &amp; Francis eBooks."
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/ebooks-on-any-device/
+url: /blog/ebooks-on-any-device/
 published: true
-post_date: 2017-10-03 10:30:13
+date: 2017-10-03 10:30:13
 ---
 Penrose Library has recently subscribed to three new collections of online scholarly resources: <a href="https://www.ezproxy.whitman.edu/login?url=http://onlinelibrary.wiley.com/">Wiley Online Library</a>, <a href="https://www.ezproxy.whitman.edu/login?url=http://www.oxfordscholarship.com/">Oxford Scholarship Online</a> and <a href="https://www.ezproxy.whitman.edu/login?url=https://www.tandfebooks.com">Taylor &amp; Francis eBooks</a>. Whitman faculty, students, and staff may access the 100,000 Digital Rights Management (DRM) free resources on any device that supports PDFs including e-Readers or mobile devices. Materials may be printed without page restrictions (copyright law still applies). All titles in these three platforms have an unlimited number of simultaneous users and are available for use in a class reading list or course reserves.
 

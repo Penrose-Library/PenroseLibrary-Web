@@ -4,10 +4,9 @@ title: Penrose Library Winter Break Hours
 author: Julie Carter
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/penrose-library-winter-break-hours/
+url: /blog/penrose-library-winter-break-hours/
 published: true
-post_date: 2019-12-17 15:30:10
+date: 2019-12-17 15:30:10
 ---
 Penrose Library hours between Fall semester 2019 and Spring semester 2020 will be as follows:
 

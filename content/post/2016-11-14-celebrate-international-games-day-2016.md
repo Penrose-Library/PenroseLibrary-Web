@@ -2,7 +2,7 @@
 ID: 799
 title: Celebrate International Games Day 2016
 author: Amy Blau
-post_date: 2016-11-14 15:30:26
+date: 2016-11-14 15:30:26
 post_excerpt: >
   Games are an important part of cultural
   heritage, and have served in that role
@@ -11,8 +11,7 @@ post_excerpt: >
   but rarely do we think of them as raw
   material for study and analysis.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/celebrate-international-games-day-2016/
+url: /blog/celebrate-international-games-day-2016/
 published: true
 instant_articles_submission_id:
   - "1891133341116961"

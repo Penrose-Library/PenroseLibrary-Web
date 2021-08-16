@@ -8,10 +8,9 @@ post_excerpt: >
   week near the circulation desk.
   Celebrate your freedom to READ!
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/banned-books-week-2018/
+url: /blog/banned-books-week-2018/
 published: true
-post_date: 2018-09-24 15:41:08
+date: 2018-09-24 15:41:08
 ---
 [caption id="attachment_1196" align="alignleft" width="300"]<img class="size-medium wp-image-1196" src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2018/09/bbwblogpic-300x174.jpg" alt="" width="300" height="174" /> Penrose display of selected challenged materials.[/caption]
 

@@ -4,10 +4,9 @@ title: 'Whitman Coronavirus Stories: Documenting Our Lives during the COVID-19 P
 author: Ben Murphy
 post_excerpt: "The Whitman College and Northwest Archives is creating a digital archive of the Whitman community's experiences during the COVID-19 pandemic. "
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/whitman-coronavirus-stories/
+url: /blog/whitman-coronavirus-stories/
 published: true
-post_date: 2020-04-03 15:22:51
+date: 2020-04-03 15:22:51
 ---
 <!-- wp:paragraph -->
 <p>In collaboration with students in Library 160: Documentation and Representation in Archives, the Whitman College and Northwest Archives is creating a digital archive of the Whitman community's experiences during the COVID-19 pandemic. As we move classes online, work, teach and learn from home, and practice social distancing, our normal experiences and routines have been displaced and disrupted. We hope to collect the stories, experiences, and evidence of our changed lives, both the painful and difficult, and the unexpectedly beautiful and hopeful.&nbsp;</p>

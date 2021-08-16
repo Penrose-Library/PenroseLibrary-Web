@@ -7,10 +7,9 @@ post_excerpt: >
   in conserving the Confluence Project!
   Read more in Whitman Magazine.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/the-confluence-project/
+url: /blog/the-confluence-project/
 published: true
-post_date: 2019-05-30 11:02:40
+date: 2019-05-30 11:02:40
 ---
 <!-- wp:paragraph -->
 <p>Find out about Penrose Library’s role in conserving the Confluence Project! This important collaboration has been featured in the latest Whitman magazine. Read more <a href="https://www.whitman.edu/newsroom/whitman-magazine/whitman-magazine-spring-2019/feature-stories-spring-2019/whitman-archivists-and-art-historians-conserve-the-confluence-project">here</a>. </p>

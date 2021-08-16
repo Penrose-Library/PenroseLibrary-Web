@@ -2,14 +2,13 @@
 ID: 916
 title: 'How do I &#8230; find the Library FAQ?'
 author: Amy Blau
-post_date: 2017-03-06 10:17:56
+date: 2017-03-06 10:17:56
 post_excerpt: >
   Find answers to your questions about
   Penrose Library resources, policies, and
   hours.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/how-do-i-find-the-library-faq/
+url: /blog/how-do-i-find-the-library-faq/
 published: true
 instant_articles_submission_id:
   - "184960158664935"

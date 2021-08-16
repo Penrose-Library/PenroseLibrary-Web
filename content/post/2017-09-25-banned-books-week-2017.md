@@ -4,10 +4,9 @@ title: 'Banned Books Week: Celebrating the Freedom to Read, Sept. 24 &#8211; 30.
 author: Julie Carter
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/banned-books-week-2017/
+url: /blog/banned-books-week-2017/
 published: true
-post_date: 2017-09-25 14:18:25
+date: 2017-09-25 14:18:25
 ---
 <span style="font-weight: 400"><img class="size-medium wp-image-984 alignleft" src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2017/09/BannedBooksWeekBanner-300x125.png" alt="" width="300" height="125" />“Encourages children to break dishes so they won’t have to dry them.”  “Is a filthy, filthy book.” Contains “anti-American attitudes, offensive language, political bias, and disturbing fiction</span><span style="font-weight: 400">.”  </span>
 

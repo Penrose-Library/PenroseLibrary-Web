@@ -9,10 +9,9 @@ post_excerpt: >
   Conference research with the Whitman
   Community and beyond!
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/whitman-undergraduate-conference-2018/
+url: /blog/whitman-undergraduate-conference-2018/
 published: true
-post_date: 2018-03-30 16:20:21
+date: 2018-03-30 16:20:21
 ---
 The 20th Annual Whitman Undergraduate Conference will take place on April 10, 2018. Penrose Library and the Whitman College and Northwest Archives want to help students share their Undergraduate Conference research with the Whitman Community and beyond!
 

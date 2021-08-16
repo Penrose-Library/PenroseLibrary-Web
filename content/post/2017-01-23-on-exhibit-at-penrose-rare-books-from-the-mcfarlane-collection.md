@@ -2,7 +2,7 @@
 ID: 874
 title: 'On exhibit at Penrose: rare books from the McFarlane Collection'
 author: Amy Blau
-post_date: 2017-01-23 10:20:11
+date: 2017-01-23 10:20:11
 post_excerpt: >
   Currently on display on the main floor
   of Penrose Library is a selection of
@@ -12,8 +12,7 @@ post_excerpt: >
   displaying a selection of atlases,
   geographies and cosmographies.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/on-exhibit-at-penrose-rare-books-from-the-mcfarlane-collection/
+url: /blog/on-exhibit-at-penrose-rare-books-from-the-mcfarlane-collection/
 published: true
 instant_articles_submission_id:
   - "1862847220620048"

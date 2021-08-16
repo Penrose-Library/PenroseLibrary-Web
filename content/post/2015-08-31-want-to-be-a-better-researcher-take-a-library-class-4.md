@@ -4,11 +4,10 @@ title: >
   Want to be a better researcher? Take a
   library class!
 author: Amy Blau
-post_date: 2015-08-31 11:36:51
+date: 2015-08-31 11:36:51
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/want-to-be-a-better-researcher-take-a-library-class-4/
+url: /blog/want-to-be-a-better-researcher-take-a-library-class-4/
 published: true
 ---
 Do you want to learn how to navigate Penrose Library’s databases with ease? And find the best resources for your papers and projects? Take a library class!

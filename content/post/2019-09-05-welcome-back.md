@@ -7,10 +7,9 @@ post_excerpt: >
   over the summer and we want to keep you
   informed.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/welcome-back/
+url: /blog/welcome-back/
 published: true
-post_date: 2019-09-05 16:12:41
+date: 2019-09-05 16:12:41
 ---
 <!-- wp:paragraph -->
 <p>Penrose Library made several changes over the summer and we want to keep you informed. You may be wondering:</p>

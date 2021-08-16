@@ -2,11 +2,10 @@
 ID: 507
 title: Welcome back! Spring Semester 2016
 author: Amy Blau
-post_date: 2016-01-15 17:03:00
+date: 2016-01-15 17:03:00
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/welcome-back-spring-semester-2016/
+url: /blog/welcome-back-spring-semester-2016/
 published: true
 ---
 <a href="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2016/01/nypl.digitalcollections.510d47db-5a32-a3d9-e040-e00a18064a99.001.w.jpg" rel="attachment wp-att-509"><img class="alignnone size-medium wp-image-509" src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2016/01/nypl.digitalcollections.510d47db-5a32-a3d9-e040-e00a18064a99.001.w-246x300.jpg" alt="nypl.digitalcollections.510d47db-5a32-a3d9-e040-e00a18064a99.001.w" width="246" height="300" /></a>Penrose Library staff would like to remind everyone about our hours going into the Spring 2016 semester.

@@ -2,11 +2,10 @@
 ID: 105
 title: New e-Resources in the Library
 author: link
-post_date: 2011-02-04 16:44:02
+date: 2011-02-04 16:44:02
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/new-e-resources-in-the-library/
+url: /blog/new-e-resources-in-the-library/
 published: true
 ---
 Just in time for the start of another semester, Penrose has added some great new e-Resources to our collection. You can find all of these in our<a href="http://www.whitman.edu/penrose/sources/index.cfm"> A-Z List of e-Resources</a>.

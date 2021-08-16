@@ -4,10 +4,9 @@ title: Public Domain in 2019
 author: Emily Pearson
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/public-domain-in-2019/
+url: /blog/public-domain-in-2019/
 published: true
-post_date: 2019-01-11 14:36:34
+date: 2019-01-11 14:36:34
 ---
 (Cover art: Hopper, E. (1923). <i>The Locomotive</i>. Retrieved from<a href="https://www.nga.gov/collection/art-object-page.137001.html"> https://www.nga.gov/collection/art-object-page.137001.html</a>)
 

@@ -2,11 +2,10 @@
 ID: 718
 title: 'Summer Read 2016: The Empathy Exams by Leslie Jamison'
 author: Amy Blau
-post_date: 2016-09-06 11:55:48
+date: 2016-09-06 11:55:48
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/summer-read-2016-the-empathy-exams-by-leslie-jamison/
+url: /blog/summer-read-2016-the-empathy-exams-by-leslie-jamison/
 published: true
 instant_articles_submission_id:
   - "300520237006739"

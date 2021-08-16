@@ -4,10 +4,9 @@ title: Library Hours during Winter Break
 author: Amy Blau
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/library-hours-during-winter-break/
+url: /blog/library-hours-during-winter-break/
 published: true
-post_date: 2017-12-15 10:08:47
+date: 2017-12-15 10:08:47
 ---
 Penrose Library hours between Fall semester 2017 and Spring semester 2018 will be as follows:
 

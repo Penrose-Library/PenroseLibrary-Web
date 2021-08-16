@@ -6,10 +6,9 @@ post_excerpt: |
   Celebrate National Library Week with the theme of “Libraries = Strong Communities”
   to recognize the role libraries play in engaging and empowering the people they serve.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/libraries-strengthen-their-communities-celebrate-national-library-week-april-7-13/
+url: /blog/libraries-strengthen-their-communities-celebrate-national-library-week-april-7-13/
 published: true
-post_date: 2019-04-08 11:39:07
+date: 2019-04-08 11:39:07
 ---
 <p>[caption id="attachment_1287" align="alignright" width="300"]<img class="size-medium wp-image-1287" src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2019/04/nlw19-social-media-5-instagram-share-300x300.png" alt="" width="300" height="300"> Libraries=Strong Communities[/caption]</p>
 

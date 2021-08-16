@@ -2,11 +2,10 @@
 ID: 407
 title: 'A Look Back:  A Brief History of Whitman College Presidential Inaugurations'
 author: Amy Blau
-post_date: 2015-09-11 13:51:53
+date: 2015-09-11 13:51:53
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/a-look-back-a-brief-history-of-whitman-college-presidential-inaugurations/
+url: /blog/a-look-back-a-brief-history-of-whitman-college-presidential-inaugurations/
 published: true
 ---
 Research and post by Bill Huntington, Whitman College and Northwest Archives

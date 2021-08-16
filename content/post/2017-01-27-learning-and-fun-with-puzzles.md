@@ -2,14 +2,13 @@
 ID: 898
 title: Learning and Fun with Puzzles
 author: Amy Blau
-post_date: 2017-01-27 09:27:21
+date: 2017-01-27 09:27:21
 post_excerpt: >
   Exercise your brain with puzzles of all
   kinds for National Puzzle Day, January
   29.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/learning-and-fun-with-puzzles/
+url: /blog/learning-and-fun-with-puzzles/
 published: true
 instant_articles_submission_id:
   - "1445821088770402"

@@ -2,11 +2,10 @@
 ID: 431
 title: Seeing Stories @ Penrose Library
 author: Amy Blau
-post_date: 2015-10-06 09:36:08
+date: 2015-10-06 09:36:08
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/seeing-stories-penrose-library/
+url: /blog/seeing-stories-penrose-library/
 published: true
 ---
 Comics. Cartoons. Manga. Bande dessinée. Graphic novels. <i>Seeing Stories: Traversing the Graphic Narrative </i>is a semester-long exploration of graphic narrative expression currently on display at the Sheehan Gallery. In conjunction with this exhibit, Penrose Library is providing opportunities for further investigation of these literary art forms.

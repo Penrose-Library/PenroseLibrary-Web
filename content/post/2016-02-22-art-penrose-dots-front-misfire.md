@@ -2,11 +2,10 @@
 ID: 556
 title: 'Art @ Penrose: Dots Front Misfire'
 author: Amy Blau
-post_date: 2016-02-22 14:32:17
+date: 2016-02-22 14:32:17
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/art-penrose-dots-front-misfire/
+url: /blog/art-penrose-dots-front-misfire/
 published: true
 ---
 <a href="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2016/02/dotsfrontmisfire.jpg" rel="attachment wp-att-557"><img class="alignnone wp-image-557 size-full" src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2016/02/dotsfrontmisfire.jpg" alt="dotsfrontmisfire" width="542" height="432" /></a>This is the second post in an occasional series on works of art on display in Penrose Library.

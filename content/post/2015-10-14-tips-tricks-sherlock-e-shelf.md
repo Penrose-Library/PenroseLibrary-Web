@@ -2,11 +2,10 @@
 ID: 440
 title: 'Tips &amp; Tricks: Sherlock e-Shelf'
 author: Amy Blau
-post_date: 2015-10-14 10:37:38
+date: 2015-10-14 10:37:38
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/tips-tricks-sherlock-e-shelf/
+url: /blog/tips-tricks-sherlock-e-shelf/
 published: true
 ---
 You may already know that you can see what you have checked out from the Library and when it is due by clicking on the “My Account” link in the top right corner of the web page when you are signed in to Sherlock. You may not already know what the<b> e-Shelf </b>link between your name and “My Account” can do.

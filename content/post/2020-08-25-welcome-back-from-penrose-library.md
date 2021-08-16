@@ -4,10 +4,9 @@ title: Welcome back from Penrose Library!
 author: Emily Pearson
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/welcome-back-from-penrose-library/
+url: /blog/welcome-back-from-penrose-library/
 published: true
-post_date: 2020-08-25 10:45:48
+date: 2020-08-25 10:45:48
 ---
 <!-- wp:paragraph {"fontSize":"medium"} -->
 <p class="has-medium-font-size"><strong>Change in Operations</strong></p>

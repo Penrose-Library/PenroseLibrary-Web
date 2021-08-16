@@ -2,11 +2,10 @@
 ID: 546
 title: The Learning Commons Reopens
 author: Amy Blau
-post_date: 2016-02-08 11:21:01
+date: 2016-02-08 11:21:01
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/the-learning-commons-reopens/
+url: /blog/the-learning-commons-reopens/
 published: true
 ---
 <h5><a href="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2016/02/chalk-sign-2.jpg" rel="attachment wp-att-547"><img class="alignnone wp-image-547 size-medium" src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2016/02/chalk-sign-2-214x300.jpg" alt="chalk sign-2" width="214" height="300" /></a>The Learning Commons -- Drop-In Peer Tutoring at Penrose Library</h5>

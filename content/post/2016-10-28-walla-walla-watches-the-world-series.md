@@ -4,11 +4,10 @@ title: >
   Walla Walla “Watches” the World
   Series
 author: Amy Blau
-post_date: 2016-10-28 10:22:22
+date: 2016-10-28 10:22:22
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/walla-walla-watches-the-world-series/
+url: /blog/walla-walla-watches-the-world-series/
 published: true
 instant_articles_submission_id:
   - "706738886139903"

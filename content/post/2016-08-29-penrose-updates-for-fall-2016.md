@@ -2,11 +2,10 @@
 ID: 708
 title: Penrose Updates for Fall 2016
 author: Amy Blau
-post_date: 2016-08-29 11:50:07
+date: 2016-08-29 11:50:07
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/penrose-updates-for-fall-2016/
+url: /blog/penrose-updates-for-fall-2016/
 published: true
 instant_articles_submission_id:
   - "1631482007143401"

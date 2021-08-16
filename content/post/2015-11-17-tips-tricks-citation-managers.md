@@ -2,11 +2,10 @@
 ID: 465
 title: 'Tips &amp; Tricks: Citation Managers'
 author: Amy Blau
-post_date: 2015-11-17 09:03:18
+date: 2015-11-17 09:03:18
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/tips-tricks-citation-managers/
+url: /blog/tips-tricks-citation-managers/
 published: true
 ---
 <span style="font-weight: 400;">Do you need help managing mountains of research sources and wrangling them into bibliographies? If so, or if you need help keeping track of your research, you should find yourself a citation manager. Luckily, Penrose has a few recommendations. </span>

@@ -2,11 +2,10 @@
 ID: 780
 title: Halloweens Past Look to the Future
 author: Amy Blau
-post_date: 2016-10-31 13:41:26
+date: 2016-10-31 13:41:26
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/halloweens-past-look-to-the-future/
+url: /blog/halloweens-past-look-to-the-future/
 published: true
 instant_articles_submission_id:
   - "362604777464364"

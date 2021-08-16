@@ -2,11 +2,10 @@
 ID: 460
 title: 'Art @ Penrose: Bridging Buildings II'
 author: Amy Blau
-post_date: 2015-11-03 14:14:45
+date: 2015-11-03 14:14:45
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/art-penrose-bridging-buildings-ii/
+url: /blog/art-penrose-bridging-buildings-ii/
 published: true
 ---
 This is the first post in an occasional series on works of art on display in Penrose Library.

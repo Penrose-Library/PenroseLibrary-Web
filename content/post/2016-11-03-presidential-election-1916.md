@@ -2,14 +2,13 @@
 ID: 786
 title: Presidential election 1916
 author: Amy Blau
-post_date: 2016-11-03 10:16:29
+date: 2016-11-03 10:16:29
 post_excerpt: >
   Read about the analysis of gender in
   voting trends in the presidential
   election of 1916.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/presidential-election-1916/
+url: /blog/presidential-election-1916/
 published: true
 ---
 On October 11, the Fivethirtyeight blog <a href="http://fivethirtyeight.com/features/election-update-women-are-defeating-donald-trump/">predicted</a> starkly different outcomes of the 2016 US presidential election if only men voted versus if only women voted. This sparked many reactions, including the trending of the hashtag #repealthe19th on Twitter. It’s worth noting, though, that in fact some women in the United States had the right to vote before the 19th amendment to the Constitution became federal law on August 26, 1920. The presidential election of 1916 is an interesting case for the analysis of gender in voting trends. A 1916 article in the <i>Ladies’ Home Journal </i>presented the potential significance of the women’s vote:

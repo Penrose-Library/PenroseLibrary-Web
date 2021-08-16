@@ -4,10 +4,9 @@ title: Halloween in the Archives
 author: bronsodm
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/halloween-in-the-archives/
+url: /blog/halloween-in-the-archives/
 published: true
-post_date: 2017-10-30 15:34:32
+date: 2017-10-30 15:34:32
 ---
 [caption id="attachment_1034" align="aligncenter" width="316"]<img class="wp-image-1034" src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2017/10/Pioneer_1986Oct29-300x95.jpg" alt="" width="316" height="100" /> Whitman College Pioneer, October 29, 1987[/caption]
 <p style="text-align: center">In the Whitman College and Northwest Archives, you can see how Whitman students have been celebrating Halloween throughout the decades.</p>

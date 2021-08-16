@@ -2,11 +2,10 @@
 ID: 795
 title: Library classes for Spring 2016
 author: Amy Blau
-post_date: 2016-11-15 14:16:07
+date: 2016-11-15 14:16:07
 post_excerpt: "Do you want to learn how to navigate the Library's resources with ease and find the best sources for your papers and assignments? Are you interested in learning how a scrapbook, a map, or a lock of hair can become a primary source for your research? Take a library class this spring!"
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/library-classes-for-spring-2016/
+url: /blog/library-classes-for-spring-2016/
 published: true
 instant_articles_submission_id:
   - "261447024273566"

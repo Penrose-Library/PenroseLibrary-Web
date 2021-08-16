@@ -2,11 +2,10 @@
 ID: 763
 title: 'Open Textbooks: Math'
 author: Amy Blau
-post_date: 2016-10-26 10:33:41
+date: 2016-10-26 10:33:41
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/open-textbooks-math/
+url: /blog/open-textbooks-math/
 published: true
 instant_articles_submission_id:
   - "100925343718589"

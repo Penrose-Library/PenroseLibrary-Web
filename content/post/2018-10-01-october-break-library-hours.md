@@ -4,10 +4,9 @@ title: October Break Library Hours
 author: Julie Carter
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/october-break-library-hours/
+url: /blog/october-break-library-hours/
 published: true
-post_date: 2018-10-01 16:37:58
+date: 2018-10-01 16:37:58
 ---
 Penrose Library will be open the following hours to the Whitman community during October break:
 

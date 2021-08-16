@@ -2,11 +2,10 @@
 ID: 501
 title: Finals week message
 author: Amy Blau
-post_date: 2015-12-11 08:50:05
+date: 2015-12-11 08:50:05
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/finals-week-message/
+url: /blog/finals-week-message/
 published: true
 ---
 Three out of five Whitties interviewed in this video prefer to study in Penrose Library. We're always glad to see you here!

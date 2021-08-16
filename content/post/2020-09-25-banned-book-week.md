@@ -4,10 +4,9 @@ title: Banned Book Week
 author: Kun Lin
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/banned-book-week/
+url: /blog/banned-book-week/
 published: true
-post_date: 2020-09-25 14:13:59
+date: 2020-09-25 14:13:59
 ---
 <!-- wp:image {"align":"center","id":1461,"sizeSlug":"large"} -->
 <div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2020/09/BBW-2020-logo-horiz_500x160_0.png" alt="Banned Book Week of 2020 Banner" class="wp-image-1461"/></figure></div>

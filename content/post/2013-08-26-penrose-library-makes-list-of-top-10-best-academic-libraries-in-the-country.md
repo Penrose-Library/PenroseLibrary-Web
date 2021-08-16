@@ -4,11 +4,10 @@ title: >
   Penrose Library makes list of Top 10
   Best Academic Libraries in the Country!
 author: Dalia Corkrum
-post_date: 2013-08-26 18:10:43
+date: 2013-08-26 18:10:43
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/penrose-library-makes-list-of-top-10-best-academic-libraries-in-the-country/
+url: /blog/penrose-library-makes-list-of-top-10-best-academic-libraries-in-the-country/
 published: true
 ---
  <div style="width:100%;float:left">

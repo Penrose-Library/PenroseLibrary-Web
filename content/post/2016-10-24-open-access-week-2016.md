@@ -2,11 +2,10 @@
 ID: 754
 title: Open Access Week 2016
 author: Amy Blau
-post_date: 2016-10-24 14:17:45
+date: 2016-10-24 14:17:45
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/open-access-week-2016/
+url: /blog/open-access-week-2016/
 published: true
 instant_articles_submission_id:
   - "178910869231472"

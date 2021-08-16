@@ -9,10 +9,9 @@ post_excerpt: >
   monographs at noon in the CTL on October
   17.
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/lever-press-presentation-on-october-17/
+url: /blog/lever-press-presentation-on-october-17/
 published: true
-post_date: 2017-10-13 10:30:25
+date: 2017-10-13 10:30:25
 ---
 Penrose Library and the Center for Teaching &amp; Learning are pleased to welcome Beth Bouloukos, the Senior Acquisitions Editor at <a href="https://www.leverpress.org/">Lever Press</a>, to campus on <b>Tuesday, October 17th </b>for a talk in the CTL at noon. Most recently at the SUNY Press, Beth joined the Lever Team in August. While at SUNY her acquisition focus was education, gender and sexuality studies, cultural studies, and Latin American/Iberian/Latinx studies.
 

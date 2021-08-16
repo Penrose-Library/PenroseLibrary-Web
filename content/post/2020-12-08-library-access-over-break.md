@@ -4,10 +4,9 @@ title: Library access over break
 author: Emily Pearson
 post_excerpt: ""
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/library-access-over-break/
+url: /blog/library-access-over-break/
 published: true
-post_date: 2020-12-08 09:43:50
+date: 2020-12-08 09:43:50
 ---
 <!-- wp:paragraph -->
 <p>The library building <strong>will remain closed </strong>over break. </p>

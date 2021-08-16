@@ -8,10 +8,9 @@ post_excerpt: |
   May 15-16: 9:00 am - 10:00 pm
   May 17-19: 9:00 am - 5:00 pm
 layout: post
-permalink: >
-  https://library.whitman.edu/blog/end-of-semester-hours/
+url: /blog/end-of-semester-hours/
 published: true
-post_date: 2019-05-15 08:35:51
+date: 2019-05-15 08:35:51
 ---
 <!-- wp:paragraph -->
 <p>Penrose Library will be open: </p>
