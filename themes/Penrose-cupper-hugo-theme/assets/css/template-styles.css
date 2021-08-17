@@ -580,8 +580,8 @@ caption {
 /* Date */
 .date {
     margin-top: 0;
-    font-size: 0.85rem;
-    margin-bottom: 0.85rem;
+    font-size: 0.75rem;
+    margin-bottom: 1rem;
 }
 
 /* Notes and warnings */
