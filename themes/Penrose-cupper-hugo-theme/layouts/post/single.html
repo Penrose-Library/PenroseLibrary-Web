@@ -17,7 +17,7 @@
       {{ with .Lastmod }}
       {{ if gt . $publishDate }}
       <br>
-      <strong>{{ T "last_updated" }} </strong>{{ .Format $dateFormat }}
+     <!--- <strong>{{ T "last_updated" }} </strong>{{ .Format $dateFormat }} -->
       {{ end }}
       {{ end }}
     </div>
