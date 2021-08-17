@@ -8,8 +8,8 @@ date: 2021-06-21T21:58:53.672Z
 <label for="a-z" style="width:100%;">Search for database</label>
 <input id="a-z_term" name="q" type="text" value="" placeholder=" " class="form-control no-up-margin" style="width:15rem; background: #fff;float:left;">
 <button id="azbutton" class="btn no-up-margin" type="submit" value="Search">Search</button>
-
-<select id="s-lg-sel-subjects" name="subjects" class="form-control" aria-label="Select a Subject Area to narrow down list of databases" data-placeholder="All Subjects" onchange="this.form.submit()">
+"
+<select id="s-lg-sel-subjects" name="subjects" style="max-width:20rem;margin-top:1rem" class="form-control" aria-label="Select a Subject Area to narrow down list of databases" data-placeholder="All Subjects" onchange="this.form.submit()">
 <option value selected>All Subjects</option>
 <option value="17555">Anthropology </option>
 <option value="17587">Archives </option>
