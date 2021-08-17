@@ -6,7 +6,7 @@ title: "About the Library"
 ## Penrose Library: An Educational Partner
 Penrose Library fosters the intellectual engagement and scholarly practice of the Whitman community. We curate and provide access to diverse and unique collections, and teach the skills and concepts needed to navigate complex information environments at Whitman and beyond.
 
-Penrose Library has been consistently highly ranked by the Princeton Review. The library’s digital environment, with more than 85,000 unique journal titles, 210 databases, 376,000 eBooks and 45,000 streaming videos, complements its more than 500,000-volume print collection. Penrose Library has generous open hours, often available 24 hours a day to the Whitman Community, and the facility itself was built to facilitate inquiry, study, and learning. Whitman College and Northwest Archives include 4,800 linear feet of archival and manuscript material and over 5,000 rare books. And Whitman College is a member of the Orbis Cascade Alliance, which combines the assets of academic libraries throughout the Northwest to provide free access and courier delivery of millions of volumes.
+Penrose Library has been consistently highly ranked by the Princeton Review. The library’s digital environment, with more than 85,000 unique journal titles, 210 databases, 376,000 eBooks and 45,000 streaming videos, complements its more than 500,000-volume print collection. Penrose Library has generous open hours and the facility itself was built to facilitate inquiry, study, and learning. Whitman College and Northwest Archives include 4,800 linear feet of archival and manuscript material and over 5,000 rare books. And Whitman College is a member of the Orbis Cascade Alliance, which combines the assets of academic libraries throughout the Northwest to provide free access and courier delivery of millions of volumes.
 
 ## Penrose Mission and Values Statement
 
@@ -183,7 +183,7 @@ Note: the Maxey Museum has priority for the use of the large 3rd floor case.
 
 As a college library, we cultivate a collection of resources and develop displays that are appropriate for the curriculum at Whitman College and an adult audience.
 
-The Library subscribes to the American Library Association’s Library Bill of Rights as it applies to exhibit spaces, specifically:
+The Library subscribes to the [American Library Association’s Library Bill of Rights](https://www.ala.org/advocacy/intfreedom/librarybill/) as it applies to exhibit spaces, specifically:
 
 - The library should not censor or remove an exhibit because some members of the community may disagree with its content. Those who object to the content of any exhibit held at the library should be able to submit their complaint and/or their own exhibit proposal to be judged according to the policies established by the library.
 - Challenges of an exhibit can only be made by current Whitman students, faculty, and staff. Should a member of the Whitman community wish to make a complaint, the first step is to discuss their concerns with the College Librarian. If the complaint is regarding disagreement of exhibit content the College Librarian may decide to inform the exhibit curator of the complaint and facilitate a discussion between the parties. If the complaint concerns library materials, the library will follow the Materials Challenge Policy.
@@ -204,6 +204,6 @@ Penrose Library
 345 Boyer Avenue
 Walla Walla, WA 99362
 
-Penrose Library is located at the heart of the Whitman College campus. On the campus map below, we are building 40, to the left of Ankeny Field. Parking is available, both on street and in the lot off Park Street.
+Penrose Library is located at the heart of the Whitman College campus. On the campus map below, we are to the left of Ankeny Field. Parking is available, both on street and in the lot off Park Street.
 
 [Campus Map](https://www.whitman.edu/map)
