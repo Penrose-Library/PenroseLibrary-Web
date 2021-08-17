@@ -581,6 +581,7 @@ caption {
 .date {
     margin-top: 0;
     font-size: 0.85rem;
+    margin-bottom: 0.85rem;
 }
 
 /* Notes and warnings */
