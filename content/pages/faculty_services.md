@@ -120,26 +120,40 @@ To guarantee that your materials are available for the beginning of the semester
 
 ### What can be put on reserve?
 
-- **Library books, videos, CDs, and DVDs** Please gather together the library materials you would like on reserve for your courses. Reference books and periodicals do no circulate outside the library and are not normally placed on reserve.
+- **Library books, videos, CDs, and DVDs** 
 
-- **Streaming medias** Portions of or entire media can be put on course reserves if certain conditions are met. Please refer to our [video streaming course reserve
+Please gather together the library materials you would like on reserve for your courses. Reference books and periodicals do no circulate outside the library and are not normally placed on reserve.
+
+- **Streaming medias** 
+
+Portions of or entire media can be put on course reserves if certain conditions are met. Please refer to our [video streaming course reserve
 policy](https://works.whitman.edu/streamingmediapolicy) for details. [Video Streaming course reserves request form](https://works.whitman.edu/streamingmediaform) can be filled out online for request processing.
 
-- **Books not owned by the library** The Library will attempt to purchase books needed for reserve use. You may request them by contacting the [Acquisitions Department](mailto:stelkre@whitman.edu). Please be sure to indicate that the item is for reserve, and provide the course number.
+- **Books not owned by the library** 
 
-- **Personal books, videos, CDs, and DVDs** Personal copies may be placed on reserve if the Library does not own the item. Please mark these with your name. Note: Personal copies must be marked and barcoded for use with our circulation system. The Library cannot assume liability for materials that are worn, torn, mutilated, or stolen.
+The Library will attempt to purchase books needed for reserve use. You may request them by contacting the [Acquisitions Department](mailto:stelkre@whitman.edu). Please be sure to indicate that the item is for reserve, and provide the course number.
 
-- **Photocopies** Faculty are responsible for providing clean, single-sided, unstapled photocopies. Photocopies must be accompanied by a Reserve Request Form and a full bibliographic citation. The Library subscribes to a number of databases that allow durable links to journal and newspaper articles. The Library will link to materials through library databases when possible.
+- **Personal books, videos, CDs, and DVDs** 
 
-- **Required vs. Recommended Reading** Space is limited on reserve shelves, so only those materials that are required reading, viewing, or listening for coursework are put on reserve. Items which are recommended but not required should not be placed on reserve.
+Personal copies may be placed on reserve if the Library does not own the item. Please mark these with your name. Note: Personal copies must be marked and barcoded for use with our circulation system. The Library cannot assume liability for materials that are worn, torn, mutilated, or stolen.
+
+- **Photocopies** 
+
+Faculty are responsible for providing clean, single-sided, unstapled photocopies. Photocopies must be accompanied by a Reserve Request Form and a full bibliographic citation. The Library subscribes to a number of databases that allow durable links to journal and newspaper articles. The Library will link to materials through library databases when possible.
+
+- **Required vs. Recommended Reading** 
+
+Space is limited on reserve shelves, so only those materials that are required reading, viewing, or listening for coursework are put on reserve. Items which are recommended but not required should not be placed on reserve.
 
 - **Summit and ILL materials will not be placed on reserve–no exceptions!**
 
-- **Textbooks** Textbooks will be placed on reserve only when the Bookstore has insufficient copies to meet demand and additional copies are on order.
+- **Textbooks** 
+
+Textbooks will be placed on reserve only when the Bookstore has insufficient copies to meet demand and additional copies are on order.
 
 - **Items may not remain on reserve indefinitely.**
 
-- All items are removed from reserve at the end of each term.
+All items are removed from reserve at the end of each term.
 
 ### View a Reserve List
 
