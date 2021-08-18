@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Hugo 0.86.0" />
-  <link rel="canonical" href="/archives/collection/">
+  <link rel="canonical" href="/archives/explore-collections/">
 
   
 
@@ -233,6 +233,19 @@
       </a>
     </li>
   
+    <li class="pattern">
+      
+      
+      
+
+      <a href="/archives/" >
+        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+          <use xlink:href="#bookmark"></use>
+        </svg>
+        <span class="text">&lt;--Back to Penrose Library</span>
+      </a>
+    </li>
+  
   </ul>
 </nav>
     
@@ -364,10 +377,30 @@ grade sheets, correspondence, reports, notes, applications, and all other record
 <p>Part of the circulating collection of Penrose Library, the Eells collection includes books about the history and culture focusing on the Inland Pacific Northwest. Books from the Eells Collection are located on the first floor outside the Archives, and can be found in Sherlock.</p>
 <h2 id="searching-our-collections">Searching Our Collections</h2>
 <p><strong><a href="https://archiveswest.orbiscascade.org/">Archives West</a></strong> includes finding aids for our College Records and Northwest Manuscripts Collections. Our finding aids provide high-level overviews to the contents of an archival collection, including information about the creator and the scope and contents of the collection.</p>
-<p><strong><a href="https://archiveswest.orbiscascade.org/">Archives West</a></strong> also includes finding aids for archival repositories in the Western United States. To limit your search to Whitman collections only, use the search bar on the left hand side of the page.</p>
+<p><strong><a href="https://archiveswest.orbiscascade.org/">Archives West</a></strong> also includes finding aids for archival repositories in the Western United States. To limit your search to Whitman collections only, use the search bar on the left hand side of the page.
+<form action="https://nwda-db.orbiscascade.org/nwda-search/results.aspx" method="get" target="_blank"><input id="searchValue" name="q" type="text" class="form-control no-up-margin"> <input id="searchSubmit" class="btn" type="submit" value="search"> <input id="t" name="t" type="hidden" value="k"> <input id="c" name="c" type="hidden" value="htm"></form></p>
 <p><strong>Sherlock</strong>, the library catalog, includes records for finding aids in Archives West, as well as rare books held in the Archives. To limit a search to materials in the Archives in Sherlock, use the search box below.</p>
 <p>After you search in Sherlock, you can use the dropdown menu to limit your results to “Special Collections.” This will limit your results to books and finding aids located in the Archives.</p>
-
+<form onsubmit="searchevent();" id="simple" class="formtab1" name="searchForm" method="get" action="//sherlock.whitman.edu/primo_library/libweb/action/dlSearch.do" enctype="application/x-www-form-urlencoded; charset=utf-8">
+							<!-- Customizable Parameters  -->
+								<input type="hidden" name="institution" value="WHITC">
+								<input type="hidden" name="vid" value="WHITC_NEW">
+								<input type="hidden" name="tab" value="default_tab">
+								<input type="hidden" name="mode" value="Basic">
+							<!-- Fixed parameters -->
+								<input type="hidden" name="group" value="GUEST">
+								<input type="hidden" name="onCampus" value="true">
+								<input type="hidden" name="displayMode" value="full">
+								<input type="hidden" id="primoQuery" name="query">            
+							<input type="text" id="primoTemp" name="queryTemp" value="" class="form-control no-up-margin">
+                        		                        <input type="hidden" name="highlight" value="true">
+                                                                <input type="hidden" name="dum" value="true">
+								<input type="hidden" name="displayField" value="all">
+								<input type="hidden" name="bulkSize" value="20">
+                                                               <input type="hidden" value="whitc_special_collections" name="search_scope">
+							<!-- Search Button  -->                              
+	<input type="submit" value="search" id="searchrareb" class="btn">         	    
+                     </form>
     </main>
   </div>
 </div>
@@ -391,7 +424,8 @@ grade sheets, correspondence, reports, notes, applications, and all other record
           <p>Penrose Library</p>
           <p>Circulation: 509-527-5192</p>
           <p>Archives: 509-527-5922</p>
-          <p>Reference: 833-PENROSE(736-7673)</p>
+          <p>Reference: 833-PENROSE (736-7673)</p>
+          <p>Email: archives@whitman.edu</p>
         </div>
         <div class="col-sm-4" style="margin-top: 0;color:#ddd">
           <p>Follow us on Social Media:</p>
@@ -448,7 +482,7 @@ grade sheets, correspondence, reports, notes, applications, and all other record
         _paq.push(['trackPageView']);
         _paq.push(['enableLinkTracking']);
         (function () {
-            var u = "https://app.library.whitman.edu/php/plus/js/";
+            var u = "https://app.library.whitman.edu/plus/js/";
             _paq.push(['setTrackerUrl', u]);
             _paq.push(['setSiteId', '5']);
             var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];

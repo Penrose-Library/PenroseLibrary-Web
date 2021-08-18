@@ -1,0 +1,1 @@
+function searchevent(){$("#primoQuery").val("any,contains,"+$("#primoTemp").val());return true;}
