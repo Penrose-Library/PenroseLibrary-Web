@@ -3,7 +3,6 @@ languageCode: en-us
 defaultContentLanguage: en
 title: Penrose Library, Whitman College, Walla Walla, WA
 theme: Penrose-cupper-hugo-theme
-CloudflareAnalytics: 4152c068e3194d95b1cf83c0e975b720
 disqusShortname: 
 enableGitInfo: true
 summaryLength: 25
@@ -23,6 +22,7 @@ params:
   homeMetaContent: Penrose Library, Whitman College
   # For more date formats see https://gohugo.io/functions/format/
   MatomoSiteID: 1
+  CloudflareAnalytics: 4152c068e3194d95b1cf83c0e975b720
   dateFormat: Jan 2, 2006
   codePenUser: someUser
   katex: false
