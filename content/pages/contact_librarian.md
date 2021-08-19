@@ -29,6 +29,7 @@ $(document).ready(function(e) {
     });
 });
 </script>
+
 <div class="section">
 <div id="result" style="font-weight:bold"></div>
 <form id="s-la-askform-form_21757" action="" enctype="multipart/form-data" method="post" name="s-la-askform-form_21757"><input name="instid" type="hidden" value="1367">
@@ -49,7 +50,7 @@ $(document).ready(function(e) {
 </form></div>
 
 ## Staff Directory
-
+<div class="bootstrap-wrapper">
 <table class="striped" style="border:none;">
 <tbody>
 <tr>
@@ -57,7 +58,7 @@ $(document).ready(function(e) {
 <td>
 <h5>Administration</h5>
 </td>
-<td>&nbsp;</td>
+<td class="hidden-sm-down">&nbsp;</td>
 </tr>
 <tr>
 <td><img class="responsive-img" src="/images/staffimage/daliapic.png" alt="Dalia Corkrum"></td>
@@ -69,7 +70,7 @@ $(document).ready(function(e) {
 <li><a href="tel:+15095275193">509-527-5193</a></li>
 </ul>
 </td>
-<td>
+<td class="hidden-sm-down">
 <ul>
 <li>Library administration</li>
 <li>Budget matters</li>
@@ -90,7 +91,7 @@ $(document).ready(function(e) {
 <li><a href="tel:+15095275191">509-527-5191</a></li>
 </ul>
 </td>
-<td>
+<td class="hidden-sm-down">
 <ul>
 <li>General library questions</li>
 <li>Building issues</li>
@@ -102,6 +103,7 @@ $(document).ready(function(e) {
 <td>
 <h5>Instructional, Research, and Access Services</h5>
 </td>
+<td class="hidden-sm-down"> &nbsp; </td>
 </tr>
 <tr>
 <td><img class="responsive-img" src="/images/staffimage/leepic.png" alt="Lee Keene"></td>
@@ -113,7 +115,7 @@ $(document).ready(function(e) {
 <li><a href="tel:+15095275917">509-527-5917</a></li>
 </ul>
 </td>
-<td>
+<td class="hidden-sm-down">
 <ul>
 <li>Schedule and provide classroom instruction</li>
 <li>Providing one-on-one consultation</li>
@@ -144,7 +146,7 @@ $(document).ready(function(e) {
 <li><a href="tel:+15095274905">509-527-4905</a></li>
 </ul>
 </td>
-<td>
+<td class="hidden-sm-down">
 <ul>
 <li>Providing classroom instruction &amp; personal consultation</li>
 <li>Answering research questions</li>
@@ -173,7 +175,7 @@ $(document).ready(function(e) {
 <li><a href="tel:+15095275918">509-527-5918</a></li>
 </ul>
 </td>
-<td>
+<td class="hidden-sm-down">
 <ul>
 <li>Providing classroom instruction &amp; personal consultation</li>
 <li>Answering research questions</li>
@@ -199,7 +201,7 @@ $(document).ready(function(e) {
 <li><a href="tel:+15095275915">509-527-5915</a></li>
 </ul>
 </td>
-<td>
+<td class="hidden-sm-down">
 <ul>
 <li>Circulation policies</li>
 <li>Providing classroom instruction&nbsp;&amp; personal consultation</li>
@@ -257,7 +259,7 @@ $(document).ready(function(e) {
 <td>
 <h5>Whitman College and Northwest Archives</h5>
 </td>
-<td></td>
+<td class="hidden-sm-down"></td>
 </tr>
 <tr>
 <td><img class="responsive-img" src="/archives/images/BEN-MURPHY_2019.png" alt="Ben Murphy"></td>
@@ -269,14 +271,14 @@ $(document).ready(function(e) {
 <li><a href="tel:+15095274731">509-526-4731</a></li>
 </ul>
 </td>
-<td>
+<td class="hidden-sm-down">
 <ul>
 <li>College &amp; Northwest Archives</li>
 <li>Rare books</li>
 <li>Providing classroom instruction &amp; personal consultation</li>
 <li>Digitization &amp; preservation</li>
 <li>Liaison for:
-<ul class="normal-list">
+<ul>
 <li>Art History &amp; Visual Culture Studies</li>
 <li>Music</li>
 <li>Religion</li>
@@ -296,7 +298,7 @@ $(document).ready(function(e) {
 <li><a href="tel:+15095264703">509-526-4703</a></li>
 </ul>
 </td>
-<td>
+<td class="hidden-sm-down">
 <ul>
 <li>Providing classroom instruction with archival materials</li>
 <li>Providing one-on-one consultation</li>
@@ -314,7 +316,7 @@ $(document).ready(function(e) {
 <li><a href="tel:+1509-527-5922">509-527-5922</a></li>
 </ul>
 </td>
-<td>
+<td class="hidden-sm-down">
 <ul>
 <li>General inquiries about the Archives</li>
 <li>Answering questions about college and local history</li>
@@ -326,7 +328,7 @@ $(document).ready(function(e) {
 <td>
 <h5>Collection Management</h5>
 </td>
-<td>&nbsp;</td>
+<td class="hidden-sm-down">&nbsp;</td>
 </tr>
 <tr>
 <td><img class="responsive-img" src="/images/staffimage/rogerpic.png" alt="Roger Stelk"></td>
@@ -338,7 +340,7 @@ $(document).ready(function(e) {
 <li><a href="tel:+15095275909">509-527-5909</a></li>
 </ul>
 </td>
-<td>
+<td class="hidden-sm-down">
 <ul>
 <li>Collection development</li>
 <li>Journal subscriptions</li>
@@ -364,7 +366,7 @@ $(document).ready(function(e) {
 <li><a href="tel:+15095275920">509-527-5920</a></li>
 </ul>
 </td>
-<td>
+<td class="hidden-sm-down">
 <ul>
 <li>Digitization &amp; digital content creation</li>
 <li>Metadata management</li>
@@ -386,7 +388,7 @@ $(document).ready(function(e) {
 <li><a href="tel:+1509-527-5912">509-527-5912</a></li>
 </ul>
 </td>
-<td>
+<td class="hidden-sm-down">
 <ul>
 <li>Book purchasing</li>
 <li>Reserve material requests</li>
@@ -404,7 +406,7 @@ $(document).ready(function(e) {
 <li><a href="tel:+1509-527-5919">509-527-5919</a></li>
 </ul>
 </td>
-<td>
+<td class="hidden-sm-down">
 <ul>
 <li>Catalog record errors</li>
 <li>Cataloging and record maintenance</li>
@@ -418,7 +420,7 @@ $(document).ready(function(e) {
 <td>
 <h5>Systems</h5>
 </td>
-<td></td>
+<td class="hidden-sm-down"></td>
 </tr>
 <tr>
 <td><img class="responsive-img" src="/images/staffimage/KUN-LIN_2019.png" alt="Kun Lin"></td>
@@ -430,12 +432,12 @@ $(document).ready(function(e) {
 <li><a href="tel:+15095275916">509-527-5916</a></li>
 </ul>
 </td>
-<td>
+<td class="hidden-sm-down">
 <ul>
 <li>Library website and Sherlock (Catalog)</li>
 <li>Access databases</li>
 <li>Liaison for:
-<ul class="normal-list">
+<ul>
 <li>Mathematics &amp; Computer Science</li>
 </ul>
 </li>
@@ -444,3 +446,4 @@ $(document).ready(function(e) {
 </tr>
 </tbody>
 </table>
+</div>
