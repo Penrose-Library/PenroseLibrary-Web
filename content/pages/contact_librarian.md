@@ -235,7 +235,7 @@ $(document).ready(function(e) {
 <li>Interlibrary Loan</li>
 </ul>
 </td>
-</tr>
+</tr>--->
 <tr>
 <td>&nbsp;</td>
 <td>
@@ -246,7 +246,7 @@ $(document).ready(function(e) {
 <li><a href="tel:+1509-527-5192">509-527-5192</a></li>
 </ul>
 </td>
-<td>
+<td class="hidden-sm-down">
 <ul>
 <li>Circulation issues</li>
 <li>Summit Request</li>
@@ -254,7 +254,25 @@ $(document).ready(function(e) {
 </ul>
 </td>
 </tr>
-<tr>--->
+<tr>
+<td>&nbsp;</td>
+<td>
+<ul>
+<li>Dona LaFran</li>
+<li>Circulation Supervisor (Weekend)</li>
+<li><a href="mailto:lafrand@whitman.edu">lafrand@whitman.edu</a></li>
+<li><a href="tel:+1509-527-5192">509-527-5192</a></li>
+</ul>
+</td>
+<td class="hidden-sm-down">
+<ul>
+<li>Circulation issues</li>
+<li>Summit Request</li>
+<li>Interlibrary Loan</li>
+</ul>
+</td>
+</tr>
+<tr>
 <td>&nbsp;</td>
 <td>
 <h5>Whitman College and Northwest Archives</h5>
