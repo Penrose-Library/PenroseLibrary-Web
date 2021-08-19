@@ -241,7 +241,7 @@ $(document).ready(function(e) {
 <td>
 <ul>
 <li>Christel Holce</li>
-<li>Circulation Supervisor (Sunday &amp; Weekday Evenings)</li>
+<li>Circulation Supervisor</li>
 <li><a href="mailto:holceci@whitman.edu">holceci@whitman.edu</a></li>
 <li><a href="tel:+1509-527-5192">509-527-5192</a></li>
 </ul>
