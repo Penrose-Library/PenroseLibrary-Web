@@ -3,7 +3,7 @@ languageCode: en-us
 defaultContentLanguage: en
 title: Penrose Library, Whitman College, Walla Walla, WA
 theme: Penrose-cupper-hugo-theme
-googleAnalytics: 
+CloudflareAnalytics: 4152c068e3194d95b1cf83c0e975b720
 disqusShortname: 
 enableGitInfo: true
 summaryLength: 25
