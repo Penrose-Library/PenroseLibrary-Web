@@ -54,23 +54,29 @@
 	.done(function( hours ) {
 		$('#today').html('<a href="https://www.google.com/calendar/embed?src=whitman.edu_49tmb5t3aoa3k0t05vmp58cfeo%40group.calendar.google.com&ctz=America/Los_Angeles" rel="noreferrer" target="_blank">'+hours[0]['summary']+"</a>");
 	});
-	//reference calendar
+
+var librarian = { 
+    Emily: { "name": "Emily Pearson", "office":"222","email":"pearsome@whitman.edu", "phone": "509-527-5918", "photo":"https://library.whitman.edu/images/librarians/EMILY-PEARSON_2019.png"  }, 
+    Julie: { "name": "Julie Carter", "office":"219","email": "carterja@whitman.edu", "phone": "509-527-5915", "photo":"https://library.whitman.edu/images/librarians/JULIE-CARTER_2019.png"  }, 
+    Lee: { "name": "Lee Keene", "office": '215',"email":"keenelp@whitman.edu", "phone": "509-527-5917" , "photo":"https://library.whitman.edu/wp-content/uploads/2017/12/leepic.png"},
+    Amy:{"name": "Amy Blau","office":'217',"email": "blauar@whitman.edu","phone": "509-527-4905", "photo":"https://library.whitman.edu/images/librarians/AMY-BLAU_2019.png" } 
+}
+//reference calendar
 	$.ajax({
-			url: "https://penroselib-php.herokuapp.com/calendar/reference.php",
+			url: "https://calendar.hdl.workers.dev/",
 			dataType: 'json'
 	}).done(function( hours ) {
-		refhtml='<p>If you need help, please send us an email using the link above.</p>';
-		for (var x in hours) {
-		if(typeof hours[x] !== 'undefined'){
-			if( hours[x].notes !== null ){
-				console.log(hours[x]);
-				refhtml='<div class="reference-text pull-left"><span style="color:green">'+hours[x].notes.name+'</span> is available for research help until '+hours[x].dtend+'. <a href="mailto:'+hours[x].notes.email+'">'+hours[x].notes.email+'</a></div>  <div class="reference-picture pull-right">   <img src="'+hours[x].notes.photo+'" alt="'+hours[x].notes.name+'"/></div>';
-				
-			}//end first if
-			}//end if
-		}//end for
-		$('#reference').html(refhtml);
-		});
+	refhtml='<p>If you need help, please send us an email using the link above.</p>';
+		if(hours.items[0]){
+		const now = new Date();
+        const start = new Date(hours.items[0].start.dateTime); 
+        const end = new Date(hours.items[0].end.dateTime); 
+       if(now.getHours()<=end.getHours()&&now.getHours()>=start.getHours()){
+				refhtml='<div class="reference-text pull-left"><span style="color:green">'+librarian[hours.items[0].summary].name+'</span> is available for research help until '+end.toLocaleTimeString('en-US', {  hour: '2-digit', minute: '2-digit' })+'. <a href="mailto:'+librarian[hours.items[0].summary].email+'">'+librarian[hours.items[0].summary].email+'</a></div>  <div class="reference-picture pull-right">   <img src="'+librarian[hours.items[0].summary].photo+'" alt="'+librarian[hours.items[0].summary].name+'"/></div>';
+       }
+	  }
+	$('#reference').html(refhtml);
+    });
   }); // end of document ready
 })(jQuery); // end of jQuery name space
 
