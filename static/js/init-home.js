@@ -5,7 +5,7 @@
 	var $availcomp=0;
 	//bike
 	$.ajax({
-           url: '/php/bike.php',
+           url: 'https://penroselib-php.herokuapp.com/bike.php',
            type: 'GET',
            dataType: 'json',
 	       cache:false,
@@ -16,7 +16,7 @@
 
 	//study room
 	 $.ajax({
-           url: '/php/studyroom.php',
+           url: 'https://penroselib-php.herokuapp.com/studyroom.php',
            type: 'GET',
            dataType: 'json',
 		   cache:true
@@ -47,7 +47,7 @@
 	today = monthname[mm]+' '+dd+' , '+yyyy;
 	$('#date').html(today);
 	$.ajax({
-		url: "/php/calendar/libraryhour.php",
+		url: "https://penroselib-php.herokuapp.com/calendar/libraryhour.php",
 		cache: true,
 		dataType: 'json'
 	})
@@ -56,7 +56,7 @@
 	});
 	//reference calendar
 	$.ajax({
-			url: "/php/calendar/reference.php",
+			url: "https://penroselib-php.herokuapp.com/calendar/reference.php",
 			dataType: 'json'
 	}).done(function( hours ) {
 		refhtml='<p>If you need help, please send us an email using the link above.</p>';
