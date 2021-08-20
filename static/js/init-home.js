@@ -37,22 +37,16 @@
 	
 	//library hours
 	var today = new Date();
-	var dd = today.getDate();
-	var mm = today.getMonth(); //January is 0!
-	var yyyy = today.getFullYear();
-	var monthname = new Array ("Jan.","Feb.","March","April","May","June","July","Aug.","Sept.","Oct.","Nov.","Dec." );
-	if(dd<10) {
-		dd='0'+dd;
-	} 
-	today = monthname[mm]+' '+dd+' , '+yyyy;
-	$('#date').html(today);
+    const options = { weekday: 'short', year: 'numeric', month: 'short', day: 'numeric' };
+	$('#date').html(today.toLocaleDateString('en-US', options));
+	
 	$.ajax({
-		url: "https://penroselib-php.herokuapp.com/calendar/libraryhour.php",
+		url: "https://calendar.hdl.workers.dev/?calendar=whitman.edu_49tmb5t3aoa3k0t05vmp58cfeo@group.calendar.google.com",
 		cache: true,
 		dataType: 'json'
 	})
-	.done(function( hours ) {
-		$('#today').html('<a href="https://www.google.com/calendar/embed?src=whitman.edu_49tmb5t3aoa3k0t05vmp58cfeo%40group.calendar.google.com&ctz=America/Los_Angeles" rel="noreferrer" target="_blank">'+hours[0]['summary']+"</a>");
+	.done(function( openingtime ) {
+		$('#today').html('<a href="https://www.google.com/calendar/embed?src=whitman.edu_49tmb5t3aoa3k0t05vmp58cfeo%40group.calendar.google.com&ctz=America/Los_Angeles" rel="noreferrer" target="_blank">'+openingtime.items[0]['summary']+"</a>");
 	});
 
 var librarian = { 
