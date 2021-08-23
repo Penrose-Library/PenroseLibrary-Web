@@ -4,23 +4,45 @@ Penrose Library customized theme for its website. Below are stock descriptions.
 
 An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
 
+## Setup development environment
+
+1.  [Download and setup Hugo](https://gohugo.io/getting-started/installing/) 
+2.  Clone this git repository 
+3.  Start a local hugo server by running following commands in CLI
+    ```
+    hugo server
+    ```
+4.  Open your browser and go to http://localhost:1313/archives
+
+Your local hugo instance will re-compile the website everytime you change a file in the folder.
+
+
+
+## Original Documentation
+
+Below is the origional documentation provided by Cupper hugo theme
+
 ## Table of contents
 
-- [Demo](#demo)
-- [Minimum Hugo version](#minimum-hugo-version)
-- [Installation](#installation)
-- [Updating](#updating)
-- [Run example site](#run-example-site)
-- [Configuration](#configuration)
-- [Logo](#logo)
-- [Favicons](#favicons)
-- [Shortcodes](#shortcodes)
-- [Syntax highlighting](#syntax-highlighting)
-- [Disable toc for a blog post](#disable-toc-for-a-blog-post)
-- [Localization](#localization)
-- [Custom CSS and JS](#custom-css-and-js)
-- [Getting help](#getting-help)
-- [Credits](#credits)
+- [Cupper](#cupper)
+  - [Setup development environment](#setup-development-environment)
+  - [Original Documentation](#original-documentation)
+  - [Table of contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Minimum Hugo version](#minimum-hugo-version)
+  - [Installation](#installation)
+  - [Updating](#updating)
+  - [Run example site](#run-example-site)
+  - [Configuration](#configuration)
+  - [Logo](#logo)
+  - [Favicons](#favicons)
+  - [Shortcodes](#shortcodes)
+  - [Syntax highlighting](#syntax-highlighting)
+  - [Disable toc for a blog post](#disable-toc-for-a-blog-post)
+  - [Localization](#localization)
+  - [Custom CSS and JS](#custom-css-and-js)
+  - [Getting help](#getting-help)
+  - [Credits](#credits)
 
 ## Demo
 
