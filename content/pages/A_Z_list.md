@@ -5,9 +5,9 @@ date: 2021-06-21T21:58:53.672Z
 
 <script async src="//lgapi-us.libapps.com//web/js/sa.js" ></script><script>springshare_widget_config_1622747636763 = { path: 'assets' };</script>
 <form method="GET" target="_self">
-<label for="a-z" style="width:100%;">Search for database</label>
+<label for="a-z_term" style="width:100%;">Search for database</label>
 <input id="a-z_term" name="q" type="text" value="" placeholder=" " class="form-control no-up-margin" style="width:15rem; background: #fff;float:left;">
-<button id="azbutton" class="btn no-up-margin" type="submit" value="Search">Search</button>
+<button id="azbutton" class="btn no-up-margin" type="submit" value="Search" aria-controls="s-lg-widget-1622747636763">Search</button>
 <select id="s-lg-sel-subjects" name="subjects" style="max-width:20rem;margin-top:1rem" class="form-control"  aria-controls="s-lg-widget-1622747636763" aria-label="Select a Subject Area to narrow down list of databases" data-placeholder="All Subjects" onchange="this.form.submit()">
 <option value selected>All Subjects</option>
 <option value="17555">Anthropology </option>
