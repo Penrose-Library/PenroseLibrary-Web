@@ -28,6 +28,7 @@ toc: false
 
 <!-- Search Button -->
 <fieldset id="radioscope" role="radiogroup" aria-label="Search Scope" style="margin-top:0" class="nobackground">
+<legend>Select a search scope</legend>
     <label style="margin-top:1em">
         <input id="penrose" class="form-check-input" checked="checked" name="search_scope_temp" type="radio" value="whitman" aria-describedby="penrose-tooltip" />
         <span id="penrose-tooltip" class="js-simple-tooltip form-check-label" data-simpletooltip-text="Print and e-books, journals and e-journals, special collections, and audiovisual materials owned by Penrose Library.">Whitman</span>
