@@ -1,7 +1,7 @@
 ---
 date: "2021-07-06"
 title: "Contact Librarians & Staff"
-aliases: /contact-a-librarian/
+aliases: /contact-a-librarian
 ---
 
 <script type="text/javascript">
