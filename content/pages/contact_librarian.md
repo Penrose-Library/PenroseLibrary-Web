@@ -32,7 +32,7 @@ $(document).ready(function(e) {
 </script>
 
 <div class="section">
-<div id="result" style="font-weight:bold"></div>
+<div id="result" style="font-weight:bold" role="region" aria-live="polite"></div>
 <form id="s-la-askform-form_21757" action="" enctype="multipart/form-data" method="post" name="s-la-askform-form_21757"><input name="instid" type="hidden" value="1367">
 <input name="quid" type="hidden" value="1240">
 <input name="qlog" type="hidden" value="0">
@@ -47,7 +47,7 @@ $(document).ready(function(e) {
 <input id="pemail_21757" class="form-control no-up-margin" name="pemail" type="email" value=""></div>
 <div class="input-field col s6"><label for="pname_21757">Name</label>
 <input id="pname_21757"class="form-control no-up-margin" name="pname" type="text" value=""></div>
-<button id="s-la-askform-submit-21757" class="btn" type="button">Submit</button>
+<button id="s-la-askform-submit-21757" class="btn" type="button" aria-controls="result">Submit</button>
 </form></div>
 
 ## Staff Directory
