@@ -41,7 +41,7 @@
 	$('#date').html(today.toLocaleDateString('en-US', options));
 	
 	$.ajax({
-		url: "https://calendar.hdl.workers.dev/?calendar=whitman.edu_49tmb5t3aoa3k0t05vmp58cfeo@group.calendar.google.com",
+		url: "https://library.whitman.edu/cfworker/calendar?calendar=whitman.edu_49tmb5t3aoa3k0t05vmp58cfeo@group.calendar.google.com",
 		cache: true,
 		dataType: 'json'
 	})
@@ -57,7 +57,7 @@ var librarian = {
 }
 //reference calendar
 	$.ajax({
-			url: "https://calendar.hdl.workers.dev/",
+			url: "https://library.whitman.edu/cfworker/calendar",
 			dataType: 'json'
 	}).done(function( hours ) {
 	refhtml='<p>If you need help, please send us an email using the link above.</p>';
