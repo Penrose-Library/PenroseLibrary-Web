@@ -101,6 +101,7 @@ a {
     color:#001F5B;
     line-break: loose;
     outline-offset: 2px;
+    word-break: break-all;
 }
 abbr {
     text-decoration: none;
