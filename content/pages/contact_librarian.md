@@ -62,7 +62,8 @@ $(document).ready(function(e) {
 </caption>
 <thead>
     <tr>
-        <td></td>
+        <th scope="col" colspan="2">
+        </th>
         <th id="name" scope="col" colspan="2">
             Name
         </th>
@@ -78,7 +79,7 @@ $(document).ready(function(e) {
         </th>
     </tr>
     <tr>
-        <th headers="admin" id="part1">
+        <th headers="admin" id="part1" colspan="2">
             <img class="responsive-img" src="/images/staffimage/daliapic.png" alt="Dalia Corkrum" />
         </th>
         <td headers="admin part1 name" colspan="2">
@@ -99,7 +100,7 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="admin" id="part2">
+        <th headers="admin" id="part2" colspan="2">
             <img class="responsive-img" src="/images/staffimage/KATHLEEN-HUTCHINSON_2019.png" alt="Kathleen Hutchison" />
         </th>
         <td headers="admin part2 name" colspan="2">
@@ -121,7 +122,7 @@ $(document).ready(function(e) {
         </th>
     </tr>
     <tr>
-        <th headers="irs" id="part3">
+        <th headers="irs" id="part3" colspan="2">
            <img class="responsive-img" src="/images/staffimage/leepic.png" alt="Lee Keene" />
         </th>
         <td headers="irs part3 name" colspan="2">
@@ -152,7 +153,7 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="irs" id="part4">
+        <th headers="irs" id="part4" colspan="2">
            <img class="responsive-img" src="/images/staffimage/AMY-BLAU_2019.png" alt="Amy Blau" />
         </th>
         <td headers="irs part4 name" colspan="2">
@@ -183,7 +184,7 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="irs" id="part5">
+        <th headers="irs" id="part5" colspan="2">
            <img class="responsive-img" src="/images/staffimage/EMILY-PEARSON_2019.png" alt="Emily Pearson" />
         </th>
         <td headers="irs part5 name" colspan="2">
@@ -209,7 +210,7 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="irs" id="part6">
+        <th headers="irs" id="part6" colspan="2">
            <img class="responsive-img" src="/images/staffimage/JULIE-CARTER_2019.png" alt="Julie Carter" />
         </th>
         <td headers="irs part6 name" colspan="2">
@@ -235,7 +236,7 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="irs" id="part7">
+        <th headers="irs" id="part7" colspan="2">
         </th>
         <td headers="irs part7 name" colspan="2">
             <p>Christel Holce</p>
@@ -252,13 +253,13 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-    <th headers="irs" id="part8">
+    <th headers="irs" id="part8" colspan="2">
         </th>
         <td headers="irs part8 name" colspan="2">
-            <li>Dona LaFran</li>
-            <li>Circulation Supervisor (Weekend)</li>
-            <li><a href="mailto:lafrand@whitman.edu">lafrand@whitman.edu</a></li>
-            <li><a href="tel:+1509-527-5192">509-527-5192</a></li>
+            <p>Dona LaFran</p>
+            <p>Circulation Supervisor (Weekend)</p>
+            <p><a href="mailto:lafrand@whitman.edu">lafrand@whitman.edu</a></p>
+            <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
         </td>
         <td headers="irs part8 resp" colspan="3">
             <ul>
@@ -274,7 +275,7 @@ $(document).ready(function(e) {
         </th>
     </tr>
     <tr>
-        <th headers="archives" id="part9">
+        <th headers="archives" id="part9" colspan="2">
         <img class="responsive-img" src="/archives/images/BEN-MURPHY_2019.png" alt="Ben Murphy" />
         </th>
         <td headers="archives part9 name" colspan="2">
@@ -301,7 +302,7 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="archives" id="part10">
+        <th headers="archives" id="part10" colspan="2">
             <img class="responsive-img" src="/archives/images/DANA-BRONSON_2019.png" alt="Dana Bronson" />
         </th>
         <td headers="archives part10 name" colspan="2">
@@ -319,7 +320,7 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="archives" id="part11">
+        <th headers="archives" id="part11" colspan="2">
             <img class="responsive-img" src="/archives/images/JOEL-GAYTAN_2019.png" alt="Joel Gaytan" />
         </th>
         <td headers="archives part11 name" colspan="2">
@@ -341,7 +342,7 @@ $(document).ready(function(e) {
         </th>
     </tr>
     <tr>
-        <th headers="collection" id="part12">
+        <th headers="collection" id="part12" colspan="2">
             <img class="responsive-img" src="/images/staffimage/rogerpic.png" alt="Roger Stelk" />
         </th>
         <td headers="collection part12 name" colspan="2">
@@ -367,7 +368,7 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="collection" id="part13">
+        <th headers="collection" id="part13" colspan="2">
             <img class="responsive-img" src="/images/staffimage/paige-e1512411546358.png" alt="Paige Morfitt" />
         </th>
         <td headers="collection part13 name" colspan="2">
@@ -389,7 +390,7 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="collection" id="part14">
+        <th headers="collection" id="part14" colspan="2">
         </th>
         <td headers="collection part14 name" colspan="2">
             <p>Rich Pengra</p>
@@ -406,7 +407,7 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="collection" id="part15">
+        <th headers="collection" id="part15" colspan="2">
         </th>
         <td headers="collection part15 name" colspan="2">
             <p>Rika Groff</p>
@@ -429,7 +430,7 @@ $(document).ready(function(e) {
         </th>
     </tr>
     <tr>
-        <th headers="systems" id="part16">
+        <th headers="systems" id="part16" colspan="2">
         <img class="responsive-img" src="/images/staffimage/KUN-LIN_2019.png" alt="Kun Lin" />
         </th>
         <td headers="systems part16 name" colspan="2">
