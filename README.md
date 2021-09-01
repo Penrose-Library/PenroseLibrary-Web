@@ -17,6 +17,16 @@ An accessibility-friendly Hugo theme, ported from the [original Cupper](https://
 Your local hugo instance will re-compile the website everytime you change a file in the folder.
 
 
+## System Structure
+
+The main branch of this repo contains all the code of Penrose Library webpage and the compiled version of Archives website.  [Archives Repo](https://github.com/Penrose-Library/Archives-Website) contains source code of the pages for Archives website. When Archives repo was updated, github runner will compile it and upload the compiled code into this repo's static folder.  This repo, upon commit, will automaticly compile and upload to [PenroseLibrary Website Public](https://github.com/Penrose-Library/PenroseLibrary_Website_Public) repo as HTML. [PenroseLibrary Website Public](https://github.com/Penrose-Library/PenroseLibrary_Website_Public) repo is linked to Cloudflare Pages. It will automaticly depoloy to Cloudflare Pages. 
+
+## Compile
+
+Github runner is used to compile Hugo code into HTML. The configuration is in .github/workflows/gh-pages.yml. Refer to [Github Actions for Hugo](https://github.com/peaceiris/actions-hugo) for configuration details.
+
+
+------------------------------------------------------------
 
 ## Original Documentation
 
