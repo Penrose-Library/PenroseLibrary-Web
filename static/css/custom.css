@@ -150,6 +150,9 @@ tr {
       clear:right;
       float:left;
     }
+    .secondary-main{
+      padding: 0.01rem;
+    }
 }
 
 /* Media queries */
