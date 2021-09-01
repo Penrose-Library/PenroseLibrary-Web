@@ -3,7 +3,11 @@ date: "2021-07-06"
 title: "Contact Librarians & Staff"
 aliases: /contact-a-librarian
 ---
-
+<style>
+a{
+        word-break: break-all;
+}
+</style>
 <script type="text/javascript">
 $(document).ready(function(e) {
     $('#s-la-askform-submit-21757').click(function(e) {
