@@ -4,11 +4,9 @@ date: 2021-08-17T00:14:10.244Z
 thumbnail: /uploads/1609_admission-shoot_matt-lester-1105.png
 thumbnail_alt: Image from inside Penrose Library
 ---
-<!--StartFragment-->
-
 Welcome back!
 
-We missed you at Penrose and we’re excited to see everyone back this fall. Somethings have changed so read on for more info on those changes.
+We missed you at Penrose and we’re excited to see everyone back this fall. Some things have changed so read on for more info on those changes.
 
 **What are the hours**?
 
@@ -45,5 +43,3 @@ Yes! Just go to the circ desk and give your class number.
 **Is the archives open?**
 
 The Archives is open for research in the reading room. While appointments are no longer necessary, consultation with archives staff ([archives@whitman.edu](mailto:archives@whitman.edu)) before you come will ensure a more productive experience for you.
-
-<!--EndFragment-->
