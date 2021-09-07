@@ -60,13 +60,15 @@ var librarian = {
 			url: "https://library.whitman.edu/cfworker/calendar",
 			dataType: 'json'
 	}).done(function( hours ) {
-	refhtml='<p>If you need help, please send us an email using the link above.</p>';
-		if(hours.items[0]){
+	    refhtml='<p>If you need help, please send us an email using the link above.</p>';
+		console.log(hours.items.length);
+		x=hours.items.length-1;
+		if(hours.items[x]){
 		const now = new Date();
-        const start = new Date(hours.items[0].start.dateTime); 
-        const end = new Date(hours.items[0].end.dateTime); 
+        const start = new Date(hours.items[x].start.dateTime); 
+        const end = new Date(hours.items[x].end.dateTime); 
        if(now.getHours()<=end.getHours()&&now.getHours()>=start.getHours()){
-				refhtml='<div class="reference-text"><span style="color:green">'+librarian[hours.items[0].summary].name+'</span> is available for research help until '+end.toLocaleTimeString('en-US', {  hour: '2-digit', minute: '2-digit' })+'. <a href="mailto:'+librarian[hours.items[0].summary].email+'">'+librarian[hours.items[0].summary].email+'</a></div>  <div class="reference-picture">   <img src="'+librarian[hours.items[0].summary].photo+'" alt="'+librarian[hours.items[0].summary].name+'"/></div>';
+				refhtml='<div class="reference-text"><span style="color:green">'+librarian[hours.items[x].summary].name+'</span> is available for research help until '+end.toLocaleTimeString('en-US', {  hour: '2-digit', minute: '2-digit' })+'. <a href="mailto:'+librarian[hours.items[x].summary].email+'">'+librarian[hours.items[x].summary].email+'</a></div>  <div class="reference-picture">   <img src="'+librarian[hours.items[x].summary].photo+'" alt="'+librarian[hours.items[x].summary].name+'"/></div>';
        }
 	  }
 	$('#reference').html(refhtml);
