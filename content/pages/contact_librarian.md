@@ -236,6 +236,23 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
+        <th headers="irs" id="part79" colspan="2">
+        </th>
+        <td headers="irs part79 name" colspan="2">
+            <p>Ari Kirby </p>
+            <p>Access Service Manager</p>
+            <p><a href="mailto:kirbyk@whitman.edu">kirbyk@whitman.edu</a></p>
+            <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
+        </td>
+        <td headers="irs part79 resp" colspan="3">
+            <ul>
+                <li>Circulation and course reserve</li>
+                <li>Summit Request</li>
+                <li>Interlibrary Loan</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
         <th headers="irs" id="part7" colspan="2">
         </th>
         <td headers="irs part7 name" colspan="2">
