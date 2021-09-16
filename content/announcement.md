@@ -1,1 +1,1 @@
-<p>Per Whitman College's Covid-19 policies, the library is only open to people that have swipe access with a Whitman ID</p>
+Per Whitman College's Covid-19 policies, the library is only open to people that have swipe access with a Whitman ID
