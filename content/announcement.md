@@ -1,1 +1,1 @@
-Per Whitman College's Covid-19 policies, the library is only open to people that have swipe access with a Whitman ID
+Both the library and archives are only open to current faculty, students, and staff because of local health conditions. Swipe access with a Whitman ID required.
