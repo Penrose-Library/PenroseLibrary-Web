@@ -1,6 +1,7 @@
 ---
 title: Books and films displayed on our digital signage
 date: 2021-09-27T19:02:30.456Z
+url: booksondisplay
 ---
 ## Hispanic Heritage Month Recommendations
 
