@@ -31,3 +31,7 @@ a.locate {
     font-weight: bold !important;
     color: #000 !important;
 }
+
+.holdingInfo .locate::before{
+	opacity: 1 !important;
+}
