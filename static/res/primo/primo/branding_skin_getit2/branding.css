@@ -23,3 +23,11 @@ div.clearfix:nth-child(23) > ul:nth-child(1){
 	background-color:#295587 !important;
 	
 }
+
+/* css for the locate button */
+a.locate {
+    position: inherit !important;
+    display: inline-flex !important;
+    font-weight: bold;
+    color: #000;
+}
