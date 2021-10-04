@@ -28,6 +28,6 @@ div.clearfix:nth-child(23) > ul:nth-child(1){
 a.locate {
     position: inherit !important;
     display: inline-flex !important;
-    font-weight: bold;
-    color: #000;
+    font-weight: bold !important;
+    color: #000 !important;
 }
