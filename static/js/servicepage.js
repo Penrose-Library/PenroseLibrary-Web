@@ -1,0 +1,1 @@
+document.getElementsByClassName('locate')[0].href = document.getElementsByClassName('locate')[0].href + "&callno=" + document.getElementsByClassName('itemAccessionNumber')[0].innerText;
