@@ -1,1 +1,1 @@
-Both the library and archives are only open to current faculty, student, and staff because of local health conditions. Swipe access with a Whitman ID required.
+Penrose Library and printing services are open for our normal hours during the break. Both the library and archives are only open to current faculty, student, and staff. Swipe access with a Whitman ID required.
