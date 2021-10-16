@@ -1,1 +1,1 @@
-Penrose Library and printing services are open for our normal hours during the break. Library and Archives are open only to current faculty, student, and staff.
+Both the library and archives are only open to current faculty, student, and staff because of local health conditions. Swipe access with a Whitman ID required.
