@@ -1,8 +1,30 @@
 ---
 title: Books and films displayed on our digital signage
-date: 2021-09-27T19:02:30.456Z
 url: booksondisplay
+date: 2021-09-27T19:02:30.456Z
 ---
+<!--StartFragment-->
+
+## LGBTQ History Month
+
+[We Are Everywhere](https://sherlock.whitman.edu/permalink/f/19gob7d/CP71298759400001451) 
+
+[Cruising the Library](https://sherlock.whitman.edu/permalink/f/19gob7d/CP99552436901867)
+
+[Transgender History](https://sherlock.whitman.edu/permalink/f/1vkg7cm/CP71265379890001451)
+
+[Be gay, do comics! : queer history, memoir, and satire from The Nib](https://sherlock.whitman.edu/permalink/f/1vkg7cm/CP71347767150001451)
+
+[A queer history of the United States for young people](https://sherlock.whitman.edu/permalink/f/1vkg7cm/CP71340609850001451)
+
+[LGBT Thought and Culture](https://www.ezproxy.whitman.edu/login?url=http://search.alexanderstreet.com/gltc) (Primary source database)
+
+[Whitman LGBTQ+ Oral History Project](https://arminda.whitman.edu/collections/whitman-college-lgbtq-oral-history-project)
+
+
+
+<!--EndFragment-->
+
 ## Hispanic Heritage Month Recommendations
 
 [El Eternauta por H. G. Oesterheld y Francisco Solano López](https://sherlock.whitman.edu/permalink/f/19gob7d/CP71203771680001451)
