@@ -443,6 +443,17 @@ caption {
 [role="contentinfo"] > a{
  color:#ddd;
 }
+
+.accessible-carousel-element{
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+.slick-autoplay-toggle-button span{
+    color: #000 !important;
+}
+.slick-next .slick-next-icon:before, .slick-next .slick-prev-icon:before, .slick-prev .slick-next-icon:before, .slick-prev .slick-prev-icon:before{
+    color: #000 !important;
+}
 /* Patterns navigation */
 .patterns {
     overflow: auto;

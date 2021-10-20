@@ -49,7 +49,7 @@ toc: false
 
 </form>
 </div>
-<div id="announcement">{{% announcement file="announcement.md" %}}</div>
+<div id="announcement">{{% announcement file="announcement.html" %}}</div>
 </div>
 <div class="second-section-main">
 <div class="bootstrap-wrapper">

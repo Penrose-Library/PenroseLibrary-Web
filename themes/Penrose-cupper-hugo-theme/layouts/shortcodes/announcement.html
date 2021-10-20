@@ -1,1 +1,12 @@
-{{ $file := .Get "file" | readFile }}{{if gt (len $file) 2}}{{ (print $file ) | markdownify }}{{end}}
+{{ $file := .Get "file" | readFile }}{{if gt (len $file) 2}}
+{{ $file | safeHTML }}
+<script>
+  $(document).ready(function() {
+  $('.accessible-carousel').slick({
+  autoplay: true,
+  autoplaySpeed: 9000,
+  dots: false
+  }); 
+});
+</script>
+{{end}}
