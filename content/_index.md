@@ -28,6 +28,7 @@ toc: false
 
 <!-- Search Button -->
 <fieldset id="radioscope" role="radiogroup" aria-label="Search Scope" style="margin-top:0" class="nobackground">
+<legend style="display:none">Select a search scope</legend>
     <label style="margin-top:1em">
         <input id="penrose" class="form-check-input" checked="checked" name="search_scope_temp" type="radio" value="whitman" aria-describedby="penrose-tooltip" />
         <span id="penrose-tooltip" class="js-simple-tooltip form-check-label" data-simpletooltip-text="Print and e-books, journals and e-journals, special collections, and audiovisual materials owned by Penrose Library.">Whitman</span>
@@ -60,7 +61,6 @@ toc: false
         <span id="date">&nbsp;</span>
         <p id="today">&nbsp;</p>
         <p class="t">Circulation: 509-527-5192</p>
-        <p style="margin:0.2rem">Research Help:</p>
         <div id="libchat_776a12eb7834f00b1664afc3f902f086">
         <a href="/contact_librarian/" target="_blank" rel="noopener noreferrer"><button class="libchat_online" style="margin-bottom:0.2rem">Ask Librarian via Email</button></a></div>
         <div id="reference"></div>

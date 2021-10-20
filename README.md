@@ -4,23 +4,55 @@ Penrose Library customized theme for its website. Below are stock descriptions.
 
 An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
 
+## Setup development environment
+
+1.  [Download and setup Hugo](https://gohugo.io/getting-started/installing/) 
+2.  Clone this git repository 
+3.  Start a local hugo server by running following commands in CLI
+    ```
+    hugo server
+    ```
+4.  Open your browser and go to http://localhost:1313/archives
+
+Your local hugo instance will re-compile the website everytime you change a file in the folder.
+
+
+## System Structure
+
+The main branch of this repo contains all the code of Penrose Library webpage and the compiled version of Archives website.  [Archives Repo](https://github.com/Penrose-Library/Archives-Website) contains source code of the pages for Archives website. When Archives repo was updated, github runner will compile it and upload the compiled code into this repo's static folder.  This repo, upon commit, will automaticly compile and upload to [PenroseLibrary Website Public](https://github.com/Penrose-Library/PenroseLibrary_Website_Public) repo as HTML. [PenroseLibrary Website Public](https://github.com/Penrose-Library/PenroseLibrary_Website_Public) repo is linked to Cloudflare Pages. It will automaticly depoloy to Cloudflare Pages. 
+
+## Compile
+
+Github runner is used to compile Hugo code into HTML. The configuration is in .github/workflows/gh-pages.yml. Refer to [Github Actions for Hugo](https://github.com/peaceiris/actions-hugo) for configuration details.
+
+
+------------------------------------------------------------
+
+## Original Documentation
+
+Below is the origional documentation provided by Cupper hugo theme
+
 ## Table of contents
 
-- [Demo](#demo)
-- [Minimum Hugo version](#minimum-hugo-version)
-- [Installation](#installation)
-- [Updating](#updating)
-- [Run example site](#run-example-site)
-- [Configuration](#configuration)
-- [Logo](#logo)
-- [Favicons](#favicons)
-- [Shortcodes](#shortcodes)
-- [Syntax highlighting](#syntax-highlighting)
-- [Disable toc for a blog post](#disable-toc-for-a-blog-post)
-- [Localization](#localization)
-- [Custom CSS and JS](#custom-css-and-js)
-- [Getting help](#getting-help)
-- [Credits](#credits)
+- [Cupper](#cupper)
+  - [Setup development environment](#setup-development-environment)
+  - [Original Documentation](#original-documentation)
+  - [Table of contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Minimum Hugo version](#minimum-hugo-version)
+  - [Installation](#installation)
+  - [Updating](#updating)
+  - [Run example site](#run-example-site)
+  - [Configuration](#configuration)
+  - [Logo](#logo)
+  - [Favicons](#favicons)
+  - [Shortcodes](#shortcodes)
+  - [Syntax highlighting](#syntax-highlighting)
+  - [Disable toc for a blog post](#disable-toc-for-a-blog-post)
+  - [Localization](#localization)
+  - [Custom CSS and JS](#custom-css-and-js)
+  - [Getting help](#getting-help)
+  - [Credits](#credits)
 
 ## Demo
 

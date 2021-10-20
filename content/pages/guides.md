@@ -2,6 +2,7 @@
 date: "2021-06-29"
 title: "Library Guides"
 toc: false
+aliases: /subject-guides/
 ---
 
 

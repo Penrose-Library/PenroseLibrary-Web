@@ -1,0 +1,18 @@
+@import url('http://fonts.googleapis.com/css?family=Karma:300,700');
+
+img {max-width:100%; height:auto; display:block;}
+a {color:#333;}
+a:hover {color:#67a3c1;}
+h1, h2, h3, h4, h5, h6 {color:#333;}
+#tinymce {font-family:'Karma',serif; font-weight:300; font-size:20px; color:#999; width:650px;}
+#tinymce blockquote {background-color:#aaa; color:#eee; margin:0; padding:30px;}
+#tinymce table {width:100%;}
+#tinymce td, #tinymce th {border:2px solid #f5f5f5; padding:5px 10px;}
+#tinymce dt {font-weight:bold; color:#333;}
+#tinymce dd {margin-left:0; margin-bottom:20px;}
+#tinymce ul, #tinymce ol {padding-left:0; margin-left:20px;}
+#tinymce ul ul, #tinymce ol ol {margin-left:30px;}
+#tinymce .alignleft {float:left; margin:0 30px 15px 0;}
+#tinymce .alignright {float:right; margin:0 0 15px 30px;}
+#tinymce .wp-caption, #tinymce .gallery-caption {max-width:100%;}
+#tinymce .wp-caption-text {font-size:16px; margin-top:4px;}

@@ -5,7 +5,7 @@
 	var $availcomp=0;
 	//bike
 	$.ajax({
-           url: '/php/bike.php',
+           url: 'https://penroselib-php.herokuapp.com/bike.php',
            type: 'GET',
            dataType: 'json',
 	       cache:false,
@@ -16,7 +16,7 @@
 
 	//study room
 	 $.ajax({
-           url: '/php/studyroom.php',
+           url: 'https://penroselib-php.herokuapp.com/studyroom.php',
            type: 'GET',
            dataType: 'json',
 		   cache:true
@@ -37,40 +37,42 @@
 	
 	//library hours
 	var today = new Date();
-	var dd = today.getDate();
-	var mm = today.getMonth(); //January is 0!
-	var yyyy = today.getFullYear();
-	var monthname = new Array ("Jan.","Feb.","March","April","May","June","July","Aug.","Sept.","Oct.","Nov.","Dec." );
-	if(dd<10) {
-		dd='0'+dd;
-	} 
-	today = monthname[mm]+' '+dd+' , '+yyyy;
-	$('#date').html(today);
+    const options = { weekday: 'short', year: 'numeric', month: 'short', day: 'numeric' };
+	$('#date').html(today.toLocaleDateString('en-US', options));
+	
 	$.ajax({
-		url: "/php/calendar/libraryhour.php",
+		url: "https://library.whitman.edu/cfworker/calendar?calendar=whitman.edu_49tmb5t3aoa3k0t05vmp58cfeo@group.calendar.google.com",
 		cache: true,
 		dataType: 'json'
 	})
-	.done(function( hours ) {
-		$('#today').html('<a href="https://www.google.com/calendar/embed?src=whitman.edu_49tmb5t3aoa3k0t05vmp58cfeo%40group.calendar.google.com&ctz=America/Los_Angeles" rel="noreferrer" target="_blank">'+hours[0]['summary']+"</a>");
+	.done(function( openingtime ) {
+		$('#today').html('<a href="https://www.google.com/calendar/embed?src=whitman.edu_49tmb5t3aoa3k0t05vmp58cfeo%40group.calendar.google.com&ctz=America/Los_Angeles" rel="noreferrer" target="_blank">'+openingtime.items[0]['summary']+"</a>");
 	});
-	//reference calendar
+
+var librarian = { 
+    Emily: { "name": "Emily Pearson", "office":"222","email":"pearsome@whitman.edu", "phone": "509-527-5918", "photo":"https://library.whitman.edu/images/librarians/EMILY-PEARSON_2019.png"  }, 
+    Julie: { "name": "Julie Carter", "office":"219","email": "carterja@whitman.edu", "phone": "509-527-5915", "photo":"https://library.whitman.edu/images/librarians/JULIE-CARTER_2019.png"  }, 
+    Lee: { "name": "Lee Keene", "office": '215',"email":"keenelp@whitman.edu", "phone": "509-527-5917" , "photo":"https://library.whitman.edu/wp-content/uploads/2017/12/leepic.png"},
+    Amy:{"name": "Amy Blau","office":'217',"email": "blauar@whitman.edu","phone": "509-527-4905", "photo":"https://library.whitman.edu/images/librarians/AMY-BLAU_2019.png" } 
+}
+//reference calendar
 	$.ajax({
-			url: "/php/calendar/reference.php",
+			url: "https://library.whitman.edu/cfworker/calendar",
 			dataType: 'json'
 	}).done(function( hours ) {
-		refhtml='<p>If you need help, please send us an email using the link above.</p>';
-		for (var x in hours) {
-		if(typeof hours[x] !== 'undefined'){
-			if( hours[x].notes !== null ){
-				console.log(hours[x]);
-				refhtml='<div class="reference-text pull-left"><span style="color:green">'+hours[x].notes.name+'</span> is available for research help until '+hours[x].dtend+'. <a href="mailto:'+hours[x].notes.email+'">'+hours[x].notes.email+'</a></div>  <div class="reference-picture pull-right">   <img src="'+hours[x].notes.photo+'" alt="'+hours[x].notes.name+'"/></div>';
-				
-			}//end first if
-			}//end if
-		}//end for
-		$('#reference').html(refhtml);
-		});
+	    refhtml='<p>If you need help, please send us an email using the link above.</p>';
+		console.log(hours.items.length);
+		x=hours.items.length-1;
+		if(hours.items[x]){
+		const now = new Date();
+        const start = new Date(hours.items[x].start.dateTime); 
+        const end = new Date(hours.items[x].end.dateTime); 
+       if(now.getHours()<=end.getHours()&&now.getHours()>=start.getHours()){
+				refhtml='<div class="reference-text"><span style="color:green">'+librarian[hours.items[x].summary].name+'</span> is available for research help until '+end.toLocaleTimeString('en-US', {  hour: '2-digit', minute: '2-digit' })+'. <a href="mailto:'+librarian[hours.items[x].summary].email+'">'+librarian[hours.items[x].summary].email+'</a></div>  <div class="reference-picture">   <img src="'+librarian[hours.items[x].summary].photo+'" alt="'+librarian[hours.items[x].summary].name+'"/></div>';
+       }
+	  }
+	$('#reference').html(refhtml);
+    });
   }); // end of document ready
 })(jQuery); // end of jQuery name space
 

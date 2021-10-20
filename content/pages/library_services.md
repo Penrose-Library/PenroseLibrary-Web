@@ -2,6 +2,7 @@
 title: Library Services & FAQ
 date: 2021-08-09
 toc: false
+alias: /how-do-i/
 ---
 ## Search Library FAQ
 

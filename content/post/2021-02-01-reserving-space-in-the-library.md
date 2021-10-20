@@ -5,6 +5,7 @@ author: Emily Pearson
 post_excerpt: "The library will be open to <strong>faculty, staff, and current students</strong> during the following hours, starting <strong>February 1st</strong>"
 layout: post
 published: true
+url: /blog/reserving-space-in-the-library/
 date: 2021-02-01 11:36:43
 date: 2021-02-01 11:36:43
 ---

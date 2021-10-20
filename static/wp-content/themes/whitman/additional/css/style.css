@@ -1,0 +1,683 @@
+@charset "UTF-8";
+
+
+
+/* Custom Stylesheet */
+
+/**
+
+ * Use this file to override Materialize files so you can update
+
+ * the core Materialize files in the future
+
+ *
+
+ * Made By MaterializeCSS.com
+
+ */
+
+@import url(https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600,700|Source+Sans+Pro:400,600,700);
+
+/* h5 replacement */
+
+.boxheader{
+
+	font-size: 1.5rem;
+
+	line-height: 110%;
+
+	margin: 1rem 0 0.5rem 0;
+
+	text-align: center
+
+}
+
+h6 {font-weight:600;}
+
+
+
+/* --- Wordpress Required --*/
+
+.alignnone {
+
+    margin: 5px 20px 20px 0;
+
+}
+
+
+
+.aligncenter,
+
+div.aligncenter {
+
+    display: block;
+
+    margin: 5px auto 5px auto;
+
+}
+
+
+
+.alignright {
+
+    float:right;
+
+    margin: 5px 0 20px 20px;
+
+}
+
+
+
+.alignleft {
+
+    float: left;
+
+    margin: 5px 20px 20px 0;
+
+}
+
+
+
+a img.alignright {
+
+    float: right;
+
+    margin: 5px 0 20px 20px;
+
+}
+
+
+
+a img.alignnone {
+
+    margin: 5px 20px 20px 0;
+
+}
+
+
+
+a img.alignleft {
+
+    float: left;
+
+    margin: 5px 20px 20px 0;
+
+}
+
+
+
+a img.aligncenter {
+
+    display: block;
+
+    margin-left: auto;
+
+    margin-right: auto
+
+}
+
+
+
+.wp-caption {
+
+    background: #fff;
+
+    border: 1px solid #f0f0f0;
+
+    max-width: 96%; /* Image does not overflow the content area */
+
+    padding: 5px 3px 10px;
+
+    text-align: center;
+
+}
+
+
+
+.wp-caption.alignnone {
+
+    margin: 5px 20px 20px 0;
+
+}
+
+
+
+.wp-caption.alignleft {
+
+    margin: 5px 20px 20px 0;
+
+}
+
+
+
+.wp-caption.alignright {
+
+    margin: 5px 0 20px 20px;
+
+}
+
+
+
+.wp-caption img {
+
+    border: 0 none;
+
+    height: auto;
+
+    margin: 0;
+
+    max-width: 98.5%;
+
+    padding: 0;
+
+    width: auto;
+
+}
+
+
+
+.wp-caption p.wp-caption-text {
+
+    font-size: 11px;
+
+    line-height: 17px;
+
+    margin: 0;
+
+    padding: 0 4px 5px;
+
+}
+
+
+
+/* Text meant only for screen readers. */
+
+.screen-reader-text {
+
+	clip: rect(1px, 1px, 1px, 1px);
+
+	position: absolute !important;
+
+	height: 1px;
+
+	width: 1px;
+
+	overflow: hidden;
+
+}
+
+
+
+.screen-reader-text:focus {
+
+	background-color: #f1f1f1;
+
+	border-radius: 3px;
+
+	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+
+	clip: auto !important;
+
+	color: #21759b;
+
+	display: block;
+
+	font-size: 14px;
+
+	font-size: 0.875rem;
+
+	font-weight: bold;
+
+	height: auto;
+
+	left: 5px;
+
+	line-height: normal;
+
+	padding: 15px 23px 14px;
+
+	text-decoration: none;
+
+	top: 5px;
+
+	width: auto;
+
+	z-index: 100000; /* Above WP toolbar. */
+
+}
+
+/*-- end of wp required --*/
+
+#button-collapse-trigger{
+
+	color:#333;
+
+
+
+}
+
+.icon-block {
+
+  padding: 0 15px;
+
+}
+
+/* decide size of body */
+
+header, main, footer {
+
+    padding-left: 300px;
+
+}
+
+ul.sidenav.sidenav-fixed li.logo {
+
+ /*   border-bottom: 1px solid #ddd;*/
+
+    margin-bottom: 5px;
+
+    margin-top: 5px;
+
+    text-align: center;
+
+	height:125px;
+
+	pointer-events:auto;
+
+}
+
+.logo img{
+
+	height:120px;
+
+    display: inline;
+
+}
+
+.header-logo-mobile{
+
+	width:100%;
+
+	height:3rem;
+
+	background:#FFF;
+
+}
+
+a.button-collapse.top-nav {
+
+    color: #fff;
+
+    float: none;
+
+    font-size: 32px;
+
+    height: 48px;
+
+    left: 7.5%;
+
+    margin-left: 1.5rem;
+
+    position: absolute;
+
+    text-align: center;
+
+    top: 0;
+
+    width: 48px;
+
+    z-index: 200;
+
+}
+
+.top-nav>p{
+
+	margin:0;
+
+	font-family: 'Source Serif Pro',  'Roboto';
+
+}
+
+
+
+.sidenav li.logo > a:hover{
+
+	background:none !important;
+
+}
+
+
+
+.footer {
+
+    color: #ffffff;
+
+}
+
+
+
+.section{
+
+	background:#FFF;
+
+}
+
+.container {
+
+	padding:3rem;
+
+}
+
+footer.page-footer{
+
+	 margin-top:0;
+
+	 padding-top:0;
+
+	 background-color:#0b2a58;
+
+}
+
+.splash{
+
+	width:100%;
+
+	min-height:400px;
+
+	max-height:22%;
+
+	background-repeat:no-repeat;
+
+	background-size:cover;
+
+	background-position:center;
+
+}
+
+.pull-left{
+
+	display:block;
+
+	float:left;
+
+}
+
+.frontbox{
+
+	margin-top:2rem;
+
+	padding:1rem;
+
+	background: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75));	
+
+}
+
+
+#searcharea{
+
+	display:block;
+
+	width:100%;
+
+}
+
+.announcement{
+
+		width:85%;
+
+		margin:auto;
+
+		padding:auto;
+
+}
+
+.searchquery{
+
+	width:100%;
+
+	margin-top:5rem;
+
+	margin:auto;
+
+	padding:auto;
+
+}
+
+#primoQueryTemp{
+
+	width:60%;
+
+	line-height:2rem;
+
+}
+
+.switch{
+
+	margin-top: 1rem;
+
+}
+
+.switch label{
+
+	font-size: 1rem;
+
+	color: #FFFFFF;
+
+}
+
+
+
+#primoQueryTemp::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+
+  color:#CECECE;
+
+}
+
+#primoQueryTemp::-moz-placeholder { /* Firefox 19+ */
+
+  color:#CECECE;
+
+	opacity: 1;
+
+}
+
+#primoQueryTemp:-ms-input-placeholder { /* IE 10+ */
+
+  color:#CECECE;
+
+}
+
+#primoQueryTemp:-moz-placeholder { /* Firefox 18- */
+
+  color:#CECECE;
+
+	opacity: 1;
+
+}
+
+#primoQueryTemp::placeholder{
+
+	color:#CECECE;
+
+}
+
+
+#search-button{
+
+	line-height:2rem;
+
+	display:block;
+
+}
+
+#radioscope{
+
+	clear:both;
+
+	display:block;	
+
+	padding-top:1rem;
+
+}
+
+.uiselect_pad{
+
+	display: block;
+
+	clear: both;
+
+	padding-top: 0.5rem;
+
+	padding-bottom: 0.5rem;
+
+	margin-right: 16%;
+
+}
+
+.uiselect_span{
+
+	
+
+}
+
+.reference-box{
+
+	margin-top:1rem;
+
+}
+
+	
+
+.card-panel.small {
+
+  height: 300px;
+
+}
+
+
+
+.card-panel.medium {
+
+   height: 400px; 
+
+}
+
+   
+
+.card-panel.large {
+
+    height: 500px; 
+
+}
+
+	
+
+.whitcolor{
+
+ background: #0b2a58;
+
+ color:#fff;	
+
+}
+
+.colorful{
+
+	background-image:url(/wp-content/themes/whitman/additional/images/artworks/h1_background.jpg);
+
+	background-repeat:no-repeat;
+
+	background-size:cover;
+
+	background-position:center;
+
+	color:#FFF;
+
+}
+
+.page-title{
+
+	 font-size:3rem;
+
+}
+
+.page-title p{
+
+	padding:0.5em;
+
+}
+
+.collapsible-body{
+
+	background:#eee !important;	
+
+}
+
+h4{
+
+	color:#003d7d;
+
+	border-bottom:solid #003d7d;
+
+	font-family:'Source Serif Pro','Roboto';
+
+}
+
+.normal-list li{
+
+	list-style-type:disc !important;
+
+	margin-left:1em !important
+
+}
+
+/* Select Dropdown color */
+
+.dropdown-content li > span{
+
+	color:#1565c0 !important;	
+
+}
+
+.ui-autocomplete {
+
+    background: #fff;
+
+	width:50%;
+
+	z-index:200;
+
+}
+
+.ui-menu-item:hover {
+
+	cursor:pointer;
+
+}
+
+.underline_li li{
+	padding-bottom: 1rem;
+}
+
+
+
+@media only screen and (max-width : 992px) {
+
+  header, main, footer {
+
+    padding-left: 0; } 
+
+}
+
+@media only screen and (max-width: 600px){
+	.frontbox{
+		margin-top:0rem;
+	}
+	.splash > div.container{
+		width:98%;
+		padding:1rem;
+	}
+	#primoQueryTemp{
+	width:90%;
+	line-height:2rem;
+	}
+}
