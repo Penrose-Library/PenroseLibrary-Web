@@ -43,8 +43,8 @@ toc: false
                         </label>
                     </fieldset>
             </div>
-            <div id="search_button" class="col-1">
-                <button id="Search-button" class="btn no-up-margin" style="  position: absolute; bottom: 2.2rem">Search</button>
+            <div id="search_button" class="col-2">
+                <button id="Search-button" class="btn no-up-margin" style="position: absolute; bottom: 2.3rem">Search</button>
             </div>
         </div>
     </form>
