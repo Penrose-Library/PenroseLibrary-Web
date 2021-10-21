@@ -39,10 +39,10 @@
   
   <!-- Accessible-slick -->
   <!-- Add the core slick.min.css -->
-  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/@accessible360/accessible-slick@1.0.1/slick/slick.min.css">
+  <link rel="stylesheet" type="text/css" href="{{ "css/slick.min.css" | relURL }}">
   <!-- Add ONE of the theme files (accessible version or original) -->
-  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/@accessible360/accessible-slick@1.0.1/slick/slick-theme.min.css">
-  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/@accessible360/accessible-slick@1.0.1/slick/slick.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="{{ "css/slick-theme.min.css" | relURL }}">
+  <script type="text/javascript" src="{{ "js/slick.min.js" | relURL }}"></script>
   {{ $title := print .Title " | " .Site.Title }}
   {{ if .IsHome }}
     {{ $title = .Site.Title }}
