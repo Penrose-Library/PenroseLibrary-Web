@@ -2,11 +2,13 @@
 {{ $file | safeHTML }}
 <script>
   $(document).ready(function() {
-  $('.accessible-carousel').slick({
-  autoplay: true,
-  autoplaySpeed: 9000,
-  dots: false
-  }); 
+ if($('div.accessible-carousel-element').length>1){
+    $('.accessible-carousel').slick({
+    autoplay: true,
+    autoplaySpeed: 9000,
+    dots: false
+    }); 
+  }
 });
 </script>
 {{end}}
