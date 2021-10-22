@@ -1,9 +1,6 @@
 name: github pages
 
-on:
-  push:
-    branches:
-      - '**'   # Set a branch to deploy
+on: push
 
 jobs:
   deploy:
