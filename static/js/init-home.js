@@ -63,7 +63,7 @@ var librarian = {
 	    refhtml='<p>If you need help, please send us an email using the link above.</p>';
 		console.log(hours.items.length);
 		x=hours.items.length-1;
-		if(hours.items[x]){
+		if(hours.items[x] && x >= 0){
 		const now = new Date();
         const start = new Date(hours.items[x].start.dateTime); 
         const end = new Date(hours.items[x].end.dateTime); 
