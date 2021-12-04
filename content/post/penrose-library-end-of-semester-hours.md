@@ -1,8 +1,8 @@
 ---
 title: Penrose Library End-of-Semester Hours
 date: 2021-12-03T23:23:10.667Z
-thumbnail: /uploads/wca080_14t_052_026.jpg
-thumbnail_alt: Historical photo of Penrose Library
+thumbnail: /uploads/101207_penrose-library-photos2485.jpg
+thumbnail_alt: Penrose Library End-of-Semester Hours
 ---
 Penrose Library will be open for special extended hours for the end of the semester, beginning this Sunday!\
 \
