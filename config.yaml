@@ -49,8 +49,8 @@ menu:
     - name: Library Services & FAQ
       url: /library_services/
       weight: 7
-    - name: Contact Librarians & Staff
-      url: /contact_librarian/
+    - name: Contact Library Staff
+      url: /contact_librarystaff/
       weight: 6       
     - name: Faculty Services
       url: /faculty_services/

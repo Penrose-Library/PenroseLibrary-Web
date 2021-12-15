@@ -1,7 +1,9 @@
 ---
-date: "2021-07-06"
-title: "Contact Librarians & Staff"
-aliases: /contact-a-librarian
+date: "2021-12-15"
+title: "Contact Library Staff"
+aliases: 
+ - /contact-a-librarian
+ - /contact_librarian
 ---
 <style>
 a{
