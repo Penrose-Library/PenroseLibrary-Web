@@ -71,7 +71,7 @@ $(document).ready(function(e) {
 								if(arr.length>=2){
 									sname= Strings.orEmpty(arr[0].first_name)+' '+ Strings.orEmpty(arr[0].last_name)+'/'+ Strings.orEmpty(arr[1].first_name)+' '+ Strings.orEmpty(arr[1].last_name);	
 								}
-								 var output='<tr><td><a href="http://sherlock.whitman.edu/primo_library/libweb/action/dlSearch.do?institution=WHITC&vid=WHITC_NEW&tab=default_tab&mode=Basic&group=GUEST&onCampus=true&displayMode=full&displayField=all&search_scope=whitman_cr&query=any,contains,'+msg[prop].code+'">'+msg[prop].code+'</a></td><td>'+sname+'</td></tr>';
+								 var output='<tr><td><a href="https://sherlock.whitman.edu/primo-explore/search?tab=default_tab&search_scope=whitman_cr&vid=WHITC_NEW&mode=advanced&offset=0&query=lsr01,contains,'+msg[prop].code+'">'+msg[prop].code+'</a></td><td>'+sname+'</td></tr>';
 								$('#tbd-course').append(output);
 								}
    							 });
