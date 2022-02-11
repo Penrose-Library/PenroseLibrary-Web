@@ -239,7 +239,7 @@ $(document).ready(function(e) {
     </tr>
     <tr>
         <th headers="irs" id="part79" colspan="2">
-          <img class="responsive-img" src="/images/staffimage/Ari_Kirby.jpeg" alt="Ari Kirby" />
+          <img class="responsive-img" src="/images/staffimage/Ari_Kirby.jpeg" alt="Ari Kirby" style="max-width:180px" />
         </th>
         <td headers="irs part79 name" colspan="2">
             <p>Ari Kirby</p>
