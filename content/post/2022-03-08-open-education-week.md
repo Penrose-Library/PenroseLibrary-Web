@@ -1,7 +1,7 @@
 ---
 title: Open Education Week
 date: 2022-03-08T23:37:04.452Z
-thumbnail: /uploads/pixel-cells-g93b5927d3_640.jpg
+thumbnail: /uploads/pixel-cells-small.jpg
 thumbnail_alt: Book character adds a book, recorder, laptop and calendar to a
   blender for "blended learning." Image by Manfred Steger from Pixabay.
 ---
