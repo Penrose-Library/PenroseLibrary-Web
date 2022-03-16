@@ -29,6 +29,10 @@
 .no-up-margin{
     margin-top: 0;
 }
+/*  LibGuides A-Z ADA link hack */
+.pad-left-sm{
+  display: hidden;
+}
 
 #homepage-main-and-footer{
   background-image: url('/images/img_9.png');
