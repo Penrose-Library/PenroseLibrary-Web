@@ -28,3 +28,13 @@ collections:
         fields:
         - {label: "Publish Date", name: "date", widget: "datetime"}
         - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Announcement"
+    label: "announcement"
+    create: false
+    slug: "{{slug}}"
+    files:
+      - file: "content/announcement.md"
+        label: "Homepage Announement"
+        name: "announcement"
+        fields:
+        - {label: "Body", name: "body", widget: "text"}
