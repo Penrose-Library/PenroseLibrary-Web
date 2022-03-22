@@ -22,9 +22,29 @@ collections:
     create: false
     slug: "{{slug}}"
     files:
-      - file: "content/_index.md"
+      - file: "content/_index.html"
         label: "Home Page"
         name: "home"
         fields:
         - {label: "Publish Date", name: "date", widget: "datetime"}
         - {label: "Body", name: "body", widget: "markdown"}
+  - name: "plan your visit"
+    label: "planyourvisit"
+    create: false
+    slug: "{{slug}}"
+    files:
+      - file: "content/planyourvisit.html"
+        label: "Plan your Visit"
+        name: "planyourvisit"
+        fields:
+        - {label: "Body", name: "body", widget: "markdown", modes: "raw"}
+  - name: "Announcement"
+    label: "announcement"
+    create: false
+    slug: "{{slug}}"
+    files:
+      - file: "content/announcement.html"
+        label: "Homepage Announement"
+        name: "announcement"
+        fields:
+        - {label: "Body", name: "body", widget: "markdown", modes: "raw"}
