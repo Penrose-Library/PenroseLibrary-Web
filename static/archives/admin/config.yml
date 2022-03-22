@@ -37,4 +37,4 @@ collections:
         label: "Homepage Announement"
         name: "announcement"
         fields:
-        - {label: "Body", name: "body", widget: "text"}
+        - {label: "Body", name: "body", widget: "html"}
