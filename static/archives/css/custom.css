@@ -76,13 +76,14 @@
   border: none;
   width:100%;
 }
-#announcement{
-  padding: 2rem;
-  max-width: 40rem;
-  margin: 0 auto;
-  margin-bottom: 4rem;
-  min-height: 2rem;
+
+#announcement {
+    padding: 1rem 2rem;
+    max-width: 40rem;
+    margin: 0 auto;
+    min-height: 2rem;
 }
+
 #announcement:not(:empty){
   background-color: rgba(255, 255, 255, 0.8); /* home page background transpancy */
 }
@@ -126,4 +127,3 @@
      margin-top: 0;
    }
   }
-  
