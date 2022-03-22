@@ -37,7 +37,7 @@ collections:
         label: "Plan your Visit"
         name: "planyourvisit"
         fields:
-        - {label: "Body", name: "body", widget: "markdown", modes: "raw"}
+        - {label: "Body", name: "body", widget: "markdown"}
   - name: "Announcement"
     label: "announcement"
     create: false
@@ -47,4 +47,4 @@ collections:
         label: "Homepage Announement"
         name: "announcement"
         fields:
-        - {label: "Body", name: "body", widget: "markdown", modes: "raw"}
+        - {label: "Body", name: "body", widget: "markdown"}
