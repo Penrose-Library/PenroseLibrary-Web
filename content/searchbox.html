@@ -1,10 +1,9 @@
 <form id="simple" class="form-group no-up-margin nobackground container-fluid"
-  action="https://sherlock.whitman.edu/primo-explore/search"
+  action="https://alliance-whitman.primo.exlibrisgroup.com/discovery/search"
   enctype="application/x-www-form-urlencoded; charset=utf-8" method="get"
   name="searchForm" onsubmit="searchevent();">
   <!-- Customizable Parameters -->
-  <input name="institution" type="hidden" value="WHITC" />
-  <input name="vid" type="hidden" value="WHITC_NEW" />
+  <input name="vid" type="hidden" value="01ALLIANCE_WHITC:WHITC_NEW" />
   <input id="tab_select" name="tab" type="hidden" />
   <input id="scopes" name="search_scope" type="hidden" />
   <input name="mode" type="hidden" value="Basic" />
@@ -28,11 +27,11 @@
         style="margin-top:0" class="nobackground">
         <legend style="display:none">Select a search scope</legend>
         <label style="margin-top:1em">
-          <input id="penrose" class="form-check-input" checked="checked"
-            name="search_scope_temp" type="radio" value="whitman"
-            aria-describedby="penrose-tooltip" />
-          <span id="penrose-tooltip" class="js-simple-tooltip form-check-label"
-            data-simpletooltip-text="Print and e-books, journals and e-journals, special collections, and audiovisual materials owned by Penrose Library.">Whitman</span>
+          <input id="everything" class="form-check-input" name="search_scope_temp"
+            type="radio" value="everything" checked="checked"
+            aria-describedby="everything-tooltip" />
+          <span id="everything-tooltip" class="js-simple-tooltip form-check-label"
+            data-simpletooltip-text="Combine Whitman + Summit + Articles in one blended search.">Everything</span>
         </label>
         <label style="margin-top:1em">
           <input id="summit" class="form-check-input" name="search_scope_temp"
@@ -47,12 +46,11 @@
             data-simpletooltip-text="Scholarly articles and other content from many of Whitman's databases in all disciplines.">Articles</span>
         </label>
         <label style="margin-top:1em">
-          <input id="everything" class="form-check-input"
-            name="search_scope_temp" type="radio" value="everything"
-            aria-describedby="everything-tooltip" />
-          <span id="everything-tooltip"
-            class="js-simple-tooltip form-check-label"
-            data-simpletooltip-text="Combine Whitman + Summit + Articles in one blended search.">Everything</span>
+            <input id="penrose" class="form-check-input"
+              name="search_scope_temp" type="radio" value="whitman"
+              aria-describedby="penrose-tooltip" />
+              <span id="penrose-tooltip" class="js-simple-tooltip form-check-label"
+                data-simpletooltip-text="Print and e-books, journals and e-journals, special collections, and audiovisual materials owned by Penrose Library.">Whitman</span>
         </label>
       </fieldset>
     </div>
