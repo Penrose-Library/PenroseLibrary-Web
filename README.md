@@ -16,6 +16,18 @@ An accessibility-friendly Hugo theme, ported from the [original Cupper](https://
 
 Your local hugo instance will re-compile the website everytime you change a file in the folder.
 
+## custom shortcode 
+
+announcement shortcode
+example:
+{{% announcement file="announcement.html" %}}
+shortcode name announcement. change the filename to the file you wish to include. It will wrap the content of included html file within a div with id "announcement". This will trigger css styles that apply to the announcement id. This is designed for homepage banner. It will show up when announcement.html have at least 2 strings and hide when empty.
+
+include shortcode
+{{% include file="searchbox.html" %}}
+change the filename to the file you wish to include. It will include the file as is but Markdown code will be parsed. The file has to contain at least 2 strings.
+
+shotcode file is under themes folder layouts/shortcode
 
 ## System Structure
 
