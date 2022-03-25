@@ -1,4 +1,4 @@
 {{ $file := .Get "file" | readFile }}
 {{if gt (len $file) 2}}
-{{ (print $file ) | markdownify }}
+    {{ (print $file ) | markdownify }}
 {{end}}
