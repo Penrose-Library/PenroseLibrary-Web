@@ -19,7 +19,7 @@ function searchevent() {
 			  break;
 			  case 'whitman':
 			  $('#tab_select').val('default_tab');
-			  $('#scopes').val('whitman_lib');
+			  $('#scopes').val('MyInstitution');
 			  $('#primoQueryTemp').attr('placeholder','Search Whitman Library');
 			  break;
 			  }
