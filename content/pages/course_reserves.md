@@ -31,7 +31,8 @@ Enter course number, instructor's name, or choose from list below.
 <thead>
 <tr>
 <th data-field="id">Course</th>
-<th data-field="name">Instructor</th>
+<th data-field="name">Course Name</th>
+<th data-field="instructor">Instructor</th>
 </tr>
 </thead>
 <tbody id="tbd-course"></tbody>
@@ -71,8 +72,8 @@ $(document).ready(function(e) {
 								if(arr.length>=2){
 									sname= Strings.orEmpty(arr[0].first_name)+' '+ Strings.orEmpty(arr[0].last_name)+'/'+ Strings.orEmpty(arr[1].first_name)+' '+ Strings.orEmpty(arr[1].last_name);	
 								}
-								 var output='<tr><td><a href="https://sherlock.whitman.edu/primo-explore/search?tab=default_tab&search_scope=whitman_cr&vid=WHITC_NEW&mode=advanced&offset=0&query=lsr01,contains,'+msg[prop].code+'">'+msg[prop].code+'</a></td><td>'+sname+'</td></tr>';
-								$('#tbd-course').append(output);
+								 var output='<tr><td><a href="https://sherlock.whitman.edu/primo-explore/search?tab=default_tab&search_scope=whitman_cr&vid=WHITC_NEW&mode=advanced&offset=0&query=lsr01,contains,'+msg[prop].code+'">'+msg[prop].code+'</a></td><td>'+msg[prop].name+'</td><td>'+sname+'</td></tr>';
+								 $('#tbd-course').append(output);
 								}
    							 });
 	$("#primoQueryTemp").change(function(){
