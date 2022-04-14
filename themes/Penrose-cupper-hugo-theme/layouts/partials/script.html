@@ -12,5 +12,5 @@
 {{ end }}
 
 {{ range .Site.Params.customJs }}
-  <script src="{{ . | relURL }}"></script>
+  <script src="{{ . | relURL }}" defer></script>
 {{ end }}
