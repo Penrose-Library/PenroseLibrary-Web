@@ -27,7 +27,7 @@
   </style>
 
   <link rel="stylesheet" href="{{ "css/prism.css" | relURL }}" media="none" onload="this.media='all';">
-  <script src="{{ "js/jquery-3.6.0.min.js" | relURL }}" defer></script>
+  <script src="{{ "js/jquery-3.6.0.min.js" | relURL }}"></script>
   {{ $templateStyles := resources.Get "css/template-styles.css" }}
   {{ $styles := $templateStyles | resources.ExecuteAsTemplate "css/styles.css" . }}
   <link rel="stylesheet" type="text/css" href="{{ $styles.RelPermalink }}">
@@ -42,7 +42,7 @@
   <link rel="stylesheet" type="text/css" href="{{ "css/slick.min.css" | relURL }}">
   <!-- Add ONE of the theme files (accessible version or original) -->
   <link rel="stylesheet" type="text/css" href="{{ "css/slick-theme.min.css" | relURL }}">
-  <script type="text/javascript" src="{{ "js/slick.min.js" | relURL }}" defer></script>
+  <script type="text/javascript" src="{{ "js/slick.min.js" | relURL }}"></script>
   {{ $title := print .Title " | " .Site.Title }}
   {{ if .IsHome }}
     {{ $title = .Site.Title }}
