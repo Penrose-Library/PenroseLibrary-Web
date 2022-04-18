@@ -1,9 +1,10 @@
 ---
-date: "2021-12-15"
-title: "Contact Library Staff"
+title: Contact Library Staff
+date: 2021-12-15
 aliases:
- - /contact-a-librarian
- - /contact_librarian
+  - /contact-a-librarian
+  - /contact_librarian
+url: contact_librarystaff
 ---
 <style>
 a{
@@ -321,6 +322,7 @@ $(document).ready(function(e) {
         </ul>
         </td>
     </tr>
+<!--
     <tr>
         <th headers="archives" id="part10" colspan="2">
             <img class="responsive-img" src="/archives/images/DANA-BRONSON_2019.png" alt="Dana Bronson" />
@@ -355,7 +357,7 @@ $(document).ready(function(e) {
                 <li>Answering questions about college and local history</li>
             </ul>
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <th id="collection" class="span" colspan="5" scope="colgroup">
           Collection Management
