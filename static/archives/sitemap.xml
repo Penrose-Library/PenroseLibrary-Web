@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://library.whitman.edu/archives/pages/</loc>
+    <lastmod>2022-05-03T14:54:26-07:00</lastmod>
+  </url><url>
+    <loc>https://library.whitman.edu/archives/test/</loc>
+    <lastmod>2022-05-03T14:54:26-07:00</lastmod>
+  </url><url>
     <loc>https://library.whitman.edu/archives/access-policy/</loc>
     <lastmod>2022-04-14T17:36:36-07:00</lastmod>
-  </url><url>
-    <loc>https://library.whitman.edu/archives/pages/</loc>
-    <lastmod>2022-05-03T14:51:17-07:00</lastmod>
   </url><url>
     <loc>https://library.whitman.edu/archives/walla-walla-coronavirus-stories/</loc>
     <lastmod>2021-08-16T14:51:19-07:00</lastmod>
