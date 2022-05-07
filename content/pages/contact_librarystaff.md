@@ -446,6 +446,7 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
+<!---
     <tr>
         <th id="systems" class="span" colspan="5" scope="colgroup">
           Systems
@@ -474,6 +475,6 @@ $(document).ready(function(e) {
                 </li>
             </ul>
         </td>
-    </tr>
+    </tr>--->
 </tbody>
 </table>
