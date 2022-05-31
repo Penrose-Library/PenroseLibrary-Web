@@ -4,7 +4,7 @@ date: 2022-05-31T22:28:01.044Z
 thumbnail: /uploads/horse_penrose.jpg
 thumbnail_alt: Two students walking outside Penrose Library on a sunny day
 ---
-For the summer, we will be open from 9-5, Monday through Friday. We are open to everyone. Visitors who are not members of the Whitman Community who have registered their vaccine status with the college will have to show proof of vaccination at the circulation desk.
+For the summer, we will be open from 9-5, Monday through Friday. We are open to everyone. Whitman is a fully vaccinated campus; visitors who are not members of the Whitman Community who have registered their vaccine status with the college will have to show proof of vaccination at the circulation desk.
 
 We will be closed on the following holidays: June 20, July 4-5.
 
