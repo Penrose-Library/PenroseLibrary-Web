@@ -11,6 +11,7 @@ a{
         word-break: break-all;
 }
 </style>
+
 <script type="text/javascript">
 $(document).ready(function(e) {
     $('#s-la-askform-submit-21757').click(function(e) {
@@ -322,33 +323,14 @@ $(document).ready(function(e) {
         </ul>
         </td>
     </tr>
-<!--
-    <tr>
-        <th headers="archives" id="part10" colspan="2">
-            <img class="responsive-img" src="/archives/images/DANA-BRONSON_2019.png" alt="Dana Bronson" />
-        </th>
-        <td headers="archives part10 name" colspan="2">
-            <p>Dana Bronson</p>
-            <p>Associate Archivist</p>
-            <p><a href="mailto:bronsodm@whitman.edu">bronsodm@whitman.edu</a></p>
-            <p><a href="tel:+15095264703">509-526-4703</a></p>
-        </td>
-        <td headers="archives part10 resp" colspan="3">
-            <ul>
-                <li>Providing classroom instruction with archival materials</li>
-                <li>Providing one-on-one consultation</li>
-                <li>Answering questions about college and local history</li>
-            </ul>
-        </td>
-    </tr>
     <tr>
         <th headers="archives" id="part11" colspan="2">
-            <img class="responsive-img" src="/archives/images/JOEL-GAYTAN_2019.png" alt="Joel Gaytan" />
+          <!---  <img class="responsive-img" src="/archives/images/JOEL-GAYTAN_2019.png" alt="Joel Gaytan" /> --->
         </th>
         <td headers="archives part11 name" colspan="2">
-            <p>Joel Gaytan</p>
+            <p>West Bales</p>
             <p>Archive Assistant</p>
-            <p><a href="mailto:gaytanj@whitman.edu">gaytanj@whitman.edu</a></p>
+            <p><a href="mailto:skrobiwd@whitman.edu">skrobiwd@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5922">509-527-5922</a></p>
         </td>
         <td headers="archives part11 resp" colspan="3">
@@ -357,7 +339,7 @@ $(document).ready(function(e) {
                 <li>Answering questions about college and local history</li>
             </ul>
         </td>
-    </tr> -->
+    </tr> 
     <tr>
         <th id="collection" class="span" colspan="5" scope="colgroup">
           Collection Management
