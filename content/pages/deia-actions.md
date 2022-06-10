@@ -3,7 +3,7 @@ title: DEIA Actions
 url: /deiaactions
 date: 2022-06-10T22:05:44.839Z
 ---
-Penrose Library supports Whitman College's efforts towards Diversity, Equity and Inclusion and we have drafted our own [statement](https://docs.google.com/document/d/1sUzldISAU4UXiJv7tSdU9uIMB1FkjSWPUhRE4V5DOO8/edit) affirming this. These examples are ways we as a library have begun to create more inclusive and responsive library services and spaces. However, we recognize that this work is ongoing and never complete. We welcome feedback on how we can continue to improve Penrose Library   
+Penrose Library supports Whitman College's efforts towards Diversity, Equity and Inclusion and we have drafted our own statement affirming this. These examples are ways we as a library have begun to create more inclusive and responsive library services and spaces. However, we recognize that this work is ongoing and never complete. We welcome feedback on how we can continue to improve Penrose Library   
 
 ### Collections and Metadata
 
