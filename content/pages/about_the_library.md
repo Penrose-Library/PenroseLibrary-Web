@@ -1,6 +1,6 @@
 ---
 title: About the Library
-url: about_the_library
+url: /about_the_library
 date: 2021-08-16
 ---
 ## Penrose Library: An Educational Partner
