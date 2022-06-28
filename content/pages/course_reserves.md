@@ -65,14 +65,14 @@ $(document).ready(function(e) {
 								$('#loading').html('<p></p>');
 								for(var prop in msg){
 								var arr = $.map(msg[prop].instructor, function(el) { return el; });
-								sname=' ';						
+								sname=' ';
 								if(arr.length==1){
 									sname= Strings.orEmpty(arr[0].first_name)+' '+ Strings.orEmpty(arr[0].last_name);
 								}
 								if(arr.length>=2){
-									sname= Strings.orEmpty(arr[0].first_name)+' '+ Strings.orEmpty(arr[0].last_name)+'/'+ Strings.orEmpty(arr[1].first_name)+' '+ Strings.orEmpty(arr[1].last_name);	
+									sname= Strings.orEmpty(arr[0].first_name)+' '+ Strings.orEmpty(arr[0].last_name)+'/'+ Strings.orEmpty(arr[1].first_name)+' '+ Strings.orEmpty(arr[1].last_name);
 								}
-								 var output='<tr><td><a href="https://sherlock.whitman.edu/primo-explore/search?tab=default_tab&search_scope=whitman_cr&vid=WHITC_NEW&mode=advanced&offset=0&query=lsr01,contains,'+msg[prop].code+'">'+msg[prop].code+'</a></td><td>'+msg[prop].name+'</td><td>'+sname+'</td></tr>';
+								 var output='<tr><td><a href="https://sherlock.whitman.edu/discovery/search?tab=default_tab&search_scope=whitman_cr&vid=01ALLIANCE_WHITC:WHITC_NEW&mode=advanced&offset=0&query=course_code,contains,'+msg[prop].code+'">'+msg[prop].code+'</a></td><td>'+msg[prop].name+'</td><td>'+sname+'</td></tr>';
 								 $('#tbd-course').append(output);
 								}
    							 });
