@@ -83,7 +83,7 @@ Physics — [Amy Blau](mailto:blauar@whitman.edu) — 509-527-4905
 
 ### Interdisciplinary Programs
 
-Asian Studies — [Lee Keene](mailto:keenelp@whitman.edu) — 509-527-5917
+Asian and Middle Eastern Studies — [Lee Keene](mailto:keenelp@whitman.edu) — 509-527-5917
 
 Biochemistry, Biophysics & Molecular Biology — [Roger Stelk](mailto:stelkre@whitman.edu) — 509-527-5909
 
