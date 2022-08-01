@@ -174,14 +174,11 @@ $(document).ready(function(e) {
             <li>Scheduling the CTL Classroom</li>
             <li>Liaison for:
                 <ul>
-                    <li>Anthropology</li>
-                    <li>Asian Studies</li>
-                    <li>Environmental Studies</li>
-                    <li>English</li>
-                    <li>Global Studies</li>
-                    <li>Politics</li>
-                    <li>SSRA</li>
-                    <li>Writing Center</li>
+                    <li>Classics</li>
+                    <li>Foreign Languages</li>
+                    <li>Hispanic Studies</li>
+                    <li>Chemistry </li>
+                    <li>Physics</li>
                 </ul>
             </li>
             </ul>
