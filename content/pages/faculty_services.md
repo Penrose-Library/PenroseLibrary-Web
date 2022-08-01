@@ -1,6 +1,7 @@
 ---
-date: "2019-04-09"
-title: "Faculty Services"
+title: Faculty Services
+url: /faculty_services
+date: 2019-04-09
 ---
 
 In brief, [Top 10 Things for Faculty to know about Penrose
@@ -85,8 +86,6 @@ Physics — [Amy Blau](mailto:blauar@whitman.edu) — 509-527-4905
 Asian Studies — [Lee Keene](mailto:keenelp@whitman.edu) — 509-527-5917
 
 Biochemistry, Biophysics & Molecular Biology — [Roger Stelk](mailto:stelkre@whitman.edu) — 509-527-5909
-
-Encounters — [Amy Blau](mailto:blauar@whitman.edu) — 509-527-4905
 
 Environmental Studies — [Lee Keene](mailto:keenelp@whitman.edu) — 509-527-5917
 
