@@ -1,7 +1,7 @@
 ---
 title: Take our online tour and win a prize!
 date: 2022-08-23T21:27:00.856Z
-thumbnail: /uploads/books-pattern-desktop-wallpaper.jpg
+thumbnail: /uploads/books-pattern-desktop-wallpaper-1-.jpg
 thumbnail_alt: Text reading Welcome to Penrose! on a blue background of drawn books
 ---
 # **[Intro to the Library](https://libguides.whitman.edu/intro)**
