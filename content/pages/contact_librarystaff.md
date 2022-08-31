@@ -322,6 +322,27 @@ $(document).ready(function(e) {
         </ul>
         </td>
     </tr>
+
+  <tr>
+        <th headers="archives" id="part11" colspan="2">
+          
+        </th>
+        <td headers="archives part11 name" colspan="2">
+            <p>River Freemont</p>
+            <p>Associate Archivist</p>
+            <p><a href="mailto:freemonr@whitman.edu">freemonr@whitman.edu</a></p>
+            <p><a href="tel:+1509-526-5922">509-526-4703</a></p>
+        </td>
+        <td headers="archives part11 resp" colspan="3">
+            <ul>
+                <li>College & Northwest Archives </li>
+
+<li>Answering questions about college and local history</li>
+
+<li>Providing one-on-one consultation</li>
+            </ul>
+        </td>
+    </tr> 
     <tr>
         <th headers="archives" id="part11" colspan="2">
           <!---  <img class="responsive-img" src="/archives/images/JOEL-GAYTAN_2019.png" alt="Joel Gaytan" /> --->
@@ -339,7 +360,8 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr> 
-    <tr>
+
+\    <tr>
         <th id="collection" class="span" colspan="5" scope="colgroup">
           Collection Management
         </th>
