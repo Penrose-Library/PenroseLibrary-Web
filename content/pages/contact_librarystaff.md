@@ -340,10 +340,9 @@ $(document).ready(function(e) {
         </ul>
         </td>
     </tr>
-
   <tr>
-     <th headers="archives" id="part12" colspan="2">\
-</th>
+     <th headers="archives" id="part12" colspan="2">
+	</th>
         <td headers="archives part12 name" colspan="2">
             <p>River Freemont</p>
             <p>Associate Archivist</p>
@@ -353,16 +352,13 @@ $(document).ready(function(e) {
         <td headers="archives part12 resp" colspan="3">
             <ul>
                 <li>College & Northwest Archives </li>
-
-<li>Answering questions about college and local history</li>
-
-<li>Providing one-on-one consultation</li>
+                <li>Answering questions about college and local history</li>
+                <li>Providing one-on-one consultation</li>
             </ul>
         </td>
     </tr> 
     <tr>
-<th headers="archives" id="part13" colspan="2">
-     
+		<th headers="archives" id="part13" colspan="2">   
         </th>
         <td headers="archives part13 name" colspan="2">
             <p>West Bales</p>
@@ -376,9 +372,7 @@ $(document).ready(function(e) {
                 <li>Answering questions about college and local history</li>
             </ul>
         </td>
-    </tr> 
-
-<tr>
+    </tr><tr>
         <th id="collection" class="span" colspan="5" scope="colgroup">
           Collection Management
         </th>
