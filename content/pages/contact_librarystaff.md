@@ -358,7 +358,7 @@ $(document).ready(function(e) {
         </td>
     </tr> 
     <tr>
-		<th headers="archives" id="part13" colspan="2">   
+	<th headers="archives" id="part13" colspan="2">   
         </th>
         <td headers="archives part13 name" colspan="2">
             <p>West Bales</p>
