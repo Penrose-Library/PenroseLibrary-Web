@@ -290,6 +290,24 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
+
+  <tr>
+    <th headers="irs" id="part8" colspan="2">
+        </th>
+        <td headers="irs part8 name" colspan="2">
+            <p>Anders Otterness</p>
+            <p>Circulation Supervisor (Mornings)</p>
+            <p><a href="mailto:otterna@whitman.edu">otterna@whitman.edu</a></p>
+            <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
+        </td>
+        <td headers="irs part8 resp" colspan="3">
+            <ul>
+                <li>Circulation issues</li>
+                <li>Summit Request</li>
+                <li>Interlibrary Loan</li>
+            </ul>
+        </td>
+    </tr>
     <tr>
         <th id="archives" class="span" colspan="5" scope="colgroup">
            Whitman College and Northwest Archives
@@ -324,8 +342,8 @@ $(document).ready(function(e) {
     </tr>
 
   <tr>
-        <th headers="archives" id="part11" colspan="2">
-          
+     <th headers="archives" id="part9" colspan="2">
+        
         </th>
         <td headers="archives part11 name" colspan="2">
             <p>River Freemont</p>
@@ -344,8 +362,8 @@ $(document).ready(function(e) {
         </td>
     </tr> 
     <tr>
-        <th headers="archives" id="part11" colspan="2">
-          <!---  <img class="responsive-img" src="/archives/images/JOEL-GAYTAN_2019.png" alt="Joel Gaytan" /> --->
+<th headers="archives" id="part9" colspan="2">
+     
         </th>
         <td headers="archives part11 name" colspan="2">
             <p>West Bales</p>
@@ -449,6 +467,7 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
+
 <!---
     <tr>
         <th id="systems" class="span" colspan="5" scope="colgroup">
@@ -479,5 +498,6 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>--->
+
 </tbody>
 </table>
