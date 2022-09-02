@@ -239,16 +239,16 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="irs" id="part79" colspan="2">
+        <th headers="irs" id="part7" colspan="2">
           <img class="responsive-img" src="/images/staffimage/Ari_Kirby.jpeg" alt="Ari Kirby" style="max-width:180px" />
         </th>
-        <td headers="irs part79 name" colspan="2">
+        <td headers="irs part7 name" colspan="2">
             <p>Ari Kirby</p>
             <p>Access Service Manager</p>
             <p><a href="mailto:kirbyk@whitman.edu">kirbyk@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
         </td>
-        <td headers="irs part79 resp" colspan="3">
+        <td headers="irs part7 resp" colspan="3">
             <ul>
                 <li>Circulation and course reserve</li>
                 <li>Summit Request</li>
@@ -257,15 +257,15 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="irs" id="part7" colspan="2">
+        <th headers="irs" id="part8" colspan="2">
         </th>
-        <td headers="irs part7 name" colspan="2">
+        <td headers="irs part8 name" colspan="2">
             <p>Christel Holce</p>
             <p>Circulation Supervisor</p>
             <p><a href="mailto:holceci@whitman.edu">holceci@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
         </td>
-        <td headers="irs part7 resp" colspan="3">
+        <td headers="irs part8 resp" colspan="3">
             <ul>
                 <li>Circulation issues</li>
                 <li>Summit Request</li>
@@ -274,15 +274,15 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-    <th headers="irs" id="part8" colspan="2">
+    <th headers="irs" id="part9" colspan="2">
         </th>
-        <td headers="irs part8 name" colspan="2">
+        <td headers="irs part9 name" colspan="2">
             <p>Dona LaFran</p>
             <p>Circulation Supervisor (Weekend)</p>
             <p><a href="mailto:lafrand@whitman.edu">lafrand@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
         </td>
-        <td headers="irs part8 resp" colspan="3">
+        <td headers="irs part9 resp" colspan="3">
             <ul>
                 <li>Circulation issues</li>
                 <li>Summit Request</li>
@@ -292,15 +292,15 @@ $(document).ready(function(e) {
     </tr>
 
   <tr>
-    <th headers="irs" id="part8" colspan="2">
+    <th headers="irs" id="part10" colspan="2">
         </th>
-        <td headers="irs part8 name" colspan="2">
+        <td headers="irs part10 name" colspan="2">
             <p>Anders Otterness</p>
             <p>Circulation Supervisor (Mornings)</p>
             <p><a href="mailto:otterna@whitman.edu">otterna@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
         </td>
-        <td headers="irs part8 resp" colspan="3">
+        <td headers="irs part10 resp" colspan="3">
             <ul>
                 <li>Circulation issues</li>
                 <li>Summit Request</li>
@@ -314,16 +314,16 @@ $(document).ready(function(e) {
         </th>
     </tr>
     <tr>
-        <th headers="archives" id="part9" colspan="2">
+        <th headers="archives" id="part11" colspan="2">
         <img class="responsive-img" src="/archives/images/BEN-MURPHY_2019.png" alt="Ben Murphy" />
         </th>
-        <td headers="archives part9 name" colspan="2">
+        <td headers="archives part11 name" colspan="2">
             <p>Ben Murphy</p>
             <p>Archivist &amp; Head of Digital Services</p>
             <p><a href="mailto:murphybp@whitman.edu">murphybp@whitman.edu</a></p>
             <p><a href="tel:+15095274731">509-526-4731</a></p>
         </td>
-        <td headers="archives part9 resp" colspan="3">
+        <td headers="archives part11 resp" colspan="3">
         <ul>
             <li>College &amp; Northwest Archives</li>
             <li>Rare books</li>
@@ -342,16 +342,16 @@ $(document).ready(function(e) {
     </tr>
 
   <tr>
-     <th headers="archives" id="part9" colspan="2">
+     <th headers="archives" id="part12" colspan="2">
         
         </th>
-        <td headers="archives part11 name" colspan="2">
+        <td headers="archives part12 name" colspan="2">
             <p>River Freemont</p>
             <p>Associate Archivist</p>
             <p><a href="mailto:freemonr@whitman.edu">freemonr@whitman.edu</a></p>
             <p><a href="tel:+1509-526-5922">509-526-4703</a></p>
         </td>
-        <td headers="archives part11 resp" colspan="3">
+        <td headers="archives part12 resp" colspan="3">
             <ul>
                 <li>College & Northwest Archives </li>
 
@@ -362,16 +362,16 @@ $(document).ready(function(e) {
         </td>
     </tr> 
     <tr>
-<th headers="archives" id="part9" colspan="2">
+<th headers="archives" id="part13" colspan="2">
      
         </th>
-        <td headers="archives part11 name" colspan="2">
+        <td headers="archives part13 name" colspan="2">
             <p>West Bales</p>
             <p>Archive Assistant</p>
             <p><a href="mailto:skrobiwd@whitman.edu">skrobiwd@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5922">509-527-5922</a></p>
         </td>
-        <td headers="archives part11 resp" colspan="3">
+        <td headers="archives part13 resp" colspan="3">
             <ul>
                 <li>General inquiries about the Archives</li>
                 <li>Answering questions about college and local history</li>
@@ -379,22 +379,22 @@ $(document).ready(function(e) {
         </td>
     </tr> 
 
-\    <tr>
+<tr>
         <th id="collection" class="span" colspan="5" scope="colgroup">
           Collection Management
         </th>
     </tr>
     <tr>
-        <th headers="collection" id="part12" colspan="2">
+        <th headers="collection" id="part14" colspan="2">
             <img class="responsive-img" src="/images/staffimage/rogerpic.png" alt="Roger Stelk" />
         </th>
-        <td headers="collection part12 name" colspan="2">
+        <td headers="collection part14 name" colspan="2">
             <p>Roger Stelk</p>
             <p>Head of Collection Management</p>
             <p><a href="mailto:stelkre@whitman.edu">stelkre@whitman.edu</a></p>
             <p><a href="tel:+15095275909">509-527-5909</a></p>
         </td>
-        <td headers="collection part12 resp" colspan="3">
+        <td headers="collection part14 resp" colspan="3">
             <ul>
                 <li>Collection development</li>
                 <li>Journal subscriptions</li>
@@ -411,16 +411,16 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="collection" id="part13" colspan="2">
+        <th headers="collection" id="part15" colspan="2">
             <img class="responsive-img" src="/images/staffimage/paige-e1512411546358.png" alt="Paige Morfitt" />
         </th>
-        <td headers="collection part13 name" colspan="2">
+        <td headers="collection part15 name" colspan="2">
             <p>Paige Morfitt</p>
             <p>Digital Assets and Metadata Librarian</p>
             <p><a href="mailto:morfitpb@whitman.edu">morfitpb@whitman.edu</a></p>
             <p><a href="tel:+15095275920">509-527-5920</a></p>
         </td>
-        <td headers="collection part13 resp" colspan="3">
+        <td headers="collection part15 resp" colspan="3">
             <ul>
                 <li>Digitization &amp; digital content creation</li>
                 <li>Metadata management</li>
@@ -433,15 +433,15 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="collection" id="part14" colspan="2">
+        <th headers="collection" id="part16" colspan="2">
         </th>
-        <td headers="collection part14 name" colspan="2">
+        <td headers="collection part16 name" colspan="2">
             <p>Rich Pengra</p>
             <p>Library Assistant, Collection Development</p>
             <p><a href="mailto:pengrars@whitman.edu">pengrars@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5912">509-527-5912</a></p>
         </td>
-        <td headers="collection part14 resp" colspan="3">
+        <td headers="collection part16 resp" colspan="3">
             <ul>
                 <li>Book purchasing</li>
                 <li>Reserve material requests</li>
@@ -450,15 +450,15 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="collection" id="part15" colspan="2">
+        <th headers="collection" id="part17" colspan="2">
         </th>
-        <td headers="collection part15 name" colspan="2">
+        <td headers="collection part17 name" colspan="2">
             <p>Rika Groff</p>
             <p>Library Assistant, Cataloging</p>
             <p><a href="mailto:groffrm@whitman.edu">groffrm@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5919">509-527-5919</a></p>
         </td>
-        <td headers="collection part15 resp" colspan="3">
+        <td headers="collection part17 resp" colspan="3">
             <ul>
                 <li>Catalog record errors</li>
                 <li>Cataloging and record maintenance</li>
@@ -475,10 +475,10 @@ $(document).ready(function(e) {
         </th>
     </tr>
     <tr>
-        <th headers="systems" id="part16" colspan="2">
+        <th headers="systems" id="part18" colspan="2">
         <img class="responsive-img" src="/images/staffimage/KUN-LIN_2019.png" alt="Kun Lin" />
         </th>
-        <td headers="systems part16 name" colspan="2">
+        <td headers="systems part18 name" colspan="2">
             <ul>
                 <li>Kun Lin</li>
                 <li>Systems &amp; Applications Librarian</li>
@@ -486,7 +486,7 @@ $(document).ready(function(e) {
                 <li><a href="tel:+15095275916">509-527-5916</a></li>
             </ul>
         </td>
-        <td headers="systems part16 resp" colspan="3">
+        <td headers="systems part18 resp" colspan="3">
             <ul>
                 <li>Library website and Sherlock (Catalog)</li>
                 <li>Access databases</li>
