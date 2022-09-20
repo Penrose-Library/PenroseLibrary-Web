@@ -5,8 +5,6 @@ date: 2022-09-20T22:23:08.973Z
 ---
 <!--StartFragment-->
 
-## Top 10 Things for Staff to Know about Penrose Library 
-
 ### 1. Important Links 
 
 Library homepage and catalog (<http://library.whitman.edu>)
