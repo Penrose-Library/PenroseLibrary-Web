@@ -1,14 +1,5 @@
 {{ $file := .Get "file" | readFile }}{{if gt (len $file) 2}}
+<div id="announcement">
 {{ $file | safeHTML }}
-<script>
-  $(document).ready(function() {
- if($('div.accessible-carousel-element').length>1){
-    $('.accessible-carousel').slick({
-    autoplay: true,
-    autoplaySpeed: 9000,
-    dots: false
-    }); 
-  }
-});
-</script>
+</div>
 {{end}}
