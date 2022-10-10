@@ -1,6 +1,6 @@
 ---
 title: Science Stories
-date: 2022-10-10T17:05:01.485Z
+date: 2022-10-10T17:13:44.938Z
 thumbnail: /uploads/image-banner-for-postcard.jpg
 thumbnail_alt: Thumbnails from different works in the Science Stories exhibit
 ---
