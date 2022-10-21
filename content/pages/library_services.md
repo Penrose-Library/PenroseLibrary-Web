@@ -3,6 +3,7 @@ title: Library Services & FAQ
 date: 2021-08-09
 toc: false
 alias: /how-do-i/
+url: /library_services
 ---
 ## Search Library FAQ
 
@@ -29,7 +30,8 @@ alias: /how-do-i/
 * [General Information](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=General%20Information)
 * [Interlibrary Loans (Borrow items from other libraries)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=ILL)
 * [Research](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Research)
-* [Sherlock (Library Catalog)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Sherlock)
+* [Sherlock (Library Catalog)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Sherlock)[](< https://asklibrarian.whitman.edu/faq/154051>)
+* [Tabling](< https://asklibrarian.whitman.edu/faq/154051>)
 
 </div>
 
@@ -43,7 +45,6 @@ alias: /how-do-i/
 * [Senior Privileges Form](http://works.whitman.edu/seniorprivileges)
 * [Special Collections Materials Gift Form](http://works.whitman.edu/archivesgiftform)
 * [Suggest a Purchase Form](https://works.whitman.edu/purchasesuggestion)
-
 
 ## Library Policies
 
