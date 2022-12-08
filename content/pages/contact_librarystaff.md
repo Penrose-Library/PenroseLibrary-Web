@@ -469,13 +469,13 @@ $(document).ready(function(e) {
     </tr>
     <tr>
         <th headers="systems" id="part18" colspan="2">
-        <img class="responsive-img" src="/images/staffimage/KUN-LIN_2019.png" alt="Kun Lin" />
+        <img class="responsive-img" src="/images/staffimage/KUN-LIN_2019.png" alt="Tracy Tolf" />
         </th>
         <td headers="systems part18 name" colspan="2">
             <ul>
-                <li>Kun Lin</li>
+                <li>Tracy Tolf</li>
                 <li>Systems &amp; Applications Librarian</li>
-                <li><a href="mailto:link@whitman.edu">link@whitman.edu</a></li>
+                <li><a href="mailto:tolft@whitman.edu">tolft@whitman.edu</a></li>
                 <li><a href="tel:+15095275916">509-527-5916</a></li>
             </ul>
         </td>
