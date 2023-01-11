@@ -82,7 +82,7 @@ $(document).ready(function(e) {
             Administration
         </th>
     </tr>
-    <tr>
+ <!---   <tr>
         <th headers="admin" id="part1" colspan="2">
             <img class="responsive-img" src="/images/staffimage/daliapic.png" alt="Dalia Corkrum" />
         </th>
@@ -102,7 +102,7 @@ $(document).ready(function(e) {
                 <li>Open Access/Lever Press</li>
             </ul>
         </td>
-    </tr>
+    </tr> ---!>
     <tr>
         <th headers="admin" id="part2" colspan="2">
             <img class="responsive-img" src="/images/staffimage/KATHLEEN-HUTCHINSON_2019.png" alt="Kathleen Hutchison" />
@@ -137,6 +137,8 @@ $(document).ready(function(e) {
         </td>
         <td headers="irs part3 resp" colspan="3">
             <ul>
+
+<li>Interim Library Director</li>
                 <li>Schedule and provide classroom instruction</li>
                 <li>Providing one-on-one consultation</li>
                 <li>Answering research questions</li>
@@ -461,23 +463,19 @@ $(document).ready(function(e) {
         </td>
     </tr>
 
-<!---
-    <tr>
+\    <tr>
         <th id="systems" class="span" colspan="5" scope="colgroup">
           Systems
         </th>
     </tr>
     <tr>
         <th headers="systems" id="part18" colspan="2">
-        <img class="responsive-img" src="/images/staffimage/KUN-LIN_2019.png" alt="Tracy Tolf" />
-        </th>
+            </th>
         <td headers="systems part18 name" colspan="2">
-            <ul>
-                <li>Tracy Tolf</li>
-                <li>Systems &amp; Applications Librarian</li>
-                <li><a href="mailto:tolft@whitman.edu">tolft@whitman.edu</a></li>
-                <li><a href="tel:+15095275916">509-527-5916</a></li>
-            </ul>
+                <p>Tracy Tolf</p>
+                <p>Systems & Applications Librarian</p>
+                <p><a href="mailto:tolft@whitman.edu">tolft@whitman.edu</a></p>
+                <p><a href="tel:+15095275916">509-527-5916</a></p>
         </td>
         <td headers="systems part18 resp" colspan="3">
             <ul>
@@ -490,7 +488,7 @@ $(document).ready(function(e) {
                 </li>
             </ul>
         </td>
-    </tr>--->
+    </tr>
 
 </tbody>
 </table>
