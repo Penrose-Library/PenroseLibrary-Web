@@ -112,9 +112,9 @@ Donated items that Whitman College’s Penrose Library retains are cataloged and
 
 #### Financial Support
 
-Monetary gifts, especially those that would enable the purchase of new materials, the delivery of innovative services, additional furnishings, technology enhancements, or the support of special program areas are actively encouraged. Please contact Dalia Corkrum, Library Director (509-527-5193 or [corkrum@whitman.edu](corkrum@whitman.edu)) or Steve Setchell, Vice President for Development and Alumni Relations (509-527-5979 or [setchesj@whitman.edu](setchesj@whitman.edu)) for more information.
+Monetary gifts, especially those that would enable the purchase of new materials, the delivery of innovative services, additional furnishings, technology enhancements, or the support of special program areas are actively encouraged. Please contact Lee Keene, Interim Library Director (509-527-5193 or [keenelp@whitman.edu](keenelp@whitman.edu)) or Steve Setchell, Vice President for Development and Alumni Relations (509-527-5979 or [setchesj@whitman.edu](setchesj@whitman.edu)) for more information.
 
-Please contact Dalia Corkrum, Library Director (509-527-5193 or [corkrum@whitman.edu](corkrum@whitman.edu)) if you have any questions or wish to discuss a specific donation.
+Please contact Lee Keene, Interim Library Director (509-527-5193 or [keenelp@whitman.edu](keenelp@whitman.edu)) if you have any questions or wish to discuss a specific donation.
 
 ## Student Employment
 
@@ -155,7 +155,7 @@ Engaging in inappropriate use of materials will jeopardize library borrowing pri
 
 Censorship of the library’s collections will not be tolerated. As a college library, we cultivate a collection of resources and develop displays that are appropriate for the curriculum at Whitman College and an adult audience. Our collection represents various viewpoints that stimulate intellectual inquiry and foster spirited debate. That said, legitimate complaints about library materials or displays will be reviewed based upon the guidelines endorsed by the American Library Association and their [Intellectual Freedom Manual, 9th ed.](https://sherlock.whitman.edu/permalink/f/19gob7d/CP71230442910001451)
 
-Complaints about materials, not including those held in the Whitman College and Northwest Archives or those externally licensed by the library, will be handled on a case-by-case basis and can only be made by current Whitman students, faculty, and staff. Penrose Library has delegated the responsibility for the selection and evaluation of materials to its librarians. Should a member of the Whitman community think that certain material is unsuitable for the library’s collection or display, the first step is to discuss their concerns with the Head of Collection Management (Roger Stelk, stelkre@whitman.edu) and/or the Library Director (Dalia Corkrum, corkrum@whitman.edu).
+Complaints about materials, not including those held in the Whitman College and Northwest Archives or those externally licensed by the library, will be handled on a case-by-case basis and can only be made by current Whitman students, faculty, and staff. Penrose Library has delegated the responsibility for the selection and evaluation of materials to its librarians. Should a member of the Whitman community think that certain material is unsuitable for the library’s collection or display, the first step is to discuss their concerns with the Head of Collection Management (Roger Stelk, stelkre@whitman.edu) and/or the Interim Library Director (Lee Keene, [keenelp@whitman.edu](keenelp@whitman.edu)).
 
 If the issue is not resolved following an informal discussion about the mission of the library and how the material or display supports learning within the higher education environment, the library has established a formal reconsideration procedure to address concerns about those resources. The process includes:
 
