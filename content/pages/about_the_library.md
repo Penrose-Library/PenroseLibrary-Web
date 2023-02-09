@@ -127,12 +127,39 @@ Below are the positions for which students are usually employed at Penrose Libra
 
 Additional information about student employment can be found on the [Student Employment page](https://www.whitman.edu/student-life/student-employment) on the College’s website.
 
+## Code of Conduct
+
+The following conduct policies aim to ensure a library environment that fully supports the mission of Penrose Library. The Library seeks to provide a clean, safe environment conducive to learning, study, and collaboration. 
+
+Individuals will:
+* Be prepared to leave when the building closes.
+* Exit the building immediately in case of an alarm and wait to return until cleared by library staff.
+* Ensure children under the age of 12 are accompanied by an adult.
+* Follow applicable College conduct policies, e.g. Student Rights and * Responsibilities, Other Prohibited Conduct and Faculty Code.
+
+Individuals will not:
+
+Create an unsafe environment for themselves or others. Prohibited behaviors include, but are not limited to:
+* Harassing, threatening or intimidating others.
+* Engaging in behavior that is unsafe for oneself or others.
+* Using alcohol, tobacco, or controlled substances.
+
+Disturb or disrupt other library users or staff. Prohibited behaviors include, but are not limited to:
+* Creating disturbances, e.g. loud noise or inappropriately demanding the attention of others studying.
+* Showing inappropriate and/or unwelcome attention to library users, student workers or staff, e.g. asking unwelcome personal questions, repeated questions, staring, refusing to end a conversation.
+* Bringing full meals or other large amounts of food into the library. Snack food and drinks in closed containers are permitted. (Library users are expected to clean up any resulting trash and notify staff of any spills.)
+* Leaving or distributing materials without permission.
+
+Misuse library resources or facilities. Prohibited behaviors include, but are not limited to:
+* Use of transportation devices (such as bicycles, skates, and skateboards) in the building. These restrictions do not apply to mobility or medical assistive devices, or baby strollers.
+* Blocking entrances, ramps or stairways.
+* Misusing, removing or damaging library furniture or damaging the library building.
+* Leaving personal belongings unattended.
+
 ## Library Use Policy
 
 Penrose Library is committed to maintaining collections that exist as common resources to be shared, preserved, and respected in a manner guaranteeing protection for future users. The ethical use of library materials involves acceptance of this principle and appropriate conduct regarding library collections. We are committed to providing a space for the Whitman community to study, collaborate, and research.
 
-* Food and beverages must be covered and kept in spill-proof containers.
-* Smoking or the use of tobacco is not permitted in Penrose Library.
 * The Allen Reading Room is designated as a quiet study area in the library. Please be courteous of other library visitors who prefer to work in a quiet area.
 
 ### Circulation and Access Policies
