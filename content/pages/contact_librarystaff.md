@@ -61,28 +61,6 @@ $(document).ready(function(e) {
 <div class="bootstrap-wrapper">
 <table summary="Staff Directory for Penrose Library">
 <caption>
- Staff Directory
-</caption>
-<thead>
- <tr>
- <th scope="col" colspan="2">
- </th>
- <th scope="col" colspan="2">
- Name
- </th>
- <th scope="col" colspan="3">
- Responsibility
- </th>
- </tr>
-</thead>
-<tbody>
- <tr>
- <th colspan="5" scope="colgroup">
- Administration
- </th>
-  </tr>
-<table summary="Staff Directory for Penrose Library">
-<caption>
     Staff Directory
 </caption>
 <thead>
