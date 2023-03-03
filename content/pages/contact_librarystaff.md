@@ -84,209 +84,209 @@ $(document).ready(function(e) {
 	<tr>
         <th headers="admin" id="part1" colspan="2">
 
-<img class="responsive-img" src="/images/staffimage/PingFu_2022.png" alt="Ping Fu" />
-             </th>
-        <td headers="admin part1 name" colspan="2">
-            <p>Ping Fu</p>
-            <p>College Librarian</p>
-            <p><a href="mailto:fup@whitman.edu">fup@whitman.edu</a></p>
-            <p><a href="tel:+15095275193">509-527-5193</a></p>
-        </td>
-        <td headers="admin part1 resp" colspan="3">
-            <ul>
-                <li>Library administration</li>
-                <li>Budget matters</li>
-                <li>Suggestions</li>
-                <li>Gifts</li>
-                <li>Copyright</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <th headers="admin" id="part2" colspan="2">
-            <img class="responsive-img" src="/images/staffimage/KATHLEEN-HUTCHINSON_2019.png" alt="Kathleen Hutchison" />
-        </th>
-        <td headers="admin part2 name" colspan="2">
-            <p>Kathleen Hutchison</p>
-            <p>Administrative Assistant</p>
-            <p><a href="mailto:hutchiks@whitman.edu">hutchiks@whitman.edu</a></p>
-            <p><a href="tel:+15095275191">509-527-5191</a></p>
-        </td>
-        <td headers="admin part2 resp" colspan="3">
-            <ul>
-                <li>General library questions</li>
-                <li>Building issues</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <th id="irs" class="span" colspan="5" scope="colgroup">
-            Instructional, Research, and Access Services
-        </th>
-    </tr>
-    <tr>
-        <th headers="irs" id="part3" colspan="2">
-           <img class="responsive-img" src="/images/staffimage/leepic.png" alt="Lee Keene" />
-        </th>
-        <td headers="irs part3 name" colspan="2">
-            <p>Lee Keene</p>
-            <p>Head of Instruction, Research, &amp; Assessment</p>
-            <p><a href="mailto:keenelp@whitman.edu">keenelp@whitman.edu</a></p>
-            <p><a href="tel:+15095275917">509-527-5917</a></p>
-        </td>
-        <td headers="irs part3 resp" colspan="3">
-            <ul>
-                <li>Schedule and provide classroom instruction</li>
-                <li>Providing one-on-one consultation</li>
-                <li>Answering research questions</li>
-                <li>Scheduling the CTL Classroom</li>
-                <li>Liaison for:
-                    <ul>
-                      <li>Anthropology</li>
-                      <li>Asian Studies</li>
-                      <li>Environmental Studies</li>
-                      <li>English</li>
-                      <li>Global Studies</li>
-                      <li>Politics</li>
-                      <li>SSRA</li>
-                      <li>Writing Center</li>
-                    </ul>
-                </li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <th headers="irs" id="part4" colspan="2">
-           <img class="responsive-img" src="/images/staffimage/AMY-BLAU_2019.png" alt="Amy Blau" />
-        </th>
-        <td headers="irs part4 name" colspan="2">
-            <p>Amy Blau</p>
-            <p>Scholarly Communication Librarian</p>
-            <p><a href="mailto:blauar@whitman.edu">blauar@whitman.edu</a></p>
-            <p><a href="tel:+15095274905">509-527-4905</a></p>
-        </td>
-        <td headers="irs part4 resp" colspan="3">
-            <ul>
-            <li>Schedule and provide classroom instruction</li>
-            <li>Providing one-on-one consultation</li>
-            <li>Answering research questions</li>
-            <li>Liaison for:
-                <ul>
-                    <li>Classics</li>
-                    <li>Foreign Languages</li>
-                    <li>Hispanic Studies</li>
-                    <li>Chemistry </li>
-                    <li>Physics</li>
-                </ul>
-            </li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <th headers="irs" id="part5" colspan="2">
-           <img class="responsive-img" src="/images/staffimage/EMILY-PEARSON_2019.png" alt="Emily Pearson" />
-        </th>
-        <td headers="irs part5 name" colspan="2">
-            <p>Emily Pearson</p>
-            <p>Instructional &amp; Research Services Librarian</p>
-            <p><a href="mailto:pearsome@whitman.edu">pearsome@whitman.edu</a></p>
-            <p><a href="tel:+15095275918">509-527-5918</a></p>
-        </td>
-        <td headers="irs part5 resp" colspan="3">
-            <ul>
-              <li>Accessibility   questions or concerns </li>
-              <li>Providing classroom instruction &amp; personal consultation</li>
-              <li>Answering research questions</li>
-              <li>Liaison for:
-                    <ul>
-                        <li>Art</li>
-                        <li>Gender Studies</li>
-                        <li>History</li>
-                        <li>Theatre &amp; Dance</li>
-                        <li>Film &amp; Media Studies</li>
-                    </ul>
-                </li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <th headers="irs" id="part6" colspan="2">
-           <img class="responsive-img" src="/images/staffimage/JULIE-CARTER_2019.png" alt="Julie Carter" />
-        </th>
-        <td headers="irs part6 name" colspan="2">
-            <p>Julie Carter</p>
-            <p>Head of User Services</p>
-            <p><a href="mailto:carterja@whitman.edu">carterja@whitman.edu</a></p>
-            <p><a href="tel:+15095275915">509-527-5915</a></p>
-        </td>
-        <td headers="irs part6 resp" colspan="3">
-            <ul>
-                <li>Circulation policies</li>
-                <li>Providing classroom instruction&nbsp;&amp; personal consultation</li>
-                <li>Answering research questions</li>
-                <li>Liaison for:
-                <ul>
-                    <li>Geology</li>
-                    <li>Philosophy</li>
-                    <li>Psychology</li>
-                    <li>Sociology</li>
-                </ul>
-                </li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <th headers="irs" id="part7" colspan="2">
-          <img class="responsive-img" src="/images/staffimage/Ari_Kirby.jpeg" alt="Ari Kirby" style="max-width:180px" />
-        </th>
-        <td headers="irs part7 name" colspan="2">
-            <p>Ari Kirby</p>
-            <p>Access Service Manager</p>
-            <p><a href="mailto:kirbyk@whitman.edu">kirbyk@whitman.edu</a></p>
-            <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
-        </td>
-        <td headers="irs part7 resp" colspan="3">
-            <ul>
-                <li>Circulation and course reserve</li>
-                <li>Summit Request</li>
-                <li>Interlibrary Loan</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <th headers="irs" id="part8" colspan="2">
-        </th>
-        <td headers="irs part8 name" colspan="2">
-            <p>Christel Holce</p>
-            <p>Circulation Supervisor</p>
-            <p><a href="mailto:holceci@whitman.edu">holceci@whitman.edu</a></p>
-            <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
-        </td>
-        <td headers="irs part8 resp" colspan="3">
-            <ul>
-                <li>Circulation issues</li>
-                <li>Summit Request</li>
-                <li>Interlibrary Loan</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-    <th headers="irs" id="part9" colspan="2">
-        </th>
-        <td headers="irs part9 name" colspan="2">
-            <p>Dona LaFran</p>
-            <p>Circulation Supervisor (Weekend)</p>
-            <p><a href="mailto:lafrand@whitman.edu">lafrand@whitman.edu</a></p>
-            <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
-        </td>
-        <td headers="irs part9 resp" colspan="3">
-            <ul>
-                <li>Circulation issues</li>
-                <li>Summit Request</li>
-                <li>Interlibrary Loan</li>
-            </ul>
-        </td>
-    </tr>
+1. <img class="responsive-img" src="/images/staffimage/PingFu_2022.png" alt="Ping Fu" />
+                </th>
+           <td headers="admin part1 name" colspan="2">
+               <p>Ping Fu</p>
+               <p>College Librarian</p>
+               <p><a href="mailto:fup@whitman.edu">fup@whitman.edu</a></p>
+               <p><a href="tel:+15095275193">509-527-5193</a></p>
+           </td>
+           <td headers="admin part1 resp" colspan="3">
+               <ul>
+                   <li>Library administration</li>
+                   <li>Budget matters</li>
+                   <li>Suggestions</li>
+                   <li>Gifts</li>
+                   <li>Copyright</li>
+               </ul>
+           </td>
+       </tr>
+       <tr>
+           <th headers="admin" id="part2" colspan="2">
+               <img class="responsive-img" src="/images/staffimage/KATHLEEN-HUTCHINSON_2019.png" alt="Kathleen Hutchison" />
+           </th>
+           <td headers="admin part2 name" colspan="2">
+               <p>Kathleen Hutchison</p>
+               <p>Administrative Assistant</p>
+               <p><a href="mailto:hutchiks@whitman.edu">hutchiks@whitman.edu</a></p>
+               <p><a href="tel:+15095275191">509-527-5191</a></p>
+           </td>
+           <td headers="admin part2 resp" colspan="3">
+               <ul>
+                   <li>General library questions</li>
+                   <li>Building issues</li>
+               </ul>
+           </td>
+       </tr>
+       <tr>
+           <th id="irs" class="span" colspan="5" scope="colgroup">
+               Instructional, Research, and Access Services
+           </th>
+       </tr>
+       <tr>
+           <th headers="irs" id="part3" colspan="2">
+              <img class="responsive-img" src="/images/staffimage/leepic.png" alt="Lee Keene" />
+           </th>
+           <td headers="irs part3 name" colspan="2">
+               <p>Lee Keene</p>
+               <p>Head of Instruction, Research, &amp; Assessment</p>
+               <p><a href="mailto:keenelp@whitman.edu">keenelp@whitman.edu</a></p>
+               <p><a href="tel:+15095275917">509-527-5917</a></p>
+           </td>
+           <td headers="irs part3 resp" colspan="3">
+               <ul>
+                   <li>Schedule and provide classroom instruction</li>
+                   <li>Providing one-on-one consultation</li>
+                   <li>Answering research questions</li>
+                   <li>Scheduling the CTL Classroom</li>
+                   <li>Liaison for:
+                       <ul>
+                         <li>Anthropology</li>
+                         <li>Asian Studies</li>
+                         <li>Environmental Studies</li>
+                         <li>English</li>
+                         <li>Global Studies</li>
+                         <li>Politics</li>
+                         <li>SSRA</li>
+                         <li>Writing Center</li>
+                       </ul>
+                   </li>
+               </ul>
+           </td>
+       </tr>
+       <tr>
+           <th headers="irs" id="part4" colspan="2">
+              <img class="responsive-img" src="/images/staffimage/AMY-BLAU_2019.png" alt="Amy Blau" />
+           </th>
+           <td headers="irs part4 name" colspan="2">
+               <p>Amy Blau</p>
+               <p>Scholarly Communication Librarian</p>
+               <p><a href="mailto:blauar@whitman.edu">blauar@whitman.edu</a></p>
+               <p><a href="tel:+15095274905">509-527-4905</a></p>
+           </td>
+           <td headers="irs part4 resp" colspan="3">
+               <ul>
+               <li>Schedule and provide classroom instruction</li>
+               <li>Providing one-on-one consultation</li>
+               <li>Answering research questions</li>
+               <li>Liaison for:
+                   <ul>
+                       <li>Classics</li>
+                       <li>Foreign Languages</li>
+                       <li>Hispanic Studies</li>
+                       <li>Chemistry </li>
+                       <li>Physics</li>
+                   </ul>
+               </li>
+               </ul>
+           </td>
+       </tr>
+       <tr>
+           <th headers="irs" id="part5" colspan="2">
+              <img class="responsive-img" src="/images/staffimage/EMILY-PEARSON_2019.png" alt="Emily Pearson" />
+           </th>
+           <td headers="irs part5 name" colspan="2">
+               <p>Emily Pearson</p>
+               <p>Instructional &amp; Research Services Librarian</p>
+               <p><a href="mailto:pearsome@whitman.edu">pearsome@whitman.edu</a></p>
+               <p><a href="tel:+15095275918">509-527-5918</a></p>
+           </td>
+           <td headers="irs part5 resp" colspan="3">
+               <ul>
+                 <li>Accessibility   questions or concerns </li>
+                 <li>Providing classroom instruction &amp; personal consultation</li>
+                 <li>Answering research questions</li>
+                 <li>Liaison for:
+                       <ul>
+                           <li>Art</li>
+                           <li>Gender Studies</li>
+                           <li>History</li>
+                           <li>Theatre &amp; Dance</li>
+                           <li>Film &amp; Media Studies</li>
+                       </ul>
+                   </li>
+               </ul>
+           </td>
+       </tr>
+       <tr>
+           <th headers="irs" id="part6" colspan="2">
+              <img class="responsive-img" src="/images/staffimage/JULIE-CARTER_2019.png" alt="Julie Carter" />
+           </th>
+           <td headers="irs part6 name" colspan="2">
+               <p>Julie Carter</p>
+               <p>Head of User Services</p>
+               <p><a href="mailto:carterja@whitman.edu">carterja@whitman.edu</a></p>
+               <p><a href="tel:+15095275915">509-527-5915</a></p>
+           </td>
+           <td headers="irs part6 resp" colspan="3">
+               <ul>
+                   <li>Circulation policies</li>
+                   <li>Providing classroom instruction&nbsp;&amp; personal consultation</li>
+                   <li>Answering research questions</li>
+                   <li>Liaison for:
+                   <ul>
+                       <li>Geology</li>
+                       <li>Philosophy</li>
+                       <li>Psychology</li>
+                       <li>Sociology</li>
+                   </ul>
+                   </li>
+               </ul>
+           </td>
+       </tr>
+       <tr>
+           <th headers="irs" id="part7" colspan="2">
+             <img class="responsive-img" src="/images/staffimage/Ari_Kirby.jpeg" alt="Ari Kirby" style="max-width:180px" />
+           </th>
+           <td headers="irs part7 name" colspan="2">
+               <p>Ari Kirby</p>
+               <p>Access Service Manager</p>
+               <p><a href="mailto:kirbyk@whitman.edu">kirbyk@whitman.edu</a></p>
+               <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
+           </td>
+           <td headers="irs part7 resp" colspan="3">
+               <ul>
+                   <li>Circulation and course reserve</li>
+                   <li>Summit Request</li>
+                   <li>Interlibrary Loan</li>
+               </ul>
+           </td>
+       </tr>
+       <tr>
+           <th headers="irs" id="part8" colspan="2">
+           </th>
+           <td headers="irs part8 name" colspan="2">
+               <p>Christel Holce</p>
+               <p>Circulation Supervisor</p>
+               <p><a href="mailto:holceci@whitman.edu">holceci@whitman.edu</a></p>
+               <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
+           </td>
+           <td headers="irs part8 resp" colspan="3">
+               <ul>
+                   <li>Circulation issues</li>
+                   <li>Summit Request</li>
+                   <li>Interlibrary Loan</li>
+               </ul>
+           </td>
+       </tr>
+       <tr>
+       <th headers="irs" id="part9" colspan="2">
+           </th>
+           <td headers="irs part9 name" colspan="2">
+               <p>Dona LaFran</p>
+               <p>Circulation Supervisor (Weekend)</p>
+               <p><a href="mailto:lafrand@whitman.edu">lafrand@whitman.edu</a></p>
+               <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
+           </td>
+           <td headers="irs part9 resp" colspan="3">
+               <ul>
+                   <li>Circulation issues</li>
+                   <li>Summit Request</li>
+                   <li>Interlibrary Loan</li>
+               </ul>
+           </td>
+       </tr>
 
   <tr>
     <th headers="irs" id="part10" colspan="2">
