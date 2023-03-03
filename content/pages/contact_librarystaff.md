@@ -105,8 +105,7 @@ $(document).ready(function(e) {
     </tr>
 	<tr>
         <th headers="admin" id="part1" colspan="2">
-            <img class="responsive-img" src="/images/staffimage/PingFu2.jpg" alt="Ping Fu" />
-        </th>
+             </th>
         <td headers="admin part1 name" colspan="2">
             <p>Ping Fu</p>
             <p>College Librarian</p>
