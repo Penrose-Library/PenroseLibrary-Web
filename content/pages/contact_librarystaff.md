@@ -84,7 +84,7 @@ $(document).ready(function(e) {
     </tr>
     <tr>
         <th headers="admin" id="part1" colspan="2">
-            <img class="responsive-img" src="/uploads/pf-whitman-pic-1.png" alt="Ping Fu" />
+            <img class="responsive-img" src="/uploads/pf-pic.png" alt="Ping Fu" />
         </th>
         <td headers="admin part1 name" colspan="2">
             <p>Ping Fu</p>
