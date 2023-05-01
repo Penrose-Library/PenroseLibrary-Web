@@ -19,4 +19,4 @@ date: 2021-09-27T19:02:30.456Z
 
 [Long live the tribe of fatherless girls](https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99692014301867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&adaptor=Local%20Search%20Engine&tab=default_tab&query=any%2Ccontains%2Ct%20kira%20madden&mode=Basic) by T Kira Madden
 
-[Go Home!](https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99692014301867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&adaptor=Local%20Search%20Engine&tab=default_tab&query=any%2Ccontains%2Ct%20kira%20madden&mode=Basic)
+[Go Home!](https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99371000801867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&search_scope=whitman_lib&adaptor=Local%20Search%20Engine&tab=default_tab&query=any%2Ccontains%2C%22go%20home%22)
