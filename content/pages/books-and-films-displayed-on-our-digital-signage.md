@@ -3,22 +3,20 @@ title: Books and films displayed on our digital signage
 url: booksondisplay
 date: 2021-09-27T19:02:30.456Z
 ---
-## Black History Month
+## Asian American & Pacific Islander Heritage Mont
 
-[The cause of freedom : a concise history of African Americans](<https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99671511501867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&adaptor=Local Search Engine&tab=default_all>)
+[Good Talk: A Memoir in Conversations](https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99472308801867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&search_scope=whitman_lib&adaptor=Local%20Search%20Engine&tab=default_tab&query=any%2Ccontains%2Cgood%20talk%20mira%20jacobs&offset=0) by Mira Jacobs
 
-[Four hundred souls : a community history of African America, 1619-2019](<https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99658714701867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&adaptor=Local Search Engine&tab=default_all>)
+[Joan is Okay](https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99730600401867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&search_scope=whitman_lib&adaptor=Local%20Search%20Engine&tab=default_tab&query=any%2Ccontains%2C%22joan%20is%20okay%22&offset=0) by Weike Wang
 
-[Make good the promises : reclaiming Reconstruction and its legacies](<https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99702013801867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&adaptor=Local Search Engine&tab=default_all>)
+[Brown Girls](https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99730599901867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&search_scope=whitman_lib&adaptor=Local%20Search%20Engine&tab=default_tab&query=any%2Ccontains%2Cdaphne%20palasi%20andreades&offset=0) by Daphne Palasi Andreades
 
-[Medical Bondage Race, Gender, and the Origins of American Gynecology](<https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99385127001867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&adaptor=Local Search Engine&tab=default_all>)
+[What We Are](https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma9953814201867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&adaptor=Local%20Search%20Engine&tab=default_tab&query=sub%2Cexact%2CSamoan%20Americans%20--%20Fiction&offset=0) by Peter Nathaniel Malae[](https://sherlock.whitman.edu/permalink/01ALLIANCE_WHITC/1gihqq8/alma9954572601867)
 
-[Put Your Hands on Your Hips and Act Like a Woman Black History and Poetics in Performance](<https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99681870801867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&adaptor=Local Search Engine&tab=default_all>)
+[ Bengali Harlem and the lost histories of South Asian America](https://sherlock.whitman.edu/permalink/01ALLIANCE_WHITC/1gihqq8/alma9954572601867) by Vivek Bald
 
-[Unspeakable : the Tulsa Race Massacre](<https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99734102101867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&adaptor=Local Search Engine&tab=default_all>)
+[Activities of Daily Living](https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99739797401867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&adaptor=Local%20Search%20Engine&tab=default_tab&query=any%2Ccontains%2Cactivities%20of%20daily%20living&offset=0) by Lisa Chen
 
-[New growth : the art and texture of black hair](<https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99776362801867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&adaptor=Local Search Engine&tab=default_all>)
+[Long live the tribe of fatherless girls](https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99692014301867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&adaptor=Local%20Search%20Engine&tab=default_tab&query=any%2Ccontains%2Ct%20kira%20madden&mode=Basic) by T Kira Madden
 
-[African Americans Against the Bomb : Nuclear Weapons, Colonialism, and the Black Freedom Movement](<https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99325115101867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&adaptor=Local Search Engine&tab=default_all>)
-
-[My people : five decades of writing about Black lives](<https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99777204701867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&adaptor=Local Search Engine&tab=default_all>)
+[Go Home!](https://sherlock.whitman.edu/discovery/fulldisplay?docid=alma99692014301867&context=L&vid=01ALLIANCE_WHITC:WHITC_NEW&lang=en&adaptor=Local%20Search%20Engine&tab=default_tab&query=any%2Ccontains%2Ct%20kira%20madden&mode=Basic)
