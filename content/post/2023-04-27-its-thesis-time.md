@@ -10,12 +10,7 @@ We are happy to help and/or guide you through every aspect of submitting. Please
 
 **[Guide to all things thesis related](https://libguides.whitman.edu/c.php?g=1023668&p=8099020)**
 
-**Drop-In Hours**:\
-**Date:** Every Friday\
-**Time:** 1-5PM\
-**Location:** Library Lounge, 1st floor of the library\
-**Purpose:** Assist you with formatting issues, printing, and/or submitting\
-**Appointments:** If you think you’ll need more one on one help, you can make an [appointment](https://whitman.libcal.com/appointments)
+**Librarians are available all week at the public computers by the WCTS desk to help with formatting and submission.**
 
 **What we need from you by Wednesday May 10** (feel free to submit early!)
 
