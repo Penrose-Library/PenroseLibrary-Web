@@ -94,7 +94,7 @@ Before bringing gifts of 25 volumes or more to the Library, please contact Roger
 
 #### Special Collections Materials
 
-Gifts of manuscript collections, rare books, and unique materials, especially those that pertain to Whitman College and northwest regional history, are encouraged. Before such items or materials are donated to the Whitman College and Northwest Archives, please consult with Ben Murphy, Archivist and Special Collections Librarian (509-526-4731 or [murphybp@whitman.edu](murphybp@whitman.edu)). The Development Office encourages donors to consider providing financial support for the processing and preservation of such donated materials, especially if the collection is of substantial size and/or significance.
+Gifts of manuscript collections, rare books, and unique materials, especially those that pertain to Whitman College and northwest regional history, are encouraged. Before such items or materials are donated to the Whitman College and Northwest Archives, please consult with Emily Pearson, Interim Archivist and Special Collections Librarian (509-527-5918 or [pearsome@whitman.edu](pearsome@whitman.edu)). The Development Office encourages donors to consider providing financial support for the processing and preservation of such donated materials, especially if the collection is of substantial size and/or significance.
 
 #### Appraisals
 
@@ -112,9 +112,9 @@ Donated items that Whitman College’s Penrose Library retains are cataloged and
 
 #### Financial Support
 
-Monetary gifts, especially those that would enable the purchase of new materials, the delivery of innovative services, additional furnishings, technology enhancements, or the support of special program areas are actively encouraged. Please contact Lee Keene, Interim Library Director (509-527-5193 or [keenelp@whitman.edu](keenelp@whitman.edu)) or Steve Setchell, Vice President for Development and Alumni Relations (509-527-5979 or [setchesj@whitman.edu](setchesj@whitman.edu)) for more information.
+Monetary gifts, especially those that would enable the purchase of new materials, the delivery of innovative services, additional furnishings, technology enhancements, or the support of special program areas are actively encouraged. Please contact Ping Fu, Library Director (509-527-5193 or [fup@whitman.edu](fup@whitman.edu)) or Steve Setchell, Vice President for Development and Alumni Relations (509-527-5979 or [setchesj@whitman.edu](setchesj@whitman.edu)) for more information.
 
-Please contact Lee Keene, Interim Library Director (509-527-5193 or [keenelp@whitman.edu](keenelp@whitman.edu)) if you have any questions or wish to discuss a specific donation.
+Please contact Ping Fu, Library Director (509-527-5193 or [fup@whitman.edu](fup@whitman.edu)) if you have any questions or wish to discuss a specific donation.
 
 ## Student Employment
 
@@ -132,6 +132,7 @@ Additional information about student employment can be found on the [Student Emp
 The following conduct policies aim to ensure a library environment that fully supports the mission of Penrose Library. The Library seeks to provide a clean, safe environment conducive to learning, study, and collaboration. 
 
 Individuals will:
+
 * Be prepared to leave when the building closes.
 * Exit the building immediately in case of an alarm and wait to return until cleared by library staff.
 * Ensure children under the age of 12 are accompanied by an adult.
@@ -140,17 +141,20 @@ Individuals will:
 Individuals will not:
 
 Create an unsafe environment for themselves or others. Prohibited behaviors include, but are not limited to:
+
 * Harassing, threatening or intimidating others.
 * Engaging in behavior that is unsafe for oneself or others.
 * Using alcohol, tobacco, or controlled substances.
 
 Disturb or disrupt other library users or staff. Prohibited behaviors include, but are not limited to:
+
 * Creating disturbances, e.g. loud noise or inappropriately demanding the attention of others studying.
 * Showing inappropriate and/or unwelcome attention to library users, student workers or staff, e.g. asking unwelcome personal questions, repeated questions, staring, refusing to end a conversation.
 * Bringing full meals or other large amounts of food into the library. Snack food and drinks in closed containers are permitted. (Library users are expected to clean up any resulting trash and notify staff of any spills.)
 * Leaving or distributing materials without permission.
 
 Misuse library resources or facilities. Prohibited behaviors include, but are not limited to:
+
 * Use of transportation devices (such as bicycles, skates, and skateboards) in the building. These restrictions do not apply to mobility or medical assistive devices, or baby strollers.
 * Blocking entrances, ramps or stairways.
 * Misusing, removing or damaging library furniture or damaging the library building.
@@ -182,7 +186,7 @@ Engaging in inappropriate use of materials will jeopardize library borrowing pri
 
 Censorship of the library’s collections will not be tolerated. As a college library, we cultivate a collection of resources and develop displays that are appropriate for the curriculum at Whitman College and an adult audience. Our collection represents various viewpoints that stimulate intellectual inquiry and foster spirited debate. That said, legitimate complaints about library materials or displays will be reviewed based upon the guidelines endorsed by the American Library Association and their [Intellectual Freedom Manual, 9th ed.](https://sherlock.whitman.edu/permalink/f/19gob7d/CP71230442910001451)
 
-Complaints about materials, not including those held in the Whitman College and Northwest Archives or those externally licensed by the library, will be handled on a case-by-case basis and can only be made by current Whitman students, faculty, and staff. Penrose Library has delegated the responsibility for the selection and evaluation of materials to its librarians. Should a member of the Whitman community think that certain material is unsuitable for the library’s collection or display, the first step is to discuss their concerns with the Head of Collection Management (Roger Stelk, stelkre@whitman.edu) and/or the Interim Library Director (Lee Keene, [keenelp@whitman.edu](keenelp@whitman.edu)).
+Complaints about materials, not including those held in the Whitman College and Northwest Archives or those externally licensed by the library, will be handled on a case-by-case basis and can only be made by current Whitman students, faculty, and staff. Penrose Library has delegated the responsibility for the selection and evaluation of materials to its librarians. Should a member of the Whitman community think that certain material is unsuitable for the library’s collection or display, the first step is to discuss their concerns with the Head of Collection Management (Roger Stelk, stelkre@whitman.edu) and/or the  Library Director (Ping Fu, [fup@whitman.edu](fup@whitman.edu)).
 
 If the issue is not resolved following an informal discussion about the mission of the library and how the material or display supports learning within the higher education environment, the library has established a formal reconsideration procedure to address concerns about those resources. The process includes:
 
@@ -260,7 +264,7 @@ If you have materials from Penrose that are not accessible, please fill out the 
 
 Penrose Library is committed to providing equitable access to library collections, services, and facilities for all library users as stated in the Penrose Library’s [Mission and Values statement](#penrose-mission-and-values-statement) and the Whitman College [Strategic Priorities.](https://www.whitman.edu/newsroom/archive/2017/strategic-priorities) Penrose Library strives to follow universal design principles and create physical and digital environments that address the needs of the broadest range of patrons possible by following the best practices and standards for accessibility. For web pages and systems under our direct control, we will work to update them to adhere to [WCAG 2.0.](https://www.w3.org/WAI/standards-guidelines/wcag/) For materials and systems licensed from third-party vendors, we will communicate issues brought to our attention with the vendors and work with them to address deficiencies. Penrose Library seeks to select and acquire, whenever possible, resources and technologies that are in line with universal design principles.
 
-Penrose Library will provide patrons alternative formats or assistance when resources are not fully accessible. Please fill out the [remediation form](https://docs.google.com/forms/d/e/1FAIpQLSfQ2N29D31VdMwPZ6Fex9HvWTbwfNxnb_i-212wlHxr46V_gg/viewform?usp=sf_link) to the best of your ability or contact us at library@whitman.edu with questions. We will try and fill requests in as timely a manner as possible. This form is sent to Emily Pearson (Instructional and Research Services Librarian), and Antonia Keithahn (Assistant Director of Disability Support Services). We will maintain the data to find patterns in inaccessible material, but will not keep records of who requested materials once we fulfill a request.
+Penrose Library will provide patrons alternative formats or assistance when resources are not fully accessible. Please fill out the [remediation form](https://docs.google.com/forms/d/e/1FAIpQLSfQ2N29D31VdMwPZ6Fex9HvWTbwfNxnb_i-212wlHxr46V_gg/viewform?usp=sf_link) to the best of your ability or contact us at library@whitman.edu with questions. We will try and fill requests in as timely a manner as possible. This form is sent to Emily Pearson (Instructional and Research Services Librarian). We will maintain the data to find patterns in inaccessible material, but will not keep records of who requested materials once we fulfill a request.
 
 ## Location and Directions
 
