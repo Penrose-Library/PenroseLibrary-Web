@@ -124,19 +124,24 @@ $(document).ready(function(e) {
             Instructional, Research, and Access Services
         </th>
     </tr>
-    <tr>
-        <th headers="irs" id="part3" colspan="2">
-           <img class="responsive-img" src="/images/staffimage/leepic.png" alt="Lee Keene" />
+
+<tr>
+        <th headers="irs" id="part5" colspan="2">
+           <img class="responsive-img" src="/images/staffimage/EMILY-PEARSON_2019.png" alt="Emily Pearson" />
         </th>
-        <td headers="irs part3 name" colspan="2">
-            <p>Lee Keene</p>
-            <p>Head of Instruction, Research, &amp; Assessment</p>
-            <p><a href="mailto:keenelp@whitman.edu">keenelp@whitman.edu</a></p>
-            <p><a href="tel:+15095275917">509-527-5917</a></p>
+        <td headers="irs part5 name" colspan="2">
+            <p>Emily Pearson</p>
+            <p>Instruction Coordinator and Outreach Librarian</p>
+
+<p>Interim Archivist and Head of Special Collections</p>
+            <p><a href="mailto:pearsome@whitman.edu">pearsome@whitman.edu</a></p>
+            <p><a href="tel:+15095275918">509-527-5918</a></p>
         </td>
-        <td headers="irs part3 resp" colspan="3">
+        <td headers="irs part5 resp" colspan="3">
             <ul>
-                <li>Schedule and provide classroom instruction</li>
+             <li>Accessibility questions or concerns </li>
+
+<li>Schedule and provide classroom instruction</li>
                 <li>Providing one-on-one consultation</li>
                 <li>Answering research questions</li>
                 <li>Scheduling the CTL Classroom</li>
@@ -150,11 +155,17 @@ $(document).ready(function(e) {
                       <li>Politics</li>
                       <li>SSRA</li>
                       <li>Writing Center</li>
+                        <li>Art</li>
+                        <li>Gender Studies</li>
+                        <li>History</li>
+                        <li>Theatre &amp; Dance</li>
+                        <li>Film &amp; Media Studies</li>
                     </ul>
                 </li>
             </ul>
         </td>
     </tr>
+ 
     <tr>
         <th headers="irs" id="part4" colspan="2">
            <img class="responsive-img" src="/images/staffimage/AMY-BLAU_2019.png" alt="Amy Blau" />
@@ -182,34 +193,7 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
-    <tr>
-        <th headers="irs" id="part5" colspan="2">
-           <img class="responsive-img" src="/images/staffimage/EMILY-PEARSON_2019.png" alt="Emily Pearson" />
-        </th>
-        <td headers="irs part5 name" colspan="2">
-            <p>Emily Pearson</p>
-            <p>Instructional &amp; Research Services Librarian</p>
-            <p><a href="mailto:pearsome@whitman.edu">pearsome@whitman.edu</a></p>
-            <p><a href="tel:+15095275918">509-527-5918</a></p>
-        </td>
-        <td headers="irs part5 resp" colspan="3">
-            <ul>
-             <li>Accessibility questions or concerns </li>
-
-   <li>Providing classroom instruction &amp; personal consultation</li>
-                <li>Answering research questions</li>
-                <li>Liaison for:
-                    <ul>
-                        <li>Art</li>
-                        <li>Gender Studies</li>
-                        <li>History</li>
-                        <li>Theatre &amp; Dance</li>
-                        <li>Film &amp; Media Studies</li>
-                    </ul>
-                </li>
-            </ul>
-        </td>
-    </tr>
+    
     <tr>
         <th headers="irs" id="part6" colspan="2">
            <img class="responsive-img" src="/images/staffimage/JULIE-CARTER_2019.png" alt="Julie Carter" />
@@ -310,33 +294,6 @@ $(document).ready(function(e) {
         <th id="archives" class="span" colspan="5" scope="colgroup">
            Whitman College and Northwest Archives
         </th>
-    </tr>
-    <tr>
-        <th headers="archives" id="part11" colspan="2">
-        <img class="responsive-img" src="/archives/images/BEN-MURPHY_2019.png" alt="Ben Murphy" />
-        </th>
-        <td headers="archives part11 name" colspan="2">
-            <p>Ben Murphy</p>
-            <p>Archivist &amp; Head of Digital Services</p>
-            <p><a href="mailto:murphybp@whitman.edu">murphybp@whitman.edu</a></p>
-            <p><a href="tel:+15095274731">509-526-4731</a></p>
-        </td>
-        <td headers="archives part11 resp" colspan="3">
-        <ul>
-            <li>College &amp; Northwest Archives</li>
-            <li>Rare books</li>
-            <li>Providing classroom instruction &amp; personal consultation</li>
-            <li>Digitization &amp; preservation</li>
-            <li>Liaison for:
-            <ul>
-                <li>Art History &amp; Visual Culture Studies</li>
-                <li>Music</li>
-                <li>Religion</li>
-                <li>Rhetoric, Writing, and Public Discourse</li>
-            </ul>
-            </li>
-        </ul>
-        </td>
     </tr>
   <tr>
      <th headers="archives" id="part12" colspan="2">
