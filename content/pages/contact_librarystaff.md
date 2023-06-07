@@ -124,46 +124,36 @@ $(document).ready(function(e) {
             Instructional, Research, and Access Services
         </th>
     </tr>
-
-<tr>
+	<tr>
         <th headers="irs" id="part3" colspan="2">
            <img class="responsive-img" src="/images/staffimage/EMILY-PEARSON_2019.png" alt="Emily Pearson" />
         </th>
         <td headers="irs part3 name" colspan="2">
             <p>Emily Pearson</p>
             <p>Instruction Coordinator and Outreach Librarian</p>
-	<p>Interim Archivist and Head of Special Collections</p>
+			<p>Interim Archivist and Head of Special Collections</p>
             <p><a href="mailto:pearsome@whitman.edu">pearsome@whitman.edu</a></p>
             <p><a href="tel:+15095275918">509-527-5918</a></p>
         </td>
         <td headers="irs part3 resp" colspan="3">
             <ul>
              <li>Accessibility questions or concerns </li>
-		<li>Schedule and provide classroom instruction</li>
-                <li>Providing one-on-one consultation</li>
-                <li>Answering research questions</li>
-                <li>Scheduling the CTL Classroom</li>
-                <li>Liaison for:
-                    <ul>
-                      <li>Anthropology</li>
-                      <li>Asian Studies</li>
-                      <li>Environmental Studies</li>
-                      <li>English</li>
-                      <li>Global Studies</li>
-                      <li>Politics</li>
-                      <li>SSRA</li>
-                      <li>Writing Center</li>
-                        <li>Art</li>
-                        <li>Gender Studies</li>
-                        <li>History</li>
-                        <li>Theatre &amp; Dance</li>
-                        <li>Film &amp; Media Studies</li>
-                    </ul>
-                </li>
-            </ul>
+             <li>Schedule and provide classroom instruction</li>
+             <li>Providing one-on-one consultation</li>
+             <li>Answering research questions</li>
+             <li>Scheduling the CTL Classroom</li>
+             <li>Liaison for:
+             	<ul>
+                	<li>Art</li>
+                    <li>Gender Studies</li>
+                    <li>History</li>
+                    <li>Theatre &amp; Dance</li>
+                    <li>Film &amp; Media Studies</li>
+                </ul>
+            </li>
+          </ul>
         </td>
     </tr>
- 
     <tr>
         <th headers="irs" id="part4" colspan="2">
            <img class="responsive-img" src="/images/staffimage/AMY-BLAU_2019.png" alt="Amy Blau" />
@@ -190,8 +180,7 @@ $(document).ready(function(e) {
             </li>
             </ul>
         </td>
-    </tr>
-    
+    </tr>   
     <tr>
         <th headers="irs" id="part6" colspan="2">
            <img class="responsive-img" src="/images/staffimage/JULIE-CARTER_2019.png" alt="Julie Carter" />
@@ -439,6 +428,5 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
-
 </tbody>
 </table>
