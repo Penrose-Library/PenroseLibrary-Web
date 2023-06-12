@@ -9,4 +9,4 @@ Penrose has begun a trial of Sage Campus and we want to hear from you if this is
 
 We acknowledge this is not optimal timing as the semester ends, but if you have some time in the next few weeks please consider evaluating Sage Campus and providing your [feedback](https://forms.gle/rbdEd5tp7SYzCPzV8). Our trial will be available through June 30. 
 
-To try out Sage Campus, please register [an account](https://classroom.sagepub.com/) and then you will have access to all of the modules. If it does not recognize your Whitman access, please contact Emily Pearson ([pearsome@whitman.edu](mailto:pearsome@whitman.edu)).
+To try out Sage Campus, please register [an account](https://classroom-sagepub-com.ezproxy.whitman.edu/) and then you will have access to all of the modules. If it does not recognize your Whitman access, please contact Emily Pearson ([pearsome@whitman.edu](mailto:pearsome@whitman.edu)).
