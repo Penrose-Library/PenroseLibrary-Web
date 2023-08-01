@@ -197,7 +197,7 @@ If the issue is not resolved following an informal discussion about the mission 
 
 Penrose Library is committed to providing resources that support the work of our students, faculty, and staff. All requests for reconsideration are taken seriously and will be evaluated in a fair and thorough manner.
 
-### Penrose Library Exhibits and Display Policy
+## Penrose Library Exhibits and Display Policy
 
 #### Purpose
 
