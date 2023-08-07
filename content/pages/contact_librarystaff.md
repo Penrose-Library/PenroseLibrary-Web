@@ -131,7 +131,6 @@ $(document).ready(function(e) {
         <td headers="irs part3 name" colspan="2">
             <p>Emily Pearson</p>
             <p>Instruction Coordinator and Outreach Librarian</p>
-			<p>Interim Archivist and Head of Special Collections</p>
             <p><a href="mailto:pearsome@whitman.edu">pearsome@whitman.edu</a></p>
             <p><a href="tel:+15095275918">509-527-5918</a></p>
         </td>
@@ -286,10 +285,26 @@ $(document).ready(function(e) {
      <th headers="archives" id="part12" colspan="2">
 	</th>
         <td headers="archives part12 name" colspan="2">
+            <p>Alexis Hickey</p>
+            <p>College Archivist and Head of Special Collections</p>
+            <p><a href="mailto:hickeya@whitman.edu">hickeya@whitman.edu</a></p>
+            <p><a href="tel:+1509-526-5922">509-526-5922</a></p>
+        </td>
+        <td headers="archives part12 resp" colspan="3">
+            <ul>
+                <li>College & Northwest Archives </li>
+                <li>Answering questions about college and local history</li>
+                <li>Providing Instruction in the Archives</li>
+            </ul>
+        </td>
+    </tr> <tr>
+     <th headers="archives" id="part13" colspan="2">
+	</th>
+        <td headers="archives part13 name" colspan="2">
             <p>River Freemont</p>
             <p>Associate Archivist</p>
             <p><a href="mailto:freemonr@whitman.edu">freemonr@whitman.edu</a></p>
-            <p><a href="tel:+1509-526-5922">509-526-4703</a></p>
+            <p><a href="tel:+1509-526-4703">509-526-4703</a></p>
         </td>
         <td headers="archives part12 resp" colspan="3">
             <ul>
@@ -300,9 +315,9 @@ $(document).ready(function(e) {
         </td>
     </tr> 
     <tr>
-	<th headers="archives" id="part13" colspan="2">   
+	<th headers="archives" id="part14" colspan="2">   
         </th>
-        <td headers="archives part13 name" colspan="2">
+        <td headers="archives part14 name" colspan="2">
             <p>West Bales</p>
             <p>Archive Assistant</p>
             <p><a href="mailto:skrobiwd@whitman.edu">skrobiwd@whitman.edu</a></p>
@@ -320,10 +335,10 @@ $(document).ready(function(e) {
         </th>
     </tr>
     <tr>
-        <th headers="collection" id="part14" colspan="2">
+        <th headers="collection" id="part15" colspan="2">
             <img class="responsive-img" src="/images/staffimage/rogerpic.png" alt="Roger Stelk" />
         </th>
-        <td headers="collection part14 name" colspan="2">
+        <td headers="collection part1 name" colspan="2">
             <p>Roger Stelk</p>
             <p>Head of Collection Management</p>
             <p><a href="mailto:stelkre@whitman.edu">stelkre@whitman.edu</a></p>
@@ -346,10 +361,10 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="collection" id="part15" colspan="2">
+        <th headers="collection" id="part16" colspan="2">
             <img class="responsive-img" src="/images/staffimage/paige-e1512411546358.png" alt="Paige Morfitt" />
         </th>
-        <td headers="collection part15 name" colspan="2">
+        <td headers="collection part16 name" colspan="2">
             <p>Paige Morfitt</p>
             <p>Digital Assets and Metadata Librarian</p>
             <p><a href="mailto:morfitpb@whitman.edu">morfitpb@whitman.edu</a></p>
@@ -368,9 +383,9 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="collection" id="part16" colspan="2">
+        <th headers="collection" id="part17" colspan="2">
         </th>
-        <td headers="collection part16 name" colspan="2">
+        <td headers="collection part17 name" colspan="2">
             <p>Rich Pengra</p>
             <p>Library Assistant, Collection Development</p>
             <p><a href="mailto:pengrars@whitman.edu">pengrars@whitman.edu</a></p>
@@ -385,9 +400,9 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="collection" id="part17" colspan="2">
+        <th headers="collection" id="part18" colspan="2">
         </th>
-        <td headers="collection part17 name" colspan="2">
+        <td headers="collection part18 name" colspan="2">
             <p>Rika Groff</p>
             <p>Library Assistant, Cataloging</p>
             <p><a href="mailto:groffrm@whitman.edu">groffrm@whitman.edu</a></p>
@@ -408,9 +423,9 @@ $(document).ready(function(e) {
         </th>
     </tr>
     <tr>
-        <th headers="systems" id="part18" colspan="2">
+        <th headers="systems" id="part19" colspan="2">
             </th>
-        <td headers="systems part18 name" colspan="2">
+        <td headers="systems part19 name" colspan="2">
                 <p>Tracy Tolf</p>
                 <p>Systems & Applications Librarian</p>
                 <p><a href="mailto:tolft@whitman.edu">tolft@whitman.edu</a></p>
