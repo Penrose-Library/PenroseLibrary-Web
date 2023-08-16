@@ -54,7 +54,7 @@ menu:
       url: /contact_librarystaff/
       weight: 6       
     - name: Faculty Services
-      url: /faculty_services/
+      url: https://libguides.whitman.edu/faculty
       weight: 13
     - name: About the Library
       url: /about_the_library/
