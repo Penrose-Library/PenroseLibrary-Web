@@ -141,13 +141,7 @@ $(document).ready(function(e) {
              <li>Providing one-on-one consultation</li>
              <li>Answering research questions</li>
              <li>Scheduling the CTL Classroom</li>
-             <li>Liaison for:
-             	<ul>
-                	<li>Art</li>
-                    <li>Gender Studies</li>
-                    <li>History</li>
-                    <li>Theatre &amp; Dance</li>
-                    <li>Film &amp; Media Studies</li>
+             <li>Instruction Representative for Division II</li>
                 </ul>
             </li>
           </ul>
@@ -168,15 +162,7 @@ $(document).ready(function(e) {
             <li>Schedule and provide classroom instruction</li>
             <li>Providing one-on-one consultation</li>
             <li>Answering research questions</li>
-            <li>Liaison for:
-                <ul>
-                    <li>Classics</li>
-                    <li>Foreign Languages</li>
-                    <li>Hispanic Studies</li>
-                    <li>Chemistry </li>
-                    <li>Physics</li>
-                </ul>
-            </li>
+            <li>Instruction Representative for Division III</li>
             </ul>
         </td>
     </tr>   
@@ -195,14 +181,7 @@ $(document).ready(function(e) {
                 <li>Circulation policies</li>
                 <li>Providing classroom instruction&nbsp;&amp; personal consultation</li>
                 <li>Answering research questions</li>
-                <li>Liaison for:
-                <ul>
-                    <li>Geology</li>
-                    <li>Philosophy</li>
-                    <li>Psychology</li>
-                    <li>Sociology</li>
-                </ul>
-                </li>
+                <li>Instruction Representative for Division I</li>
             </ul>
         </td>
     </tr>
@@ -349,14 +328,7 @@ $(document).ready(function(e) {
                 <li>Collection development</li>
                 <li>Journal subscriptions</li>
                 <li>Donating materials</li>
-                <li>Liaison for:
-                    <ul>
-                        <li>Astronomy</li>
-                        <li>BBMB</li>
-                        <li>Biology</li>
-                        <li>Economics</li>
-                    </ul>
-                </li>
+               
             </ul>
         </td>
     </tr>
@@ -374,11 +346,6 @@ $(document).ready(function(e) {
             <ul>
                 <li>Digitization &amp; digital content creation</li>
                 <li>Metadata management</li>
-                <li>Liaison for:
-                    <ul>
-                        <li>Race &amp; Ethnic Studies</li>
-                    </ul>
-                </li>
             </ul>
         </td>
     </tr>
@@ -435,11 +402,6 @@ $(document).ready(function(e) {
             <ul>
                 <li>Library website and Sherlock (Catalog)</li>
                 <li>Access databases</li>
-                <li>Liaison for:
-                    <ul>
-                      <li>Mathematics &amp; Computer Science</li>
-                    </ul>
-                </li>
             </ul>
         </td>
     </tr>
