@@ -36,7 +36,7 @@
 
 #homepage-main-and-footer{
   background-image: url('/images/img_9.png');
-  background-repeat: repeat-x;
+  width:100%
 }
 
 .searchbox{
@@ -47,6 +47,7 @@
 }
 .second-section-main{
   background-color: #fff;
+  width:100%;
   padding: 1rem 0.5rem 1rem 1rem;
 }
 .nobackground{
