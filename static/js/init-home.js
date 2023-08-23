@@ -10,7 +10,7 @@
            dataType: 'json',
 	       cache:false,
  	}).done(function( msg ) {
-		var output=(msg.Total-msg.CheckedOut)+" available";
+		var output=(msg.Total-msg.CheckedOut)+" available.";
 		$('#bikeshare').html(output);
 	 });
 
@@ -31,13 +31,13 @@
            type: 'GET',
 		   dataType: 'text'
  	}).done(function( msg ) {
-	var output= (msg) + ' people';
+	var output= (msg) + ' people.';
 	$('#buildingoccupancy').html(output);
 	});
 	
 	//library hours
 	var today = new Date();
-    const options = { weekday: 'short', year: 'numeric', month: 'short', day: 'numeric' };
+    const options = { weekday: 'long', month: 'long', day: 'numeric' };
 	$('#date').html(today.toLocaleDateString('en-US', options));
 	
 	$.ajax({
@@ -50,9 +50,9 @@
 	});
 
 var librarian = { 
-    Emily: { "name": "Emily Pearson", "office":"222","email":"pearsome@whitman.edu", "phone": "509-527-5918", "photo":"https://library.whitman.edu/images/librarians/EMILY-PEARSON_2019.png"  }, 
+    Emily: { "name": "Emily Pearson", "office":"215","email":"pearsome@whitman.edu", "phone": "509-527-5918", "photo":"https://library.whitman.edu/images/librarians/EMILY-PEARSON_2019.png"  }, 
     Julie: { "name": "Julie Carter", "office":"219","email": "carterja@whitman.edu", "phone": "509-527-5915", "photo":"https://library.whitman.edu/images/librarians/JULIE-CARTER_2019.png"  }, 
-    Lee: { "name": "Lee Keene", "office": '215',"email":"keenelp@whitman.edu", "phone": "509-527-5917" , "photo":"https://library.whitman.edu/wp-content/uploads/2017/12/leepic.png"},
+    Bridget: { "name": "Bridget Scoles", "office": '222',"email":"@whitman.edu", "phone": "509-527-5917" , "photo":"https://library.whitman.edu/wp-content/uploads/2017/12/leepic.png"},
     Amy:{"name": "Amy Blau","office":'217',"email": "blauar@whitman.edu","phone": "509-527-4905", "photo":"https://library.whitman.edu/images/librarians/AMY-BLAU_2019.png" } 
 }
 //reference calendar
