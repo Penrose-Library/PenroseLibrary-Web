@@ -178,7 +178,7 @@ h1,
 h2,
 h3,
 h4 {
-/*    font-family: "Vito Light", sans-serif; */
+    font-family: "Vito Light", sans-serif; 
     line-height: 1.125;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -191,7 +191,7 @@ h2 {
     font-size: 1.66rem;
 }
 h3 {
-    font-size: 1rem;
+    font-size: 1.25rem;
 }
 h4,
 h5 {
