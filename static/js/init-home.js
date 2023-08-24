@@ -31,7 +31,7 @@
            type: 'GET',
 		   dataType: 'json'
  	}).done(function( msg ) {
-		if (msg == 1) {
+		if (msg = '1') {
 			var output= (msg) + ' person.';
 		} else {
 			var output= (msg) + ' people.';
