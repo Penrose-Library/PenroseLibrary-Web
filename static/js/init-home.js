@@ -31,10 +31,7 @@
            type: 'GET',
 		   dataType: 'json'
  	}).done(function( msg ) {
-		if (msg = "1") {
-			var output= (msg) + ' person.';
-		} else {
-			var output= (msg) + ' people.';
+	var output= (msg) + ' people.';
 	$('#buildingoccupancy').html(output);
 	});
 	
