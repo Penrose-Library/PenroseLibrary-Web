@@ -29,7 +29,7 @@
 	$.ajax({
            url: 'https://library.whitman.edu/cfworker/spacecount',
            type: 'GET',
-		   dataType: 'text'
+		   dataType: 'application/json'
  	}).done(function( msg ) {
 		if (msg = 1) {
 			var output= (msg) + ' person.';
