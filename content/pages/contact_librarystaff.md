@@ -98,7 +98,6 @@ $(document).ready(function(e) {
                 <li>Budget matters</li>
                 <li>Suggestions</li>
                 <li>Gifts</li>
-                <li>Copyright</li>
             </ul>
         </td>
     </tr>
@@ -179,6 +178,7 @@ $(document).ready(function(e) {
                 <li>Circulation policies</li>
                 <li>Providing classroom instruction&nbsp;&amp; personal consultation</li>
                 <li>Answering research questions</li>
+                <li>Copyright</li>
                 <li>Instruction Representative for Division I</li>
             </ul>
         </td>
