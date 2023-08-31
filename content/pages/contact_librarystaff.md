@@ -327,8 +327,7 @@ $(document).ready(function(e) {
             <ul>
                 <li>Collection development</li>
                 <li>Journal subscriptions</li>
-                <li>Donating materials</li>
-               
+                <li>Donating materials</li>               
             </ul>
         </td>
     </tr>
