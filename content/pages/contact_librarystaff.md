@@ -143,8 +143,6 @@ $(document).ready(function(e) {
              <li>Scheduling the CTL Classroom</li>
              <li>Instruction Representative for Division II</li>
                 </ul>
-            </li>
-          </ul>
         </td>
     </tr>
     <tr>
@@ -238,7 +236,7 @@ $(document).ready(function(e) {
         </td>
     </tr>
 
-  <tr>
+<tr>
     <th headers="irs" id="part10" colspan="2">
         </th>
         <td headers="irs part10 name" colspan="2">
@@ -285,7 +283,7 @@ $(document).ready(function(e) {
             <p><a href="mailto:freemonr@whitman.edu">freemonr@whitman.edu</a></p>
             <p><a href="tel:+1509-526-4703">509-526-4703</a></p>
         </td>
-        <td headers="archives part12 resp" colspan="3">
+        <td headers="archives part13 resp" colspan="3">
             <ul>
                 <li>College & Northwest Archives </li>
                 <li>Answering questions about college and local history</li>
@@ -302,7 +300,7 @@ $(document).ready(function(e) {
             <p><a href="mailto:skrobiwd@whitman.edu">skrobiwd@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5922">509-527-5922</a></p>
         </td>
-        <td headers="archives part13 resp" colspan="3">
+        <td headers="archives part14 resp" colspan="3">
             <ul>
                 <li>General inquiries about the Archives</li>
                 <li>Answering questions about college and local history</li>
@@ -317,13 +315,13 @@ $(document).ready(function(e) {
         <th headers="collection" id="part15" colspan="2">
             <img class="responsive-img" src="/images/staffimage/rogerpic.png" alt="Roger Stelk" />
         </th>
-        <td headers="collection part1 name" colspan="2">
+        <td headers="collection part15 name" colspan="2">
             <p>Roger Stelk</p>
             <p>Head of Collection Management</p>
             <p><a href="mailto:stelkre@whitman.edu">stelkre@whitman.edu</a></p>
             <p><a href="tel:+15095275909">509-527-5909</a></p>
         </td>
-        <td headers="collection part14 resp" colspan="3">
+        <td headers="collection part15 resp" colspan="3">
             <ul>
                 <li>Collection development</li>
                 <li>Journal subscriptions</li>
@@ -341,7 +339,7 @@ $(document).ready(function(e) {
             <p><a href="mailto:morfitpb@whitman.edu">morfitpb@whitman.edu</a></p>
             <p><a href="tel:+15095275920">509-527-5920</a></p>
         </td>
-        <td headers="collection part15 resp" colspan="3">
+        <td headers="collection part16 resp" colspan="3">
             <ul>
                 <li>Digitization &amp; digital content creation</li>
                 <li>Metadata management</li>
@@ -357,7 +355,7 @@ $(document).ready(function(e) {
             <p><a href="mailto:pengrars@whitman.edu">pengrars@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5912">509-527-5912</a></p>
         </td>
-        <td headers="collection part16 resp" colspan="3">
+        <td headers="collection part17 resp" colspan="3">
             <ul>
                 <li>Book purchasing</li>
                 <li>Reserve material requests</li>
@@ -374,7 +372,7 @@ $(document).ready(function(e) {
             <p><a href="mailto:groffrm@whitman.edu">groffrm@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5919">509-527-5919</a></p>
         </td>
-        <td headers="collection part17 resp" colspan="3">
+        <td headers="collection part18 resp" colspan="3">
             <ul>
                 <li>Catalog record errors</li>
                 <li>Cataloging and record maintenance</li>
@@ -397,7 +395,7 @@ $(document).ready(function(e) {
                 <p><a href="mailto:tolft@whitman.edu">tolft@whitman.edu</a></p>
                 <p><a href="tel:+15095275916">509-527-5916</a></p>
         </td>
-        <td headers="systems part18 resp" colspan="3">
+        <td headers="systems part19 resp" colspan="3">
             <ul>
                 <li>Library website and Sherlock (Catalog)</li>
                 <li>Access databases</li>
