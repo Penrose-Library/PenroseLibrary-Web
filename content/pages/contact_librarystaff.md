@@ -165,9 +165,27 @@ $(document).ready(function(e) {
     </tr>   
     <tr>
         <th headers="irs" id="part6" colspan="2">
+                   </th>
+        <td headers="irs part6 name" colspan="2">
+            <p>Bridget Scoles</p>
+            <p>Student Success and Instruction Librarian</p>
+            <p><a href="mailto:scolesb@whitman.edu">scolesb@whitman.edu</a></p>
+            <p><a href="tel:+15095275917">509-527-5917</a></p>
+        </td>
+        <td headers="irs part6 resp" colspan="3">
+            <ul>
+                <li>Providing classroom instruction&nbsp;&amp; personal consultation</li>
+                <li>Answering research questions</li>
+                <li>Instruction Representative for Interdisciplinary Departments and Non-Academic Units</li>
+            </ul>
+        </td>
+    </tr>
+
+<tr>
+        <th headers="irs" id="part7" colspan="2">
            <img class="responsive-img" src="/images/staffimage/JULIE-CARTER_2019.png" alt="Julie Carter" />
         </th>
-        <td headers="irs part6 name" colspan="2">
+        <td headers="irs part7 name" colspan="2">
             <p>Julie Carter</p>
             <p>Head of User Services</p>
             <p><a href="mailto:carterja@whitman.edu">carterja@whitman.edu</a></p>
@@ -184,10 +202,10 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="irs" id="part7" colspan="2">
+        <th headers="irs" id="part8" colspan="2">
           <img class="responsive-img" src="/images/staffimage/Ari_Kirby.jpeg" alt="Ari Kirby" style="max-width:180px" />
         </th>
-        <td headers="irs part7 name" colspan="2">
+        <td headers="irs part8 name" colspan="2">
             <p>Ari Kirby</p>
             <p>Access Service Manager</p>
             <p><a href="mailto:kirbyk@whitman.edu">kirbyk@whitman.edu</a></p>
@@ -202,15 +220,15 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="irs" id="part8" colspan="2">
+        <th headers="irs" id="part9" colspan="2">
         </th>
-        <td headers="irs part8 name" colspan="2">
+        <td headers="irs part9 name" colspan="2">
             <p>Christel Holce</p>
             <p>Circulation Supervisor</p>
             <p><a href="mailto:holceci@whitman.edu">holceci@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
         </td>
-        <td headers="irs part8 resp" colspan="3">
+        <td headers="irs part9 resp" colspan="3">
             <ul>
                 <li>Circulation issues</li>
                 <li>Summit Request</li>
@@ -219,9 +237,9 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-    <th headers="irs" id="part9" colspan="2">
+    <th headers="irs" id="part10" colspan="2">
         </th>
-        <td headers="irs part9 name" colspan="2">
+        <td headers="irs part10 name" colspan="2">
             <p>Dona LaFran</p>
             <p>Circulation Supervisor (Weekend)</p>
             <p><a href="mailto:lafrand@whitman.edu">lafrand@whitman.edu</a></p>
@@ -237,15 +255,15 @@ $(document).ready(function(e) {
     </tr>
 
 <tr>
-    <th headers="irs" id="part10" colspan="2">
+    <th headers="irs" id="part11" colspan="2">
         </th>
-        <td headers="irs part10 name" colspan="2">
+        <td headers="irs part11 name" colspan="2">
             <p>Anders Otterness</p>
             <p>Circulation Supervisor (Mornings)</p>
             <p><a href="mailto:otterna@whitman.edu">otterna@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
         </td>
-        <td headers="irs part10 resp" colspan="3">
+        <td headers="irs part11 resp" colspan="3">
             <ul>
                 <li>Circulation issues</li>
                 <li>Summit Request</li>
