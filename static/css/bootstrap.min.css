@@ -285,6 +285,7 @@ label {
 
 button {
   border-radius: 0;
+  : center;
 }
 
 button:focus:not(:focus-visible) {
@@ -2647,7 +2648,7 @@ textarea.form-control-lg {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  text-align: center;
+  : center;
   white-space: nowrap;
   background-color: #e9ecef;
   border: 1px solid #ced4da;
