@@ -60,7 +60,7 @@ var librarian = {
 			url: "https://library.whitman.edu/cfworker/calendar",
 			dataType: 'json'
 	}).done(function( hours ) {
-	    refhtml='<p>If you need help, please send us an email using the link above.</p>';
+	    refhtml='<p>If you need help, please send us an email.</p>';
 		console.log(hours.items.length);
 		x=hours.items.length-1;
 		if(hours.items[x] && x >= 0){
