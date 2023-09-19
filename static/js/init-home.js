@@ -68,7 +68,7 @@ var librarian = {
         const start = new Date(hours.items[x].start.dateTime); 
         const end = new Date(hours.items[x].end.dateTime); 
        if(now.getHours()<=end.getHours()&&now.getHours()>=start.getHours()){
-				refhtml='<div class="reference-text"><span style="color:green;font-weight:bold">'+librarian[hours.items[x].summary].name+'</span> is available for research help until '+end.toLocaleTimeString('en-US', {  hour: '2-digit', minute: '2-digit' })+'. <a href="mailto:'+librarian[hours.items[x].summary].email+'">'+librarian[hours.items[x].summary].email+'</a></div>  <div class="reference-picture">   <img src="'+librarian[hours.items[x].summary].photo+'" alt="'+librarian[hours.items[x].summary].name+'"/></div>';
+				refhtml='<div class="reference-text"><span style="color:green">'+librarian[hours.items[x].summary].name+'</span> is available for research help until '+end.toLocaleTimeString('en-US', {  hour: '2-digit', minute: '2-digit' })+'. <a href="mailto:'+librarian[hours.items[x].summary].email+'">'+librarian[hours.items[x].summary].email+'</a></div>  <div class="reference-picture">   <img src="'+librarian[hours.items[x].summary].photo+'" alt="'+librarian[hours.items[x].summary].name+'"/></div>';
        }
 	  }
 	$('#reference').html(refhtml);
