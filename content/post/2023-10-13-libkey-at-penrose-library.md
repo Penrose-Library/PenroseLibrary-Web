@@ -20,7 +20,7 @@ P﻿enrose Library at Whitman College is happy to announce a new trial of the re
 
 <p>Due to the complex web of resource data, article access permissions, and subscriptions in the library, we have noticed there have been issues with how our current linking system functions. Thus, the library has made the decision to try out a new series of products to promote a better and more efficient research experience.  
 
-![](/uploads/libkeyexample2.png)
+![The words Libkey, Browzine and Libkey Nomad centered](/uploads/libkeyexample2.jpg "The words Libkey, Browzine and Libkey Nomad centered")
 
 **Is that all?** 
 
