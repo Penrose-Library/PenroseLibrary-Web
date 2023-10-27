@@ -18,7 +18,7 @@ P﻿enrose Library at Whitman College is happy to announce a new trial of the re
 
 **Why is this changing?**
 
-<p>Due to the complex web of resource data, article access permissions, and subscriptions in the library, we have noticed there have been issues with how our current linking system functions. Thus, the library has made the decision to try out a new series of products to promote a better and more efficient research experience. </p>
+<p>Due to the complex web of resource data, article access permissions, and subscriptions in the library, we have noticed there have been issues with how our current linking system functions. Thus, the library has made the decision to try out a new series of products to promote a better and more efficient research experience.  
 
 **Is that all?** 
 
@@ -41,4 +41,8 @@ The best feature however is that you can create a personal library of up to 64 f
 
 **Will there be more information about these products and their services?**
 
-<p>Yes, as we continue to test out the products from Third Iron, expect more information including guides and workshops. If there is anything, in particular, you would like to see, please do not hesitate to contact us via our <a href="https://library.whitman.edu/contact_librarystaff/">Penrose Library Contact Form</a>. </p>
+<p>Yes, as we continue to test out the products from Third Iron, expect more information including workshops. If there is anything, in particular, you would like to see, please do not hesitate to contact us via our <a href="https://library.whitman.edu/contact_librarystaff/">Penrose Library Contact Form</a>. </p>. 
+
+**I have some comments, concerns, or feedback about my LibKey Experience**
+
+<﻿p>If you have feedback to provide about your experience with LibKey, you can tell us about it by using our <a href="https://forms.gle/jvXWKEd6GQtxFBuj9">LibKey Feedback Form</a></p>
