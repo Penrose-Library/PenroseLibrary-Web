@@ -14,17 +14,25 @@ P﻿enrose Library at Whitman College is happy to announce a new trial of the re
 
 <p>You will see some minor changes to how Sherlock displays articles in our catalog including additional buttons for getting PDFs and viewing full-text ability as well as more icons on journals and articles. If you notice anything that appears wrong, please visit our <a href="https://forms.gle/8tFtqYTVD6WY9vqTA">Penrose Library Report A Problem Form</a>.</p>
 
+<center>
+
 ![Two different browser screen shots displaying the visual difference before and after Libkey. Including more information about the creator of the item.](/uploads/libkeyexample.jpg "Two different browser screen shots displaying the visual difference before and after Libkey. Including more information about the creator of the item.")
+
+</center>
 
 **Why is this changing?**
 
 <p>Due to the complex web of resource data, article access permissions, and subscriptions in the library, we have noticed there have been issues with how our current linking system functions. Thus, the library has made the decision to try out a new series of products to promote a better and more efficient research experience.  
 
-![The words Libkey, Browzine and Libkey Nomad centered](/uploads/libkeyexample2.jpg "The words Libkey, Browzine and Libkey Nomad centered")
-
 **Is that all?** 
 
 <p>No, LibKey offers more than just a better linking experience. We also are testing out LibKey Nomad and BrowZine.</p>
+
+<﻿center>
+
+![The words Libkey, Browzine and Libkey Nomad centered](/uploads/libkeyexample2.jpg "The words Libkey, Browzine and Libkey Nomad centered")
+
+</center>
 
 **What is LibKey Nomad?**
 
