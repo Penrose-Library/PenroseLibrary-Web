@@ -8,7 +8,7 @@ P﻿enrose Library at Whitman College is happy to announce a new trial of the re
 
 **What is LibKey?**
 
-<p>LibKey delivers one-click access to millions of PDF and HTML articles from any database where your link resolver is used.  Imagine searching your favorite databases like Google Scholar or Web of Science, clicking the usual link button, and getting immediate access to content!  No more navigating source screens, waiting on different pages to load, or hunting around for a PDF button on different vendor pages. </p>
+<p><a href="https://libkey.io/">LibKey</a> delivers one-click access to millions of PDF and HTML articles from any database where your link resolver is used.  Imagine searching your favorite databases like Google Scholar or Web of Science, clicking the usual link button, and getting immediate access to content!  No more navigating source screens, waiting on different pages to load, or hunting around for a PDF button on different vendor pages. </p>
 
 **What is changing?**
 
