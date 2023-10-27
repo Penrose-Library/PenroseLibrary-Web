@@ -4,7 +4,7 @@ date: 2023-10-13T22:11:07.289Z
 thumbnail: /uploads/1609_admission-shoot_matt-lester-1105.png
 thumbnail_alt: Image of a woman studying in the background with stacks of books on the sides.
 ---
-<img src="https://raw.githubusercontent.com/Penrose-Library/PenroseLibrary_Website_Public/main/uploads/libkey-penrose.jpg" alt="An image with a logo of Whitman College and the words under it of Whitman College Penrose Library LibKey" align=”left” hspace=”50” VSPACE=”50”> P﻿enrose Library at Whitman College is happy to announce a new trial of the research tool LibKey, Libkey Nomad and Browzine. Information regarding what this new technology is, why we are implementing, what it includes and more can be found in this blog post. 
+P﻿enrose Library at Whitman College is happy to announce a new trial of the research tool LibKey, Libkey Nomad and Browzine. Information regarding what this new technology is, why we are implementing, what it includes and more can be found in this blog post. 
 
 **What is LibKey?**
 
@@ -19,6 +19,8 @@ thumbnail_alt: Image of a woman studying in the background with stacks of books 
 **Why is this changing?**
 
 <p>Due to the complex web of resource data, article access permissions, and subscriptions in the library, we have noticed there have been issues with how our current linking system functions. Thus, the library has made the decision to try out a new series of products to promote a better and more efficient research experience.  
+
+![](/uploads/libkeyexample2.png)
 
 **Is that all?** 
 
