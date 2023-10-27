@@ -41,8 +41,8 @@ The best feature however is that you can create a personal library of up to 64 f
 
 **Will there be more information about these products and their services?**
 
-<p>Yes, as we continue to test out the products from Third Iron, expect more information including workshops. If there is anything, in particular, you would like to see, please do not hesitate to contact us via our <a href="https://library.whitman.edu/contact_librarystaff/">Penrose Library Contact Form</a>. </p>. 
+<p>Yes, as we continue to test out the products from Third Iron, expect more information including workshops. If there is anything, in particular, you would like to see, please do not hesitate to contact us via our <a href="https://library.whitman.edu/contact_librarystaff/">Penrose Library Contact Form</a>. </p>
 
 **I have some comments, concerns, or feedback about my LibKey Experience**
 
-<﻿p>If you have feedback to provide about your experience with LibKey, you can tell us about it by using our <a href="https://forms.gle/jvXWKEd6GQtxFBuj9">LibKey Feedback Form</a></p>
+<p>If you have feedback to provide about your experience with LibKey, you can tell us about it by using our <a href="https://forms.gle/jvXWKEd6GQtxFBuj9">LibKey Feedback Form</a>.</p>
