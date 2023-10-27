@@ -28,7 +28,7 @@ P﻿enrose Library at Whitman College is happy to announce a new trial of the re
 
 <p>No, LibKey offers more than just a better linking experience. We also are testing out LibKey Nomad and BrowZine.</p>
 
-<﻿center>
+<center>
 
 ![The words Libkey, Browzine and Libkey Nomad centered](/uploads/libkeyexample2.jpg "The words Libkey, Browzine and Libkey Nomad centered")
 
