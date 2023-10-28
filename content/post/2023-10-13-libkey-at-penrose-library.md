@@ -42,8 +42,9 @@ P﻿enrose Library at Whitman College is happy to announce a new trial of the re
 
 **What is BrowZine?**
 
-<p>BrowZine is a web app that allows you to browse scholarly journals available from Penrose Library or from open sources on your tablet, iPhone, or Android smartphone, <a href="https://thirdiron.com/download-browzine/">
-BrowZine Tablet and Mobile Download</a>.
+<p>BrowZine is a web app that allows you to browse scholarly journals available from Penrose Library or from open sources on your tablet, iPhone, or Android smartphone, <a href="https://thirdiron.com/download-browzine/">BrowZine Tablet and Mobile Download</a>.
+
+![An example image of the web interface for Browzine, showing the Nature Journal.](/uploads/libkeyexample3.jpg "An example image of the web interface for Browzine, showing the Nature Journal.")
 
 There is a <a href="https://browzine.com/libraries/3481">Web version of BrowZine</a> as well. Through Browzine, you can access thousands of scholarly journals anywhere you have WiFi access and view complete issues of journals including the table of contents.  
 
