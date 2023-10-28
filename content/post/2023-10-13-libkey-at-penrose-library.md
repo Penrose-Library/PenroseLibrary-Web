@@ -6,6 +6,12 @@ thumbnail_alt: Image of a woman studying in the background with stacks of books 
 ---
 P﻿enrose Library at Whitman College is happy to announce a new trial of the research tool LibKey, Libkey Nomad and Browzine. Information regarding what this new technology is, why we are implementing, what it includes and more can be found in this blog post. 
 
+<center>
+
+![The words Libkey, Browzine and Libkey Nomad centered](/uploads/libkeyexample2.jpg "The words Libkey, Browzine and Libkey Nomad centered")
+
+</center>
+
 **What is LibKey?**
 
 <p><a href="https://libkey.io/">LibKey</a> delivers one-click access to millions of PDF and HTML articles from any database where your link resolver is used.  Imagine searching your favorite databases like Google Scholar or Web of Science, clicking the usual link button, and getting immediate access to content!  No more navigating source screens, waiting on different pages to load, or hunting around for a PDF button on different vendor pages. </p>
@@ -28,16 +34,10 @@ P﻿enrose Library at Whitman College is happy to announce a new trial of the re
 
 <p>No, LibKey offers more than just a better linking experience. We also are testing out LibKey Nomad and BrowZine.</p>
 
-<center>
-
-![The words Libkey, Browzine and Libkey Nomad centered](/uploads/libkeyexample2.jpg "The words Libkey, Browzine and Libkey Nomad centered")
-
-</center>
-
 **What is LibKey Nomad?**
 
-<p>LibKey Nomad is a browser extension that makes off-campus searching easier. While searching, you can quickly see which articles are available to you through the Penrose Library. LibKey Nomad works on publisher websites, PubMed, and even Wikipedia to connect you to scholarly resources. To use LibKey Nomad, you need to install the <a href="https://thirdiron.com/downloadnomad/">LibKey Nomad browser extension</a> on your computer. \
-\
+<p>LibKey Nomad is a browser extension that makes off-campus searching easier. While searching, you can quickly see which articles are available to you through the Penrose Library. LibKey Nomad works on publisher websites, PubMed, and even Wikipedia to connect you to scholarly resources. To use LibKey Nomad, you need to install the <a href="https://thirdiron.com/downloadnomad/">LibKey Nomad browser extension</a> on your computer. 
+
 <center>
 
 ![The full dropdown of the LibKey Nomad extension in Google Chrome.](/uploads/libkeyexample4.jpg "The full dropdown of the LibKey Nomad extension in Google Chrome.")
@@ -48,7 +48,7 @@ P﻿enrose Library at Whitman College is happy to announce a new trial of the re
 
 **What is BrowZine?**
 
-<p>BrowZine is a web app that allows you to browse scholarly journals available from Penrose Library or from open sources on your tablet, iPhone, or Android smartphone, <a href="https://thirdiron.com/download-browzine/">BrowZine Tablet and Mobile Download</a>.\
+<p>BrowZine is a web app that allows you to browse scholarly journals available from Penrose Library or from open sources on your tablet, iPhone, or Android smartphone, <a href="https://thirdiron.com/download-browzine/">BrowZine Tablet and Mobile Download</a>.
 <center>
 
 ![An example image of the web interface for Browzine, showing the Nature Journal.](/uploads/libkeyexample3.jpg "An example image of the web interface for Browzine, showing the Nature Journal.")
