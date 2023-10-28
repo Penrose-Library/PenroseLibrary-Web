@@ -1,5 +1,5 @@
 ---
-title: Libkey at Penrose Library
+title: LibKey at Penrose Library
 date: 2023-10-13T22:11:07.289Z
 thumbnail: /uploads/1609_admission-shoot_matt-lester-1105.png
 thumbnail_alt: Image of a woman studying in the background with stacks of books on the sides.
