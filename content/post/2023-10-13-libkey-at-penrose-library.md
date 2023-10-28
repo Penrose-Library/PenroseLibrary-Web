@@ -36,15 +36,24 @@ P﻿enrose Library at Whitman College is happy to announce a new trial of the re
 
 **What is LibKey Nomad?**
 
-<p>LibKey Nomad is a browser extension that makes off-campus searching easier. While searching, you can quickly see which articles are available to you through the Penrose Library. LibKey Nomad works on publisher websites, PubMed, and even Wikipedia to connect you to scholarly resources. To use LibKey Nomad, you need to install the <a href="https://thirdiron.com/downloadnomad/">LibKey Nomad browser extension</a> on your computer. 
+<p>LibKey Nomad is a browser extension that makes off-campus searching easier. While searching, you can quickly see which articles are available to you through the Penrose Library. LibKey Nomad works on publisher websites, PubMed, and even Wikipedia to connect you to scholarly resources. To use LibKey Nomad, you need to install the <a href="https://thirdiron.com/downloadnomad/">LibKey Nomad browser extension</a> on your computer. \
+\
+<center>
+
+![The full dropdown of the LibKey Nomad extension in Google Chrome.](/uploads/libkeyexample4.jpg "The full dropdown of the LibKey Nomad extension in Google Chrome.")
+
+</center>
 
 <u>A note about data privacy,</u> LibKey Nomad connects you to resources while preserving your privacy. No personal account is needed, and LibKey Nomad does not track users or store your ID after you close your browser. When you click on a LibKey Nomad link, it will take you to our CAS login and then straight on to the full-text article. After you log in once, you won't have to log in again until you close your browser.</p> 
 
 **What is BrowZine?**
 
-<p>BrowZine is a web app that allows you to browse scholarly journals available from Penrose Library or from open sources on your tablet, iPhone, or Android smartphone, <a href="https://thirdiron.com/download-browzine/">BrowZine Tablet and Mobile Download</a>.
+<p>BrowZine is a web app that allows you to browse scholarly journals available from Penrose Library or from open sources on your tablet, iPhone, or Android smartphone, <a href="https://thirdiron.com/download-browzine/">BrowZine Tablet and Mobile Download</a>.\
+<center>
 
 ![An example image of the web interface for Browzine, showing the Nature Journal.](/uploads/libkeyexample3.jpg "An example image of the web interface for Browzine, showing the Nature Journal.")
+
+</center>
 
 There is a <a href="https://browzine.com/libraries/3481">Web version of BrowZine</a> as well. Through Browzine, you can access thousands of scholarly journals anywhere you have WiFi access and view complete issues of journals including the table of contents.  
 
