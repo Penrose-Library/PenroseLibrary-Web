@@ -240,9 +240,9 @@ $(document).ready(function(e) {
     <th headers="irs" id="part10" colspan="2">
         </th>
         <td headers="irs part10 name" colspan="2">
-            <p>Dona LaFran</p>
+            <p>Rose McKeirnan</p>
             <p>Circulation Supervisor (Weekend)</p>
-            <p><a href="mailto:lafrand@whitman.edu">lafrand@whitman.edu</a></p>
+            <p><a href="mailto:mckeirm@whitman.edu">mckeirm@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
         </td>
         <td headers="irs part9 resp" colspan="3">
