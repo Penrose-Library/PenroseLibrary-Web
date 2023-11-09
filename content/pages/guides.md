@@ -19,8 +19,7 @@ url: /guides
 
 {{< expandable label="General Guides" level="2" open="true">}}
 
-[Research 101](https://libguides.whitman.edu/c.php?g=1351470)\
-How to get started on your research and take advantage of everything Penrose has to offer.
+[Research 101](https://libguides.whitman.edu/c.php?g=1351470) How to get started on your research and take advantage of everything Penrose has to offer.
 
 [Copyright & IP @ Whitman](https://libguides.whitman.edu/copyright_ip)
 A starting point for research on topics concerning intellectual property rights and responsibilities.
