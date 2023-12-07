@@ -43,7 +43,7 @@ collections:
     create: false
     slug: "{{slug}}"
     files:
-      - file: "content/announcement.html"
+      - file: "content/archives-announcement.html"
         label: "Homepage Announement"
         name: "announcement"
         fields:
