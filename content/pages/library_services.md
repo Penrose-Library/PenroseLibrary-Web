@@ -31,7 +31,7 @@ url: /library_services
 * [Interlibrary Loans (Borrow items from other libraries)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=ILL)
 * [Research](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Research)
 * [Sherlock (Library Catalog)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Sherlock)[](< https://asklibrarian.whitman.edu/faq/154051>)
-* [Tabling](< https://asklibrarian.whitman.edu/faq/154051>)
+* [Tabling](<https://asklibrarian.whitman.edu/faq/154051>)
 
 </div>
 
