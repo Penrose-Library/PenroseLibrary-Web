@@ -30,8 +30,9 @@ url: /library_services
 * [General Information](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=General%20Information)
 * [Interlibrary Loans (Borrow items from other libraries)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=ILL)
 * [Research](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Research)
-* [Sherlock (Library Catalog)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Sherlock)[](< https://asklibrarian.whitman.edu/faq/154051>)
-* [Tabling](<https://asklibrarian.whitman.edu/faq/154051>)
+* [Sherlock (Library Catalog)](http://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Sherlock)[](< https://asklibrarian.whitman.edu/faq/154051>)[](https://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Student%20Employment)
+* [Student Employment](https://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Student%20Employment)
+* [Tabling](https://asklibrarian.whitman.edu/faq/154051)
 
 </div>
 
