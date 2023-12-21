@@ -21,14 +21,13 @@ url: /guides
 
 [Research 101](https://libguides.whitman.edu/c.php?g=1351470) How to get started on your research and take advantage of everything Penrose has to offer.
 
-[Copyright & IP @ Whitman](https://libguides.whitman.edu/copyright_ip)
-A starting point for research on topics concerning intellectual property rights and responsibilities.
-
 [Citation Styles and Tools](https://libguides.whitman.edu/citations)
 Information and examples for every major citation style used at Whitman.
 
 * [EndNote](https://libguides.whitman.edu/endnote)
 * [Zotero](https://libguides.whitman.edu/zotero)
+
+[Newspapers (incl. New York Times)](< https://libguides.whitman.edu/newspapers>)
 
 [Data Resources](https://libguides.whitman.edu/dataresources)
 Information on finding, using, citing, and managing data
@@ -36,7 +35,10 @@ Information on finding, using, citing, and managing data
 [Finding and Using Images](https://libguides.whitman.edu/images)
 
 [How to Find Books on the Shelves](https://libguides.whitman.edu/findbooks)
-An explainer on how Library of Congress Classification works and where you will find specific call numbers in Penrose
+An explainer on how Library of Congress Classification works and where you will find specific call numbers in Penrose.
+
+[Copyright & IP @ Whitman](https://libguides.whitman.edu/copyright_ip)
+A starting point for research on topics concerning intellectual property rights and responsibilities.
 
 [Open Access](https://libguides.whitman.edu/openaccess)
 Information and resources for scholarly communication, open education resources, and open data
