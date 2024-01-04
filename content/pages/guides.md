@@ -27,7 +27,7 @@ Information and examples for every major citation style used at Whitman.
 * [EndNote](https://libguides.whitman.edu/endnote)
 * [Zotero](https://libguides.whitman.edu/zotero)
 
-[Newspapers (incl. New York Times)](< https://libguides.whitman.edu/newspapers>)
+[Newspapers (incl. New York Times)](https://libguides.whitman.edu/newspapers)
 
 [Data Resources](https://libguides.whitman.edu/dataresources)
 Information on finding, using, citing, and managing data
