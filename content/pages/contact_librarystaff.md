@@ -329,6 +329,7 @@ $(document).ready(function(e) {
           Collection Management
         </th>
     </tr>
+ <!-------
     <tr>
         <th headers="collection" id="part15" colspan="2">
             <img class="responsive-img" src="/images/staffimage/rogerpic.png" alt="Roger Stelk" />
@@ -347,18 +348,23 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
+-------!>
     <tr>
         <th headers="collection" id="part16" colspan="2">
             <img class="responsive-img" src="/images/staffimage/paige-e1512411546358.png" alt="Paige Morfitt" />
         </th>
         <td headers="collection part16 name" colspan="2">
             <p>Paige Morfitt</p>
-            <p>Digital Assets and Metadata Librarian</p>
+            <p>Interim Collection Development Librarian</p>
+<p>Digital Assets and Metadata Librarian</p>
             <p><a href="mailto:morfitpb@whitman.edu">morfitpb@whitman.edu</a></p>
             <p><a href="tel:+15095275920">509-527-5920</a></p>
         </td>
         <td headers="collection part16 resp" colspan="3">
             <ul>
+<li>Collection development</li>
+                <li>Journal subscriptions</li>
+                <li>Donating materials</li>    
                 <li>Digitization &amp; digital content creation</li>
                 <li>Metadata management</li>
             </ul>
