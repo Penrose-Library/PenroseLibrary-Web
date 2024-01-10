@@ -53,6 +53,7 @@ url: /library_services
 * [Penrose Library: An Educational Partner](/about_the_library/#penrose-library-an-educational-partner)
 * [Penrose Mission and Values Statement](/about_the_library/#penrose-mission-and-values-statement)
 * [Library Use Policy](/about_the_library/#library-use-policy)
+* [Exhibits Policy](/about_the_library/#penrose-library-exhibits-and-display-policy)
 * [Gifts to Penrose Library](/about_the_library/#gifts-to-penrose-library)
 * [Library Accessibility Statement](/about_the_library/#library-accessibility-statement)
 * [Library Newsletter](/about_the_library/#library-newsletter)
