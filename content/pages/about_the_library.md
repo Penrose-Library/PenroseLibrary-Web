@@ -68,7 +68,7 @@ Please consult our [DEIA Actions](/deiaactions) page for more information.
 
 ## Library Newsletter
 
-Past issues of [Library](https://arminda.whitman.edu/collections/penrose-library-newsletter) and [Archives](https://arminda.whitman.edu/collections/whitman-college-and-northwest-archives-newsletter) newsletters can be found in [ARMINDA](http://arminda.whitman.edu/), the institutional repository.
+Past issues of [Library](https://arminda.whitman.edu/islandora/penrose-library-newsletter) and [Archives](https://arminda.whitman.edu/islandora/whitman-college-and-northwest-archives-newsletter) newsletters can be found in [ARMINDA](http://arminda.whitman.edu/), the institutional repository.
 
 ## Gifts to Penrose Library
 
