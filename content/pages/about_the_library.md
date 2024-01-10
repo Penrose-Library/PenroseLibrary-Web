@@ -125,7 +125,7 @@ Below are the positions for which students are usually employed at Penrose Libra
 * Circulation Assistant
 * Library Office Assistant
 
-Additional information about student employment can be found on the [Student Employment page](https://www.whitman.edu/student-life/student-employment) on the College’s website.
+Our [Student Employment FAQ pages](https://asklibrarian.whitman.edu/search/?t=0&adv=1&topics=Student%20Employment) contain more information about working in the library and current information about job openings. General information about student employment on campus can be found on the College’s [On-Campus Student Employment](https://www.whitman.edu/student-life/student-employment) page. 
 
 ## Code of Conduct
 
