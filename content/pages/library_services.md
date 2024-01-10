@@ -54,7 +54,6 @@ url: /library_services
 * [Penrose Mission and Values Statement](/about_the_library/#penrose-mission-and-values-statement)
 * [Library Use Policy](/about_the_library/#library-use-policy)
 * [Gifts to Penrose Library](/about_the_library/#gifts-to-penrose-library)
-* [Student Employment](/about_the_library/#student-employment)
 * [Library Accessibility Statement](/about_the_library/#library-accessibility-statement)
 * [Library Newsletter](/about_the_library/#library-newsletter)
 * [Location and Directions](/about_the_library/#location-and-directions)
