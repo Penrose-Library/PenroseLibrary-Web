@@ -1,8 +1,8 @@
 ---
 title: Research 101 Guide
 date: 2023-11-10T00:00:24.343Z
-thumbnail: /uploads/wca080_14t_052_026.jpg
-thumbnail_alt: Student looking something up in a dictionary
+thumbnail: /uploads/101207_penrose-library-photos2485.jpg
+thumbnail_alt: Students working at desks near Ankeny window
 ---
 <!--StartFragment-->
 
