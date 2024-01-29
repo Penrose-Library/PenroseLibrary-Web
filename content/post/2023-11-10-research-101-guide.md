@@ -1,8 +1,8 @@
 ---
 title: Research 101 Guide
 date: 2023-11-10T00:00:24.343Z
-thumbnail: /uploads/101207_penrose-library-photos2485.jpg
-thumbnail_alt: Students working at desks near Ankeny window
+thumbnail: /uploads/1609_admission-shoot_matt-lester-1105.png
+thumbnail_alt: Student working at desks near Ankeny window
 ---
 <!--StartFragment-->
 
