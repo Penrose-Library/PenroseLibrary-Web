@@ -52,7 +52,7 @@
 var librarian = { 
     Emily: { "name": "Emily Pearson", "office":"215","email":"pearsome@whitman.edu", "phone": "509-527-5918", "photo":"https://library.whitman.edu/images/librarians/EMILY-PEARSON_2019.png"  }, 
     Julie: { "name": "Julie Carter", "office":"219","email":"carterja@whitman.edu", "phone": "509-527-5915", "photo":"https://library.whitman.edu/images/librarians/JULIE-CARTER_2019.png"  }, 
-    Bridget: { "name": "Bridget Scoles", "office": "222","email":"scolesb@whitman.edu", "phone": "509-527-5917", "photo":"https://library.whitman.edu/uploads/unknown.png"},
+    Bridget: { "name": "Bridget Scoles", "office": "222","email":"scolesb@whitman.edu", "phone": "509-527-5917", "photo":"https://library.whitman.edu/uploads/2024-bridget-s.jpg"},
     Amy: {"name": "Amy Blau","office":"217","email":"blauar@whitman.edu","phone": "509-527-4905", "photo":"https://library.whitman.edu/images/librarians/AMY-BLAU_2019.png" } 
 }
 //reference calendar
@@ -75,6 +75,3 @@ var librarian = {
     });
   }); // end of document ready
 })(jQuery); // end of jQuery name space
-
-
-
