@@ -1,7 +1,7 @@
 ---
 title: Black Experiences at Whitman
 date: 2024-02-12T18:33:35.411Z
-thumbnail: /uploads/untitled-design.jpg
+thumbnail: /uploads/untitled-design.png
 thumbnail_alt: Black and white photo of four Black students who were founding
   members of the Black Student Union in 1969.
 ---
