@@ -165,7 +165,7 @@ $(document).ready(function(e) {
     </tr>   
     <tr>
         <th headers="irs" id="part6" colspan="2">
-                     <img class="responsive-img" src="static/uploads/images/2024-bridget-s.jpg" alt="Bridget Scoles" /></th>
+                     <img class="responsive-img" src="static/uploads/2024-bridget-s.jpg" alt="Bridget Scoles" /></th>
         <td headers="irs part6 name" colspan="2">
             <p>Bridget Scoles</p>
             <p>Student Success and Instruction Librarian</p>
