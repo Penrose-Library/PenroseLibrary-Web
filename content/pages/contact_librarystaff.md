@@ -328,16 +328,14 @@ $(document).ready(function(e) {
         <th id="collection" class="span" colspan="5" scope="colgroup">
           Collection Management
         </th>
-    </tr>
- <!-------
+    </tr> 
     <tr>
         <th headers="collection" id="part15" colspan="2">
-            <img class="responsive-img" src="/images/staffimage/rogerpic.png" alt="Roger Stelk" />
         </th>
         <td headers="collection part15 name" colspan="2">
-            <p>Roger Stelk</p>
-            <p>Head of Collection Management</p>
-            <p><a href="mailto:stelkre@whitman.edu">stelkre@whitman.edu</a></p>
+            <p>Lindsay Tebeck</p>
+            <p>Collection Strategies Librarian, Head of Collection Strategies</p>
+            <p><a href="mailto:tebeckl@whitman.edu">tebeckl@whitman.edu</a></p>
             <p><a href="tel:+15095275909">509-527-5909</a></p>
         </td>
         <td headers="collection part15 resp" colspan="3">
@@ -347,8 +345,7 @@ $(document).ready(function(e) {
                 <li>Donating materials</li>               
             </ul>
         </td>
-    </tr>
--------!>
+    </tr> 
     <tr>
         <th headers="collection" id="part16" colspan="2">
             <img class="responsive-img" src="/images/staffimage/paige-e1512411546358.png" alt="Paige Morfitt" />
