@@ -13,8 +13,6 @@ Penrose Library has been consistently highly ranked by the Princeton Review. The
 
 Penrose Library fosters the intellectual engagement and scholarly practice of the Whitman community. We curate and provide access to diverse and unique collections, and teach the skills and concepts needed to navigate complex information environments at Whitman and beyond.
 
-(updated January 2024)
-
 ### Penrose Library Vision Statement
 
 Penrose Library will
@@ -27,6 +25,8 @@ Penrose Library will
   * teaching information literacy concepts to ensure that students actively and critically engage with ideas and information at Whitman and beyond
 * Act as an innovative collaborator and locus of expertise in information ecosystems, information management, scholarly communications, and collections that document the diverse history of the Walla Walla valley
 * Support campus-wide sustainability initiatives in our spaces, collections, workflows, and policies
+
+(updated January 2024)
 
 ### Penrose Library Values Statement
 
