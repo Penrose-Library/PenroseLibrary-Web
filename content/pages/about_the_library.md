@@ -13,18 +13,20 @@ Penrose Library has been consistently highly ranked by the Princeton Review. The
 
 Penrose Library fosters the intellectual engagement and scholarly practice of the Whitman community. We curate and provide access to diverse and unique collections, and teach the skills and concepts needed to navigate complex information environments at Whitman and beyond.
 
-(updated Fall 2018)
+(updated January 2024)
 
 ### Penrose Library Vision Statement
 
-Penrose Library will:
+Penrose Library will
 
-* Cultivate a welcoming and inclusive environment for our patrons built on shared values and transparent policies.
-* Provide equitable access to our collections, programs, and services.
-* Support the evolving liberal arts curriculum through our collections and our incorporation of emerging technologies into library services, programs, and events.
-* Be an innovative campus-wide collaborator and locus of expertise in information ecosystems, data lifecycles, and digital scholarship.
-* Teach information literacy concepts to ensure that students actively and critically engage with ideas and information at Whitman and beyond.
-* Expand our role as a repository for robust, unique, and local collections that document the diverse history of the Walla Walla Valley.
+* Prioritize inclusivity, accessibility, and diversity in our spaces, collections, staffing, services, programming, workflows, and policies
+* Support the evolving liberal arts curriculum in our collections, services, programs, and events by 
+* * providing access to current scholarship and primary sources
+  * evaluating and promoting teaching-, research-, and publication-related technologies and methodologies
+  * expanding access to institutional and regional history through collection development, collaborative programming, and digital preservation and dissemination
+  * teaching information literacy concepts to ensure that students actively and critically engage with ideas and information at Whitman and beyond
+* Act as an innovative collaborator and locus of expertise in information ecosystems, information management, scholarly communications, and collections that document the diverse history of the Walla Walla valley
+* Support campus-wide sustainability initiatives in our spaces, collections, workflows, and policies
 
 ### Penrose Library Values Statement
 
