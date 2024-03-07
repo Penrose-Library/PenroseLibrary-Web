@@ -348,7 +348,6 @@ $(document).ready(function(e) {
     </tr> 
     <tr>
         <th headers="collection" id="part16" colspan="2">
-            <img class="responsive-img" src="/images/staffimage/paige-e1512411546358.png" alt="Paige Morfitt" />
         </th>
         <td headers="collection part16 name" colspan="2">
             <p>Paige Morfitt</p>
