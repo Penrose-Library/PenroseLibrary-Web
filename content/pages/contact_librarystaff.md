@@ -351,7 +351,7 @@ $(document).ready(function(e) {
         </th>
         <td headers="collection part16 name" colspan="2">
             <p>Paige Morfitt</p>
-            <p>Interim Collection Development Librarian</p>
+            <p>Cataloging and Metadata Services Librarian, Head of Cataloging and Metadata Services</p>
 <p>Digital Assets and Metadata Librarian</p>
             <p><a href="mailto:morfitpb@whitman.edu">morfitpb@whitman.edu</a></p>
             <p><a href="tel:+15095275920">509-527-5920</a></p>
