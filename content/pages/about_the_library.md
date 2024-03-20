@@ -92,7 +92,7 @@ Gifts-in-kind, especially library materials, are accepted with the understanding
 
 We welcome books and media appropriate for the general library collections if they support the College’s curriculum and faculty research needs. The Library does not accept duplicates of held materials, textbooks, outdated or materials in poor condition, mass-market paperback books, general interest magazines, cassette tapes, software, photocopied materials, vanity press books, popular pamphlets or promotional materials. Only commercially produced DVDs in like-new condition will be accepted.
 
-Before bringing gifts of 25 volumes or more to the Library, please contact Lindsay Tebeck, Head of Collection Management (509-527-5909 or [tebeckl@whitman.edu](tebeckl@whitman.edu)) to discuss the potential donation. She may also be able to suggest other resources if the potential gift is deemed not appropriate for Penrose Library. Donations are boxed and delivered at the owner’s expense.
+Before bringing gifts of 20 volumes or more to the Library, please contact Lindsay Tebeck, Head of Collection Management (509-527-5909 or [tebeckl@whitman.edu](tebeckl@whitman.edu)) to discuss the potential donation. She may also be able to suggest other resources if the potential gift is deemed not appropriate for Penrose Library. Donations are boxed and delivered at the owner’s expense.
 
 #### Special Collections Materials
 
