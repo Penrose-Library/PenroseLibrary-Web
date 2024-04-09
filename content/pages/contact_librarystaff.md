@@ -298,14 +298,6 @@ $(document).ready(function(e) {
         </td>
     </tr>
 
-```
-<tr>
-    <th id="archives" class="span" colspan="5" scope="colgroup">
-       Collection Strategies
-    </th>
-</tr>
-```
-
 <tr>
         <th headers="collection" id="part17" colspan="2">
         </th>
@@ -343,29 +335,6 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
-
-```
-<th id="systems" class="span" colspan="5" scope="colgroup">
-      Systems
-    </th>
-</tr>
-<tr>
-    <th headers="systems" id="part19" colspan="2">
-        </th>
-    <td headers="systems part19 name" colspan="2">
-            <p>Tracy Tolf</p>
-            <p>Systems & Applications Librarian</p>
-            <p><a href="mailto:tolft@whitman.edu">tolft@whitman.edu</a></p>
-            <p><a href="tel:+15095275916">509-527-5916</a></p>
-    </td>
-    <td headers="systems part19 resp" colspan="3">
-        <ul>
-            <li>Library website and Sherlock (Catalog)</li>
-            <li>Access databases</li>
-        </ul>
-    </td>
-</tr>
-```
 
 </tbody>
 </table>
