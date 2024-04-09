@@ -183,7 +183,7 @@ $(document).ready(function(e) {
 
 <tr>
 
-\    <tr>
+    <tr>
         <th id="admin" class="span" colspan="5" scope="colgroup">
             User Services
         </th>
@@ -375,7 +375,7 @@ $(document).ready(function(e) {
         </td>
     </tr>
 
-\    <tr>
+    <tr>
         <th id="archives" class="span" colspan="5" scope="colgroup">
            Collection Strategies
         </th>
@@ -418,7 +418,7 @@ $(document).ready(function(e) {
         </td>
     </tr>
 
-\    <th id="systems" class="span" colspan="5" scope="colgroup">
+    <th id="systems" class="span" colspan="5" scope="colgroup">
           Systems
         </th>
     </tr>
