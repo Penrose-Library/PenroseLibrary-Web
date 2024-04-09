@@ -120,7 +120,7 @@ $(document).ready(function(e) {
     </tr>
     <tr>
         <th id="irs" class="span" colspan="5" scope="colgroup">
-            Instructional, Research, and Access Services
+            Instructional and Research
         </th>
     </tr>
 	<tr>
@@ -182,6 +182,12 @@ $(document).ready(function(e) {
     </tr>
 
 <tr>
+
+\    <tr>
+        <th id="admin" class="span" colspan="5" scope="colgroup">
+            User Services
+        </th>
+    </tr>
         <th headers="irs" id="part7" colspan="2">
            <img class="responsive-img" src="/images/staffimage/JULIE-CARTER_2019.png" alt="Julie Carter" />
         </th>
@@ -273,7 +279,7 @@ $(document).ready(function(e) {
     </tr>
     <tr>
         <th id="archives" class="span" colspan="5" scope="colgroup">
-           Whitman College and Northwest Archives
+           Archives and Special Collections
         </th>
     </tr>
   <tr>
@@ -324,38 +330,23 @@ $(document).ready(function(e) {
                 <li>Answering questions about college and local history</li>
             </ul>
         </td>
-    </tr><tr>
+    </tr>
+
+<tr>
         <th id="collection" class="span" colspan="5" scope="colgroup">
-          Collection Management
+          Cataloging and Metadata
         </th>
-    </tr> 
+    </tr>  
     <tr>
         <th headers="collection" id="part15" colspan="2">
         </th>
         <td headers="collection part15 name" colspan="2">
-            <p>Lindsay Tebeck</p>
-            <p>Collection Strategies Librarian, Head of Collection Strategies</p>
-            <p><a href="mailto:tebeckl@whitman.edu">tebeckl@whitman.edu</a></p>
-            <p><a href="tel:+15095275909">509-527-5909</a></p>
-        </td>
-        <td headers="collection part15 resp" colspan="3">
-            <ul>
-                <li>Collection development</li>
-                <li>Journal subscriptions</li>
-                <li>Donating materials</li>               
-            </ul>
-        </td>
-    </tr> 
-    <tr>
-        <th headers="collection" id="part16" colspan="2">
-        </th>
-        <td headers="collection part16 name" colspan="2">
             <p>Paige Morfitt</p>
             <p>Cataloging and Metadata Services Librarian, Head of Cataloging and Metadata Services</p>
             <p><a href="mailto:morfitpb@whitman.edu">morfitpb@whitman.edu</a></p>
             <p><a href="tel:+15095275920">509-527-5920</a></p>
         </td>
-        <td headers="collection part16 resp" colspan="3">
+        <td headers="collection part15 resp" colspan="3">
             <ul>
 <li>Collection development</li>
                 <li>Journal subscriptions</li>
@@ -366,32 +357,15 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="collection" id="part17" colspan="2">
+        <th headers="collection" id="part16" colspan="2">
         </th>
-        <td headers="collection part17 name" colspan="2">
-            <p>Rich Pengra</p>
-            <p>Library Assistant, Collection Development</p>
-            <p><a href="mailto:pengrars@whitman.edu">pengrars@whitman.edu</a></p>
-            <p><a href="tel:+1509-527-5912">509-527-5912</a></p>
-        </td>
-        <td headers="collection part17 resp" colspan="3">
-            <ul>
-                <li>Book purchasing</li>
-                <li>Reserve material requests</li>
-                <li>Maintaining payment records for resources</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <th headers="collection" id="part18" colspan="2">
-        </th>
-        <td headers="collection part18 name" colspan="2">
+        <td headers="collection part16 name" colspan="2">
             <p>Rika Groff</p>
             <p>Library Assistant, Cataloging</p>
             <p><a href="mailto:groffrm@whitman.edu">groffrm@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5919">509-527-5919</a></p>
         </td>
-        <td headers="collection part18 resp" colspan="3">
+        <td headers="collection part16 resp" colspan="3">
             <ul>
                 <li>Catalog record errors</li>
                 <li>Cataloging and record maintenance</li>
@@ -400,8 +374,51 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
-    <tr>
-        <th id="systems" class="span" colspan="5" scope="colgroup">
+
+\    <tr>
+        <th id="archives" class="span" colspan="5" scope="colgroup">
+           Collection Strategies
+        </th>
+    </tr>
+<tr>
+        <th headers="collection" id="part17" colspan="2">
+        </th>
+        <td headers="collection part17 name" colspan="2">
+            <p>Lindsay Tebeck</p>
+            <p>Collection Strategies Librarian, Head of Collection Strategies</p>
+            <p><a href="mailto:tebeckl@whitman.edu">tebeckl@whitman.edu</a></p>
+            <p><a href="tel:+15095275909">509-527-5909</a></p>
+        </td>
+        <td headers="collection part17 resp" colspan="3">
+            <ul>
+                <li>Collection development</li>
+                <li>Journal subscriptions</li>
+                <li>Donating materials</li>               
+            </ul>
+        </td>
+    </tr>     
+
+<tr>
+
+   <tr>
+        <th headers="collection" id="part18" colspan="2">
+        </th>
+        <td headers="collection part18 name" colspan="2">
+            <p>Rich Pengra</p>
+            <p>Library Assistant, Collection Development</p>
+            <p><a href="mailto:pengrars@whitman.edu">pengrars@whitman.edu</a></p>
+            <p><a href="tel:+1509-527-5912">509-527-5912</a></p>
+        </td>
+        <td headers="collection part18 resp" colspan="3">
+            <ul>
+                <li>Book purchasing</li>
+                <li>Reserve material requests</li>
+                <li>Maintaining payment records for resources</li>
+            </ul>
+        </td>
+    </tr>
+
+\    <th id="systems" class="span" colspan="5" scope="colgroup">
           Systems
         </th>
     </tr>
