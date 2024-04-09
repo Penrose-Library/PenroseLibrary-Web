@@ -183,83 +183,6 @@ $(document).ready(function(e) {
 
 <tr>
 
-    <tr>
-        <th id="admin" class="span" colspan="5" scope="colgroup">
-            User Services
-        </th>
-    </tr>
-        <th headers="irs" id="part7" colspan="2">
-           <img class="responsive-img" src="/images/staffimage/JULIE-CARTER_2019.png" alt="Julie Carter" />
-        </th>
-        <td headers="irs part7 name" colspan="2">
-            <p>Julie Carter</p>
-            <p>Head of User Services</p>
-            <p><a href="mailto:carterja@whitman.edu">carterja@whitman.edu</a></p>
-            <p><a href="tel:+15095275915">509-527-5915</a></p>
-        </td>
-        <td headers="irs part6 resp" colspan="3">
-            <ul>
-                <li>Circulation policies</li>
-                <li>Providing classroom instruction&nbsp;&amp; personal consultation</li>
-                <li>Answering research questions</li>
-                <li>Copyright</li>
-                <li>Instruction Representative for Division I</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <th headers="irs" id="part8" colspan="2">
-          <img class="responsive-img" src="/images/staffimage/Ari_Kirby.jpeg" alt="Ari Kirby" style="max-width:180px" />
-        </th>
-        <td headers="irs part8 name" colspan="2">
-            <p>Ari Kirby</p>
-            <p>Access Service Manager</p>
-            <p><a href="mailto:kirbyk@whitman.edu">kirbyk@whitman.edu</a></p>
-            <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
-        </td>
-        <td headers="irs part7 resp" colspan="3">
-            <ul>
-                <li>Circulation and course reserve</li>
-                <li>Summit Request</li>
-                <li>Interlibrary Loan</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <th headers="irs" id="part9" colspan="2">
-        </th>
-        <td headers="irs part9 name" colspan="2">
-            <p>Christel Holce</p>
-            <p>Circulation Supervisor</p>
-            <p><a href="mailto:holceci@whitman.edu">holceci@whitman.edu</a></p>
-            <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
-        </td>
-        <td headers="irs part9 resp" colspan="3">
-            <ul>
-                <li>Circulation issues</li>
-                <li>Summit Request</li>
-                <li>Interlibrary Loan</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-    <th headers="irs" id="part10" colspan="2">
-        </th>
-        <td headers="irs part10 name" colspan="2">
-            <p>Rose McKeirnan</p>
-            <p>Circulation Supervisor (Weekend)</p>
-            <p><a href="mailto:mckeirm@whitman.edu">mckeirm@whitman.edu</a></p>
-            <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
-        </td>
-        <td headers="irs part9 resp" colspan="3">
-            <ul>
-                <li>Circulation issues</li>
-                <li>Summit Request</li>
-                <li>Interlibrary Loan</li>
-            </ul>
-        </td>
-    </tr>
-
 <tr>
     <th headers="irs" id="part11" colspan="2">
         </th>
@@ -375,11 +298,14 @@ $(document).ready(function(e) {
         </td>
     </tr>
 
-    <tr>
-        <th id="archives" class="span" colspan="5" scope="colgroup">
-           Collection Strategies
-        </th>
-    </tr>
+```
+<tr>
+    <th id="archives" class="span" colspan="5" scope="colgroup">
+       Collection Strategies
+    </th>
+</tr>
+```
+
 <tr>
         <th headers="collection" id="part17" colspan="2">
         </th>
@@ -418,25 +344,28 @@ $(document).ready(function(e) {
         </td>
     </tr>
 
-    <th id="systems" class="span" colspan="5" scope="colgroup">
-          Systems
+```
+<th id="systems" class="span" colspan="5" scope="colgroup">
+      Systems
+    </th>
+</tr>
+<tr>
+    <th headers="systems" id="part19" colspan="2">
         </th>
-    </tr>
-    <tr>
-        <th headers="systems" id="part19" colspan="2">
-            </th>
-        <td headers="systems part19 name" colspan="2">
-                <p>Tracy Tolf</p>
-                <p>Systems & Applications Librarian</p>
-                <p><a href="mailto:tolft@whitman.edu">tolft@whitman.edu</a></p>
-                <p><a href="tel:+15095275916">509-527-5916</a></p>
-        </td>
-        <td headers="systems part19 resp" colspan="3">
-            <ul>
-                <li>Library website and Sherlock (Catalog)</li>
-                <li>Access databases</li>
-            </ul>
-        </td>
-    </tr>
+    <td headers="systems part19 name" colspan="2">
+            <p>Tracy Tolf</p>
+            <p>Systems & Applications Librarian</p>
+            <p><a href="mailto:tolft@whitman.edu">tolft@whitman.edu</a></p>
+            <p><a href="tel:+15095275916">509-527-5916</a></p>
+    </td>
+    <td headers="systems part19 resp" colspan="3">
+        <ul>
+            <li>Library website and Sherlock (Catalog)</li>
+            <li>Access databases</li>
+        </ul>
+    </td>
+</tr>
+```
+
 </tbody>
 </table>
