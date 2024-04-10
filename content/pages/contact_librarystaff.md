@@ -204,6 +204,25 @@ $(document).ready(function(e) {
 </ul>
 </td>
 </tr>
+https://web.archive.org/web/20231215010045im_/https://library.whitman.edu/images
+<tr>
+<th headers="irs" id="part8" colspan="2">
+<img class="responsive-img" src="/images/staffimage/Ari_Kirby.jpeg" alt="Ari Kirby" style="max-width:180px"/>
+</th>
+<td headers="irs part8 name" colspan="2">
+<p>Ari Kirby</p>
+<p>Access Service Manager</p>
+<p><a href="mailto:kirbyk@whitman.edu">kirbyk@whitman.edu</a></p>
+<p><a href="https://web.archive.org/web/20240329210317/tel:+1509-527-5192">509-527-5192</a></p>
+</td>
+<td headers="irs part7 resp" colspan="3">
+<ul>
+<li>Circulation and course reserve</li>
+<li>Summit Request</li>
+<li>Interlibrary Loan</li>
+</ul>
+</td>
+</tr>
 <tr>
     <th headers="irs" id="part11" colspan="2">
         </th>
