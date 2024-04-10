@@ -186,11 +186,6 @@ $(document).ready(function(e) {
         </td>
     </tr>
 
-\    <tr>
-        <th id="irs" class="span" colspan="5" scope="colgroup">
-            User Services\
-        </th>
-    </tr>
 
 <th headers="irs" id="part7" colspan="2">
 <img class="responsive-img" src="/images/staffimage/JULIE-CARTER_2019.png" alt="Julie Carter" />
