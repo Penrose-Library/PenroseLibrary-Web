@@ -372,9 +372,12 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
-
+        <th id="collection" class="span" colspan="5" scope="colgroup">
+          Collection Strategies and Development
+        </th>
 <tr>
-        <th headers="collection" id="part17" colspan="2">
+        
+<th headers="collection" id="part17" colspan="2">
         </th>
         <td headers="collection part17 name" colspan="2">
             <p>Lindsay Tebeck</p>
@@ -422,7 +425,7 @@ Systems
 <p>Tracy Tolf</p>
 <p>Systems &amp; Applications Librarian</p>
 </span></a></p>
-            <p><a href="mailto:tolft@whitman.edu">tolft@whitman.edu</a></p>tolft
+            <p><a href="mailto:tolft@whitman.edu">tolft@whitman.edu</a></p>
 <p><a href="https://web.archive.org/web/20240329210317/tel:+15095275916">509-527-5916</a></p>
 </td>
 <td headers="systems part19 resp" colspan="3">
