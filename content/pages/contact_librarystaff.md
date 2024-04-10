@@ -188,10 +188,29 @@ $(document).ready(function(e) {
 
 \    <tr>
         <th id="irs" class="span" colspan="5" scope="colgroup">
-            User Services  
+            User Services\
         </th>
     </tr>
 
+<th headers="irs" id="part7" colspan="2">
+<img class="responsive-img" src="/images/staffimage/JULIE-CARTER_2019.png" alt="Julie Carter" />
+</th>
+<td headers="irs part7 name" colspan="2">
+<p>Julie Carter</p>
+<p>Head of User Services</p>
+<p><a href="mailto:carterja@whitman.edu">carterja@whitman.edu</a></p>
+<p><a href="tel:+15095275915">509-527-5915</a></p>
+</td>
+<td headers="irs part6 resp" colspan="3">
+<ul>
+<li>Circulation policies</li>
+<li>Providing classroom instruction &amp; personal consultation</li>
+<li>Answering research questions</li>
+<li>Copyright</li>
+<li>Instruction Representative for Division I</li>
+</ul>
+</td>
+</tr>
 <tr>
     <th headers="irs" id="part11" colspan="2">
         </th>
