@@ -6,11 +6,6 @@ aliases:
   - /contact_librarian
 url: contact_librarystaff
 ---
-* Webpage Task Force
-* Documentation (Handle Server) next working on the 828, then ARMINDA
-* Gearing up for ELUNA, please let me know if you want to look at anything!
-* Lavender Grad
-
 <style>
 a{
         word-break: break-all;
