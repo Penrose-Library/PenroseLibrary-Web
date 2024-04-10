@@ -204,7 +204,6 @@ $(document).ready(function(e) {
 </ul>
 </td>
 </tr>
-https://web.archive.org/web/20231215010045im_/https://library.whitman.edu/images
 <tr>
 <th headers="irs" id="part8" colspan="2">
 <img class="responsive-img" src="/images/staffimage/Ari_Kirby.jpeg" alt="Ari Kirby" style="max-width:180px"/>
