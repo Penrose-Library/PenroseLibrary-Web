@@ -6,11 +6,10 @@ aliases:
   - /contact_librarian
 url: contact_librarystaff
 ---
-- Webpage Task Force
-- Documentation (Handle Server) next working on the 828, then ARMINDA
-- Gearing up for ELUNA, please let me know if you want to look at anything!
-- Lavender Grad
-
+* Webpage Task Force
+* Documentation (Handle Server) next working on the 828, then ARMINDA
+* Gearing up for ELUNA, please let me know if you want to look at anything!
+* Lavender Grad
 
 <style>
 a{
@@ -187,7 +186,11 @@ $(document).ready(function(e) {
         </td>
     </tr>
 
-<tr>
+\    <tr>
+        <th id="irs" class="span" colspan="5" scope="colgroup">
+            User Services  
+        </th>
+    </tr>
 
 <tr>
     <th headers="irs" id="part11" colspan="2">
