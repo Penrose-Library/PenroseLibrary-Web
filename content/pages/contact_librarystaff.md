@@ -208,13 +208,13 @@ $(document).ready(function(e) {
 <th headers="irs" id="part8" colspan="2">
 <img class="responsive-img" src="/images/staffimage/Ari_Kirby.jpeg" alt="Ari Kirby" style="max-width:180px"/>
 </th>
-<td headers="irs part8 name" colspan="2">
+<td headers="irs part7 name" colspan="2">
 <p>Ari Kirby</p>
 <p>Access Service Manager</p>
 <p><a href="mailto:kirbyk@whitman.edu">kirbyk@whitman.edu</a></p>
 <p><a href="https://web.archive.org/web/20240329210317/tel:+1509-527-5192">509-527-5192</a></p>
 </td>
-<td headers="irs part7 resp" colspan="3">
+<td headers="irs part8 resp" colspan="3">
 <ul>
 <li>Circulation and course reserve</li>
 <li>Summit Request</li>
@@ -223,12 +223,30 @@ $(document).ready(function(e) {
 </td>
 </tr>
 <tr>
-    <th headers="irs" id="part11" colspan="2">
+    <th headers="irs" id="part9" colspan="2">
         </th>
-        <td headers="irs part11 name" colspan="2">
+        <td headers="irs part9 name" colspan="2">
             <p>Anders Otterness</p>
             <p>Circulation Supervisor (Mornings)</p>
             <p><a href="mailto:otterna@whitman.edu">otterna@whitman.edu</a></p>
+            <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
+        </td>
+        <td headers="irs part11 resp" colspan="3">
+            <ul>
+                <li>Circulation issues</li>
+                <li>Summit Request</li>
+                <li>Interlibrary Loan</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+<tr>
+    <th headers="irs" id="part11" colspan="2">
+        </th>
+        <td headers="irs part11 name" colspan="2">
+            <p>Christel Holce</p>
+            <p>Circulation Supervisor (Evenings)</p>
+            <p><a href="mailto:holceci@whitman.edu">holceci@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
         </td>
         <td headers="irs part11 resp" colspan="3">
