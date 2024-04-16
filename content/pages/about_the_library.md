@@ -80,7 +80,7 @@ The collections at Penrose are carefully selected to provide balanced, vibrant a
 
 ### General Policy
 
-Gifts-in-kind, especially library materials, are accepted with the understanding that they become the property of Whitman College. Penrose Library retains the right to decline, retain, or dispose of the materials at its discretion. Only the Library Director, Collection Management Librarian, or Archivist/Special Collections Librarian may accept in-kind donations on behalf of the Library. A signed Gift of Property statement must accompany all such donations.
+Gifts-in-kind, especially library materials, are accepted with the understanding that they become the property of Whitman College. Penrose Library retains the right to decline, retain, or dispose of the materials at its discretion. Only the Library Director and Collection Strategies Librarian, Head of Collection Strategies may accept in-kind donations on behalf of the library for the general collection. A signed Gift of Property statement must accompany all such donations. For donations to the Archives and Special Collections, please contact the College Archivist and Head of Special Collections, Alexis Hickey (509-526-5922 or hickeya@whitman.edu).
 
 [General Library Materials Gift Form](http://works.whitman.edu/giftform)
 
@@ -90,9 +90,9 @@ Gifts-in-kind, especially library materials, are accepted with the understanding
 
 #### General Library Materials
 
-We welcome books and media appropriate for the general library collections if they support the College’s curriculum and faculty research needs. The Library does not accept duplicates of held materials, textbooks, outdated or materials in poor condition, mass-market paperback books, general interest magazines, cassette tapes, software, photocopied materials, vanity press books, popular pamphlets or promotional materials. Only commercially produced DVDs in like-new condition will be accepted.
-
-Before bringing gifts of 20 volumes or more to the Library, please contact Lindsay Tebeck, Head of Collection Management (509-527-5909 or [tebeckl@whitman.edu](tebeckl@whitman.edu)) to discuss the potential donation. She may also be able to suggest other resources if the potential gift is deemed not appropriate for Penrose Library. Donations are boxed and delivered at the owner’s expense.
+We welcome books and media appropriate for the general library collections if they support the College’s curriculum and faculty research needs. The Library does not accept duplicates of held materials, textbooks, outdated or materials in poor condition, mass-market paperback books, general interest magazines, cassette tapes, software, photocopied materials, vanity press books, popular pamphlets or promotional materials. For DVDs, only commercially produced, in like-new condition will be accepted.\
+\
+Before bringing gifts of 20 volumes or more to the Library, please contact Lindsay Tebeck, Collection Strategist Librarian, Head of Collection Strategies (509-527-5909 or [tebeckl@whitman.edu](mailto:tebeckl@whitman.edu)) to discuss the potential donation. Tebeck may also be able to suggest other resources if the potential gift is deemed not appropriate for Penrose Library. Donations are boxed and delivered at the owner’s expense.
 
 #### Special Collections Materials
 
@@ -100,11 +100,11 @@ Gifts of manuscript collections, rare books, and unique materials, especially th
 
 #### Appraisals
 
-Donors are responsible for obtaining an appraisal and consulting with a tax advisor in order to obtain such information. Generally, gifts with a declared value over $5,000 will require an independent qualified appraisal; those with a declared value over $500 will require that the donor file IRS Tax Form 8283. Please read IRS publications 526 and 561 for more information.
+Donors are responsible for obtaining an appraisal and consulting with a tax advisor in order to obtain such information. Generally, gifts with a declared value over $5,000 will require an independent qualified appraisal; those with a declared value over $500 will require that the donor file IRS Tax Form 8283. Please read IRS publications 526 and 561 for more information. An item over $250 will need to be reviewed by the Development Office rather than the library.
 
 Appraisers may be located through the [American Society of Appraisers](https://www.appraisers.org/), the [Antiquarian Booksellers Association](http://www.abaa.org/), or the [Appraisers’ Association of America](http://appraisersassociation.org/). If you wish to have an appraisal conducted, please do so before donating the materials to Whitman College’s Penrose Library.
 
-All gifts will be acknowledged by letter with a count of the donated items. The Library does not provide a detailed, title-by-title listing.
+All gifts will be acknowledged by letter with a count of the donated items upon request. The Library does not provide a detailed, title-by-title listing.
 
 #### Access Restrictions
 
