@@ -10,7 +10,7 @@ Throughout the summer, we will be highlighting titles that help fill the differe
 
 Audiobooks, graphic novels, YA, poetry and anything else all welcome~ 
 
-This is a great time to get your Walla Walla Public Library or Walla Walla County Rural Library District set up! 
+This is a great time to get your [Walla Walla Public Library](https://www.wallawallapubliclibrary.org/services/library-cards/) or [Walla Walla County Rural Library District](https://www.wwcrld.org/using-the-library/library-cards/get-a-library-card) set up! 
 
 ![Bingo card decorated with native flowers from Washington, categories include Suggested by a Library Worker; In Translation; Washington State Book Award Winner; Queer Joy; Something that Scares You; Body Liberation; Suggested by an Independent Bookseller; Short Story Collection; Environmental; Sky Creatures; Friendship; Fantastical; Retelling; Young Adult; LGBTQIA+ Poetry/Essays; BIPOC Romance; Housing/Poverty Justice; Borrowed From a Library; Black Art/Artists; Cozy; One Big Book (400+ pages); Refugee/Immigrant Memoir; Read in the Sun](/uploads/wacenterforthebookbingocard2024.jpg)
 
