@@ -222,6 +222,8 @@ $(document).ready(function(e) {
 </ul>
 </td>
 </tr>
+
+<!----- 
 <tr>
     <th headers="irs" id="part9" colspan="2">
         </th>
@@ -239,6 +241,8 @@ $(document).ready(function(e) {
             </ul>
         </td>
 </tr>
+
+\----!>
 
 <tr>
     <th headers="irs" id="part10" colspan="2">
@@ -259,6 +263,8 @@ $(document).ready(function(e) {
         </td>
 </tr>
 
+<!----- 
+
 <tr>
     <th headers="irs" id="part11" colspan="2">
         </th>
@@ -275,6 +281,8 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
+
+\----!>
     <tr>
         <th id="archives" class="span" colspan="5" scope="colgroup">
            Archives and Special Collections
@@ -287,7 +295,7 @@ $(document).ready(function(e) {
             <p>Alexis Hickey</p>
             <p>College Archivist and Head of Special Collections</p>
             <p><a href="mailto:hickeya@whitman.edu">hickeya@whitman.edu</a></p>
-            <p><a href="tel:+1509-526-5922">509-526-5922</a></p>
+            <p><a href="tel:+1509-526-4731">509-526-4731</a></p>
         </td>
         <td headers="archives part12 resp" colspan="3">
             <ul>
@@ -313,7 +321,7 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr> 
-    <tr>
+<!-----    <tr>
 	<th headers="archives" id="part14" colspan="2">   
         </th>
         <td headers="archives part14 name" colspan="2">
@@ -329,6 +337,8 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
+
+\-----!>
 
 <tr>
         <th id="collection" class="span" colspan="5" scope="colgroup">
