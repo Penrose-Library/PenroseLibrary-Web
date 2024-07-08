@@ -12,8 +12,8 @@ date: 2024-07-08T19:54:36.217Z
 <main id="main" class="secondary-main">
 <h2 id="search-library-faq">Search Library FAQ</h2>
 
-<div id="s-la-widget-14974"></div>
-<div style="display:block; clear:both">
+<script src="https://asklibrarian.whitman.edu/1.0/widgets/3143"></script>
+<div id="s-la-widget-3143"></div> <div style="display:block; clear:both">
 <div id="q1" class="pull-left">
 <h2 id="i-have-a-question-about">I have a question about…</h2>
 <ul>
