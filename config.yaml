@@ -42,7 +42,7 @@ params:
 menu:
   nav:
     - name: Database A-Z
-      url: /A_Z_list/
+      url: https://libguides.whitman.edu/az/databases
       weight: 1
     - name: Library Guides
       url: /guides/
