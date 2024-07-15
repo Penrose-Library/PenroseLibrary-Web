@@ -355,8 +355,7 @@ $(document).ready(function(e) {
             <p><a href="tel:+15095275920">509-527-5920</a></p>
         </td>
         <td headers="collection part15 resp" colspan="3">
-            <ul>
-                <li>Journal subscriptions</li> 
+            <ul> 
                 <li>Digitization &amp; digital content creation</li>
                 <li>Metadata management</li>
             </ul>
