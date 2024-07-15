@@ -356,9 +356,7 @@ $(document).ready(function(e) {
         </td>
         <td headers="collection part15 resp" colspan="3">
             <ul>
-<li>Collection development</li>
-                <li>Journal subscriptions</li>
-                <li>Donating materials</li>    
+                <li>Journal subscriptions</li> 
                 <li>Digitization &amp; digital content creation</li>
                 <li>Metadata management</li>
             </ul>
