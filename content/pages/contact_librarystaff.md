@@ -304,7 +304,7 @@ $(document).ready(function(e) {
                 <li>Providing Instruction in the Archives</li>
             </ul>
         </td>
-    </tr> <tr>
+    </tr> <!----- <tr>
      <th headers="archives" id="part13" colspan="2">
 	</th>
         <td headers="archives part13 name" colspan="2">
@@ -321,7 +321,7 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr> 
-<!-----    <tr>
+   <tr>
 	<th headers="archives" id="part14" colspan="2">   
         </th>
         <td headers="archives part14 name" colspan="2">
