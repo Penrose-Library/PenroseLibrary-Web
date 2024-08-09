@@ -7,7 +7,7 @@ date: 2021-08-16
 
 Penrose Library fosters the intellectual engagement and scholarly practice of the Whitman community. We curate and provide access to diverse and unique collections, and teach the skills and concepts needed to navigate complex information environments at Whitman and beyond.
 
-Penrose Library has been consistently highly ranked by the Princeton Review. The library’s digital environment, with more than 150,000 journal titles, 200 databases, 860,700 eBooks and 50,000 streaming videos, complements its more than 670,000-volume print collection. Penrose Library has generous open hours and the facility itself was built to facilitate inquiry, study, and learning. Whitman College and Northwest Archives include 4,800 linear feet of archival and manuscript material and over 5,000 rare books. Whitman College is also a member of the Orbis Cascade Alliance, which combines the assets of academic libraries throughout the Northwest to provide free access and courier delivery of millions of volumes.
+Penrose Library has been consistently highly ranked by the Princeton Review. The library’s digital environment, with more than 150,000 journal titles, 200 databases, 860,700 eBooks and 50,000 streaming videos, complements its more than 670,000-volume print collection. Penrose Library has generous open hours and the facility itself was built to facilitate inquiry, study, and learning. Whitman College and Northwest Archives include 4,800 linear feet of archival and manuscript material and over 8,350 rare books. Whitman College is also a member of the Orbis Cascade Alliance, which combines the assets of academic libraries throughout the Northwest to provide free access and courier delivery of millions of volumes.
 
 ## Penrose Mission and Values Statement
 
