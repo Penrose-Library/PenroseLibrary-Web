@@ -268,6 +268,17 @@ Penrose Library is committed to providing equitable access to library collection
 
 Penrose Library will provide patrons alternative formats or assistance when resources are not fully accessible. Please fill out the [remediation form](https://docs.google.com/forms/d/e/1FAIpQLSfQ2N29D31VdMwPZ6Fex9HvWTbwfNxnb_i-212wlHxr46V_gg/viewform?usp=sf_link) to the best of your ability or contact us at library@whitman.edu with questions. We will try and fill requests in as timely a manner as possible. This form is sent to Emily Pearson (Instructional Coordinator and Outreach Librarian). We will maintain the data to find patterns in inaccessible material, but will not keep records of who requested materials once we fulfill a request.
 
+## Poster Policy
+
+Penrose Library welcomes students, staff, faculty, and community members to post materials to our designated boards in the library. The following guidelines must be followed in posting. Please contact [library@whitman.edu](mailto:library@whitman.edu) with any questions.
+
+* Materials can only be posted on the designated boards on the main floor of the library, one in the foyer, two near the bathrooms on the main (2nd) floor. The boards near the bathrooms are divided between dated events and year or semester long information flyers. No posters/signs/promotional material may be hung on the exterior surfaces, windows, doors, or walls of the library.
+* The library is not responsible for the content of materials produced by other campus and community groups. The library reserves the right to remove materials deemed potentially offensive. 
+* Dated postings may be displayed for up to three weeks prior to an event. Undated materials in the foyer may be moved to other boards or discarded after a month. Postings without a specific date will be displayed for a reasonable length of time, as determined by the library, and then removed and recycled.
+* There must be some sort of identifying information such as an office/club/organization logo, personal email, or other contact information.
+* Posted materials may be no larger than 18 inches x 24 inches. Special consideration will be given for college-wide initiatives and events.
+* The distribution of promotional material in any manner other than posting on the bulletin boards is prohibited. This includes flyers, table tents, and similar forms of advertisement. The racks in the foyer can be used to distribute magazines, flyers, or other take-away materials. 
+
 ## Location and Directions
 
 Penrose Library
