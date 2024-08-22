@@ -1,19 +1,6 @@
 
 $(document).ready(function(e) {
 	
-	$.ajax({
-       url: 'http://penrose.whitman.edu/newitem/newlist_feed.php',
-            dataType: 'jsonp',
-			jsonp: "callback"
- 			}).done(function(bibarray) {
-			bibliographicNumber=bibarray.id;
-			isbn=bibarray.isbn;
-			title_author=bibarray.title+bibarray.author;
-	$('#text-book-jacket').append('<a href=\"http://sherlock.whitman.edu/' + bibliographicNumber + '\">'	+ '<img src=\"http://images.btol.com/ContentCafe/Jacket.aspx?UserID=WHTM43002&Password=CC69392&Return=T&Type=M&Value='+isbn+'\"  height=\"150\"/>' + '</a>');					
-				$('#text-book-title').append('<a href=\"http://sherlock.whitman.edu/primo_library/libweb/action/dlSearch.do?institution=WHITC&vid=WHITC&tab=default_tab&mode=Basic&group=GUEST&onCampus=true&displayMode=full&displayField=all&search_scope=whitc_alma&query=any,contains,' + bibliographicNumber + '\">' + title_author + '</a>');		
-	 });
-  
-
 //library hours
 
 var today = new Date();
