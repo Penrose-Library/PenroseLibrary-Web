@@ -263,15 +263,13 @@ $(document).ready(function(e) {
         </td>
 </tr>
 
-<!----- 
-
 <tr>
     <th headers="irs" id="part11" colspan="2">
         </th>
         <td headers="irs part11 name" colspan="2">
-            <p>Rose McKeirnan</p>
+            <p>Lauren Williams</p>
             <p>Circulation Supervisor (Weekends)</p>
-            <p><a href="mailto:mckeirm@whitman.edu">mckeirm@whitman.edu</a></p>
+            <p><a href="mailto:williaml@whitman.edu">williaml@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
         <td headers="irs part11 resp" colspan="3">
             <ul>
@@ -281,8 +279,6 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
-
-\----!>
     <tr>
         <th id="archives" class="span" colspan="5" scope="colgroup">
            Archives and Special Collections
