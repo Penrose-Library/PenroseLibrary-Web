@@ -44,7 +44,7 @@ menu:
     - name: Database A-Z
       url: https://libguides.whitman.edu/az/databases
       weight: 1
-    - name: eJournals
+    - name: Journals
       url: https://browzine.com/libraries/3481/subjects
       weight: 2
     - name: Library Guides
