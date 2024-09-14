@@ -4,7 +4,7 @@ date: 2024-09-11T20:19:59.410Z
 thumbnail: /uploads/29d2e94f-6670-45b4-84f7-f1e25c461df1-1_all_7814.jpg
 thumbnail_alt: Books on display for Lia Purpura's talk and Hispanic Heritage Month
 ---
-# Come check out our displays currently highlighting the Visiting Writers Reading Series, Hispanic Heritage Month, and Harper Joy Theatre's play Maz and Bricks.
+# Check out our displays currently highlighting the Visiting Writers Reading Series, Hispanic Heritage Month, and Harper Joy Theatre's play Maz and Bricks.
 
 <br>
 
