@@ -26,15 +26,15 @@ url: /guides
 * [EndNote](https://libguides.whitman.edu/endnote)
 * [Zotero](https://libguides.whitman.edu/zotero)
 
-[](https://libguides.whitman.edu/copyright_ip)[AI and Research](<[Newspapers (including New York Times All Access)](https://libguides.whitman.edu/newspapers)>) resources and information to help you navigate the use of artificial intelligence in your research
+[AI and Research](https://libguides.whitman.edu/ai) resources and information to help you navigate the use of artificial intelligence in your research
 
 [Copyright & IP @ Whitman](https://libguides.whitman.edu/copyright_ip)
 A starting point for research on topics concerning intellectual property rights and responsibilities.
 
 [Data Resources](https://libguides.whitman.edu/dataresources)
-Information on finding, using, citing, and managing dat
+Information on finding, using, citing, and managing data
 
-[Finding and Using Images](https://libguides.whitman.edu/images)[](https://libguides.whitman.edu/hjt)
+[Finding and Using Images](https://libguides.whitman.edu/images)
 
 [Harper Joy Theatre 2024-2025 Works](https://libguides.whitman.edu/hjt)
 
@@ -53,11 +53,11 @@ Newspapers, magazines, digitized archival collections, and other primary sources
 How to gain access to some of Penrose’s materials as an alum.
 
 [US Government Documents](https://libguides.whitman.edu/govdocs)
-How to access government documents and navigate our own stacks.\
-\
+How to access government documents and navigate our own stacks.
+
 [Videos, Streaming, and Public Performance Rights](https://libguides.whitman.edu/streaming)
 
-[Visiting Writers Reading Series ](https://libguides.whitman.edu/vwrs)
+[Visiting Writers Reading Series](https://libguides.whitman.edu/vwrs)
 
 [Walla Walla and Local History Guide](https://libguides.whitman.edu/wallawalla)
 Resources at Penrose and beyond to help with local history and genealogy needs
