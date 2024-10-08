@@ -78,6 +78,10 @@ Gifts to Penrose Library are very welcomed and valued. Through the generous supp
 
 The collections at Penrose are carefully selected to provide balanced, vibrant and timely materials that serve to support the curricular and research needs of our faculty and students. In order to safeguard quality, consistency, and relevance to the needs of the College, donated materials are reviewed using these same [criteria in our collection development policy](http://works.whitman.edu/collectiondevelopmentpolicy). Moreover, due to space, staffing, and resource limitations, we are unable to accept all gifts of materials.
 
+[General Library Materials Gift Form](http://works.whitman.edu/giftsform)
+
+[Special Collections Materials Gift Form](http://works.whitman.edu/archivesgiftform)
+
 ### General Policy
 
 Gifts-in-kind, especially library materials, are accepted with the understanding that they become the property of Whitman College. Penrose Library retains the right to decline, retain, or dispose of the materials at its discretion. Only the Library Director and Collection Strategies Librarian, Head of Collection Strategies may accept in-kind donations on behalf of the library for the general collection. A signed Gift of Property statement must accompany all such donations. For donations to the Archives and Special Collections, please contact the College Archivist and Head of Special Collections, Alexis Hickey (509-526-5922 or hickeya@whitman.edu).
