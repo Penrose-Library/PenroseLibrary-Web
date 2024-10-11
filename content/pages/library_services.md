@@ -43,7 +43,7 @@ date: 2024-07-08T19:54:36.217Z
 <li><a href="https://works.whitman.edu/giftform">General Library Materials Gift Form</a></li>
 <li><a href="https://library.whitman.edu/thesis/#downloads">Honors Thesis related Forms</a></li>
 <li><a href="https://works.whitman.edu/recordingconsentform">Recording Consent &amp; Copyright Release Form</a></li>
-<li><a href="https://works.whitman.edu/lockeragreements">Long-Term Locker Form</a></li>
+<li><a href="https://works.whitman.edu/lockeragreement">Long-Term Locker Form</a></li>
 <li><a href="https://works.whitman.edu/archivesgiftform">Special Collections Materials Gift Form</a></li>
 <li><a href="https://works.whitman.edu/purchasesuggestion">Suggest a Purchase Form</a></li>
 </ul>
