@@ -435,7 +435,13 @@ Systems
 <ul>
 <li>Library website and Sherlock (Catalog)</li>
 <li>Access databases</li>
-</tbody>
-</table>
+</ul>
+
+</td>
+
+</tr>
 
 \-----!>
+
+</tbody>
+</table>
