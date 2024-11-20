@@ -205,64 +205,9 @@ Penrose Library is committed to providing resources that support the work of our
 
 ## Penrose Library Exhibits and Display Policy
 
-#### Purpose
+Penrose has multiple places for displays and exhibits. Displays are usually circulating books and maybe materials that patrons can take (bookmarks, handouts, etc.) intended to highlight collection strengths, promote an event, or connect collections to a course or campus activity. These can be on the short shelving near the circulation desk and bathrooms (“short stacks”), or the display furniture near the printers. Exhibits are usually in locked cases and showcase non-circulating materials typically from the Whitman College and Northwest Archives. There are exhibit cases of various sizes in the main stairwell.
 
-Library exhibits are an opportunity for outreach and a way to convey our interest in encouraging intellectual curiosity and learning. By showcasing library collections and engaging with other campus communities, Penrose’s exhibits are intended to share narratives about ideas, places, and movements. Exhibits illustrate complex questions and help us to understand our place in the world, challenge us to think broadly, and start conversations across boundaries.
-
-#### Content
-
-Including materials from library collections and archives in the exhibition is strongly encouraged. In principle, exhibitions should be relevant to Penrose Library, its collection or services. Proposals will be considered on broad appeal, educational content, and appropriateness of subject, technique, and style for the intended location and audience. Penrose Library reserves the right to deny proposals it deems do not fit with the library’s mission.
-
-#### Approval and Requesting
-
-Any member of the Whitman community may submit an [Exhibit Proposal form](http://works.whitman.edu/exhibitproposal) for exhibits or displays and the Library can help when developing a proposal. Displays are temporary in nature and will last according to the approved dates on the proposal form.
-
-Exhibit and display space is managed by the Penrose Library User Services and Outreach Team, which will respond to proposals. Proposals should be submitted at least two weeks (two months for archival exhibits) in advance of the exhibit opening date, and proposals will be responded to within one week. Penrose Library will not exert editorial control over the exhibition but may provide feedback according to standard best practices. Curators are solely responsible for content creation. The Library has final approval for the layout of the exhibit, exhibit duration, and placement of exhibit. Exhibits by library staff need not be approved, but staff should still fill out an [Exhibit Proposal form](http://works.whitman.edu/exhibitproposal) for the purposes of scheduling.
-
-The Library reserves the right to remove or shut down an exhibit that is not in compliance with safety or ADA guidelines, or endangers patrons in any way. The Library will follow a process for reconsideration when concerns are raised about exhibit content.
-
-#### Guidelines
-
-Once an exhibit has been approved, the curator will be contacted by an assigned exhibit supervisor. The supervisor will coordinate including materials from library and archival collections for display and guide installation and removal of the exhibit but the curator is responsible for installation and take down of exhibits.
-
-Library reference service is available to curators, as to all other library users, for guidance in the location of relevant library materials, assistance in preparation of exhibit-related bibliographies, and consultation on exhibit technique.
-
-Written components must be readable. The individual, organization, or group sponsoring and curating the exhibit must be visibly and prominently shown in the exhibit. Library materials must be displayed in an archival correct manner, i.e., they must suffer no damage nor be altered in any way by being placed on exhibit. Proper handling and display of archival material must be approved by Archives staff. If damage does occur to library materials, the Library may seek monetary damages and may affect a person’s or group’s future ability to create exhibits at Penrose.
-
-Exhibits are often located in high traffic areas whose visibility reduces the likelihood of damage or theft of materials; however, the Library takes no responsibility for the security or welfare of non-library materials used in exhibits at any time, including during transport, installation, or dismantling.
-
-#### Supplies/Equipment
-
-Supplies
-
-* Limited supplies are available (tacks, stands, cradles, support for materials, mylar). Any other costs incurred for the exhibits are to be the sole responsibility of the curator.
-
-Exhibit Areas/Cases Available
-
-* 2nd floor short stacks, next to the circulation desk. Open display area, no cases or locks.
-* Vitrine (2): 61” Length x 36” Height x 24.5” Depth
-  Movable. Can only be on the main floor. Library staff will position them for curators in designated areas.
-* Stairwell cases (2): 29” L x 55” H x 16” D
-* 1st floor case at bottom of stairwell (1): 45” L x 56” H x 21” D
-* 2nd and 3rd floor large cases (2): 163” L x 56” H x 20.5” D
-* 2nd floor has power. No audio available.
-
-The built-in cases have slots for glass shelves. More shelves and brackets available. 2nd floor case has slots for shelves behind felt.
-
-Note: the Maxey Museum has priority for the use of the large 3rd floor case.
-
-#### Request for Reconsideration
-
-As a college library, we cultivate a collection of resources and develop displays that are appropriate for the curriculum at Whitman College and an adult audience.
-
-The Library subscribes to the [American Library Association’s Library Bill of Rights](https://www.ala.org/advocacy/intfreedom/librarybill/) as it applies to exhibit spaces, specifically:
-
-* The library should not censor or remove an exhibit because some members of the community may disagree with its content. Those who object to the content of any exhibit held at the library should be able to submit their complaint and/or their own exhibit proposal to be judged according to the policies established by the library.
-* Challenges of an exhibit can only be made by current Whitman students, faculty, and staff. Should a member of the Whitman community wish to make a complaint, the first step is to discuss their concerns with the College Librarian. If the complaint is regarding disagreement of exhibit content the College Librarian may decide to inform the exhibit curator of the complaint and facilitate a discussion between the parties. If the complaint concerns library materials, the library will follow the Materials Challenge Policy.
-* If the issue is not resolved following an informal discussion about the mission of the library and how the material or exhibit supports learning within the higher education environment, the library invites requesters to submit a proposal for their own exhibit.
-* Library staff involved in organizing, curating, and/or installing exhibits or displays are deemed to be acting within the course of official duties and under the authority of Penrose Library. Disputes over content, material use, or preservation of staff-led exhibits will be handled internally and not through the reconsideration process.
-
-Endorsed by the Library Advisory Committee, 30 January 2020.
+We love collaborating with student groups, faculty, and campus offices on displays! Any member of the Whitman community may submit a [Display or Exhibit Proposal form](http://works.whitman.edu/exhibitproposal) for exhibits or displays and the Library can help when developing a proposal. Displays are temporary in nature and will last according to the approved dates on the proposal form. We can help with book selection and display design. Please read our [Exhibit and Display Policy](https://docs.google.com/document/d/1755h-JFdQQ6mE2AyfTaq4mizMt8Wv7QPR3198yuNDiA/edit?usp=sharing) for more information and Guidance. If you have any questions, please contact Emily Pearson ([pearsome@whitman.edu](mailto:pearsome@whitman.edu)). We are also happy to receive suggestions and ideas for displays.
 
 ## Library Accessibility Statement
 
