@@ -203,7 +203,7 @@ If the issue is not resolved following an informal discussion about the mission 
 
 Penrose Library is committed to providing resources that support the work of our students, faculty, and staff. All requests for reconsideration are taken seriously and will be evaluated in a fair and thorough manner.
 
-## Penrose Library Exhibits and Display Policy
+## Exhibits and Displays
 
 Penrose has multiple places for displays and exhibits. Displays are usually circulating books and maybe materials that patrons can take (bookmarks, handouts, etc.) intended to highlight collection strengths, promote an event, or connect collections to a course or campus activity. These can be on the short shelving near the circulation desk and bathrooms (“short stacks”), or the display furniture near the printers. Exhibits are usually in locked cases and showcase non-circulating materials typically from the Whitman College and Northwest Archives. There are exhibit cases of various sizes in the main stairwell.
 
