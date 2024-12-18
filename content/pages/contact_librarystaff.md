@@ -362,7 +362,7 @@ $(document).ready(function(e) {
         </th>
         <td headers="collection part16 name" colspan="2">
             <p>Rika Groff</p>
-            <p>Cataloger</p>
+            <p>Library Cataloger</p>
             <p><a href="mailto:groffrm@whitman.edu">groffrm@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5919">509-527-5919</a></p>
         </td>
