@@ -76,8 +76,10 @@ menu:
       weight: 21
     - name: Blog
       url: /post/
+      weight: 29
+- name: Accessibility Information
+      url: /accessibility/
       weight: 27
-
 
 markup:
   defaultMarkdownHandler: goldmark
