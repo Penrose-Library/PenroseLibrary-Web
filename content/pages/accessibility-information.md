@@ -37,8 +37,6 @@ Ear plugs are available for free at the Circulation Desk. 
 
 Individualized building tours may be arranged by contacting [the library](https://library.whitman.edu/contact_librarystaff/). 
 
-\[link to neurodivergent guide to the library]
-
 ## Digital Accessibility
 
 Many of the library's ebooks, journal archives, and database platforms offer additional support or 'accessibility modes' on request. Some may be enabled directly with a screen reader. You may also need to work with the Academic Resource Center if you have received accommodations to get accessible formats. 
