@@ -62,4 +62,6 @@ How to access government documents and navigate our own stacks.
 [Walla Walla and Local History Guide](https://libguides.whitman.edu/wallawalla)
 Resources at Penrose and beyond to help with local history and genealogy needs
 
+[Whitman Staff Guide to Penrose Library](https://libguides.whitman.edu/staff) 
+
 {{< /expandable >}}
