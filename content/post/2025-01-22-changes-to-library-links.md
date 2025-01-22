@@ -1,5 +1,5 @@
 ---
-title: "Changes to library links "
+title: "An update on how links are changing at the library. "
 date: 2025-01-22T22:20:02.368Z
 thumbnail: /uploads/101207_penrose-library-photos2485.jpg
 thumbnail_alt: "Students sitting by the Ankeny windows surrounded by computers
