@@ -1,6 +1,6 @@
 {{ range ( where .Site.RegularPages "Type" "post" | first 1 ) }}
     <div id="blog-jacket">
-        {{ if isset .Params "thumbnail" }} <img style='height: 100%; width: 100%; object-fit: contain' src="{{ .Params.thumbnail }}" alt="{{ .Params.thumbnail_alt }}" />{{ end }}
+        {{ if isset .Params "thumbnail" }} <img class="responsive-img" src="{{ .Params.thumbnail }}" alt="{{ .Params.thumbnail_alt }}" />{{ end }}
     </div>
     <div class="jacket-title">
         <a href="{{ .Permalink }}">{{ .Title }}</a>
