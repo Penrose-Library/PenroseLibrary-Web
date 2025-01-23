@@ -15,4 +15,4 @@ Thank you for your patience as we upgrade our library systems! 
 
 Known Issues
 
-* Sage Journals - we are working to correct the error page that is displayed. If you submit the citation, we will be able to quickly send you the materials.
+* none currently
