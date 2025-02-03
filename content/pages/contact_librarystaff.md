@@ -300,13 +300,15 @@ $(document).ready(function(e) {
                 <li>Providing Instruction in the Archives</li>
             </ul>
         </td>
-    </tr> <!----- <tr>
+    </tr> 
+
+<tr>
      <th headers="archives" id="part13" colspan="2">
 	</th>
         <td headers="archives part13 name" colspan="2">
-            <p>River Freemont</p>
-            <p>Associate Archivist</p>
-            <p><a href="mailto:freemonr@whitman.edu">freemonr@whitman.edu</a></p>
+            <p>Will Allen</p>
+            <p>Collections Archivist</p>
+            <p><a href="mailto:allenw@whitman.edu">allenw@whitman.edu</a></p>
             <p><a href="tel:+1509-526-4703">509-526-4703</a></p>
         </td>
         <td headers="archives part13 resp" colspan="3">
@@ -317,7 +319,7 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr> 
-   <tr>
+<!-----    <tr>
 	<th headers="archives" id="part14" colspan="2">   
         </th>
         <td headers="archives part14 name" colspan="2">
