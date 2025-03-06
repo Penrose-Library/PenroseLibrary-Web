@@ -9,7 +9,7 @@ date: 2024-07-08T19:54:36.217Z
 </div>
 <main id="main" class="secondary-main">
 
-<h2 id="search-library-faq">Search Library FAQ - If you are looking for a specific title please search in <a href ="sherlock.whitman.edu">Sherlock</a></h2>
+<h2 id="search-library-faq">Search Library FAQ  (If you are looking for a specific title please search in [Sherlock](sherlock.whitman.edu))</h2>
 
 <script src="https://asklibrarian.whitman.edu/1.0/widgets/14974"></script> 
 
