@@ -52,6 +52,8 @@ Newspapers, magazines, digitized archival collections, and other primary sources
 [Resources for Alumni](https://libguides.whitman.edu/alumni)
 How to gain access to some of Penrose’s materials as an alum.
 
+[Soujourning to Freedom](https://libguides.whitman.edu/stf) A selection of titles cited by faculty participants at the March 12, 2025 event`.`
+
 [US Government Documents](https://libguides.whitman.edu/govdocs)
 How to access government documents and navigate our own stacks.
 
