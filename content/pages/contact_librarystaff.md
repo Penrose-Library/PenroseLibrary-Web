@@ -418,7 +418,7 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
- <!----- 
+
 <th id="systems" class="span" colspan="5" scope="colgroup">
 Systems
 </th>
@@ -427,11 +427,11 @@ Systems
 <th headers="systems" id="part19" colspan="2">
 </th>
 <td headers="systems part19 name" colspan="2">
-<p>Tracy Tolf</p>
+<p>Hew McKinney</p>
 <p>Systems &amp; Applications Librarian</p>
 </span></a></p>
-            <p><a href="mailto:tolft@whitman.edu">tolft@whitman.edu</a></p>
-<p><a href="https://web.archive.org/web/20240329210317/tel:+15095275916">509-527-5916</a></p>
+            <p><a href="mailto:mckinneym@whitman.edu">mckinneym@whitman.edu</a></p>
+<p><a href="tel:+15095275916">509-527-5916</a></p>
 </td>
 <td headers="systems part19 resp" colspan="3">
 <ul>
@@ -443,7 +443,6 @@ Systems
 
 </tr>
 
-\-----!>
 
 </tbody>
 </table>
