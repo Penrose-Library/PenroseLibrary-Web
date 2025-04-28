@@ -1,6 +1,6 @@
 ---
 title: EZProxy Help page
-url: ezproxyhelp
+url: /ezproxyhelp
 date: 2025-04-28T21:22:34.459Z
 ---
 We recently changed the way we link to materials to ensure access when users are not on Whitman Secure for their internet connection. There are still some lingering issues and you may see 404 errors that say you are not able to connect to ezproxy.whitman.edu. Below are instructions for the main issue. Please don't hesitate to contact us at library@whitman.edu for further support. 
