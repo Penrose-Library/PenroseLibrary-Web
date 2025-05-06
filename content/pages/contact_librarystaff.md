@@ -420,7 +420,7 @@ $(document).ready(function(e) {
     </tr>
 
 <th id="systems" class="span" colspan="5" scope="colgroup">
-Systems
+Library Technology and Systems Administration
 </th>
 </tr>
 <tr>
@@ -428,7 +428,7 @@ Systems
 </th>
 <td headers="systems part19 name" colspan="2">
 <p>Hew McKinney</p>
-<p>Systems &amp; Applications Librarian</p>
+<p>Library Technology Specialist</p>
 </span></a></p>
             <p><a href="mailto:mckinneym@whitman.edu">mckinneym@whitman.edu</a></p>
 <p><a href="tel:+15095275916">509-527-5916</a></p>
