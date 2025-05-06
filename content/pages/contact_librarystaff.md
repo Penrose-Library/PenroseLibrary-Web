@@ -84,7 +84,7 @@ $(document).ready(function(e) {
     </tr>
     <tr>
         <th headers="admin" id="part1" colspan="2">
-            <img class="responsive-img" src="/uploads/pf-pic.png" alt="Ping Fu" />
+            <img class="responsive-img" src="/uploads/pf-pic.png" alt="Ping Fu" style="max-width:180px"/>
         </th>
         <td headers="admin part1 name" colspan="2">
             <p>Ping Fu</p>
@@ -103,7 +103,7 @@ $(document).ready(function(e) {
     </tr>
     <tr>
         <th headers="admin" id="part2" colspan="2">
-            <img class="responsive-img" src="/images/staffimage/KATHLEEN-HUTCHINSON_2019.png" alt="Kathleen Hutchison" />
+            <img class="responsive-img" src="/images/staffimage/KATHLEEN-HUTCHINSON_2019.png" alt="Kathleen Hutchison" style="max-width:180px"/>
         </th>
         <td headers="admin part2 name" colspan="2">
             <p>Kathleen Hutchison</p>
@@ -125,7 +125,7 @@ $(document).ready(function(e) {
     </tr>
 	<tr>
         <th headers="irs" id="part3" colspan="2">
-           <img class="responsive-img" src="/images/staffimage/EMILY-PEARSON_2019.png" alt="Emily Pearson" />
+           <img class="responsive-img" src="/images/staffimage/EMILY-PEARSON_2019.png" alt="Emily Pearson" style="max-width:180px"/>
         </th>
         <td headers="irs part3 name" colspan="2">
             <p>Emily Pearson</p>
@@ -146,7 +146,7 @@ $(document).ready(function(e) {
     </tr>
     <tr>
         <th headers="irs" id="part4" colspan="2">
-           <img class="responsive-img" src="/images/staffimage/AMY-BLAU_2019.png" alt="Amy Blau" />
+           <img class="responsive-img" src="/images/staffimage/AMY-BLAU_2019.png" alt="Amy Blau" style="max-width:180px"/>
         </th>
         <td headers="irs part4 name" colspan="2">
             <p>Amy Blau</p>
@@ -165,7 +165,7 @@ $(document).ready(function(e) {
     </tr>   
     <tr>
         <th headers="irs" id="part6" colspan="2">
-                     <img class="responsive-img" src="/uploads/2024-bridget-s.jpg" alt="Bridget Scoles" /></th>
+                     <img class="responsive-img" src="/uploads/2024-bridget-s.jpg" alt="Bridget Scoles" style="max-width:180px"/></th>
         <td headers="irs part6 name" colspan="2">
             <p>Bridget Scoles</p>
             <p>Student Success and Instruction Librarian</p>
@@ -186,7 +186,7 @@ $(document).ready(function(e) {
         </th>
     </tr>
 <th headers="irs" id="part7" colspan="2">
-<img class="responsive-img" src="/images/staffimage/JULIE-CARTER_2019.png" alt="Julie Carter" />
+<img class="responsive-img" src="/images/staffimage/JULIE-CARTER_2019.png" alt="Julie Carter" style="max-width:180px" />
 </th>
 <td headers="irs part7 name" colspan="2">
 <p>Julie Carter</p>
