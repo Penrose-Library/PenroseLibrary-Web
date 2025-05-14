@@ -382,7 +382,7 @@ $(document).ready(function(e) {
         </th>
 <tr>
         
-<th headers="collection" id="part17" colspan="2">
+        <th headers="collection" id="part17" colspan="2">
         </th>
         <td headers="collection part17 name" colspan="2">
             <p>Lindsay Tebeck</p>
@@ -425,7 +425,7 @@ Library Technology and Systems Administration
 
 <tr>
 
-    <tr>
+<tr>
         <th headers="collection" id="part19" colspan="2">
         </th>
         <td headers="systems part19 name" colspan="2">
