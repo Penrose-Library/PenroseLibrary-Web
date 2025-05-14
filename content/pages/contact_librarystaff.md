@@ -422,26 +422,28 @@ $(document).ready(function(e) {
 <th id="systems" class="span" colspan="5" scope="colgroup">
 Library Technology and Systems Administration
 </th>
-</tr>
+
 <tr>
-<th headers="systems" id="part19" colspan="2">
-</th>
-<td headers="systems part19 name" colspan="2">
-<p>Hew McKinney</p>
-<p>Library Technology Specialist</p>
-</span></a></p>
+
+    <tr>
+        <th headers="collection" id="part19" colspan="2">
+        </th>
+        <td headers="systems part19 name" colspan="2">
+            <p>Hew McKinney</p>
+            <p>Library Technology Specialist</p>
+            </span></a></p>
             <p><a href="mailto:mckinneym@whitman.edu">mckinneym@whitman.edu</a></p>
-<p><a href="tel:+15095275916">509-527-5916</a></p>
-</td>
-<td headers="systems part19 resp" colspan="3">
-<ul>
-<li>Library website and Sherlock (Catalog)</li>
-<li>Access databases</li>
-</ul>
+            <p><a href="tel:+15095275916">509-527-5916</a></p>
+        </td>
+        <td headers="systems part19 resp" colspan="3">
+            <ul>
+                <li>Library website and Sherlock (Catalog)</li>
+                <li>Access databases</li>
+            </ul>
 
-</td>
+        </td>
 
-</tr>
+    </tr>
 
 
 </tbody>
