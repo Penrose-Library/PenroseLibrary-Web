@@ -2,7 +2,7 @@
 title: Finals Hours
 date: 2025-05-15T16:17:20.034Z
 thumbnail: /uploads/untitled2.jpg
-thumbnail_alt: Looking onto Penrose from Ankeny at dusk
+thumbnail_alt: "Looking onto Penrose from Ankeny at dusk "
 ---
 Our hours for finals week for spring semester 2025 are as follows:
 
