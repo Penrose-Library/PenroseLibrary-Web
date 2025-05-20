@@ -98,6 +98,7 @@ $(document).ready(function(e) {
                 <li>Budget matters</li>
                 <li>Suggestions</li>
                 <li>Gifts</li>
+                <li>Assessment</li>
             </ul>
         </td>
     </tr>
@@ -120,7 +121,7 @@ $(document).ready(function(e) {
     </tr>
     <tr>
         <th id="irs" class="span" colspan="5" scope="colgroup">
-            Instructional and Research
+            Instructional Research and Outreach
         </th>
     </tr>
 	<tr>
@@ -378,7 +379,7 @@ $(document).ready(function(e) {
         </td>
     </tr>
         <th id="collection" class="span" colspan="5" scope="colgroup">
-          Collection Strategies and Development
+          Collection Strategies
         </th>
 <tr>
         
@@ -420,7 +421,7 @@ $(document).ready(function(e) {
     </tr>
 
 <th id="systems" class="span" colspan="5" scope="colgroup">
-Library Technology and Systems Administration
+Library Technology Services
 </th>
 
 <tr>
