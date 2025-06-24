@@ -360,7 +360,9 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
-    <tr>
+  
+<!-----
+  <tr>
         <th headers="collection" id="part16" colspan="2">
         </th>
         <td headers="collection part16 name" colspan="2">
@@ -378,11 +380,14 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
+
+\-----!>
+
         <th id="collection" class="span" colspan="5" scope="colgroup">
           Collection Strategies
         </th>
 <tr>
-        
+      
         <th headers="collection" id="part17" colspan="2">
         </th>
         <td headers="collection part17 name" colspan="2">
