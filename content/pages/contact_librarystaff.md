@@ -399,8 +399,7 @@ $(document).ready(function(e) {
         <td headers="collection part17 resp" colspan="3">
             <ul>
                 <li>Collection development</li>
-                <li>Journal subscriptions</li>
-                <li>Donating materials</li>               
+                <li>Journal subscriptions</li>              
             </ul>
         </td>
     </tr>     
