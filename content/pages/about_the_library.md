@@ -76,51 +76,29 @@ Past issues of [Library](https://arminda.whitman.edu/islandora/penrose-library-n
 
 Gifts to Penrose Library are very welcomed and valued. Through the generous support of friends and alumni, donations to the Library have helped build outstanding collections. Gifts, often those that memorialize or honor loved ones, continue to help foster the traditions of scholarship, critical thinking, and lifelong learning that are hallmarks of a Whitman education. Modest gifts are very much appreciated, as are bequests, endowments and larger contributions.
 
-The collections at Penrose are carefully selected to provide balanced, vibrant and timely materials that serve to support the curricular and research needs of our faculty and students. In order to safeguard quality, consistency, and relevance to the needs of the College, donated materials are reviewed using these same [criteria in our collection development policy](http://works.whitman.edu/collectiondevelopmentpolicy). Moreover, due to space, staffing, and resource limitations, we are unable to accept all gifts of materials.
-
-[General Library Materials Gift Form](http://works.whitman.edu/giftsform)
-
-[Special Collections Materials Gift Form](http://works.whitman.edu/archivesgiftform)
-
 ### General Policy
 
-Gifts-in-kind, especially library materials, are accepted with the understanding that they become the property of Whitman College. Penrose Library retains the right to decline, retain, or dispose of the materials at its discretion. Only the Library Director and Collection Strategies Librarian, Head of Collection Strategies may accept in-kind donations on behalf of the library for the general collection. A signed Gift of Property statement must accompany all such donations. For donations to the Archives and Special Collections, please contact the College Archivist and Head of Special Collections, Alexis Hickey (509-526-5922 or hickeya@whitman.edu).
-
-[General Library Materials Gift Form](http://works.whitman.edu/giftsform)
-
-[Special Collections Materials Gift Form](http://works.whitman.edu/archivesgiftform)
-
-### Guidelines
-
-#### General Library Materials
-
-We welcome books and media appropriate for the general library collections if they support the College’s curriculum and faculty research needs. The Library does not accept duplicates of held materials, textbooks, outdated or materials in poor condition, mass-market paperback books, general interest magazines, cassette tapes, software, photocopied materials, vanity press books, popular pamphlets or promotional materials. For DVDs, only commercially produced, in like-new condition will be accepted.\
-\
-Before bringing gifts of 20 volumes or more to the Library, please contact Lindsay Tebeck, Collection Strategist Librarian, Head of Collection Strategies (509-527-5909 or [tebeckl@whitman.edu](mailto:tebeckl@whitman.edu)) to discuss the potential donation. Tebeck may also be able to suggest other resources if the potential gift is deemed not appropriate for Penrose Library. Donations are boxed and delivered at the owner’s expense.
+The general collection does not accept material donations at this time. Please contact Head of Collection Strategies, Lindsay Tebeck, at [tebeckl@whitman.edu](mailto:tebeckl@whitman.edu) if you would like a list of alternative locations that may benefit from your donation.
 
 #### Special Collections Materials
 
-Gifts of manuscript collections, rare books, and unique materials, especially those that pertain to Whitman College and northwest regional history, are encouraged. Before such items or materials are donated to the Whitman College and Northwest Archives, please consult with Alexis Hickey, Archivist and Special Collections Librarian (509-526-4731 or [hickeya@whitman.edu](hickeya@whitman.edu)). The Development Office encourages donors to consider providing financial support for the processing and preservation of such donated materials, especially if the collection is of substantial size and/or significance.
+Gifts of manuscript collections, rare books, and unique historic materials, especially those that pertain to Whitman College and northwest regional history, are encouraged. Before such items or materials are donated to the Whitman College and Northwest Archives, please consult with Alexis Hickey, Archivist and Special Collections Librarian (509-526-4731 or hickeya@whitman.edu). The Development Office encourages donors to consider providing financial support for the processing and preservation of such donated materials, especially if the collection is of substantial size and/or significance.
 
-#### Appraisals
+For more information, please review the [Whitman College and Northwest Archives Collection Development Polic](https://drive.google.com/file/d/18PSB0qg72PZcBuJ201-DsehGPZgdsBJk/view?usp=share_link)y.
 
-Donors are responsible for obtaining an appraisal and consulting with a tax advisor in order to obtain such information. Generally, gifts with a declared value over $5,000 will require an independent qualified appraisal; those with a declared value over $500 will require that the donor file IRS Tax Form 8283. Please read IRS publications 526 and 561 for more information. An item over $250 will need to be reviewed by the Development Office rather than the library.
+#### General Library Materials
 
-Appraisers may be located through the [American Society of Appraisers](https://www.appraisers.org/), the [Antiquarian Booksellers Association](http://www.abaa.org/), or the [Appraisers’ Association of America](http://appraisersassociation.org/). If you wish to have an appraisal conducted, please do so before donating the materials to Whitman College’s Penrose Library.
+As of July 2025, Penrose Library will no longer accept donations of materials for the general collection. 
 
-All gifts will be acknowledged by letter with a count of the donated items upon request. The Library does not provide a detailed, title-by-title listing.
+This change aligns with best practices adopted by many academic libraries to ensure the responsible use of space, staff time, and other resources. By focusing on curated, demand-driven acquisitions, we can better support the evolving needs of teaching, learning, and research at Whitman College. Materials no longer accepted include—but are not limited to—books, DVDs, CDs, magazines, and other physical media.
 
-#### Access Restrictions
+If you would like a list of local organizations that may benefit from your donation, please contact Lindsay Tebeck, Head of Collection Strategies, at [tebeckl@whitman.edu](mailto:tebeckl@whitman.edu).
 
-Generally, gifts for which the donor places restrictions on access are not accepted. Exceptions may be made, for a limited time, for certain sensitive materials donated to Whitman College and Northwest Archives. Penrose Library abides by the American Library Association/Society of American Archivists’ 1994 [Joint Statement on Access to Original Research Materials](http://www2.archivists.org/statements/ala-saa-joint-statement-of-access-guidelines-for-access-to-original-research-materials-au).
+### Financial Support
 
-Donated items that Whitman College’s Penrose Library retains are cataloged and listed in the Library’s catalog. Access to other materials will be governed by established library policies. Materials added to the general collections are interfiled with like books on the same subject. Separately named collections are not maintained.
+Monetary gifts, especially those that would enable the purchase of new materials, the delivery of innovative services, additional furnishings, technology enhancements, or the support of special program areas are actively encouraged. Please contact Ping Fu, Library Director (509-527-5193 or fup@whitman.edu) or Steve Setchell, Vice President for Development and College Relations (509-527-5979 or setchesj@whitman.edu) for more information.
 
-#### Financial Support
-
-Monetary gifts, especially those that would enable the purchase of new materials, the delivery of innovative services, additional furnishings, technology enhancements, or the support of special program areas are actively encouraged. Please contact Ping Fu, Library Director (509-527-5193 or [fup@whitman.edu](fup@whitman.edu)) or Steve Setchell, Vice President for Development and Alumni Relations (509-527-5979 or [setchesj@whitman.edu](setchesj@whitman.edu)) for more information.
-
-Please contact Ping Fu, Library Director (509-527-5193 or [fup@whitman.edu](fup@whitman.edu)) if you have any questions or wish to discuss a specific donation.
+Please contact Ping Fu, Library Director (509-527-5193 or fup@whitman.edu) if you have any questions or wish to discuss a specific donation.
 
 ## Student Employment
 
