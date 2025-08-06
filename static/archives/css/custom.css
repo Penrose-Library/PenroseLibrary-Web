@@ -126,8 +126,8 @@
   p{
      margin-top: 0;
    }
-  }
 
+  /* Appointment button */
 .archives-button {
     display: inline-flex;
     align-items: center;
@@ -233,6 +233,9 @@
     }
     
     a:hover {
+      color: var(--secondary);
+    }
+    
       color: var(--secondary);
     }
     
