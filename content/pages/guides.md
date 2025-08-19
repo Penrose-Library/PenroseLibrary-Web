@@ -36,8 +36,6 @@ Information on finding, using, citing, and managing data
 
 [Finding and Using Images](https://libguides.whitman.edu/images)
 
-[Harper Joy Theatre 2024-2025 Works](https://libguides.whitman.edu/hjt)
-
 [How to Find Books on the Shelves](https://libguides.whitman.edu/findbooks)
 An explainer on how Library of Congress Classification works and where you will find specific call numbers in Penrose.
 
@@ -52,14 +50,10 @@ Newspapers, magazines, digitized archival collections, and other primary sources
 [Resources for Alumni](https://libguides.whitman.edu/alumni)
 How to gain access to some of Penrose’s materials as an alum.
 
-[Soujourning to Freedom](https://libguides.whitman.edu/stf) A selection of titles cited by faculty participants at the March 12, 2025 event.
-
 [US Government Documents](https://libguides.whitman.edu/govdocs)
 How to access government documents and navigate our own stacks.
 
 [Videos, Streaming, and Public Performance Rights](https://libguides.whitman.edu/streaming)
-
-[Visiting Writers Reading Series](https://libguides.whitman.edu/vwrs)
 
 [Walla Walla and Local History Guide](https://libguides.whitman.edu/wallawalla)
 Resources at Penrose and beyond to help with local history and genealogy needs
