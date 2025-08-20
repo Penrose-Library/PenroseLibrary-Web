@@ -68,8 +68,5 @@ A starting point for research on topics concerning intellectual property rights 
 [Open Access](https://libguides.whitman.edu/openaccess)
 Information and resources for scholarly communication, open education resources, and open data.[](https://libguides.whitman.edu/govdocs)
 
-
-
-
-
+<br><br>
 {{< /expandable >}}
