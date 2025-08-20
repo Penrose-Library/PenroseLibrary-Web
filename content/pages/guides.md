@@ -19,6 +19,8 @@ url: /guides
 
 {{< expandable label="General Guides" level="2" open="true">}}
 
+### Research Help
+
 [Research 101](https://libguides.whitman.edu/c.php?g=1351470) How to get started on your research and take advantage of everything Penrose has to offer.
 
 [Citation Styles and Tools](https://libguides.whitman.edu/citations) Information and examples for every major citation style used at Whitman.
@@ -26,29 +28,27 @@ url: /guides
 * [EndNote](https://libguides.whitman.edu/endnote)
 * [Zotero](https://libguides.whitman.edu/zotero)
 
-[AI and Research](https://libguides.whitman.edu/ai) resources and information to help you navigate the use of artificial intelligence in your research
+### Library How-Tos
 
-[Copyright & IP @ Whitman](https://libguides.whitman.edu/copyright_ip)
-A starting point for research on topics concerning intellectual property rights and responsibilities.
+[How to Find Books on the Shelves](https://libguides.whitman.edu/findbooks)
+An explainer on how Library of Congress Classification works and where you will find specific call numbers in Penrose.
+
+[Resources for Alumni](https://libguides.whitman.edu/alumni)
+How to gain access to some of Penrose’s materials as an alum.
+
+[Whitman Staff Guide to Penrose Library](https://libguides.whitman.edu/staff) 
+
+### Specific Resources
 
 [Data Resources](https://libguides.whitman.edu/dataresources)
 Information on finding, using, citing, and managing data
 
 [Finding and Using Images](https://libguides.whitman.edu/images)
 
-[How to Find Books on the Shelves](https://libguides.whitman.edu/findbooks)
-An explainer on how Library of Congress Classification works and where you will find specific call numbers in Penrose.
-
 [Newspapers (including New York Times All Access)](https://libguides.whitman.edu/newspapers)
-
-[Open Access](https://libguides.whitman.edu/openaccess)
-Information and resources for scholarly communication, open education resources, and open data
 
 [Primary Sources](https://libguides.whitman.edu/primarysources)
 Newspapers, magazines, digitized archival collections, and other primary sources.
-
-[Resources for Alumni](https://libguides.whitman.edu/alumni)
-How to gain access to some of Penrose’s materials as an alum.
 
 [US Government Documents](https://libguides.whitman.edu/govdocs)
 How to access government documents and navigate our own stacks.
@@ -56,8 +56,16 @@ How to access government documents and navigate our own stacks.
 [Videos, Streaming, and Public Performance Rights](https://libguides.whitman.edu/streaming)
 
 [Walla Walla and Local History Guide](https://libguides.whitman.edu/wallawalla)
-Resources at Penrose and beyond to help with local history and genealogy needs
+Resources at Penrose and beyond to help with local history and genealogy need
 
-[Whitman Staff Guide to Penrose Library](https://libguides.whitman.edu/staff) 
+### Topical
+
+[](https://libguides.whitman.edu/c.php?g=1351470)[AI and Research](https://libguides.whitman.edu/ai) resources and information to help you navigate the use of artificial intelligence in your research
+
+[Copyright & IP @ Whitman](https://libguides.whitman.edu/copyright_ip)
+A starting point for research on topics concerning intellectual property rights and responsibilities.
+
+[Open Access](https://libguides.whitman.edu/openaccess)
+Information and resources for scholarly communication, open education resources, and open data.[](https://libguides.whitman.edu/govdocs)
 
 {{< /expandable >}}
