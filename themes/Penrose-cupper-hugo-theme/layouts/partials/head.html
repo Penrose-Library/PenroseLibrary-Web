@@ -4,6 +4,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   {{ hugo.Generator }}
   <link rel="canonical" href="{{ .RelPermalink }}">
+  
+  {{ template "_internal/google_analytics.html" . }}
 
   {{ if .IsHome }}
     {{ with .Site.Params.homeMetaContent }}
@@ -18,6 +20,7 @@
   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
   <meta name="msapplication-TileColor" content="#001F5B">
   <meta name="theme-color" content="#001F5B">
+
  
   <style>
     body {
