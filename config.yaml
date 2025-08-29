@@ -21,6 +21,7 @@ params:
   description: 
   homeMetaContent: Penrose Library, Whitman College
   # For more date formats see https://gohugo.io/functions/format/
+  googleAnalytics: G-GL4B6CQ553
   MatomoSiteID: 1
   CloudflareAnalytics: 4152c068e3194d95b1cf83c0e975b720
   dateFormat: Jan 2, 2006
