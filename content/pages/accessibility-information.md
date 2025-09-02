@@ -25,6 +25,10 @@ There is a height-adjustable desk on the main (2nd) floor by the elevator. It is
 
 The Whitman College and Northwest Archives is located on the first floor, one floor below the main floor and accessible via either stairwell or the elevator. The archives is open [by appointment only](https://wcna.youcanbook.me/) Monday through Friday, 9 am – 12pm, 1 pm - 4 pm. If you have any accommodations you’d like us to know about, please include them in your appointment request. 
 
+## Penrose Social Story
+
+The [Penrose Library Social Story](<https://works.whitman.edu/socialstory >) \[link opens a PDF] is a guide with pictures and descriptions of our physical spaces and resources. It serves as a pre-visit guide if you are nervous or hesitant about the library. Traditionally created for people who are neurodivergent, social stories aid any patron who would like to know what to expect before heading our way.
+
 ## Study Spaces
 
 Penrose has a variety of spaces conducive to different needs. There are group and single study rooms available on a first-come, first-serve basis via key check-out at the Circulation Desk. These are prioritized for students and are checked out for 3 hours, with one additional 3 hour renewal available. When classes are not in session, such as over the summer break, these spaces are unlocked and available for anyone to use.
