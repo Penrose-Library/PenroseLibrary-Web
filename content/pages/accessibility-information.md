@@ -27,7 +27,7 @@ The Whitman College and Northwest Archives is located on the first floor, one fl
 
 ## Penrose Social Story
 
-The [Penrose Library Social Story](<https://works.whitman.edu/socialstory >) \[link opens a PDF] is a guide with pictures and descriptions of our physical spaces and resources. It serves as a pre-visit guide if you are nervous or hesitant about the library. Traditionally created for people who are neurodivergent, social stories aid any patron who would like to know what to expect before heading our way.
+The [Penrose Library Social Story](<https://works.whitman.edu/socialstory >) \[link opens a PDF] is a guide with pictures and descriptions of our physical spaces and resources. It serves as a pre-visit guide if you are nervous or hesitant about the library. Traditionally created for people who are neurodivergent, social stories aid any patron who would like to know what to expect before heading our way. You can provide feedback on the Penrose Library Social Story by using [our form](https://forms.gle/MutHSccKoxnGoAWL8).
 
 ## Study Spaces
 
