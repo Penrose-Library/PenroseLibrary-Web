@@ -20,6 +20,27 @@
     margin-top: 10px;
 }
 
+a[href="https://whitman.libcal.com/appointments/archives-appointment"] {
+  display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding: 5px 22px;
+    background: linear-gradient(to right, #001F5B, #00217a);
+    color: white !important; /* Ensure text stays white */
+    font-size: 1rem;
+    font-weight: 500; /* Increased from 300 for better readability */
+    text-decoration: none;
+    border-radius: 25px;
+    overflow: hidden;
+    z-index: 1;
+    border: none; /* Remove default button border */
+    cursor: pointer; /* Add pointer cursor */
+    box-shadow: 0 8px 20px rgba(52, 152, 219, 0.3);
+    transition: all 0.4s ease;
+    margin-top: 10px;
+}
+
 .archives-button::before {
     content: '';
     position: absolute;
