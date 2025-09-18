@@ -361,14 +361,14 @@ tr {
   width: 100%;
 }
 
-a[href="/contact_librarian/"] {
+a[href="/contact_librarian/" "https://forms.gle/8tFtqYTVD6WY9vqTA"] {
     text-decoration: none !important;
     display: inline-block;
     border-bottom: none !important;
 }
 
-a[href="/contact_librarian/"]:hover,
-a[href="/contact_librarian/"]:focus {
+a[href="/contact_librarian/" "https://forms.gle/8tFtqYTVD6WY9vqTA"]:hover,
+a[href="/contact_librarian/" "https://forms.gle/8tFtqYTVD6WY9vqTA"]:focus {
     text-decoration: none !important;
     border-bottom: none !important;
 }
