@@ -34,6 +34,7 @@
 
 /* SPECIFIC HOVER RULES AFTER a:hover */
 .archives-button:hover {
+    color: white !important;
     transform: translateY(-5px);
     cursor: pointer;
     box-shadow: 0 12px 25px rgba(52, 152, 219, 0.4);
