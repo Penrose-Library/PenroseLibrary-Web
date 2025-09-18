@@ -6,15 +6,15 @@
     position: relative;
     padding: 5px 22px;
     background: linear-gradient(to right, #001F5B, #00217a);
-    color: white !important; /* Ensure text stays white */
+    color: white !important; 
     font-size: 1rem;
-    font-weight: 500; /* Increased from 300 for better readability */
+    font-weight: 500;
     text-decoration: none;
     border-radius: 25px;
     overflow: hidden;
     z-index: 1;
-    border: none; /* Remove default button border */
-    cursor: pointer; /* Add pointer cursor */
+    border: none; 
+    cursor: pointer; 
     box-shadow: 0 8px 20px rgba(52, 152, 219, 0.3);
     transition: all 0.4s ease;
     margin-top: 10px;
@@ -34,7 +34,7 @@
 
 /* SPECIFIC HOVER RULES AFTER a:hover */
 .archives-button:hover {
-    color: white !important;
+    color: white;
     transform: translateY(-5px);
     cursor: pointer;
     box-shadow: 0 12px 25px rgba(52, 152, 219, 0.4);
