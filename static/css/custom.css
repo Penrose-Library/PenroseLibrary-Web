@@ -361,6 +361,18 @@ tr {
   width: 100%;
 }
 
+a[href="https://forms.gle/8tFtqYTVD6WY9vqTA"] {
+    text-decoration: none !important;
+    display: inline-block;
+    border-bottom: none !important;
+}
+
+a[href="https://forms.gle/8tFtqYTVD6WY9vqTA"]:hover,
+a[href="https://forms.gle/8tFtqYTVD6WY9vqTA"]:focus {
+    text-decoration: none !important;
+    border-bottom: none !important;
+}
+
 .archives-button {
   display: inline-flex;
   align-items: center;
