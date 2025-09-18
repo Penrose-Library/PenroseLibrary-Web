@@ -784,6 +784,17 @@ address p {
   }
 }
 
+a[target="_blank"] {
+    text-decoration: none !important;
+    border-bottom: none !important;
+    display: inline-block;
+}
+
+a[target="_blank"]:hover {
+    text-decoration: none !important;
+    border-bottom: none !important;
+}
+
 /* Print Styles */
 @media print {
   .sidebar, .mobile-menu-toggle, .search-section, .announcement, .footer {
