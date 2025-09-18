@@ -33,11 +33,11 @@
 }
 
 /* SPECIFIC HOVER RULES AFTER a:hover */
-.archives-button:hover {
+/*.archives-button:hover {
     color: #001F5B !important; /* Force dark blue text on hover */
-    /*transform: translateY(-5px);*/
+    /*transform: translateY(-5px);
     box-shadow: 0 12px 25px rgba(52, 152, 219, 0.4);
-}
+} */
 
 .archives-button:hover::before {
     width: 100%;
