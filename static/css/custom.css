@@ -775,13 +775,17 @@ address p {
   }
 
   a {
-    text-decoration: none;
+    text-decoration: none !important;
+    border-bottom: none !important;
+    display: inline-block;
     color: var(--primary);
     transition: all 0.3s ease;
   }
 
   a:hover {
     color: var(--secondary);
+    text-decoration: none !important;
+    border-bottom: none !important;
   }
 }
 
