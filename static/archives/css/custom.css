@@ -37,15 +37,6 @@
     color: #001F5B !important; /* Force dark blue text on hover */
     transform: translateY(-5px);
     box-shadow: 0 12px 25px rgba(52, 152, 219, 0.4);
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 0%;
-    height: 100%;
-    background: white;
-    transition: all 0.4s ease;
-    z-index: -1;
 }
 
 .archives-button:hover::before {
