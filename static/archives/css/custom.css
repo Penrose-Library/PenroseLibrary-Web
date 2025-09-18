@@ -20,7 +20,7 @@
     margin-top: 10px;
 }
 
-.archives-button::before {
+/*.archives-button::before {
     content: '';
     position: absolute;
     top: 0;
@@ -30,15 +30,14 @@
     background: white;
     transition: all 0.4s ease;
     z-index: -1;
-}
+}*/
 
-/* SPECIFIC HOVER RULES AFTER a:hover
 .archives-button:hover {
     color: white;
     transform: translateY(-5px);
     cursor: pointer;
     box-shadow: 0 12px 25px rgba(52, 152, 219, 0.4);
-} */
+} 
 
 .archives-button:hover::before {
     width: 100%;
