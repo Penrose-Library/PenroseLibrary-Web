@@ -325,9 +325,10 @@ tr {
   color: white !important;
   font-size: 1rem;
   font-weight: 500;
-  text-decoration: none;
+  text-decoration: none !important;
   border-radius: 25px;
   border-bottom: none !important;
+  outline: none !important;
   overflow: hidden;
   z-index: 1;
   border: none;
@@ -792,12 +793,21 @@ address p {
 a[target="_blank"] {
     text-decoration: none !important;
     border-bottom: none !important;
+    outline: none !important;
     display: inline-block;
 }
 
 a[target="_blank"]:hover {
     text-decoration: none !important;
     border-bottom: none !important;
+    outline: none !important; 
+}
+
+a[target="_blank"] .btn:hover,
+a[target="_blank"] .btn:focus {
+    border-bottom: none !important;
+    text-decoration: none !important;
+    outline: none !important;
 }
 
 /* Print Styles */
