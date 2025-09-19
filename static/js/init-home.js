@@ -46,6 +46,11 @@
 		dataType: 'json'
 	})
 	.done(function( openingtime ) {
+		    // Get the summary text
+    let summaryText = openingtime.items[openingtime.items.length - 1]['summary'];
+    
+    // Replace semicolon with a line break
+    summaryText = summaryText.replace(';', '<br>');
 		$('#today').html('<a href="https://www.google.com/calendar/embed?src=whitman.edu_49tmb5t3aoa3k0t05vmp58cfeo%40group.calendar.google.com&ctz=America/Los_Angeles" rel="noreferrer" target="_blank">'+openingtime.items[openingtime.items.length - 1]['summary']+"</a>");
 	});
 
