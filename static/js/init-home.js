@@ -36,19 +36,28 @@
 	});
 	
 	//library hours
-	var today = new Date();
-    const options = { weekday: 'long', month: 'long', day: 'numeric' };
-	$('#date').html(today.toLocaleDateString('en-US', options));
-	
-	$.ajax({
-		url: "https://library.whitman.edu/cfworker/calendar?calendar=whitman.edu_49tmb5t3aoa3k0t05vmp58cfeo@group.calendar.google.com",
-		cache: true,
-		dataType: 'json'
-	})
-	.done(function( openingtime ) {
+var today = new Date();
+const options = { weekday: 'long', month: 'long', day: 'numeric' };
+$('#date').html(today.toLocaleDateString('en-US', options));
 
-		$('#today').html('<a href="https://www.google.com/calendar/embed?src=whitman.edu_49tmb5t3aoa3k0t05vmp58cfeo%40group.calendar.google.com&ctz=America/Los_Angeles" rel="noreferrer" target="_blank">'+openingtime.items[openingtime.items.length - 1]['summary']+"</a>");
-	});
+$.ajax({
+    url: "https://library.whitman.edu/cfworker/calendar?calendar=whitman.edu_49tmb5t3aoa3k0t05vmp58cfeo@group.calendar.google.com",
+    cache: true,
+    dataType: 'json'
+})
+.done(function(openingtime) { 
+    let summaryText = openingtime.items[openingtime.items.length - 1]['summary'];
+    
+    // Replace semicolon with a line break
+    summaryText = summaryText.replace(';', '</br>');
+    
+    // Create the HTML with the line break
+    $('#today').html(
+        '<a href="https://www.google.com/calendar/embed?src=whitman.edu_49tmb5t3aoa3k0t05vmp58cfeo%40group.calendar.google.com&ctz=America/Los_Angeles" rel="noreferrer" target="_blank">' + 
+        summaryText + 
+        '</a>'
+    );
+})
 
 var librarian = { 
     Emily: { "name": "Emily Pearson", "office":"215","email":"pearsome@whitman.edu", "phone": "509-527-5918", "photo":"https://library.whitman.edu/images/librarians/EMILY-PEARSON_2019.png"  }, 
