@@ -373,21 +373,6 @@ a[href="https://forms.gle/8tFtqYTVD6WY9vqTA"]:focus {
     border-bottom: none !important;
 }
 
-.sherlock-button {
-        display: inline-block;
-        cursor: pointer;
-        transition: transform 0.2s ease;
-        outline: 2px solid transparent; /* Start with transparent outline */
-        outline-offset: 4px;
-        border-radius: 4px;
-    }
-    .sherlock-button:hover {
-        transform: scale(1.05);
-    }
-    .sherlock-button:focus {
-        outline: 2px solid #007bff; /* Blue outline when focused */
-    }
-
 .archives-button {
   display: inline-flex;
   align-items: center;
