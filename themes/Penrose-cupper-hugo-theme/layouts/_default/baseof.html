@@ -7,7 +7,20 @@
     {{ partial "noscript.html" . }}
     {{ partial "svg.html" . }}
     <div class="wrapper">
-      {{ partial "header.html" . }}
+      {{ partial "header.html" . }}   
+        {{ define "pageheader" }}
+          <div id="main-title" aria-hidden="false">
+            {{ if .IsHome }}
+              {{ if .Title }}
+                <h1>{{ .Title }}</h1>
+              {{ else }}
+                <h1>{{ .Site.Title }}</h1>
+              {{ end }}
+       {{ else }}
+         <h1>{{ .Title }}</h1>
+      {{ end }}
+    </div>
+{{ end }}
           {{ block "main" . }}{{ end }}
           {{ if ne .Site.Params.moveFooterToHeader true }}
             {{ partial "footer.html" . }}
