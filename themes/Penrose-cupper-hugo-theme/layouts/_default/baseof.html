@@ -1,35 +1,17 @@
-
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
   {{ partial "head.html" . }}
   <body>
-   {{ if .Site.Params.gtm_id}}<noscript><iframe src="//www.googletagmanager.com/ns.html?id={{ .Site.Params.gtm_id }}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>{{ end }}
-    #main{{ T "skip_to_content" }}</a>
+    {{ if .Site.Params.gtm_id}}<noscript><iframe src="//www.googletagmanager.com/ns.html?id={{ .Site.Params.gtm_id }}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>{{ end }}
+    <a href="#main">{{ T "skip_to_content" }}</a>
     {{ partial "noscript.html" . }}
     {{ partial "svg.html" . }}
     <div class="wrapper">
       {{ partial "header.html" . }}
-
-      {{ block "pageheader" . }}
-        {{/* Prefer the content title when present; fall back for home */}}
-        {{ if .IsHome }}
-          {{/* If you use content/_index.md with title:, .Title will be set. Otherwise use site title. */}}
-          {{ if .Title }}
-            <h1>{{ .Title }}</h1>
-          {{ else }}
-            <h1>{{ .Site.Title }}</h1>
+          {{ block "main" . }}{{ end }}
+          {{ if ne .Site.Params.moveFooterToHeader true }}
+            {{ partial "footer.html" . }}
           {{ end }}
-        {{ else }}
-          <h1>{{ .Title }}</h1>
-        {{ end }}
-        {{ with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end }}
-      {{ end }}
-
-      {{ block "main" . }}{{ end }}
-
-      {{ if ne .Site.Params.moveFooterToHeader true }}
-        {{ partial "footer.html" . }}
-      {{ end }}
     </div>
     {{ partial "script.html" . }}
     {{ partial "katex.html" . }}
