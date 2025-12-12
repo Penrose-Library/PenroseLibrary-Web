@@ -847,7 +847,6 @@ a[target="_blank"] .btn:focus {
   }
 }
 
-/* Visually hide checkbox but keep accessible */
 .vh {
   position: absolute;
   width: 1px;
@@ -860,7 +859,7 @@ a[target="_blank"] .btn:focus {
   border: 0;
 }
 
-/* Button styles */
+/* Button */
 .theme-button {
   display: inline-flex;
   align-items: center;
@@ -881,7 +880,6 @@ a[target="_blank"] .btn:focus {
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
-/* Button hover state */
 .theme-button:hover {
   background: #e0e0e0;
   transform: translateY(-2px);
@@ -935,7 +933,6 @@ a[target="_blank"] .btn:focus {
   transform: translate(-5px, 1px);
 }
 
-/* Optional: Hide button text on small screens */
 @media (max-width: 480px) {
   .theme-text {
     position: absolute;
@@ -944,4 +941,22 @@ a[target="_blank"] .btn:focus {
     overflow: hidden;
     clip: rect(0,0,0,0);
   }
+}
+
+/* Visually hidden but accessible to screen readers for h1 */
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* Ensure it's not removed by display:none or visibility:hidden */
+.visually-hidden:not(:focus):not(:active) {
+  clip-path: inset(50%) !important;
 }
