@@ -186,10 +186,6 @@ a[href="https://whitman.libcal.com/appointments/archives-appointment"]:hover {
       transition: all 0.3s ease;
     }
     
-    a:hover {
-      color: var(--secondary);
-    }
-    
 
 //*.form-control {
   display: block;
