@@ -93,18 +93,6 @@ a[href="https://whitman.libcal.com/appointments/archives-appointment"]:focus-vis
   border-color: #FFFFFF;
 }
 
-a[href="https://whitman.libcal.com/appointments/archives-appointment"]::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 0%;
-    height: 100%;
-    background: white;
-    transition: all 0.4s ease;
-    z-index: -1;
-}
-
 /* SPECIFIC HOVER RULES AFTER a:hover */
 a[href="https://whitman.libcal.com/appointments/archives-appointment"]:hover {
   background: linear-gradient(to right, #002C7E, #0033A0);
