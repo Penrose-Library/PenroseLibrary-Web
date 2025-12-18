@@ -81,8 +81,6 @@ a[href="https://whitman.libcal.com/appointments/archives-appointment"] {
   border: 2px solid rgba(255, 255, 255, 0.2);
   cursor: pointer;
   outline: none;
-  min-height: 44px;
-  min-width: 44px;
 }
 
 a[href="https://whitman.libcal.com/appointments/archives-appointment"]:focus-visible {
