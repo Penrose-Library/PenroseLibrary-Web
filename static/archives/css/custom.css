@@ -1,46 +1,66 @@
-/* Modern Blue & White Button Styles */
 .archives-button {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-    padding: 5px 22px;
-    background: linear-gradient(to right, #001F5B, #00217a);
-    color: white !important; 
-    font-size: 1rem;
-    font-weight: 500;
-    text-decoration: none;
-    border-radius: 25px;
-    overflow: hidden;
-    z-index: 1;
-    border: none; 
-    cursor: pointer; 
-    box-shadow: 0 8px 20px rgba(52, 152, 219, 0.3);
-    transition: all 0.4s ease;
-    margin-top: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding: 12px 32px;
+  background: linear-gradient(to right, #001F5B, #00217a);
+  color: white;
+  font-size: 1rem;
+  font-weight: 400;
+  text-decoration: none;
+  border-radius: 25px;
+  overflow: hidden;
+  z-index: 1;
+  box-shadow: 0 4px 15px rgba(0, 31, 91, 0.2);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  margin-top: 10px;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  cursor: pointer;
+  outline: none;
+  min-height: 44px;
+  min-width: 44px;
 }
 
-/*.archives-button::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 0%;
-    height: 100%;
-    background: white;
-    transition: all 0.4s ease;
-    z-index: -1;
-}*/
+/* Focus state */
+.archives-button:focus-visible {
+  outline: 3px solid #8AB4F8;
+  outline-offset: 2px;
+  border-color: #FFFFFF;
+}
 
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .archives-button {
+    transition: none;
+  }
+}
+
+/* Subtle hover effect - gentle background lightening */
 .archives-button:hover {
-    color: white;
-    transform: translateY(-5px);
-    cursor: pointer;
-    box-shadow: 0 12px 25px rgba(52, 152, 219, 0.4);
-} 
+  background: linear-gradient(to right, #002C7E, #0033A0);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 31, 91, 0.25);
+  border-color: rgba(255, 255, 255, 0.3);
+}
 
-.archives-button:hover::before {
-    width: 100%;
+/* Active state */
+.archives-button:active {
+  transform: translateY(0);
+  box-shadow: 0 3px 10px rgba(0, 31, 91, 0.2);
+  transition-duration: 0.1s;
+}
+
+/* Disabled state */
+.archives-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
+}
+
+.archives-button:disabled:hover {
+  background: linear-gradient(to right, #001F5B, #00217a);
 }
 
 a[href="https://whitman.libcal.com/appointments/archives-appointment"] {
