@@ -65,23 +65,32 @@
 
 a[href="https://whitman.libcal.com/appointments/archives-appointment"] {
   display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-    padding: 5px 22px;
-    background: linear-gradient(to right, #001F5B, #00217a);
-    color: white !important; /* Ensure text stays white */
-    font-size: 1rem;
-    font-weight: 500; /* Increased from 300 for better readability */
-    text-decoration: none;
-    border-radius: 25px;
-    overflow: hidden;
-    z-index: 1;
-    border: none; /* Remove default button border */
-    cursor: pointer; /* Add pointer cursor */
-    box-shadow: 0 8px 20px rgba(52, 152, 219, 0.3);
-    transition: all 0.4s ease;
-    margin-top: 10px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding: 12px 32px;
+  background: linear-gradient(to right, #001F5B, #00217a);
+  color: white;
+  font-size: 1rem;
+  font-weight: 400;
+  text-decoration: none;
+  border-radius: 25px;
+  overflow: hidden;
+  z-index: 1;
+  box-shadow: 0 4px 15px rgba(0, 31, 91, 0.2);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  margin-top: 10px;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  cursor: pointer;
+  outline: none;
+  min-height: 44px;
+  min-width: 44px;
+}
+
+a[href="https://whitman.libcal.com/appointments/archives-appointment"]:focus-visible {
+  outline: 3px solid #8AB4F8;
+  outline-offset: 2px;
+  border-color: #FFFFFF;
 }
 
 a[href="https://whitman.libcal.com/appointments/archives-appointment"]::before {
@@ -98,13 +107,32 @@ a[href="https://whitman.libcal.com/appointments/archives-appointment"]::before {
 
 /* SPECIFIC HOVER RULES AFTER a:hover */
 a[href="https://whitman.libcal.com/appointments/archives-appointment"]:hover {
-    color: #001F5B !important; /* Force dark blue text on hover */
-    transform: translateY(-5px);
-    box-shadow: 0 12px 25px rgba(52, 152, 219, 0.4);
+  background: linear-gradient(to right, #002C7E, #0033A0);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 31, 91, 0.25);
+  border-color: rgba(255, 255, 255, 0.3);
 }
 
 a[href="https://whitman.libcal.com/appointments/archives-appointment"]:hover::before {
     width: 100%;
+}
+
+
+a[href="https://whitman.libcal.com/appointments/archives-appointment"]:active {
+  transform: translateY(0);
+  box-shadow: 0 3px 10px rgba(0, 31, 91, 0.2);
+  transition-duration: 0.1s;
+}
+
+a[href="https://whitman.libcal.com/appointments/archives-appointment"]:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
+}
+
+a[href="https://whitman.libcal.com/appointments/archives-appointment"]:hover {
+  background: linear-gradient(to right, #001F5B, #00217a);
 }
 
 #announcement {
