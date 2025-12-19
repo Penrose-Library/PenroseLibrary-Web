@@ -336,41 +336,38 @@ tr {
   position: relative;
   padding: 5px 22px;
   background: linear-gradient(to right, #001F5B, #00217a);
-  color: white !important;
+  color: white;
   font-size: 1rem;
-  font-weight: 500;
-  text-decoration: none !important;
+  font-weight: 400;
+  text-decoration: none;
   border-radius: 25px;
-  border-bottom: none !important;
-  outline: none !important;
   overflow: hidden;
   z-index: 1;
-  border: none;
-  cursor: pointer;
-  box-shadow: 0 8px 20px rgba(52, 152, 219, 0.3);
-  transition: all 0.4s ease;
+  box-shadow: 0 4px 15px rgba(0, 31, 91, 0.2);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   margin-top: 10px;
-  margin-bottom: 10px;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  cursor: pointer;
+  outline: none;
+  min-height: 44px;
+  min-width: 44px;
 }
 
+/* Focus state */
 .btn:focus-visible {
   outline: 3px solid #8AB4F8;
   outline-offset: 2px;
   border-color: #FFFFFF;
 }
 
-.btn::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 0%;
-  height: 100%;
-  background: white;
-  transition: all 0.4s ease;
-  z-index: -1;
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .btn {
+    transition: none;
+  }
 }
 
+/* Subtle hover effect - gentle background lightening */
 .btn:hover {
   background: linear-gradient(to right, #002C7E, #0033A0);
   transform: translateY(-2px);
@@ -378,12 +375,14 @@ tr {
   border-color: rgba(255, 255, 255, 0.3);
 }
 
+/* Active state */
 .btn:active {
   transform: translateY(0);
   box-shadow: 0 3px 10px rgba(0, 31, 91, 0.2);
   transition-duration: 0.1s;
 }
 
+/* Disabled state */
 .btn:disabled {
   opacity: 0.5;
   cursor: not-allowed;
@@ -393,10 +392,6 @@ tr {
 
 .btn:disabled:hover {
   background: linear-gradient(to right, #001F5B, #00217a);
-}
-
-.btn:hover::before {
-  width: 100%;
 }
 
 a[href="https://forms.gle/8tFtqYTVD6WY9vqTA"] {
