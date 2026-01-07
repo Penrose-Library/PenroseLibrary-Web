@@ -500,6 +500,7 @@ a[href="https://forms.gle/8tFtqYTVD6WY9vqTA"]:focus {
 #announcement {
   padding: 1rem 2rem;
   max-width: 40rem;
+  text-align: center;
   margin: 0 auto;
   min-height: 2rem;
 }
