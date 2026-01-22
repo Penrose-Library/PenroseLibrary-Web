@@ -65,7 +65,6 @@ $(document).ready(function(e) {
 								$('#loading').html('<p></p>');
 								for(var prop in msg){
 								var arr = $.map(msg[prop].instructor, function(el) { return el; });
-									
 									sname=' ';
 								if(arr.length==1){
 									sname= Strings.orEmpty(arr[0].first_name)+' '+ Strings.orEmpty(arr[0].last_name);
