@@ -70,7 +70,7 @@ $(document).ready(function(e) {
 									sname= Strings.orEmpty(arr[0].first_name)+' '+ Strings.orEmpty(arr[0].last_name);
 								}
 								if (arr.length >=2) {
-									sname= Strings.orEmpty(arr[0].first_name)+' '+ Strings.orEmpty(arr[0].last_name);
+									sname= Strings.orEmpty(arr[1].first_name)+' '+ Strings.orEmpty(arr[1].last_name);
 								}
 								if (arr.length >= 3) {
 									sname += '/' + Strings.orEmpty(arr[2].first_name) + ' ' +
