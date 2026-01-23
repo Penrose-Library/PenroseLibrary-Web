@@ -67,7 +67,7 @@ $(document).ready(function(e) {
 								var arr = $.map(msg[prop].instructor, function(el) { return el; });
 									sname= ' ';
 								if (arr.length >= 1) {
-									sname += '/' + Strings.orEmpty(arr[0].first_name)+' '+ Strings.orEmpty(arr[0].last_name);
+									sname = Strings.orEmpty(arr[0].first_name)+' '+ Strings.orEmpty(arr[0].last_name);
 								}
 								if (arr.length >=2) {
 									sname += '/' + Strings.orEmpty(arr[1].first_name)+' '+ Strings.orEmpty(arr[1].last_name);
