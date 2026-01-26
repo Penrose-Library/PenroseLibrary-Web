@@ -58,7 +58,7 @@ function searchevent() {
 	
 	});
 	   
-$('#search-button').click(function() {
+$('#search-button').on("click", function() {
 		searchevent();
 	});
 
