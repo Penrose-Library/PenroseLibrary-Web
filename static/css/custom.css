@@ -430,6 +430,11 @@ a[href="https://forms.gle/8tFtqYTVD6WY9vqTA"]:focus {
   min-width: 44px;
 }
 
+.divider {
+  border-top: 1px solid #ccc;
+  margin: 1rem 0;
+}
+
 /* Focus state */
 .archives-button:focus-visible {
   outline: 3px solid #8AB4F8;
@@ -990,6 +995,7 @@ a[target="_blank"] .btn:focus {
     clip: rect(0,0,0,0);
   }
 }
+
 
 /* Visually hidden but accessible to screen readers for h1 */
 .visually-hidden {
