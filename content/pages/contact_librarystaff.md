@@ -224,13 +224,13 @@ $(document).ready(function(e) {
 </td>
 </tr>
 
-<!----- 
+
 <tr>
     <th headers="irs" id="part9" colspan="2">
         </th>
         <td headers="irs part9 name" colspan="2">
             <p>Anders Otterness</p>
-            <p>Circulation Supervisor (Mornings)</p>
+            <p>Circulation Supervisor (Evenings)</p>
             <p><a href="mailto:otterna@whitman.edu">otterna@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5192">509-527-5192</a></p>
         </td>
@@ -243,7 +243,6 @@ $(document).ready(function(e) {
         </td>
 </tr>
 
-\----!>
 
 <tr>
     <th headers="irs" id="part10" colspan="2">
@@ -264,6 +263,8 @@ $(document).ready(function(e) {
         </td>
 </tr>
 
+
+<!----- 
 <tr>
     <th headers="irs" id="part11" colspan="2">
         </th>
@@ -280,6 +281,8 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
+
+\----!>
     <tr>
         <th id="archives" class="span" colspan="5" scope="colgroup">
            Archives and Special Collections
