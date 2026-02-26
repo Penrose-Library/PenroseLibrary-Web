@@ -9,6 +9,14 @@ We strive to support all patrons in accessing library materials and services. If
 
 Penrose Library is committed to providing equitable access to library collections, services, and facilities for all library users as stated in the Penrose Library’s [Mission and Values statement](https://library.whitman.edu/about_the_library/#penrose-mission-and-values-statement) and the Whitman College [Strategic Priorities.](https://www.whitman.edu/newsroom/archive/2017/strategic-priorities) Penrose Library endeavors to follow universal design principles and create physical and digital environments that address the needs of the broadest range of patrons possible by following the best practices and standards for accessibility. For web pages and systems under our direct control, we will work to update them to adhere to [WCAG 2.0.](https://www.w3.org/WAI/standards-guidelines/wcag/) For materials and systems licensed from third-party vendors, we will communicate issues brought to our attention with the vendors and work with them to address deficiencies. Penrose Library seeks to select and acquire, whenever possible, resources and technologies that are in line with universal design principles.
 
+<!--StartFragment-->
+
+Penrose Library evaluates all subscription electronic resources for accessibility through processes such as manual VPAT evaluations and accessibility risk scoring. This is an ongoing project due to the scope resources Penrose provides. 
+
+[Learn more about the process and view test results](https://library.whitman.edu/accessibility/e-resources_accessibility_testing/)
+
+<!--EndFragment-->
+
 ## Physical Accessibility
 
 There is one elevator in Penrose Library that reaches all four floors. It is located near the bathrooms. If needed in an emergency, there is a staff elevator that goes from a staff-only entrance near the loading dock (accessible via ramp), which goes between the first and third floors.
