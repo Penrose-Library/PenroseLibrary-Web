@@ -38,6 +38,7 @@
     </div>
 {{ end }}
           {{ block "main" . }}{{ end }}
+      </main>
           {{ if ne .Site.Params.moveFooterToHeader true }}
             {{ partial "footer.html" . }}
           {{ end }}
