@@ -997,7 +997,7 @@ a[target="_blank"] .btn:focus {
 }
 
 
-/* Visually hidden but accessible to screen readers for h1 */
+/* visually hidden but accessible to screen readers for h1 */
 .visually-hidden {
   position: absolute !important;
   width: 1px !important;
@@ -1010,7 +1010,25 @@ a[target="_blank"] .btn:focus {
   border: 0 !important;
 }
 
-/* Ensure it's not removed by display:none or visibility:hidden */
+.skip-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #001f5b; /* dark blue */
+  color: #ffffff;            /* white */
+  padding: 0.5rem 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  transform: translateY(-100%);
+  z-index: 1000;
+}
+
+.skip-link:focus,
+.skip-link:focus-visible {
+  transform: translateY(0);
+}
+
+/* ensure it's not removed by display:none or visibility:hidden */
 .visually-hidden:not(:focus):not(:active) {
   clip-path: inset(50%) !important;
 }
