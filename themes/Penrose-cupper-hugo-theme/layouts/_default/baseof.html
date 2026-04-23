@@ -15,12 +15,12 @@
           <div id="main-title" aria-hidden="false">
             {{ if .IsHome }}
               {{ if .Title }}
-                <h1>{{ .Title }}</h1>
+                <h2>{{ .Title }}</h2>
               {{ else }}
-                <h1>{{ .Site.Title }}</h1>
+                <h2>{{ .Site.Title }}</h2>
               {{ end }}
        {{ else }}
-         <h1>{{ .Title }}</h1>
+         <h2>{{ .Title }}</h2>
       {{ end }}
     </div>
 {{ end }}
