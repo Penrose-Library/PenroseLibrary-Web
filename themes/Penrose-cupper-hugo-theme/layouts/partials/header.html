@@ -1,4 +1,16 @@
 <header class="intro-and-nav" role="banner">
+  <!-- h1 visually hidden for compliance -->
+    <h1 class="visually-hidden">
+      {{- if .IsHome -}}
+        {{- if .Title -}}
+          {{- .Title -}}
+        {{- else -}}
+          {{- .Site.Title -}}
+        {{- end -}}
+      {{- else -}}
+        {{- .Title -}}
+      {{- end -}}
+    </h1>
   <div>
     <div class="intro">
       <a
