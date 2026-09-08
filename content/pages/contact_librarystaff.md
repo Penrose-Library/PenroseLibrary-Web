@@ -224,7 +224,6 @@ $(document).ready(function(e) {
 </td>
 </tr>
 
-
 <tr>
     <th headers="irs" id="part9" colspan="2">
         </th>
@@ -242,7 +241,6 @@ $(document).ready(function(e) {
             </ul>
         </td>
 </tr>
-
 
 <tr>
     <th headers="irs" id="part10" colspan="2">
@@ -262,7 +260,6 @@ $(document).ready(function(e) {
             </ul>
         </td>
 </tr>
-
 
 <!----- 
 <tr>
@@ -426,7 +423,7 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
-
+<!----- 
 <th id="systems" class="span" colspan="5" scope="colgroup">
 Library Technology Services
 </th>
@@ -454,7 +451,7 @@ Library Technology Services
         </td>
 
     </tr>
-
+\-----!>
 
 </tbody>
 </table>
