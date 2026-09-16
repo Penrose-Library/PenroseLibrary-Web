@@ -11,7 +11,9 @@ date: 2024-07-08T19:54:36.217Z
 
 <h2 id="search-library-faq">Search Library FAQ </h2>
 
-<p>If you are looking for a specific title please search in <a href="https://sherlock.whitman.edu">Sherlock</a></p>
+<p>If you are looking for a specific title or database please search in <a href="https://sherlock.whitman.edu">Sherlock</a>. Search here for library policies and services. </p>
+
+<br>
 
 <script src="https://asklibrarian.whitman.edu/1.0/widgets/14974"></script> 
 
