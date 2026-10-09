@@ -104,12 +104,14 @@ $(document).ready(function(e) {
     </tr>
     <tr>
         <th headers="admin" id="part2" colspan="2">
-            <img class="responsive-img" src="/images/staffimage/KATHLEEN-HUTCHINSON_2019.png" alt="Kathleen Hutchison" style="max-width:180px"/>
+         <!------
+
+   <img class="responsive-img" src="/images/staffimage/KATHLEEN-HUTCHINSON_2019.png" alt="Kathleen Hutchison" style="max-width:180px"/> <----!>
         </th>
         <td headers="admin part2 name" colspan="2">
-            <p>Kathleen Hutchison</p>
+            <p>Greer Buchanan</p>
             <p>Administrative Assistant</p>
-            <p><a href="mailto:hutchiks@whitman.edu">hutchiks@whitman.edu</a></p>
+            <p><a href="mailto:buchanang@whitman.edu">buchanang@whitman.edu</a></p>
             <p><a href="tel:+15095275191">509-527-5191</a></p>
         </td>
         <td headers="admin part2 resp" colspan="3">
@@ -434,7 +436,7 @@ Library Technology Services
         <th headers="collection" id="part19" colspan="2">
         </th>
         <td headers="systems part19 name" colspan="2">
-            <p>Hew McKinney</p>
+            <p>Jim Cloen</p>
             <p>Library Technology Specialist</p>
             </span></a></p>
             <p><a href="mailto:mckinneym@whitman.edu">mckinneym@whitman.edu</a></p>
