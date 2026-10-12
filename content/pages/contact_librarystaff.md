@@ -425,7 +425,7 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
-<!----- 
+
 <th id="systems" class="span" colspan="5" scope="colgroup">
 Library Technology Services
 </th>
@@ -439,7 +439,7 @@ Library Technology Services
             <p>Jim Cloen</p>
             <p>Library Technology Specialist</p>
             </span></a></p>
-            <p><a href="mailto:mckinneym@whitman.edu">mckinneym@whitman.edu</a></p>
+            <p><a href="mailto:cloenj@whitman.edu">cloenj@whitman.edu</a></p>
             <p><a href="tel:+15095275916">509-527-5916</a></p>
         </td>
         <td headers="systems part19 resp" colspan="3">
@@ -453,7 +453,7 @@ Library Technology Services
         </td>
 
     </tr>
-\-----!>
+
 
 </tbody>
 </table>
