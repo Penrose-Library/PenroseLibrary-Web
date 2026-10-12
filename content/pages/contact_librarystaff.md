@@ -103,10 +103,7 @@ $(document).ready(function(e) {
         </td>
     </tr>
     <tr>
-        <th headers="admin" id="part2" colspan="2">
-         <!------
-
-   <img class="responsive-img" src="/images/staffimage/KATHLEEN-HUTCHINSON_2019.png" alt="Kathleen Hutchison" style="max-width:180px"/> <----!>
+          <th headers="admin" id="part2" colspan="2">
         </th>
         <td headers="admin part2 name" colspan="2">
             <p>Greer Buchanan</p>
@@ -165,7 +162,7 @@ $(document).ready(function(e) {
             <li>Instruction Representative for Division III</li>
             </ul>
         </td>
-    </tr>   
+    </tr>\
     <tr>
         <th headers="irs" id="part6" colspan="2">
                      <img class="responsive-img" src="/uploads/2024-bridget-s.jpg" alt="Bridget Scoles" style="max-width:180px"/></th>
@@ -188,6 +185,7 @@ $(document).ready(function(e) {
             User Services
         </th>
     </tr>
+
 <th headers="irs" id="part7" colspan="2">
 <img class="responsive-img" src="/images/staffimage/JULIE-CARTER_2019.png" alt="Julie Carter" style="max-width:180px" />
 </th>
