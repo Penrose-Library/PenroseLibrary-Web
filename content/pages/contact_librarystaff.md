@@ -266,6 +266,7 @@ $(document).ready(function(e) {
            Archives and Special Collections
         </th>
     </tr>
+
   <tr>
      <th headers="archives" id="part12" colspan="2">
 	</th>
@@ -301,13 +302,13 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr> 
-<!-----    <tr>
+<tr>
 	<th headers="archives" id="part14" colspan="2">   
         </th>
         <td headers="archives part14 name" colspan="2">
-            <p>West Bales</p>
+            <p>Zoemiel Henderson</p>
             <p>Archive Assistant</p>
-            <p><a href="mailto:skrobiwd@whitman.edu">skrobiwd@whitman.edu</a></p>
+            <p><a href="mailto:archives@whitman.edu">archives@whitman.edu</a></p>
             <p><a href="tel:+1509-527-5922">509-527-5922</a></p>
         </td>
         <td headers="archives part14 resp" colspan="3">
@@ -318,7 +319,7 @@ $(document).ready(function(e) {
         </td>
     </tr>
 
-\-----!>
+
 
 <tr>
         <th id="collection" class="span" colspan="5" scope="colgroup">
@@ -343,9 +344,12 @@ $(document).ready(function(e) {
     </tr>
   
 
-        <th id="collection" class="span" colspan="5" scope="colgroup">
-          Collection Strategies
-        </th>
+```
+    <th id="collection" class="span" colspan="5" scope="colgroup">
+      Collection Strategies
+    </th>
+```
+
 <tr>
       
         <th headers="collection" id="part17" colspan="2">
@@ -387,8 +391,6 @@ $(document).ready(function(e) {
 <th id="systems" class="span" colspan="5" scope="colgroup">
 Library Technology Services
 </th>
-
-
 
 <tr>
         <th headers="systems" id="part19" colspan="2">
