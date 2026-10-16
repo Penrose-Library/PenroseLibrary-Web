@@ -320,8 +320,6 @@ $(document).ready(function(e) {
         </td>
     </tr>
 
-
-
 <tr>
         <th id="collection" class="span" colspan="5" scope="colgroup">
           Cataloging and Metadata
@@ -366,7 +364,7 @@ $(document).ready(function(e) {
                 <li>Journal subscriptions</li>              
             </ul>
         </td>
-    </tr>     
+    </tr>
 
 <tr>
 
