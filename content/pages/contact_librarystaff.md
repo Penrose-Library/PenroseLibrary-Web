@@ -349,7 +349,6 @@ $(document).ready(function(e) {
 </tr>
 
 <tr>
-      
         <th headers="collection" id="part17" colspan="2">
         </th>
         <td headers="collection part17 name" colspan="2">
@@ -365,8 +364,6 @@ $(document).ready(function(e) {
             </ul>
         </td>
     </tr>
-
-<tr>
 
    <tr>
         <th headers="collection" id="part18" colspan="2">
