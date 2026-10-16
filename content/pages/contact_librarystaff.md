@@ -1,10 +1,10 @@
 ---
 title: Contact Library Staff
+url: contact_librarystaff
 date: 2023-06-06T23:54:00.817Z
 aliases:
   - /contact-a-librarian
   - /contact_librarian
-url: contact_librarystaff
 ---
 <style>
 a{
@@ -162,8 +162,9 @@ $(document).ready(function(e) {
             <li>Instruction Representative for Division III</li>
             </ul>
         </td>
-    </tr>\
-    <tr>
+    </tr>
+    
+<tr>
         <th headers="irs" id="part6" colspan="2">
                      <img class="responsive-img" src="/uploads/2024-bridget-s.jpg" alt="Bridget Scoles" style="max-width:180px"/></th>
         <td headers="irs part6 name" colspan="2">
@@ -261,7 +262,7 @@ $(document).ready(function(e) {
         </td>
 </tr>
 
-\    <tr>
+<tr>
         <th id="archives" class="span" colspan="5" scope="colgroup">
            Archives and Special Collections
         </th>
@@ -343,12 +344,11 @@ $(document).ready(function(e) {
         </td>
     </tr>
   
-
-```
+<tr>
     <th id="collection" class="span" colspan="5" scope="colgroup">
       Collection Strategies
     </th>
-```
+</tr>
 
 <tr>
       
@@ -397,7 +397,7 @@ Library Technology Services
         </th>
         <td headers="systems part19 name" colspan="2">
             <p>Jim Cloen</p>
-            <p>Library Technology Specialist</p>
+            <p>Systems Librarian</p>
             </span></a></p>
             <p><a href="mailto:cloenj@whitman.edu">cloenj@whitman.edu</a></p>
             <p><a href="tel:+15095275916">509-527-5916</a></p>
