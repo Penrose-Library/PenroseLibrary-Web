@@ -1,7 +1,10 @@
 ---
-date: "2021-07-01"
-title: "Course Reserves"
+title: Course Reserves
+url: course_reserves
+date: 2021-07-01
 ---
+**T﻿his page is currently experiencing technical difficulties. Please [visit Sherlock to search for Course Reserves](https://sherlock.whitman.edu/discovery/search?tab=default_tab&search_scope=whitman_cr&vid=01ALLIANCE_WHITC:WHITC_NEW).**
+
 
 <form enctype="application/x-www-form-urlencoded; charset=utf-8" action="http://sherlock.whitman.edu/primo_library/libweb/action/dlSearch.do" target="_self" method="get" name="searchForm" class="formtab1" id="simple"><input type="hidden" value="WHITC" name="institution">
 <input type="hidden" value="WHITC" name="vid">
