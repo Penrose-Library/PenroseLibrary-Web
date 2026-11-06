@@ -31,7 +31,7 @@ url: /guides
 ### Library How-Tos
 
 [How to Find Books on the Shelves](https://libguides.whitman.edu/findbooks)
-An explainer on how Library of Congress Classification works and where you will find specific call numbers in Penrose.
+An explainer on how Library of Congress Classification works and where you will find specific call numbers in Penrose. Also includes guidance on navigating the [juvenile collection](https://libguides.whitman.edu/c.php?g=63504&p=11736593).
 
 [Resources for Alumni](https://libguides.whitman.edu/alumni)
 How to gain access to some of Penrose’s materials as an alum.
