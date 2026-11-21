@@ -134,6 +134,7 @@ Disturb or disrupt other library users or staff. Prohibited behaviors include, b
 
 * Creating disturbances, e.g. loud noise or inappropriately demanding the attention of others studying.
 * Showing inappropriate and/or unwelcome attention to library users, student workers or staff, e.g. asking unwelcome personal questions, repeated questions, staring, refusing to end a conversation.
+* Video record staff or library patrons without their consent. 
 * Bringing full meals or other large amounts of food into the library. Snack food and drinks in closed containers are permitted. (Library users are expected to clean up any resulting trash and notify staff of any spills.)
 * Leaving or distributing materials without permission.
 
